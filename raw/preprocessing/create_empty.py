@@ -26,7 +26,7 @@ for lang in langs:
         "Doculect", "Concept", "Form"
     ]]
 
-    output_file = "empty/" + langs[lang] + ".csv"
+    output_file = "empty/" + langs[lang] + ".tsv"
     for item in concepts:
         doculect_data.append([
             langs[lang],
@@ -34,5 +34,5 @@ for lang in langs:
             ""
         ])
     with open(output_file, 'w', encoding="utf8", newline='') as f:
-        writer = csv.writer(f)
+        writer = csv.writer(f, delimiter="\t")
         writer.writerows(doculect_data)
