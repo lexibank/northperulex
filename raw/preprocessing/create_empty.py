@@ -10,7 +10,7 @@ with open('../../etc/languages.tsv', mode='r', encoding="utf8") as file:
     data = csv.reader(file, delimiter="\t")
     headers = next(data)
     for lines in data:
-        if lines[4] == str(1):
+        if lines[4] == str(0):
             langs[lines[2]] = lines[0]
 
 BASE = "../../../../cldf_resources/concepticon-data/concepticondata/conceptlists/"
@@ -30,7 +30,7 @@ for lang in langs:
     for item in concepts:
         doculect_data.append([
             langs[lang],
-            item,
+            concepts[item],
             ""
         ])
     with open(output_file, 'w', encoding="utf8", newline='') as f:
