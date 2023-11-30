@@ -13,7 +13,7 @@ with open('../../etc/languages.tsv', mode='r', encoding="utf8") as file:
     for lines in data:
         langs[lines[2]] = lines[0]
 
-BASE = "../../../../cldf_resources/concepticon-data/concepticondata/conceptlists/"
+BASE = "cldf-data/concepticon-data/concepticondata/conceptlists/"
 SWAD_200 = BASE + "Swadesh-1952-200.tsv"
 
 
@@ -22,7 +22,7 @@ with UnicodeDictReader(SWAD_200, delimiter='\t') as reader:
         concepts[line["CONCEPTICON_ID"]] = line['CONCEPTICON_GLOSS']
 
 wl = Wordlist.from_cldf(
-    Path("../../../lexibank-analysed", "cldf", "wordlist-metadata.json").as_posix(),
+    Path("cldf-data/seifartecheverriboran", "cldf", "cldf-metadata.json").as_posix(),
     columns=(
         "form",
         "segments",
@@ -44,11 +44,38 @@ for idx in wl:
             output.append([
                 wl[idx, "doculect"],
                 wl[idx, "concept"],
-                wl[idx, "doculect"]
+                wl[idx, "segments"]
+            ])
+
+
+wl = Wordlist.from_cldf(
+    Path("cldf-data/lexibank-analysed", "cldf", "wordlist-metadata.json").as_posix(),
+    columns=(
+        "form",
+        "segments",
+        "concept_name",
+        "concept_concepticon_id",
+        "concept_concepticon_gloss",
+        "language_glottocode"),
+    namespace=(
+        ("language_glottocode", "doculect"),
+        ("concept_name", "concept_name"),
+        ("concept_concepticon_gloss", "concept"),
+        ("concept_concepticon_id", "concepticon_id"),
+        )
+)
+
+for idx in wl:
+    if wl[idx, "doculect"] in langs and wl[idx, "doculect"] not in visited:
+        if wl[idx, "concepticon_id"] in concepts:
+            output.append([
+                wl[idx, "doculect"],
+                wl[idx, "concept"],
+                wl[idx, "segments"]
             ])
 
 wl = Wordlist.from_cldf(
-    Path("../../../../cldf_resources/idssegmented", "cldf", "cldf-metadata.json").as_posix(),
+    Path("cldf-data/idssegmented", "cldf", "cldf-metadata.json").as_posix(),
     columns=(
         "form",
         "segments",
@@ -72,7 +99,7 @@ for idx in wl:
             output.append([
                 wl[idx, "doculect"],
                 wl[idx, "concept"],
-                wl[idx, "doculect"]
+                wl[idx, "segments"]
             ])
 
 with open("imported/loaded_data.csv", 'w', encoding="utf8", newline='') as f:
