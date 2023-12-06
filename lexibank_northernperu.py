@@ -18,9 +18,9 @@ class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "northernperu"
 
-    def cmd_download(self, args):
+    def cmd_download(self):
         print("updating ...")
-        with open(self.raw_dir.joinpath("raw.tsv"), "w", encoding="utf-8") as f:
+        with open(self.raw_dir.joinpath("preprocessing/imported/loaded_data.csv"), "w", encoding="utf-8") as f:
             f.write(
                 fetch(
                     "northernperu",
@@ -100,7 +100,7 @@ class Dataset(BaseDataset):
             idx,
             concept,
             language,
-            form
+            value
             # value,
             # tokens,
             # cogid,
@@ -125,8 +125,6 @@ class Dataset(BaseDataset):
             ),
             desc="cldfify"
         ):
-            if morphemes == []:
-                morphemes = ["?"]
             if language not in languages:
                 errors.add(("language", language))
             elif concept not in concepts:
@@ -136,8 +134,7 @@ class Dataset(BaseDataset):
                 args.writer.add_forms_from_value(
                     Parameter_ID=concepts[concept],
                     Language_ID=language,
-                    Form=form.strip(),
-                    Value=form.strip(),  # value.strip() or 
+                    Value=value.strip(),
                     # Cognacy=cogid,
                     # Partial_Cognacy=" ".join([str(x) for x in cogids]),
                     # Alignment=" ".join(alignment),
