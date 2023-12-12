@@ -13,8 +13,10 @@ def add_wl(language):
     """Adds data from languages in folder."""
     with open(language, mode='r', encoding="utf8") as f:
         wl = csv.reader(f, delimiter="\t")
+        next(wl)
         for entry in wl:
-            if entry[2] != ""
+            print(entry)
+            if entry[2] != "":
                 final_data.append(entry)
 
 
@@ -29,7 +31,6 @@ with open("preprocessing/imported/iquito.tsv", mode='r', encoding="utf8") as fil
             lines[3],  # Form
             lines[5]   # Note --> SENSE in dictionary
     ])
-
 
 # Check that everything is alright
 for lang in data:
