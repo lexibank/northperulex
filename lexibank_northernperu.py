@@ -125,29 +125,31 @@ class Dataset(BaseDataset):
             ),
             desc="cldfify"
         ):
-            if language not in languages:
-                errors.add(("language", language))
-            elif concept not in concepts:
-                errors.add(("concept", concept))
-            else:
-                # lexeme = args.writer.add_form_with_segments(
-                args.writer.add_forms_from_value(
-                    Parameter_ID=concepts[concept],
-                    Language_ID=language,
-                    Value=value.strip(),
-                    # Cognacy=cogid,
-                    # Partial_Cognacy=" ".join([str(x) for x in cogids]),
-                    # Alignment=" ".join(alignment),
-                    # Morphemes=" ".join(morphemes),
-                    # Comment=note,
-                    # Borrowing=borrowing,
-                    Source=sources[language]
-                )
+            if value != "":
+                print(idx, value)
+                if language not in languages:
+                    errors.add(("language", language))
+                elif concept not in concepts:
+                    errors.add(("concept", concept))
+                else:
+                    # lexeme = args.writer.add_form_with_segments(
+                    args.writer.add_forms_from_value(
+                        Parameter_ID=concepts[concept],
+                        Language_ID=language,
+                        Value=value.strip(),
+                        # Cognacy=cogid,
+                        # Partial_Cognacy=" ".join([str(x) for x in cogids]),
+                        # Alignment=" ".join(alignment),
+                        # Morphemes=" ".join(morphemes),
+                        # Comment=note,
+                        # Borrowing=borrowing,
+                        Source=sources[language]
+                    )
 
-                # args.writer.add_cognate(
-                #     lexeme=lexeme,
-                #     Cognateset_ID=cogid,
-                #     Alignment=alignment,
-                #     Alignment_Method="false",
-                #     Alignment_Source="expert"
-                #     )
+                    # args.writer.add_cognate(
+                    #     lexeme=lexeme,
+                    #     Cognateset_ID=cogid,
+                    #     Alignment=alignment,
+                    #     Alignment_Method="false",
+                    #     Alignment_Source="expert"
+                    #     )
