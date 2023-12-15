@@ -1,0 +1,194 @@
+ID	WORD	CONCEPTICON_ID	CONCEPTICON_GLOSS	MATCH
+1	Concept			
+2	Zunge	1205	TONGUE	12
+3	Zahn	1380	TOOTH	10
+4	Auge	1248	EYE	17
+5	Ohr	1247	EAR	14
+6	Kopf	1256	HEAD	14
+7	Hand	1277	HAND	12
+8	Wasser	948	WATER	10
+9	Feuer	221	FIRE	11
+10	Sonne	1343	SUN	12
+11	Mond	1313	MOON	13
+237	Erde (Erdboden)			
+13	Stein	857	STONE	12
+239	Haus (Wohn-)			
+15	Topf- (Koch-)			
+16	Kanu	1970	CANOE	1
+17	Mann	1200	HUSBAND	1
+18	Frau	962	WOMAN	3
+19	Huhn	265	FOWL	1
+20	Hund	2009	DOG	14
+21	Jaguar	1250	JAGUAR	2
+22	Tapir (sachavaca)			
+245	Kaiman			
+24	Stock	1295	STICK	3
+247	Maniok			
+26	Mais	506	MAIZE	4
+249	Plante			
+28	Tabak	974	TOBACCO	6
+29	eins	1493	ONE	7
+30	zwei	1498	TWO	11
+31	drei	492	THREE	10
+32	weiß	1335	WHITE	5
+33	schwarz	163	BLACK	8
+34	rot	156	RED	6
+240	Topf (Koch-)			
+55	Tapir	312	TAPIR	3
+68	Haar	580	FUR	1
+69	Schnurrbart	1165	MOUSTACHE	5
+70	Backenbart			
+71	Stirn	123	FOREHEAD	7
+72	Brauen	1173	EYEBROW	2
+73	Wimpern	1540	EYELASH	2
+74	Nase	1221	NOSE	14
+75	Mund	674	MOUTH	13
+76	Kinn	1510	CHIN	6
+77	Hals	1333	NECK	11
+78	Rücken	1291	BACK	8
+79	Arm (mit Hand)			
+80	Finger	1303	FINGER	9
+81	Nagel	1258	FINGERNAIL	1
+82	Brust	1592	CHEST	6
+83	Rippe	801	RIB	4
+84	Brustwarze	796	NIPPLE	3
+85	weibl. Brust			
+86	Bauch	1251	BELLY	10
+87	Nabel	1838	NAVEL	8
+88	Penis	1222	PENIS	4
+89	Hoden	797	TESTICLES	3
+90	Gesäß	834	BUTTOCKS	2
+91	Anus	1935	ANUS	1
+92	Vulva	1837	VULVA	2
+93	Oberschenkel	471	UPPER LEG (THIGH)	7
+94	Knie	1371	KNEE	11
+95	Fuß	1301	FOOT	8
+96	Ferse	980	HEEL	6
+97	Zehe	1389	TOE	3
+98	Haut	2614	SKIN (ANIMAL)	1
+99	Knochen	1394	BONE	13
+100	Blut	946	BLOOD	10
+101	Atem	870	BREATH	3
+102	Leute	789	PEOPLE	2
+104	Ehefrau	1199	WIFE	2
+105	Knabe	1366	BOY	4
+106	Mädchen	1646	GIRL	4
+107	Speise	481	DISH	1
+108	Fleisch	2615	FLESH OR MEAT	2
+109	Fisch	227	FISH	12
+110	Himmel	1732	SKY	9
+111	Vollmond	3690	FULL MOON	2
+112	Mond, zunehm.			
+113	Stern	1430	STAR	11
+114	Blitz	1654	LIGHTNING	6
+115	Donner	1150	THUNDER	7
+116	Regen	658	RAIN (PRECIPITATION)	10
+117	Wind	960	WIND	6
+118	Nacht	1233	NIGHT	9
+119	Tag	1225	DAY (NOT NIGHT)	8
+120	Monat (s.10)			
+121	Sandbank			
+122	Hügel	614	HILL	4
+123	Wald	420	FOREST	7
+124	Pflanzung			
+125	Weg	2457	PATH OR ROAD	3
+126	Baum	906	TREE	12
+127	Holz	1803	WOOD	4
+128	Liane			
+129	Blatt	628	LEAF	11
+130	Wurzel	670	ROOT	8
+131	Heller Kapuzineraffe			
+132	Dunkler Kapuzineraffe			
+133	Saimiri (frailecito)			
+134	Brüllaffe	433	HOWLER MONKEY	2
+135	Wollaffe (choro)			
+136	Spinnenaffe			
+137	Nachtaffe (musmuqui)			
+138	Fledermaus	1793	BAT	5
+139	Puma	1891	PUMA	2
+140	Tigerkatze (trigillo)			
+141	Buschhund			
+142	Nasenbär (achuni)			
+143	Otter			
+144	Delphin (buféo)			
+145	Seekuh			
+146	Reh			
+147	Weißbartpekari			
+148	Halsbandpekari			
+149	Wasserschwein (ronsoco)			
+150	Aguti			
+151	Paka (majás)			
+152	Gr. Ameisenbär			
+153	Faultier	2446	SLOTH	2
+154	Kl. Gürteltier (carachupa)			
+155	Hahn	1511	ROOSTER	5
+157	Ei	744	EGG	9
+158	Ara macao			
+159	Ara chloroptera			
+160	Ararauna			
+161	Papagei	882	PARROT	4
+162	Hokko			
+163	Penelope jacutinga			
+164	Penelope jacuacu (pucacunga L.)			
+165	Arapaima (paiche L.)			
+166	Reisenwels (súngaro)			
+167	Landschildkröte			
+168	Flußschildkröte			
+169	Schlange	730	SNAKE	10
+170	Eunectes (boa)			
+171	Wespe	1517	WASP	4
+172	Milbe (isangüe)			
+173	Mücke	1509	MOSQUITO	5
+174	Dinoponeraameise (isula)			
+175	Ding,Sache			
+176	Feuerholz			
+177	Asche	646	ASH	12
+178	Rauch	778	SMOKE (EXHAUST)	9
+179	hart	1884	HARD	6
+180	weich	1856	SOFT	6
+181	lang	1203	LONG	7
+182	kurz	1645	SHORT	7
+183	groß	1202	BIG	6
+184	klein	2484	SMALL (NOT TALL)	1
+185	alt	2113	OLD (USED)	1
+186	hübsch	1427	BEAUTIFUL	1
+187	häßlich			
+188	kalt	1287	COLD	7
+189	heiß	1286	HOT	5
+190	heute	1283	TODAY	6
+191	gestern	1174	YESTERDAY	5
+192	morgen	1329	TOMORROW	5
+193	hier	136	HERE	4
+194	dort	1937	THERE	4
+195	ja	1268	YES	3
+196	nein	1269	NO	3
+197	viele	1198	MANY	1
+198	wenig	2924	A LITTLE	2
+199	vier	1500	FOUR	10
+200	fünf	493	FIVE	10
+201	sechs	1703	SIX	7
+202	sieben	1704	SEVEN	6
+203	acht	1705	EIGHT	7
+204	neun	1483	NINE	7
+205	zehn	1515	TEN	7
+206	gut (?)			
+207	schlect (?)			
+208	Sohle (?)			
+209	Sohn	1620	SON	6
+210	mein Sohn			
+211	Messer aus Stein oder Eisen			
+212	Beil aus Stein oder Eisen			
+213	Nadel	1382	NEEDLE (FOR SEWING)	7
+214	Hemd	1622	SHIRT	5
+215	Flinte	3948	SHOTGUN	2
+216	Pulver (?)			
+217	Milch	635	MILK	6
+218	Kuh	1007	COW	8
+219	Spinne, bissig			
+220	rein (?)			
+221	schmutzig (?)			
+222	Löwenäffchen (pichico)			
+223	Leptodactylusfrosch			
+224	essen (Form?)			
+225	schlafen (Form?)			
+226	töten (Form?)			
