@@ -31,11 +31,9 @@ def add_wl(file):
         next(wl)
         for line in wl:
             if len(line) > 1:
-                data.append([
-                    name, line[0], line[1]
-                    ])
+                data.append([name, line[0], line[1]])
             else:
-                print("Wrong entry:", name, line)
+                print("Possibly erroneous entry:", name, line)
 
 
 for lang in datasets:
@@ -50,12 +48,11 @@ with UnicodeDictReader(PATH, delimiter='\t') as reader:
 
 de_data = defaultdict(list)
 
-
 concept_dic = {}
 with open(
     'cldf-data/concepticon-data/concepticondata/concepticon.tsv', mode='r', encoding="utf8"
-    ) as f:
-    concepticon = csv.reader(f, delimiter="\t")
+    ) as file:
+    concepticon = csv.reader(file, delimiter="\t")
     for concept in concepticon:
         concept_dic[concept[0]] = concept[1]
 
