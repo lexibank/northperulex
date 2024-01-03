@@ -55,7 +55,7 @@ class Dataset(BaseDataset):
                 Concepticon_ID=concept.concepticon_id,
                 Concepticon_Gloss=concept.concepticon_gloss,
             )
-            concepts[concept.english] = idx
+            concepts[concept.concepticon_gloss] = idx
 
         args.log.info("added concepts")
 
@@ -98,9 +98,9 @@ class Dataset(BaseDataset):
         # add data
         for (
             idx,
-            concept,
             language,
-            value
+            concept,
+            value,
             # value,
             # tokens,
             # cogid,
@@ -108,12 +108,12 @@ class Dataset(BaseDataset):
             # alignment,
             # morphemes,
             # borrowing,
-            # note
+            note
         ) in pb(
             wl.iter_rows(
-                "concept",
                 "doculect",
-                "form"
+                "concept",
+                "form",
                 # "value",
                 # "tokens",
                 # "cogid",
@@ -121,12 +121,11 @@ class Dataset(BaseDataset):
                 # "alignment",
                 # "morphemes",
                 # "borrowing",
-                # "note"
+                "notes"
             ),
             desc="cldfify"
         ):
             if value != "":
-                print(idx, value)
                 if language not in languages:
                     errors.add(("language", language))
                 elif concept not in concepts:
@@ -141,7 +140,7 @@ class Dataset(BaseDataset):
                         # Partial_Cognacy=" ".join([str(x) for x in cogids]),
                         # Alignment=" ".join(alignment),
                         # Morphemes=" ".join(morphemes),
-                        # Comment=note,
+                        Comment=note,
                         # Borrowing=borrowing,
                         Source=sources[language]
                     )
