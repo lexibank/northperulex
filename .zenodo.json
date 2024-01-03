@@ -1,0 +1,36 @@
+{
+    "title": "CLDF dataset derived from Blum et al.'s \"A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America (forthcoming).",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Frederic Blum"
+        },
+        {
+            "name": "Adriano Ingunza"
+        },
+        {
+            "name": "Carlos Barrientos"
+        },
+        {
+            "name": "Rosa Gonzales"
+        },
+        {
+            "name": "Jaime Pe\u00f1a"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Blum, Frederic and Ingunza, Adriano and Gonzales, Rosa and Barrientos, Carlos and Pe\u00f1a, Jaime. Forthcoming. A Comparative Wordlist for Investigating the history of north Peruvian isolates and small language families.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
