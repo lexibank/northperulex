@@ -15,10 +15,7 @@ mappings = {}
 for language, path in paths.items():
     mappings[language] = defaultdict(set)
 
-data = [[
-    "Doculect", "Concept", "Form"
-]]
-
+data = []
 
 # Load manually digitized data
 datasets = list(sorted(glob("../prepared_data/Tessmann/*.tsv")))
