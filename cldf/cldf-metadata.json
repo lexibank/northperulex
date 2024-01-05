@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/northernperu",
             "rdf:type": "prov:Entity",
-            "dc:created": "aae2a82",
+            "dc:created": "864d9e4",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.7"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
