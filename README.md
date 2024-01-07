@@ -28,8 +28,8 @@ work in progress
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 82%](https://img.shields.io/badge/BIPA-82%25-yellowgreen.svg "BIPA: 82%")
-![CLTS SoundClass: 82%](https://img.shields.io/badge/CLTS%20SoundClass-82%25-yellowgreen.svg "CLTS SoundClass: 82%")
+![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
+![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
 
 - **Varieties:** 10
 - **Concepts:** 198
@@ -37,9 +37,9 @@ work in progress
 - **Sources:** 8
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 7,004
-- **Segments:** 148 (27 BIPA errors, 27 CLTS sound class errors, 117 CLTS modified)
-- **Inventory size (avg):** 37.70
+- **Tokens:** 6,921
+- **Segments:** 133 (1 BIPA errors, 1 CLTS sound class errors, 127 CLTS modified)
+- **Inventory size (avg):** 36.00
 
 # Contributors
 
