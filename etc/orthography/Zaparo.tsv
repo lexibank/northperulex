@@ -28,7 +28,17 @@ ts	ts
 w	w
 hy	hʲ
 ty	tʲ
-aw	aʷ
+ay$	ai
+aym	ai m
+ayt	ai t
+aych	ai tʃ
+aw$	au
+awk	au k
+awn	au n
+aws	au s
+awhw	au hʷ
+awh	au h
+awkw	au kʷ
 -	+
 -$	NULL
 ^-	NULL
