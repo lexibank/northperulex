@@ -92,4 +92,8 @@ tš	tʃ
 w	w
 x	x
 -	+
+-$	NULL
+^-	NULL
 =	+
+=$	NULL
+^=	NULL
