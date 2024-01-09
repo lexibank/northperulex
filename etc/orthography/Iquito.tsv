@@ -35,4 +35,8 @@ y	j
 ia	ja
 iaa	jaː
 -	+
+-$	NULL
+^-	NULL
 =	+
+=$	NULL
+^=	NULL

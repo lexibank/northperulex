@@ -30,4 +30,8 @@ hy	hʲ
 ty	tʲ
 aw	aʷ
 -	+
+-$	NULL
+^-	NULL
 =	+
+=$	NULL
+^=	NULL
