@@ -48,7 +48,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 48_tofight,to fight,1423,FIGHT
 49_fire,fire,221,FIRE
 50_fish,fish,227,FISH
-51_five,five,493,FIVE
 52_tofloat,to float,1574,FLOAT
 53_toflow,to flow,2003,FLOW
 54_flower,flower,239,FLOWER
@@ -56,12 +55,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 56_fog,fog,249,FOG
 57_foot,foot,1301,FOOT
 58_four,four,1500,FOUR
-59_tofreeze,to freeze,1431,FREEZE
 60_togive,to give,1447,GIVE
 61_good,good,1035,GOOD
 62_grass,grass,606,GRASS
 63_green,green,1425,GREEN
-64_guts,guts,1334,GUTS
 65_hair,hair,1040,HAIR
 66_hand,hand,1277,HAND
 67_he,he,1211,HE
@@ -76,7 +73,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 76_tohuntgame,to hunt (game),1435,HUNT
 77_husband,husband,1200,HUSBAND
 78_i,I,1209,I
-80_if,if,1459,IF
 81_in,in,1460,IN
 82_tokill,to kill,1417,KILL
 83_toknowfacts,to know (facts),1410,KNOW (SOMETHING)
@@ -94,11 +90,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 95_many,many,1198,MANY
 96_meatflesh,meat (flesh),2615,FLESH OR MEAT
 97_mother,mother,1216,MOTHER
-98_mountain,mountain,639,MOUNTAIN
 99_mouth,mouth,674,MOUTH
 100_name,name,1405,NAME
 101_narrow,narrow,1267,NARROW
-102_near,near,1942,NEAR
 103_neck,neck,1333,NECK
 104_new,new,1231,NEW
 105_night,night,1233,NIGHT
@@ -113,7 +107,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 114_topush,to push,1452,PUSH
 115_torain,to rain,1253,RAIN (RAINING)
 116_red,red,156,RED
-117_rightcorrect,right (correct),1725,CORRECT (RIGHT)
 118_righthand,right (hand),1019,RIGHT
 119_river,river,666,RIVER
 120_roadortrail,road (or trail),667,ROAD
@@ -125,7 +118,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 126_sand,sand,671,SAND
 127_say,say,1458,SAY
 128_toscratchaswithfingernailstorelieveitch,to scratch (as with fingernails to relieve itch),1436,SCRATCH
-129_seaocean,sea (ocean),1474,SEA
 130_see,see,1409,SEE
 131_seed,seed,714,SEED
 132_tosew,to sew,1457,SEW
@@ -141,7 +133,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 142_smokeoffire,smoke (of fire),778,SMOKE (EXHAUST)
 143_smooth,smooth,1234,SMOOTH
 144_snake,snake,730,SNAKE
-145_snow,snow,784,SNOW
 146_some,some,1241,SOME
 147_tospit,to spit,1440,SPIT
 148_tosplit,to split,1437,SPLIT
@@ -193,7 +184,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 194_withaccompanying,with (accompanying),1340,WITH
 195_woman,woman,962,WOMAN
 196_woods,woods,420,FOREST
-197_worm,worm,1219,WORM
 198_ye,ye,1213,YOU
 199_year,year,1226,YEAR
 200_yellow,yellow,1424,YELLOW

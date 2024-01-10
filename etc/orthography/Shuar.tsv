@@ -30,12 +30,12 @@ sh	ʃ
 ch	tʃ
 ts	ts
 t	t
-sh’	ʃ
-ch’	tʃ
-p’	p
-j’	h
-k’	k
+sh’	ʃ i
+ch’	tʃ i
+p’	p i
+j’	h i
+k’	k i
 -	+
 -$	NULL
 ^-	NULL
--’	NULL
+-’	+ i
