@@ -5,101 +5,131 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 1117 | ✓ | ✓ |
-| i | 645 | ✓ | ✓ |
-| n | 594 | ✓ | ✓ |
-| u | 436 | ✓ | ✓ |
-| k | 435 | ✓ | ✓ |
-| m | 282 | ✓ | ✓ |
-| t | 280 | ✓ | ✓ |
-| !á/a | 223 | ✓ | ✓ |
-| h | 201 | ✓ | ✓ |
-| p | 195 | ✓ | ✓ |
-| r | 174 | ✓ | ✓ |
-| + | 161 | ✓ | ✓ |
-| s | 151 | ✓ | ✓ |
-| e | 126 | ✓ | ✓ |
-| w | 110 | ✓ | ✓ |
+| a | 1941 | ✓ | ✓ |
+| i | 1126 | ✓ | ✓ |
+| n | 979 | ✓ | ✓ |
+| k | 770 | ✓ | ✓ |
+| u | 639 | ✓ | ✓ |
+| t | 550 | ✓ | ✓ |
+| m | 522 | ✓ | ✓ |
+| h | 389 | ✓ | ✓ |
+| o | 346 | ✓ | ✓ |
+| p | 344 | ✓ | ✓ |
+| ʔ | 341 | ✓ | ✓ |
+| !á/a | 340 | ✓ | ✓ |
+| + | 329 | ✓ | ✓ |
+| ɨ | 325 | ✓ | ✓ |
+| e | 298 | ✓ | ✓ |
+| ∼ | 265 | ✓ | ✓ |
+| s | 257 | ✓ | ✓ |
+| w | 233 | ✓ | ✓ |
+| tʃ | 201 | ✓ | ✓ |
+| j | 199 | ✓ | ✓ |
+| r | 195 | ✓ | ✓ |
+| !í/i | 194 | ✓ | ✓ |
+| ɾ | 132 | ✓ | ✓ |
+| ɲ | 131 | ✓ | ✓ |
+| aː | 120 | ✓ | ✓ |
+| !ú/u | 119 | ✓ | ✓ |
+| b | 119 | ✓ | ✓ |
 | l | 106 | ✓ | ✓ |
-| ɲ | 102 | ✓ | ✓ |
-| !í/i | 100 | ✓ | ✓ |
-| j | 94 | ✓ | ✓ |
-| tʃ | 94 | ✓ | ✓ |
+| d | 100 | ✓ | ✓ |
+| !ɨ́/ɨ | 99 | ✓ | ✓ |
+| g | 99 | ✓ | ✓ |
+| ʃ | 98 | ✓ | ✓ |
+| ʊ | 98 | ✓ | ✓ |
 | ə | 94 | ✓ | ✓ |
-| !ú/u | 92 | ✓ | ✓ |
-| ɨ | 90 | ✓ | ✓ |
-| ʃ | 69 | ✓ | ✓ |
-| o | 62 | ✓ | ✓ |
+| !õ/o | 82 | ✓ | ✓ |
+| !é/e | 76 | ✓ | ✓ |
+| ts | 74 | ✓ | ✓ |
 | ʎ | 62 | ✓ | ✓ |
-| aː | 52 | ✓ | ✓ |
-| ʔ | 44 | ✓ | ✓ |
-| ɾ | 40 | ✓ | ✓ |
+| !æ̃/æ | 52 | ✓ | ✓ |
+| ɯ | 52 | ✓ | ✓ |
+| !ɯ́/ɯ | 51 | ✓ | ✓ |
+| j̃ | 48 | ✓ | ✓ |
+| kʷ | 47 | ✓ | ✓ |
+| <<_>> | 43 | ? | ? |
+| !ẽ/e | 38 | ✓ | ✓ |
+| !ó/o | 36 | ✓ | ✓ |
 | ð | 36 | ✓ | ✓ |
-| ts | 35 | ✓ | ✓ |
-| kʷ | 30 | ✓ | ✓ |
+| β | 35 | ✓ | ✓ |
+| !ĩ/i | 33 | ✓ | ✓ |
+| iː | 32 | ✓ | ✓ |
 | ˀk | 29 | ✓ | ✓ |
+| ŋ | 28 | ✓ | ✓ |
+| ʂ | 28 | ✓ | ✓ |
+| kʰ | 27 | ✓ | ✓ |
+| !ã/a | 26 | ✓ | ✓ |
 | n̪ | 26 | ✓ | ✓ |
-| aʷ | 24 | ? | ? |
-| !ɨ́/ɨ | 22 | ✓ | ✓ |
-| b | 21 | ✓ | ✓ |
+| tsʰ | 25 | ✓ | ✓ |
+| æ | 24 | ✓ | ✓ |
+| uː | 23 | ✓ | ✓ |
+| au | 21 | ✓ | ✓ |
 | !ì/i | 20 | ✓ | ✓ |
-| g | 19 | ✓ | ✓ |
 | !n̊/n | 16 | ✓ | ✓ |
 | nˠ | 16 | ✓ | ✓ |
-| iː | 15 | ✓ | ✓ |
+| pʰ | 16 | ✓ | ✓ |
+| oː | 15 | ✓ | ✓ |
 | tˀ | 15 | ✓ | ✓ |
-| ŋ | 14 | ✓ | ✓ |
+| x | 14 | ✓ | ✓ |
 | !à/a | 13 | ✓ | ✓ |
 | !é/ɨ | 13 | ✓ | ✓ |
+| tʰ | 13 | ✓ | ✓ |
+| ɨː | 13 | ✓ | ✓ |
 | !ē̠/e | 12 | ✓ | ✓ |
-| d | 12 | ✓ | ✓ |
-| ɨː | 12 | ✓ | ✓ |
+| ua | 12 | ✓ | ✓ |
+| ç | 12 | ✓ | ✓ |
+| ɸ | 12 | ✓ | ✓ |
 | !ā́/a | 11 | ✓ | ✓ |
 | !ṛ/r | 11 | ✓ | ✓ |
-| uː | 11 | ✓ | ✓ |
+| hʲ | 10 | ✓ | ✓ |
 | v | 10 | ✓ | ✓ |
-| ĩ | 10 | ✓ | ✓ |
 | !ī́/i | 9 | ✓ | ✓ |
 | !ɨɨ́/ɨː | 9 | ✓ | ✓ |
-| !é/e | 8 | ✓ | ✓ |
-| ũ | 8 | ✓ | ✓ |
-| !ó/o | 7 | ✓ | ✓ |
+| kʰʲ | 9 | ✓ | ✓ |
+| tʰʲ | 9 | ✓ | ✓ |
+| eː | 8 | ✓ | ✓ |
+| ĩ | 8 | ✓ | ✓ |
 | !ḗ̠/e | 7 | ✓ | ✓ |
+| <<b>> | 7 | ? | ? |
+| dʒ | 7 | ✓ | ✓ |
 | kˀ | 7 | ✓ | ✓ |
 | pˀ | 7 | ✓ | ✓ |
+| ɛi | 7 | ✓ | ✓ |
+| ʈʂ | 7 | ✓ | ✓ |
 | !ṓ/o | 6 | ✓ | ✓ |
-| ã | 6 | ✓ | ✓ |
+| ai | 6 | ✓ | ✓ |
+| tʲ | 6 | ✓ | ✓ |
 | θ | 6 | ✓ | ✓ |
 | !o̯/o | 5 | ✓ | ✓ |
 | !ĕ/e | 5 | ✓ | ✓ |
 | !ū́/u | 5 | ✓ | ✓ |
 | !ắ/a | 5 | ✓ | ✓ |
-| hʲ | 5 | ✓ | ✓ |
+| mʲ | 5 | ✓ | ✓ |
+| oʊ | 5 | ✓ | ✓ |
+| rʲ | 5 | ✓ | ✓ |
+| tʃʰ | 5 | ✓ | ✓ |
+| ʊː | 5 | ✓ | ✓ |
 | !r̥/r | 4 | ✓ | ✓ |
-| !é̃/ɨ̃ | 4 | ✓ | ✓ |
+| !é̃/ɨ | 4 | ✓ | ✓ |
 | !ŭ/u | 4 | ✓ | ✓ |
 | !ɨ̀/ɨ | 4 | ✓ | ✓ |
 | !ḗ/e | 4 | ✓ | ✓ |
-| mʲ | 4 | ✓ | ✓ |
-| rʲ | 4 | ✓ | ✓ |
-| y | 4 | ✓ | ✓ |
+| hʷ | 4 | ✓ | ✓ |
 | !a̯/a | 3 | ✓ | ✓ |
-| !á̃/ã | 3 | ✓ | ✓ |
-| !ú̃/ũ | 3 | ✓ | ✓ |
+| !á̃/a | 3 | ✓ | ✓ |
+| !ú̃/u | 3 | ✓ | ✓ |
 | !ē/e | 3 | ✓ | ✓ |
 | !ō/o | 3 | ✓ | ✓ |
 | !ō̠/o | 3 | ✓ | ✓ |
 | !ŏ/o | 3 | ✓ | ✓ |
 | !ŭ́/u | 3 | ✓ | ✓ |
 | !ṓ̠/o | 3 | ✓ | ✓ |
-| ai | 3 | ✓ | ✓ |
-| au | 3 | ✓ | ✓ |
-| dʒ | 3 | ✓ | ✓ |
-| hʷ | 3 | ✓ | ✓ |
+| c | 3 | ✓ | ✓ |
+| f | 3 | ✓ | ✓ |
 | kʲ | 3 | ✓ | ✓ |
-| x | 3 | ✓ | ✓ |
+| pʲ | 3 | ✓ | ✓ |
 | ɣ | 3 | ✓ | ✓ |
-| ɨ̃ | 3 | ✓ | ✓ |
 | !e̯/e | 2 | ✓ | ✓ |
 | !i̯/i | 2 | ✓ | ✓ |
 | !ù/u | 2 | ✓ | ✓ |
@@ -110,20 +140,18 @@
 | !ĭ́/i | 2 | ✓ | ✓ |
 | !ŏ́/o | 2 | ✓ | ✓ |
 | !ǎ/a | 2 | ✓ | ✓ |
-| tʲ | 2 | ✓ | ✓ |
+| əɨ | 2 | ✓ | ✓ |
+| ʔʲ | 2 | ✓ | ✓ |
 | !j/j | 1 | ✓ | ✓ |
 | !o̠/o | 1 | ✓ | ✓ |
 | !á̠/a | 1 | ✓ | ✓ |
-| !ã/a | 1 | ✓ | ✓ |
-| !í̃/ĩ | 1 | ✓ | ✓ |
+| !í̃/i | 1 | ✓ | ✓ |
 | !ó̄/o | 1 | ✓ | ✓ |
-| !õ/o | 1 | ✓ | ✓ |
 | !ö̆́/o | 1 | ✓ | ✓ |
 | !ö̯/o | 1 | ✓ | ✓ |
 | !ĕ̠́/e | 1 | ✓ | ✓ |
 | !ĕ̯/e | 1 | ✓ | ✓ |
 | !ě/e | 1 | ✓ | ✓ |
-| !ĩ/i | 1 | ✓ | ✓ |
 | !ī/i | 1 | ✓ | ✓ |
 | !ĭ/i | 1 | ✓ | ✓ |
 | !ū/u | 1 | ✓ | ✓ |
@@ -132,14 +160,15 @@
 | !ṍ/o | 1 | ✓ | ✓ |
 | !ṍ̠/o | 1 | ✓ | ✓ |
 | !ṹ/u | 1 | ✓ | ✓ |
-| !ẽ/e | 1 | ✓ | ✓ |
 | !ẽ́/e | 1 | ✓ | ✓ |
+| <<f>> | 1 | ? | ? |
+| <<l>> | 1 | ? | ? |
+| <<s>> | 1 | ? | ? |
 | dz | 1 | ✓ | ✓ |
 | ei | 1 | ✓ | ✓ |
-| pʰ | 1 | ✓ | ✓ |
 | ˀr | 1 | ✓ | ✓ |
 
-(133 rows)
+(162 rows)
 
 
 
@@ -155,67 +184,71 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-------------------------------------|:--------------|:---------------------|:---------------|:-----------------------------------|
-| AchuarShiwiar-194_withaccompanying-1 | AchuarShiwiar | 194_withaccompanying | -jaĩ | + h a ĩ |
-| AchuarShiwiar-5_at-1 | AchuarShiwiar | 5_at | -num | + n u m |
-| AchuarShiwiar-80_if-1 | AchuarShiwiar | 80_if | -ka | + k a |
-| AchuarShiwiar-81_in-1 | AchuarShiwiar | 81_in | -num | + n u m |
-| Iquito-163_they-1 | Iquito | 163_they | na= | n a + |
-| Iquito-168_thou-1 | Iquito | 168_thou | kiaa= | kʲ aː + |
-| Iquito-182_we-1 | Iquito | 182_we | kana= | k a n a + |
-| Iquito-182_we-2 | Iquito | 182_we | pɨ́ɨ́= | p !ɨ́/ɨ !ɨ́/ɨ + |
-| Iquito-194_withaccompanying-1 | Iquito | 194_withaccompanying | =jata | + h a t a |
-| Iquito-198_ye-1 | Iquito | 198_ye | kina= | k i n a + |
-| Iquito-5_at-1 | Iquito | 5_at | =jina | + h i n a |
-| Iquito-67_he-1 | Iquito | 67_he | nu= | n u + |
-| Iquito-78_i-1 | Iquito | 78_i | kí= | k !í/i + |
-| Iquito-81_in-1 | Iquito | 81_in | =jina | + h i n a |
-| Shiwilu-107_not-1 | Shiwilu | 107_not | -i'n | + i n |
-| Shiwilu-194_withaccompanying-1 | Shiwilu | 194_withaccompanying | =lek | + l ə ˀk |
-| Shiwilu-2_and-1 | Shiwilu | 2_and | =lek | + l ə ˀk |
-| Shiwilu-5_at-1 | Shiwilu | 5_at | =k | + k |
-| Shiwilu-81_in-1 | Shiwilu | 81_in | =k | + k |
-| Shuar-107_not-1 | Shuar | 107_not | -ch | + tʃ |
-| Shuar-171_totie-1 | Shuar | 171_totie | jinkiá- | h i nˠ i !á/a + |
-| Shuar-194_withaccompanying-1 | Shuar | 194_withaccompanying | -ja̠i | + h ã i |
-| Shuar-24_tocome-1 | Shuar | 24_tocome | winí- | w i n !í/i + |
-| Shuar-2_and-1 | Shuar | 2_and | -sha | + ʃ a |
-| Shuar-5_at-1 | Shuar | 5_at | -nam | + n a m |
-| Shuar-5_at-2 | Shuar | 5_at | -num | + n u m |
-| Shuar-73_tohit-1 | Shuar | 73_tohit | awat-’ | a w a t + |
-| Shuar-80_if-1 | Shuar | 80_if | -ka | + k a |
-| Shuar-81_in-1 | Shuar | 81_in | -nam | + n a m |
-| Shuar-81_in-2 | Shuar | 81_in | -num | + n u m |
-| Shuar-83_toknowfacts-1 | Shuar | 83_toknowfacts | neká- | n e k !á/a + |
-| Shuar-90_tolive-1 | Shuar | 90_tolive | iwiák- | i w i !á/a k + |
-| Zaparo-100_name-1 | Zaparo | 100_name | aychaw | a j tʃ <s> aʷ </s> |
-| Zaparo-10_belly-1 | Zaparo | 10_belly | tawaka | t <s> aʷ </s> a k a |
-| Zaparo-111_person-2 | Zaparo | 111_person | tawɨ | t <s> aʷ </s> ɨ |
-| Zaparo-112_toplay-1 | Zaparo | 112_toplay | tawhwɨnu | t <s> aʷ </s> hʷ ɨ n u |
-| Zaparo-122_rope-1 | Zaparo | 122_rope | iyawka | i j <s> aʷ </s> k a |
-| Zaparo-126_sand-1 | Zaparo | 126_sand | ayawhka | a j <s> aʷ </s> h k a |
-| Zaparo-137_skinpersons-1 | Zaparo | 137_skinpersons | ichawkɨ | i tʃ <s> aʷ </s> k ɨ |
-| Zaparo-157_sun-1 | Zaparo | 157_sun | yanawkwa | j a n <s> aʷ </s> kʷ a |
-| Zaparo-178_towalk-1 | Zaparo | 178_towalk | awkunu | <s> aʷ </s> k u n u |
-| Zaparo-180_towash-1 | Zaparo | 180_towash | tsukiryawhunu | ts u k i rʲ <s> aʷ </s> h u n u |
-| Zaparo-190_wife-1 | Zaparo | 190_wife | irichanaw | i r i tʃ a n <s> aʷ </s> |
-| Zaparo-194_withaccompanying-1 | Zaparo | 194_withaccompanying | =ta | + t a |
-| Zaparo-1_allofanumber-1 | Zaparo | 1_allofanumber | kawiryaha | k <s> aʷ </s> i rʲ a h a |
-| Zaparo-31_dog-1 | Zaparo | 31_dog | aryawku | a rʲ <s> aʷ </s> k u |
-| Zaparo-36_ear-1 | Zaparo | 36_ear | takɨrɨkaw | t a k ɨ r ɨ k <s> aʷ </s> |
-| Zaparo-54_flower-1 | Zaparo | 54_flower | nukawiku | n u k <s> aʷ </s> i k u |
-| Zaparo-57_foot-1 | Zaparo | 57_foot | inyawka | i ɲ <s> aʷ </s> k a |
-| Zaparo-5_at-1 | Zaparo | 5_at | =hinya | + h i ɲ a |
-| Zaparo-60_togive-1 | Zaparo | 60_togive | inyawnu | i ɲ <s> aʷ </s> n u |
-| Zaparo-62_grass-1 | Zaparo | 62_grass | yawsuka | j <s> aʷ </s> s u k a |
-| Zaparo-67_he-1 | Zaparo | 67_he | naw | n <s> aʷ </s> |
-| Zaparo-6_backpersons-1 | Zaparo | 6_backpersons | ushiawku | u ʃ i <s> aʷ </s> k u |
-| Zaparo-77_husband-1 | Zaparo | 77_husband | iryanaw | i rʲ a n <s> aʷ </s> |
-| Zaparo-81_in-1 | Zaparo | 81_in | =hinya | + h i ɲ a |
-| Zaparo-8_bark-1 | Zaparo | 8_bark | nakuna ichawkɨ | n a k u n a + i tʃ <s> aʷ </s> k ɨ |
-| Zaparo-91_liver-1 | Zaparo | 91_liver | kawaha | k <s> aʷ </s> a h a |
-| Zaparo-93_louse-1 | Zaparo | 93_louse | sukanawa | s u k a n <s> aʷ </s> a |
+|:----------------------------------------|:----------------|:------------------------------|:------------------------------|:----------------------------------------------------------------------------------|
+| Aguaruna-117_rightcorrect-1 | Aguaruna | 117_rightcorrect | bɨtɨk | <s> <<b>> </s> ɨ t ɨ k |
+| Aguaruna-142_smokeoffire-1 | Aguaruna | 142_smokeoffire | tsaag_bukuitimu | ts aː g + <s> <<b>> </s> ʊ k ʊ i t i m ʊ |
+| Aguaruna-156_tosuck-1 | Aguaruna | 156_tosuck | bukunat | <s> <<b>> </s> ʊ k ʊ n a t |
+| Aguaruna-15_black-1 | Aguaruna | 15_black | bukusɨa | <s> <<b>> </s> ʊ k ʊ s ɨ a |
+| Aguaruna-33_drysubstance-1 | Aguaruna | 33_drysubstance | buku | <s> <<b>> </s> ʊ k ʊ |
+| Aguaruna-63_green-1 | Aguaruna | 63_green | samɨkbau | s a m ɨ k <s> <<b>> </s> oʊ |
+| Aguaruna-68_head-1 | Aguaruna | 68_head | buuk | <s> <<b>> </s> ʊː k |
+| Arabela-129_seaocean-1 | Arabela | 129_seaocean | pueɾeetuuka_ʃoniniakw_kaminia | p u e ɾ eː t uː k a <s> <<_>> </s> ʃ o n i n i a k w <s> <<_>> </s> k a m i n i a |
+| Arabela-138_sky-1 | Arabela | 138_sky | kija_kaj̃iniokwa | k i j a <s> <<_>> </s> k a j̃ i n i o k ua |
+| Arabela-58_four-1 | Arabela | 58_four | saa_kakweetakaj̃a | s aː <s> <<_>> </s> k a k eː t a k a j̃ a |
+| Arabela-8_bark-1 | Arabela | 8_bark | naana_ko | n aː n a <s> <<_>> </s> k o |
+| Bora-107_not-2 | Bora | 107_not | -tʰɯ | + tʰ ɯ |
+| Bora-194_withaccompanying-1 | Bora | 194_withaccompanying | -ma | + m a |
+| Bora-26_tocut-1 | Bora | 26_tocut | -βɯrɯ- | + β ɯ r ɯ + |
+| Bora-5_at-1 | Bora | 5_at | -βɯ | + β ɯ |
+| Bora-8_bark-1 | Bora | 8_bark | -mɨ́ɨ́ʔo | + m !ɨ́/ɨ !ɨ́/ɨ ʔ o |
+| Candoshi-Shapra-156_tosuck-1 | Candoshi-Shapra | 156_tosuck | kamopʃfmaama | k a m o p ʃ <s> <<f>> </s> m aː m a |
+| Candoshi-Shapra-51_five-1 | Candoshi-Shapra | 51_five | kowiʂ_ptʃiaɾo | k o w i ʂ <s> <<_>> </s> p tʃ i a ɾ o |
+| Muinane-107_not-2 | Muinane | 107_not | -tɨ | + t ɨ |
+| Muinane-130_see-1 | Muinane | 130_see | áttʲɨ́me- | !á/a t tʲ !ɨ́/ɨ m e + |
+| Muinane-139_sleep-1 | Muinane | 139_sleep | kɨ́ga- | k !ɨ́/ɨ g a + |
+| Muinane-14_tobite-1 | Muinane | 14_tobite | éédu- | !é/e !é/e d u + |
+| Muinane-159_toswim-1 | Muinane | 159_toswim | ísi- | !í/i s i + |
+| Muinane-194_withaccompanying-1 | Muinane | 194_withaccompanying | -ma | + m a |
+| Muinane-31_dog-1 | Muinane | 31_dog | -ʔui | + ʔ u i |
+| Muinane-32_todrink-1 | Muinane | 32_todrink | ádu- | !á/a d u + |
+| Muinane-5_at-1 | Muinane | 5_at | -βɨ | + β ɨ |
+| Muinane-69_tohear-1 | Muinane | 69_tohear | gúúbu- | g !ú/u !ú/u b u + |
+| Taushiro-104_new-1 | Taushiro | 104_new | hiʔna_naʔkɨ | h i ʔ n a <s> <<_>> </s> n a ʔ k ɨ |
+| Taushiro-129_seaocean-1 | Taushiro | 129_seaocean | wɨiʔkɨ_wantɨʔjo | w ɨ i ʔ k ɨ <s> <<_>> </s> w a n t ɨ ʔ j o |
+| Taushiro-159_toswim-1 | Taushiro | 159_toswim | xoʔkɨ_noʔkuanɨʔnɨ | x o ʔ k ɨ <s> <<_>> </s> n o ʔ k u a n ɨ ʔ n ɨ |
+| Taushiro-15_black-1 | Taushiro | 15_black | ajo_ontuʔ | a j o <s> <<_>> </s> o n t u ʔ |
+| Taushiro-160_tail-1 | Taushiro | 160_tail | uʔ_xuɨ | u ʔ <s> <<_>> </s> x u ɨ |
+| Taushiro-163_they-1 | Taushiro | 163_they | naʔnɨ_in | n a ʔ n ɨ <s> <<_>> </s> i n |
+| Taushiro-169_three-1 | Taushiro | 169_three | washiunweantu | w a <s> <<s>> </s> h i u n w e a n t u |
+| Taushiro-30_dirty-1 | Taushiro | 30_dirty | ajo_ontuʔ | a j o <s> <<_>> </s> o n t u ʔ |
+| Taushiro-39_egg-1 | Taushiro | 39_egg | aʔtuwa_kɨʔtu | a ʔ t u w a <s> <<_>> </s> k ɨ ʔ t u |
+| Taushiro-6_backpersons-1 | Taushiro | 6_backpersons | aʔxontɨʔna_ʔku | a ʔ x o n t ɨ ʔ n a <s> <<_>> </s> ʔ k u |
+| Taushiro-93_louse-1 | Taushiro | 93_louse | aʔwltʃa | a ʔ w <s> <<l>> </s> tʃ a |
+| Waorani-117_rightcorrect-1 | Waorani | 117_rightcorrect | dõ_ĩte | d !õ/o ∼ <s> <<_>> </s> !ĩ/i ∼ t e |
+| Waorani-129_seaocean-1 | Waorani | 129_seaocean | gãwapæ̃_jæ̃dæ̃ | g !ã/a ∼ w a p !æ̃/æ ∼ <s> <<_>> </s> j !æ̃/æ ∼ d !æ̃/æ ∼ |
+| Waorani-136_sit-1 | Waorani | 136_sit | tæ̃æ̃_kõta | t !æ̃/æ ∼ !æ̃/æ ∼ <s> <<_>> </s> k !õ/o ∼ t a |
+| Waorani-143_smooth-1 | Waorani | 143_smooth | ajade_kæ | a j a d e <s> <<_>> </s> k æ |
+| Waorani-147_tospit-1 | Waorani | 147_tospit | towæ_tãdõ | t o w æ <s> <<_>> </s> t !ã/a ∼ d !õ/o ∼ |
+| Waorani-151_tostand-1 | Waorani | 151_tostand | gõõ_kæ | g !õ/o ∼ !õ/o ∼ <s> <<_>> </s> k æ |
+| Waorani-156_tosuck-1 | Waorani | 156_tosuck | wi_õ | w i <s> <<_>> </s> !õ/o ∼ |
+| Waorani-166_tothink-1 | Waorani | 166_tothink | okaidẽ_põdẽ | o k a i d !ẽ/e ∼ <s> <<_>> </s> p !õ/o ∼ d !ẽ/e ∼ |
+| Waorani-169_three-1 | Waorani | 169_three | bẽa_go_adoke | b !ẽ/e ∼ a <s> <<_>> </s> g o <s> <<_>> </s> a d o k e |
+| Waorani-171_totie-1 | Waorani | 171_totie | jã_kæ | j !ã/a ∼ <s> <<_>> </s> k æ |
+| Waorani-177_tovomit-1 | Waorani | 177_tovomit | awæ̃_wẽ | a w !æ̃/æ ∼ <s> <<_>> </s> w !ẽ/e ∼ |
+| Waorani-17_toblowofwind-1 | Waorani | 17_toblowofwind | wo_õõ | w o <s> <<_>> </s> !õ/o ∼ !õ/o ∼ |
+| Waorani-183_wet-1 | Waorani | 183_wet | a_beĩ | a <s> <<_>> </s> b e !ĩ/i ∼ |
+| Waorani-28_todie-1 | Waorani | 28_todie | æ̃bæ̃wo_wæ̃ | !æ̃/æ ∼ b !æ̃/æ ∼ w o <s> <<_>> </s> w !æ̃/æ ∼ |
+| Waorani-41_tofalldropratherthantopple-1 | Waorani | 41_tofalldropratherthantopple | tæ̃_wæ̃æ̃ | t !æ̃/æ ∼ <s> <<_>> </s> w !æ̃/æ ∼ !æ̃/æ ∼ |
+| Waorani-51_five-1 | Waorani | 51_five | õdõpo_æ̃bæ̃poke | !õ/o ∼ d !õ/o ∼ p o <s> <<_>> </s> !æ̃/æ ∼ b !æ̃/æ ∼ p o k e |
+| Waorani-58_four-1 | Waorani | 58_four | bẽa_go_bẽa | b !ẽ/e ∼ a <s> <<_>> </s> g o <s> <<_>> </s> b !ẽ/e ∼ a |
+| Waorani-71_heavy-1 | Waorani | 71_heavy | te_ẽbẽ | t e <s> <<_>> </s> !ẽ/e ∼ b !ẽ/e ∼ |
+| Waorani-73_tohit-1 | Waorani | 73_tohit | tei_tei_pã | t e i <s> <<_>> </s> t e i <s> <<_>> </s> p !ã/a ∼ |
+| Waorani-75_how-1 | Waorani | 75_how | æbãdõ_kæte | æ b !ã/a ∼ d !õ/o ∼ <s> <<_>> </s> k æ t e |
+| Waorani-7_baddeleteriousorunsuitable-1 | Waorani | 7_baddeleteriousorunsuitable | wẽdæ_wẽdæ | w !ẽ/e ∼ d æ <s> <<_>> </s> w !ẽ/e ∼ d æ |
+| Waorani-80_if-1 | Waorani | 80_if | ĩte_baĩ | !ĩ/i ∼ t e <s> <<_>> </s> b a !ĩ/i ∼ |
+| Waorani-81_in-1 | Waorani | 81_in | gibõga_kæ̃kadẽ | g i b !õ/o ∼ g a <s> <<_>> </s> k !æ̃/æ ∼ k a d !ẽ/e ∼ |
+| Waorani-85_tolaugh-1 | Waorani | 85_tolaugh | ka_ka_to | k a <s> <<_>> </s> k a <s> <<_>> </s> t o |
 
-(59 rows)
+(63 rows)
 
 
