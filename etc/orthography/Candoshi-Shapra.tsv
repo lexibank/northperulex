@@ -8,6 +8,7 @@ oo	oː
 tʃ	tʃ
 ʃ	ʃ
 ts	ts
+f	f
 s	s
 j	j
 t	t
@@ -20,3 +21,6 @@ p	p
 ʈʂ	ʈʂ
 ʂ	ʂ
 w	w
+_	+
+_$	NULL
+^_	NULL

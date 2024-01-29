@@ -1,14 +1,14 @@
 Grapheme	IPA
 a	a
-ã	!ã/a ∼
+ã	a ∼
 o	o
-õ	!õ/o ∼
+õ	o ∼
 i	i
-ĩ	!ĩ/i ∼
+ĩ	i ∼
 æ	æ
-æ̃	!æ̃/æ ∼
+æ̃	æ ∼
 e	e
-ẽ	!ẽ/e ∼
+ẽ	e ∼
 p	p
 t	t
 k	k
@@ -17,3 +17,6 @@ d	d
 g	g
 j	j
 w	w
+_	+
+_$	NULL
+^_	NULL
