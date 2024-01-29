@@ -1,0 +1,2405 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	VALUE	FORM	CONCEPT	TOKENS	COGID	MORPHEMES	ALIGNMENT	NOTE
+#
+78	Iquito	kí=	kí=	I	k !í/i	2		k !í/i - -	I
+252	Aguaruna	wi	wi	I	w i	1		w i	
+389	Arabela	kwa	kwa	I	k ua	2		k ua - -	
+516	Candoshi-Shapra	nowa	nowa	I	n o w a	4		n o w a	
+629	Muniche	aʔpaʔnɨ	aʔpaʔnɨ	I	a ʔ p a ʔ n ɨ	6		a ʔ p a ʔ n ɨ	
+747	Taushiro	ujo	ujo	I	u j o	8		u j o	
+866	Waorani	botõ	botõ	I	b o t o ∼	9		b o t o ∼	
+1042	Bora	oó	oó	I	o !ó/o	3		- - - o - !ó/o	
+1043	Muinane	úú-hóʔo	úú-hóʔo	I	!ú/u !ú/u h !ó/o ʔ o	3		!ú/u !ú/u h !ó/o ʔ o	
+1329	AchuarShiwiar	wi	wi	I	v i	1		v i	
+1463	Andoa	kijá	kijá	I	k i h !á/a	2		k i h !á/a	
+1519	Canichana	oxale	oxale	I	o h a l e	5		o h a l e	
+1638	Shiwilu	kenmu’	kenmu’	I	kˀ ə n m u ʔ	7		kˀ ə n m u ʔ	inclusive form
+1639	Shiwilu	kua	kua	I	kʷ a	2		kʷ a - -	exclusive form
+1819	Shuar	wi	wi	I	w i	1		w i	
+2113	Zaparo	kwihya	kwihya	I	kʷ i hʲ a	2		kʷ i hʲ a	
+#
+1	Iquito	pɨyɨ́ɨni	pɨyɨ́ɨni	all (of a number)	p ɨ j !ɨ́/ɨ ɨ ɲ	14		p ɨ j !ɨ́/ɨ ɨ ɲ	all
+195	Aguaruna	aʃi	aʃi	all (of a number)	a ʃ i	10		- a ʃ i	
+335	Arabela	puetunuj̃uanaa	puetunuj̃uanaa	all (of a number)	p u e t u n u j̃ u a n aː	11		p u e t u n u j̃ u a n aː	
+470	Candoshi-Shapra	itʃiŋkoɾo	itʃiŋkoɾo	all (of a number)	i tʃ i ŋ k o ɾ o	13		i tʃ i ŋ k o ɾ o	
+699	Taushiro	awun	awun	all (of a number)	a w u n	17		a w u n	
+810	Waorani	tõbãdãdi	tõbãdãdi	all (of a number)	t o ∼ b a ∼ d a ∼ d i	18		t o ∼ b a ∼ d a ∼ d i	
+1081	Bora	pʰá-neé-re	pʰá-neé-re	all (of a number)	pʰ !á/a n e !é/e r e	12		pʰ !á/a n e !é/e r e	
+1082	Muinane	ɸáá-no	ɸáá-no	all (of a number)	ɸ !á/a !á/a n o	15		ɸ !á/a !á/a n o	
+1254	AchuarShiwiar	ashí	ashí	all (of a number)	a ʃ !í/i	10		- a ʃ !í/i	From the examples seems that this is the least used form: mash
+1485	Canichana	mata	mata	all (of a number)	m a t a	10		m a t a	
+1572	Shiwilu	iñer'	iñer'	all (of a number)	i ɲ ə ˀr	16		i ɲ ə ˀr	
+1750	Shuar	másh’,mashi	másh’	all (of a number)	m !á/a ʃ i	10		m !á/a ʃ i	
+1751	Shuar	másh’,mashi	mashi	all (of a number)	m a ʃ i	10		m a ʃ i	
+2063	Zaparo	kawiryaha	kawiryaha	all (of a number)	k a w i rʲ a h a	19		k a w i rʲ a h a	
+#
+2	Iquito	músati	músati	and	m !ú/u s a t i	21		m !ú/u s a t i	and
+1255	AchuarShiwiar	túrua	túrua	and	t !ú/u r u a	20		t !ú/u r u a	Because of order of the entries: túra
+1573	Shiwilu	=lek	=lek	and	l ə ˀk	22		l ə ˀk	
+1752	Shuar	-sha	-sha	and	ʃ a	23		ʃ a	
+#
+3	Iquito	tasiitáani	tasiitáani	animal	t a ʃ i t !á/a a ɲ	27		t a ʃ i t !á/a a ɲ	animal
+196	Aguaruna	kuntin	kuntin	animal	k ʊ n t i n	25		k ʊ n t i n	
+336	Arabela	kasaa	kasaa	animal	k a s aː	26		k a s aː	
+700	Taushiro	nijiʔi	nijiʔi	animal	n i j i ʔ i	30		n i j i ʔ i	
+811	Waorani	kæ̃dĩgã	kæ̃dĩgã	animal	k æ ∼ d i ∼ g a ∼	31		k æ ∼ d i ∼ g a ∼	
+1256	AchuarShiwiar	ikiámia páchim	ikiámia páchim	animal	i k i !á/a mʲ a p !á/a tʃ i m	24		i k i !á/a mʲ a p !á/a tʃ i m	wild animal
+1257	AchuarShiwiar	tángku	tángku	animal	t !á/a ŋ k u	29		t !á/a ŋ k u	domesticated animal
+1574	Shiwilu	añimer	añimer	animal	a ɲ i m ə ɾ	28		a ɲ i m ə ɾ	Spanish
+1753	Shuar	tanku	tanku	animal	t a nˠ k u	29		t a nˠ k u	animal doméstico
+#
+4	Iquito	pukiti	pukiti	ashes	p u k i t i	37		p u k i t i	ash
+197	Aguaruna	juku	juku	ashes	j ʊ k ʊ	32		j ʊ - k - - ʊ -	
+337	Arabela	j̃uaka	j̃uaka	ashes	j̃ u a k a	33		j̃ u a k a	
+471	Candoshi-Shapra	poʂatʃi	poʂatʃi	ashes	p o ʂ a tʃ i	35		p o ʂ a tʃ i	
+701	Taushiro	tuʔka	tuʔka	ashes	t u ʔ k a	40		t u ʔ k a	
+812	Waorani	gõdãi	gõdãi	ashes	g o ∼ d a ∼ i	41		g o ∼ d a ∼ i	
+996	Bora	pá-ʧiíhʲɯ	pá-ʧiíhʲɯ	ashes	p !á/a tʃ i !í/i hʲ ɯ	34		p !á/a - tʃ i !í/i hʲ ɯ	
+997	Muinane	bai-gííhɨ	bai-gííhɨ	ashes	b a i g !í/i !í/i h ɨ	34		b a i g !í/i !í/i h ɨ	
+1258	AchuarShiwiar	yukú̃ũ	yukú̃ũ	ashes	j u k !ú/u ∼ u ∼	32		j u - k !ú/u ∼ u ∼	
+1486	Canichana	ni-chu’ku ku’napʰ	ni-chu’ku ku’napʰ	ashes	n i tʃ u k u k u n a pʰ	36		n i tʃ u k u k u n a pʰ	ni = ABS
+1575	Shiwilu	pendalu'	pendalu'	ashes	pˀ ə n ð a l u ʔ	39		pˀ ə n ð a l u ʔ	
+1754	Shuar	yunkúnim	yunkúnim	ashes	j u nˠ k !ú/u n i m	32		j u nˠ k !ú/u n i m	
+1973	Omurano	n̄jótši	n̄jótši	ashes	ɲ !ó/o tʃ i	38		ɲ !ó/o tʃ i	Tessmann: Asche
+2050	Yameo	ō̠ṛšĕ́'	ō̠ṛšĕ́'	ashes	!ō̠/o !ṛ/r ʃ !ĕ́/e ʔ	42		!ō̠/o !ṛ/r ʃ !ĕ́/e ʔ	Tessmann: Asche
+#
+5	Iquito	=jina	=jina	at	h i n a	45		h i n a	at
+1167	Bora	-βɯ	-βɯ	at	β ɯ	44		β ɯ	
+1168	Muinane	-βɨ	-βɨ	at	β ɨ	44		β ɨ	
+1259	AchuarShiwiar	-num	-num	at	n u m	43		n u m	From examples and order this is the second most used form: -nam
+1576	Shiwilu	=k	=k	at	k	46		k	
+1755	Shuar	-nam	-nam	at	n a m	43		n a m	With consonant-ending nouns
+1756	Shuar	-num	-num	at	n u m	43		n u m	With vowel-ending nouns
+2064	Zaparo	=hinya	=hinya	at	h i ɲ a	45		h i ɲ a	
+#
+6	Iquito	jiwíriku	jiwíriku	back (person's)	h i w !í/i r i k u	49		h i w !í/i r i k u	back
+198	Aguaruna	tuntup	tuntup	back (person's)	t ʊ n t ʊ p	47		t ʊ n t ʊ p -	
+472	Candoshi-Shapra	kooʃitʃ	kooʃitʃ	back (person's)	k oː ʃ i tʃ	48		k oː ʃ i tʃ	
+581	Muniche	tumɾɨʔɨ	tumɾɨʔɨ	back (person's)	t u m ɾ ɨ ʔ ɨ	50		t u m ɾ ɨ ʔ ɨ	
+702	Taushiro	aʔxontɨʔna_ʔku	aʔxontɨʔna_ʔku	back (person's)	a ʔ x o n t ɨ ʔ n a ʔ k u	53		a ʔ x o n t ɨ ʔ n a ʔ k u	
+813	Waorani	tækæjabæ	tækæjabæ	back (person's)	t æ k æ j a b æ	54		t æ k æ j a b æ	
+1260	AchuarShiwiar	tuntúp	tuntúp	back (person's)	t u n t !ú/u p	47		t u n t !ú/u p -	
+1577	Shiwilu	pitek	pitek	back (person's)	p i tˀ ə k	52		p i tˀ ə k	
+1757	Shuar	tuntupe	tuntupe	back (person's)	t u n̪ t u p e	47		t u n̪ t u p e	
+1953	Omurano	anaθáb̯a	anaθáb̯a	back (person's)	a n a θ !á/a b a	51		a n a θ !á/a b a	Tessmann: Rücken
+2025	Yameo	išĕ̯n’á	išĕ̯n’á	back (person's)	i ʃ !ĕ̯/e n ʔ !á/a	55		i ʃ !ĕ̯/e n ʔ !á/a	Tessmann: Rücken
+2065	Zaparo	ushiawku	ushiawku	back (person's)	u ʃ i au k u	56		u ʃ i au k u	
+#
+7	Iquito	sɨɨ́sana	sɨɨ́sana	bad (deleterious or unsuitable)	s !ɨɨ́/ɨː s a n a	59		s !ɨɨ́/ɨː s a n a	bad
+199	Aguaruna	katsɨk	katsɨk	bad (deleterious or unsuitable)	k a ts ɨ k	58		k a ts ɨ k	
+338	Arabela	sesaaka	sesaaka	bad (deleterious or unsuitable)	s e s aː k a	59		s e s aː k a	
+473	Candoshi-Shapra	jootaɾiita	jootaɾiita	bad (deleterious or unsuitable)	j oː t a ɾ iː t a	61		j oː t a ɾ iː t a	
+582	Muniche	smecu	smecu	bad (deleterious or unsuitable)	s m e c u	63		s m e c u	
+703	Taushiro	jaʔkantu	jaʔkantu	bad (deleterious or unsuitable)	j a ʔ k a n t u	67		j a ʔ k a n t u	
+814	Waorani	wẽdæ_wẽdæ	wẽdæ_wẽdæ	bad (deleterious or unsuitable)	w e ∼ d æ w e ∼ d æ	68		w e ∼ d æ w e ∼ d æ	
+1062	Bora	ími-tʰʲɯ́-ne	ími-tʰʲɯ́-ne	bad (deleterious or unsuitable)	!í/i m i tʰʲ !ɯ́/ɯ n e	60		!í/i m i tʰʲ !ɯ́/ɯ n e	
+1063	Muinane	ími-tɨ-no	ími-tɨ-no	bad (deleterious or unsuitable)	!í/i m i t ɨ n o	60		!í/i m i t ɨ n o	
+1261	AchuarShiwiar	tunáu	tunáu	bad (deleterious or unsuitable)	t u n !á/a u	57		t u n !á/a u	From the semantics seems that the first form here is more related to EVIL and the secod form is discarted as main because of order: pasé,nápchau
+1487	Canichana	itxmupse	itxmupse	bad (deleterious or unsuitable)	i t h m u p s e	62		i t h m u p s e	Because of order of entries, here is the variant: psemek
+1578	Shiwilu	mukankinpu'	mukankinpu'	bad (deleterious or unsuitable)	m u k a n g i m b u ʔ	65		m u k a n g i m b u ʔ	
+1758	Shuar	yajáuch’	yajáuch’	bad (deleterious or unsuitable)	j a h !á/a u tʃ i	66		j a h !á/a u tʃ i	
+1985	Omurano	atšámani	atšámani	bad (deleterious or unsuitable)	a tʃ !á/a m a n i	64		a tʃ !á/a m a n i	Tessmann: schlect (?)
+2066	Zaparo	tsɨraniaka	tsɨraniaka	bad (deleterious or unsuitable)	ts ɨ r a n i a k a	69		ts ɨ r a n i a k a	
+#
+8	Iquito	ísɨkɨ	ísɨkɨ	bark	!í/i s ɨ k ɨ	74		!í/i s ɨ k ɨ	tree bark
+200	Aguaruna	saɨpɨ	saɨpɨ	bark	s əɨ p ɨ	70		s əɨ - p ɨ	
+339	Arabela	naana_ko	naana_ko	bark	n aː n a k o	71		n aː n a k o	
+474	Candoshi-Shapra	koɾotanaʂi	koɾotanaʂi	bark	k o ɾ o t a n a ʂ i	73		k o ɾ o t a n a ʂ i	
+583	Muniche	tʃatpiçɨ	tʃatpiçɨ	bark	tʃ a t p i ç ɨ	75		tʃ a t p i ç ɨ	
+704	Taushiro	awaʔitʃi	awaʔitʃi	bark	a w a ʔ i tʃ i	77		a w a ʔ i tʃ i	
+815	Waorani	õtapo	õtapo	bark	o ∼ t a p o	78		o ∼ t a p o	
+1087	Bora	-mɨ́ɨ́ʔo	-mɨ́ɨ́ʔo	bark	m !ɨ́/ɨ !ɨ́/ɨ ʔ o	72		- - - m !ɨ́/ɨ !ɨ́/ɨ ʔ o	
+1088	Muinane	kuu-mééʔu	kuu-mééʔu	bark	k u u m !é/e !é/e ʔ u	72		k u u m !é/e !é/e ʔ u	
+1262	AchuarShiwiar	sáap	sáap	bark	s !á/a a p	70		s !á/a a p -	
+1579	Shiwilu	chipitek	chipitek	bark	tʃ i p i tˀ ə k	76		tʃ i p i tˀ ə k	
+1759	Shuar	saep	saep	bark	s a e p	70		s a e p -	
+2067	Zaparo	nakuna ichawkɨ	nakuna ichawkɨ	bark	n a k u n a i tʃ au k ɨ	79		n a k u n a i tʃ au k ɨ	
+#
+10	Iquito	iyaamiaákuji	iyaamiaákuji	because	i j aː mʲ aː k u h i	81		i j aː mʲ aː k u h i	because
+201	Aguaruna	wagkapa	wagkapa	because	w a g k a p a	80		w a g k a p a	
+816	Waorani	bejæ̃	bejæ̃	because	b e j æ ∼	83		b e j æ ∼	
+1580	Shiwilu	malek	malek	because	m a l ə ˀk	82		m a l ə ˀk	
+#
+11	Iquito	tanaka	tanaka	belly	t a n a k a	89		t a n a k a	belly
+202	Aguaruna	tantan	tantan	belly	t a n t a n	85		t a n t a n -	
+340	Arabela	saɾaka	saɾaka	belly	s a ɾ a k a	86		s a ɾ a k a	
+475	Candoshi-Shapra	tintiɾantʃitʃ	tintiɾantʃitʃ	belly	t i n t i ɾ a n tʃ i tʃ	88		t i n t i ɾ a n tʃ i tʃ	
+584	Muniche	pdisti	pdisti	belly	p d i s t i	90		p d i s t i	
+705	Taushiro	aʔkuɨntɨ	aʔkuɨntɨ	belly	a ʔ k u ɨ n t ɨ	93		a ʔ k u ɨ n t ɨ	
+817	Waorani	jãdeka	jãdeka	belly	j a ∼ d e k a	85		j a ∼ d e k a	
+963	Bora	íʔpá-ɯ	íʔpá-ɯ	belly	!í/i ʔ p !á/a ɯ	87		!í/i ʔ - p !á/a ɯ	
+964	Muinane	ííba	ííba	belly	!í/i !í/i b a	87		!í/i - !í/i b a -	
+1097	Bora	íʔpáɯ	íʔpáɯ	belly	!í/i ʔ p !á/a ɯ	87		!í/i ʔ - p !á/a ɯ	
+1098	Muinane	íiba	íiba	belly	!í/i i b a	87		!í/i - i b a -	
+1263	AchuarShiwiar	wáke	wáke	belly	w !á/a k ɨ	84		w !á/a k ɨ	
+1581	Shiwilu	merpi	merpi	belly	m ə ɾ p i	92		m ə ɾ p i	
+1760	Shuar	tantán	tantán	belly	t a n̪ t !á/a n	85		t a n̪ t !á/a n -	
+1954	Omurano	anaθawuápa	anaθawuápa	belly	a n a θ a w u !á/a p a	91		a n a θ a w u !á/a p a	Tessmann: Bauch
+2026	Yameo	(ī)wē	wē	belly	w !ē/e	94		w !ē/e	Tessmann: Bauch
+2068	Zaparo	tawaka	tawaka	belly	t a w a k a	95		t a w a k a	
+#
+12	Iquito	aniita	aniita	big	a ɲ i t a	103		a ɲ i t a	big
+203	Aguaruna	muun	muun	big	m ʊː n	97		m ʊː n	
+341	Arabela	pueɾeetuuka	pueɾeetuuka	big	p u e ɾ eː t uː k a	99		p u e ɾ eː t uː k a	
+476	Candoshi-Shapra	kapoŋko	kapoŋko	big	k a p o ŋ k o	101		k a p o ŋ k o	
+585	Muniche	nane	nane	big	n a n e	104		n a n e	
+706	Taushiro	hoʔhua	hoʔhua	big	h o ʔ h u a	107		h o ʔ h u a	
+818	Waorani	jæ̃dæ̃	jæ̃dæ̃	big	j æ ∼ d æ ∼	108		j æ ∼ d æ ∼	
+1056	Bora	mitʰʲa-ne	mitʰʲa-ne	big	m i tʰʲ a n e	100		m i tʰʲ a n e	
+1057	Muinane	mítʲa-no	mítʲa-no	big	m !í/i tʲ a n o	100		m !í/i tʲ a n o	
+1264	AchuarShiwiar	juun	juun	big	h u u n	96		h u u n -	In other examples the main form appears, but this form has no other appearance: juunt
+1449	Andoa	nakamáro	nakamáro	big	n a k a m !á/a r o	98		n a k a m !á/a r o	
+1488	Canichana	nihi-mara	nihi-mara	big	n i h i m a ɾ a	102		n i h i m a ɾ a	
+1582	Shiwilu	a’llupi	a’llupi	big	a ʔ ʎ u p i	106		a ʔ ʎ u p i	
+1761	Shuar	úunt	úunt	big	!ú/u u n̪ t	96		- !ú/u u n̪ t	
+1977	Omurano	lē̠tḗ̠	lē̠tḗ̠	big	l !ē̠/e t !ḗ̠/e	105		l !ē̠/e t !ḗ̠/e	Tessmann: groß
+2054	Yameo	stẽri	stẽri	big	s t !ẽ/e ∼ r i	109		s t !ẽ/e ∼ r i	Tessmann: groß
+2069	Zaparo	kɨraka	kɨraka	big	k ɨ r a k a	110		k ɨ r a k a	
+#
+13	Iquito	iíwaasi	iíwaasi	bird	i !í/i w aː ʃ	116		i !í/i w aː ʃ	bird
+204	Aguaruna	piʃak	piʃak	bird	p i ʃ a k	112		p i ʃ a k -	
+342	Arabela	ʃijoj̃ua	ʃijoj̃ua	bird	ʃ i j o j̃ u a	114		ʃ i j o j̃ u a	
+586	Muniche	mitʃiʔi	mitʃiʔi	bird	m i tʃ i ʔ i	117		m i tʃ i ʔ i	
+707	Taushiro	tʃiju	tʃiju	bird	tʃ i j u	119		tʃ i j u	
+819	Waorani	ajabõ	ajabõ	bird	a j a b o ∼	120		a j a b o ∼	
+1265	AchuarShiwiar	nanámtin	nanámtin	bird	n a n !á/a m t i n	111		n a n !á/a m t i n	
+1450	Andoa	pishyáno	pishyáno	bird	p i ʃ j !á/a n o	113		p i ʃ j !á/a n o	
+1489	Canichana	ni-melu	ni-melu	bird	n i m e l u	115		n i m e l u	ni = ABS
+1583	Shiwilu	ilanser’	ilanser’	bird	i l a n s ə ɾ ʔ	118		i l a n s ə ɾ ʔ	
+1762	Shuar	nanamtin	nanamtin	bird	n a n a m t i n	111		n a n a m t i n	
+2070	Zaparo	pishaka	pishaka	bird	p i ʃ a k a	112		p i ʃ a k a	
+#
+15	Iquito	sapatina	sapatina	black	s a p a t i n a	127		s a p a t i n a	black
+206	Aguaruna	bukusɨa	bukusɨa	black	b ʊ k ʊ s ɨ a	122		b ʊ k ʊ s ɨ a	
+344	Arabela	mueɾuuka	mueɾuuka	black	m u e ɾ uː k a	123		m u e ɾ uː k - - a	
+478	Candoshi-Shapra	kantsiaɾpi	kantsiaɾpi	black	k a n ts i a ɾ p i	125		k a n ts i a ɾ p i	
+588	Muniche	aʂtu	aʂtu	black	a ʂ t u	128		a ʂ t u	
+709	Taushiro	ajo_ontuʔ	ajo_ontuʔ	black	a j o o n t u ʔ	131		a j o o n t u ʔ	
+821	Waorani	wẽtabõ	wẽtabõ	black	w e ∼ t a b o ∼	133		w e ∼ t a b o ∼	
+1066	Bora	kʰɯɯ́βe-ne	kʰɯɯ́βe-ne	black	kʰ ɯ !ɯ́/ɯ β e n e	124		kʰ ɯ !ɯ́/ɯ β e n e	
+1067	Muinane	kɨ́βo-no	kɨ́βo-no	black	k !ɨ́/ɨ β o n o	124		k !ɨ́/ɨ - β o n o	
+1267	AchuarShiwiar	shuwín	shuwín	black	ʃ u w !í/i n	121		ʃ u w !í/i n	Because of order of the entries: jimpiách,kimpí,jákach,jákich,tuntúru,tuntú
+1451	Andoa	miróshija	miróshija	black	m i r !ó/o ʃ i h a	123		m i - r !ó/o ʃ i h a	
+1490	Canichana	nim-kaara	nim-kaara	black	n i m k a a ɾ a	126		n i m k a a ɾ a	
+1585	Shiwilu	ker’	ker’	black	kˀ ə ɾ ʔ	130		kˀ ə ɾ ʔ	
+1764	Shuar	mukusa	mukusa	black	m u k u s a	122		m u k u s - a	
+1947	Omurano	pitšama	pitšama	black	p i tʃ a m a	129		p i tʃ a m a	Tessmann: schwarz
+2006	Tequiraca	lō'āk	lō'āk	black	l !ō/o ʔ !ā/a k	132		l !ō/o ʔ !ā/a k	Tessmann: schwarz
+2019	Yameo	kašelắ	kašelắ	black	k a ʃ e l !ắ/a	134		k a ʃ e l !ắ/a	Tessmann: schwarz
+2072	Zaparo	kakɨka	kakɨka	black	k a k ɨ k a	135		k a k ɨ k a	
+#
+16	Iquito	májaaka	májaaka	blood	m !á/a h aː k a	141		m !á/a h aː k a	blood
+207	Aguaruna	numpa	numpa	blood	n ʊ m p a	136		n ʊ m p a	
+345	Arabela	nanaka	nanaka	blood	n a n a k a	137		n a n a k a	
+479	Candoshi-Shapra	koɾaasi	koɾaasi	blood	k o ɾ aː s i	139		k o ɾ aː s i	
+589	Muniche	tʃaʔsiɾa	tʃaʔsiɾa	blood	tʃ a ʔ s i ɾ a	143		tʃ a ʔ s i ɾ a	
+710	Taushiro	aʔtaʔ	aʔtaʔ	blood	a ʔ t a ʔ	146		a ʔ t a ʔ	
+822	Waorani	wepæ̃	wepæ̃	blood	w e p æ ∼	147		w e p æ ∼	
+971	Bora	tʰɯ́-hpʰakʰʲo	tʰɯ́-hpʰakʰʲo	blood	tʰ !ɯ́/ɯ h pʰ a kʰʲ o	138		tʰ !ɯ́/ɯ h pʰ a kʰʲ o	
+972	Muinane	tɨ́ɨ́-hóʔo	tɨ́ɨ́-hóʔo	blood	t !ɨ́/ɨ !ɨ́/ɨ h !ó/o ʔ o	142		t !ɨ́/ɨ !ɨ́/ɨ h !ó/o ʔ o	
+1089	Bora	tʰɯ́-hpʰakʰʲo	tʰɯ́-hpʰakʰʲo	blood	tʰ !ɯ́/ɯ h pʰ a kʰʲ o	138		tʰ !ɯ́/ɯ h pʰ a kʰʲ o	
+1090	Muinane	tɨ́ɨ́-hóʔo	tɨ́ɨ́-hóʔo	blood	t !ɨ́/ɨ !ɨ́/ɨ h !ó/o ʔ o	142		t !ɨ́/ɨ !ɨ́/ɨ h !ó/o ʔ o	
+1268	AchuarShiwiar	númpa	númpa	blood	n !ú/u m p a	136		n !ú/u m p a	
+1491	Canichana	eu-ghab	eu-ghab	blood	e u g h a b	140		e u g h a b	eu = 1SG
+1586	Shiwilu	ukladek	ukladek	blood	u k l a ð ə ˀk	145		u k l a ð ə ˀk	
+1765	Shuar	numpa	numpa	blood	n u m p a	136		n u m p a	
+1957	Omurano	lána	lána	blood	l !á/a n a	144		l !á/a n a	Tessmann: Blut
+2030	Yameo	inē̠alá	inē̠alá	blood	i n !ē̠/e a l !á/a	148		i n !ē̠/e a l !á/a	Tessmann: Blut
+2073	Zaparo	nanaka	nanaka	blood	n a n a k a	137		n a n a k a	
+#
+19	Iquito	niiki	niiki	bone	ɲ i k i	150		ɲ i k i	bone
+210	Aguaruna	ukuntʃ	ukuntʃ	bone	ʊ k ʊ n tʃ	149		ʊ k ʊ n tʃ -	
+348	Arabela	nukw	nukw	bone	n u k u	150		n u k u	
+481	Candoshi-Shapra	napitʃ	napitʃ	bone	n a p i tʃ	152		n a p i tʃ	
+591	Muniche	stipi	stipi	bone	s t i p i	153		s t i p i	
+713	Taushiro	huʔ	huʔ	bone	h u ʔ	156		h u ʔ	
+825	Waorani	babẽ	babẽ	bone	b a b e ∼	157		b a b e ∼	
+969	Bora	páhkʰɯɯ́	páhkʰɯɯ́	bone	p !á/a h kʰ ɯ !ɯ́/ɯ	151		p !á/a h kʰ ɯ !ɯ́/ɯ	
+970	Muinane	bákkɨ	bákkɨ	bone	b !á/a k k ɨ	151		b !á/a k k - ɨ	
+1270	AchuarShiwiar	kúnch	kúnch	bone	k !ú/u n tʃ	149		- k !ú/u n tʃ -	Phonological alternation: ukúnch
+1588	Shiwilu	lansi’	lansi’	bone	l a n s i ʔ	155		l a n s i ʔ	
+1767	Shuar	ukunch’	ukunch’	bone	u k u n tʃ i	149		u k u n tʃ i	
+1956	Omurano	anaī́	anaī́	bone	a n a !ī́/i	154		a n a !ī́/i	Tessmann: Knochen
+2029	Yameo	elitē̠alŏ́	elitē̠alŏ́	bone	e l i t !ē̠/e a l !ŏ́/o	158		e l i t !ē̠/e a l !ŏ́/o	Tessmann: Knochen
+2074	Zaparo	uku	uku	bone	u k u	150		- u k u	
+#
+22	Iquito	maaya	maaya	child (young person rather than as relationship term)	m aː j a	161		m aː j a	
+1273	AchuarShiwiar	úchi	úchi	child (young person rather than as relationship term)	!ú/u tʃ i	159		!ú/u tʃ i	
+1492	Canichana	yemila chuchu	yemila chuchu	child (young person rather than as relationship term)	j e m i l a tʃ u tʃ u	160		j e m i l a tʃ u tʃ u	
+1591	Shiwilu	wila	wila	child (young person rather than as relationship term)	w i l a	162		w i l a	
+1770	Shuar	uchi	uchi	child (young person rather than as relationship term)	u tʃ i	159		u tʃ i	
+2075	Zaparo	takwapɨ	takwapɨ	child (young person rather than as relationship term)	t a kʷ a p ɨ	163		t a kʷ a p ɨ	Niña: mɨaricha
+#
+23	Iquito	anajaka	anajaka	cloud	a n a h a k a	166		a n a h a k a	cloud or mist
+212	Aguaruna	juhagkim	juhagkim	cloud	j ʊ h a g k i m	165		j ʊ h a g k i m	
+350	Arabela	naj̃aka	naj̃aka	cloud	n a j̃ a k a	166		- n a j̃ a k a	
+593	Muniche	ptʃi	ptʃi	cloud	p tʃ i	167		p tʃ i	
+827	Waorani	bogĩbã	bogĩbã	cloud	b o g i ∼ b a ∼	168		b o g i ∼ b a ∼	
+1274	AchuarShiwiar	mukúnit	mukúnit	cloud	m u k !ú/u n i t	164		m u k !ú/u n i t	
+1771	Shuar	yuránkim	yuránkim	cloud	j u r !á/a nˠ k i m	165		j u r !á/a nˠ k i m	
+2039	Yameo	wápŏ'	wápŏ'	cloud	w !á/a p !ŏ/o ʔ	169		w !á/a p !ŏ/o ʔ	Tessmann: Wolke
+#
+24	Iquito	sɨɨmɨ́ɨtìnà	sɨɨmɨ́ɨtìnà	cold (of weather)	s ɨː m !ɨ́/ɨ ɨ t !ì/i n !à/a	171		s ɨː m !ɨ́/ɨ ɨ t !ì/i n !à/a	
+1275	AchuarShiwiar	tsetsék	tsetsék	cold (of weather)	ts ɨ ts !é/ɨ k	170		ts ɨ ts !é/ɨ k	
+2076	Zaparo	shinyaka	shinyaka	cold (of weather)	ʃ i ɲ a k a	172		ʃ i ɲ a k a	
+#
+28	Iquito	yaawɨ́ɨni	yaawɨ́ɨni	day (opposite of night rather than time measure)	j aː w !ɨ́/ɨ ɨ ɲ	178		j aː w !ɨ́/ɨ ɨ ɲ	day
+215	Aguaruna	tsawan	tsawan	day (opposite of night rather than time measure)	ts a w a n	173		ts a w a - n	
+353	Arabela	j̃uuka	j̃uuka	day (opposite of night rather than time measure)	j̃ uː k a	175		j̃ uː k a	
+484	Candoshi-Shapra	ʂaaɾi	ʂaaɾi	day (opposite of night rather than time measure)	ʂ aː ɾ i	177		ʂ aː ɾ i	
+595	Muniche	ɲuʔu	ɲuʔu	day (opposite of night rather than time measure)	ɲ u ʔ u	179		ɲ u ʔ u	
+715	Taushiro	itʃiʔkuɾo	itʃiʔkuɾo	day (opposite of night rather than time measure)	i tʃ i ʔ k u ɾ o	182		i tʃ i ʔ k u ɾ o	
+830	Waorani	itædẽ	itædẽ	day (opposite of night rather than time measure)	i t æ d e ∼	183		i t æ d e ∼	
+1004	Bora	kʰóóhɨɨ́	kʰóóhɨɨ́	day (opposite of night rather than time measure)	kʰ !ó/o !ó/o h ɨ !ɨ́/ɨ	176		kʰ !ó/o !ó/o h ɨ !ɨ́/ɨ	
+1005	Muinane	kúuhe	kúuhe	day (opposite of night rather than time measure)	k !ú/u u h e	176		k !ú/u u h - e	
+1279	AchuarShiwiar	tsawái	tsawái	day (opposite of night rather than time measure)	ts a w !á/a i	173		ts a w !á/a i -	
+1452	Andoa	tadikí	tadikí	day (opposite of night rather than time measure)	t a d i k !í/i	174		t a d i k !í/i	
+1595	Shiwilu	uklli	uklli	day (opposite of night rather than time measure)	u k ʎ i	181		u k ʎ i	
+1775	Shuar	tsawái	tsawái	day (opposite of night rather than time measure)	ts a w !á/a i	173		ts a w !á/a i -	
+1966	Omurano	báō	báō	day (opposite of night rather than time measure)	b !á/a !ō/o	180		b !á/a !ō/o	Tessmann: Tag
+2042	Yameo	pā́pa	pā́pa	day (opposite of night rather than time measure)	p !ā́/a p a	184		p !ā́/a p a	Tessmann: Tag
+#
+31	Iquito	suúkwarana	suúkwarana	dirty	s u !ú/u kʷ a r a n a	190		s u !ú/u kʷ a r a n a	dirty
+217	Aguaruna	tsuwat	tsuwat	dirty	ts ʊ w a t	186		ts ʊ w a t	
+355	Arabela	kwɾiituuka	kwɾiituuka	dirty	k u ɾ iː t uː k a	187		k u ɾ iː t uː k a	
+486	Candoshi-Shapra	tsaɾona	tsaɾona	dirty	ts a ɾ o n a	189		ts a ɾ o n a	
+597	Muniche	apɨpɨ	apɨpɨ	dirty	a p ɨ p ɨ	191		a p ɨ p ɨ	
+717	Taushiro	ajo_ontuʔ	ajo_ontuʔ	dirty	a j o o n t u ʔ	195		a j o o n t u ʔ	
+832	Waorani	wẽtabõ	wẽtabõ	dirty	w e ∼ t a b o ∼	196		w e ∼ t a b o ∼	
+1187	Bora	iiɲɯ́-βá-ne	iiɲɯ́-βá-ne	dirty	i i ɲ !ɯ́/ɯ β !á/a n e	188		- i i ɲ !ɯ́/ɯ β !á/a n e	
+1188	Muinane	híínɨβano	híínɨβano	dirty	h !í/i !í/i n ɨ β a n o	188		h !í/i !í/i n ɨ β a n o	
+1189	Muinane	bééβano	bééβano	dirty	b !é/e !é/e β a n o	188		b !é/e - - !é/e β a n o	
+1282	AchuarShiwiar	kúnta	kúnta	dirty	k !ú/u n t a	185		k !ú/u n t a	Because of order of the entries: pakuí,shungkát,yukáip,máatrau,máatramu
+1598	Shiwilu	werchu’a’su’	werchu’a’su’	dirty	w ə ɾ tʃ u ʔ a ʔ s u ʔ	193		w ə ɾ tʃ u ʔ a ʔ s u ʔ	
+1777	Shuar	wapik	wapik	dirty	w a p i k	194		w a p i k	
+1986	Omurano	aiðóamana	aiðóamana	dirty	a i ð !ó/o a m a n a	192		a i ð !ó/o a m a n a	Tessmann: schmutzig (?)
+#
+32	Iquito	mɨyaaraa	mɨyaaraa	dog	m ɨ j aː r aː	203		m ɨ j aː r aː	dog (plural)
+218	Aguaruna	jawa	jawa	dog	j a w a	197		j a - w - - a - -	
+356	Arabela	saɾe	saɾe	dog	s a ɾ e	199		s a ɾ e	
+487	Candoshi-Shapra	tomooʂi	tomooʂi	dog	t o m oː ʂ i	201		t o m oː ʂ i	
+598	Muniche	hinu	hinu	dog	h i n u	205		h i n u	
+718	Taushiro	onanta	onanta	dog	o n a n t a	208		o n a n t a	
+833	Waorani	gĩta	gĩta	dog	g i ∼ t a	209		g i ∼ t a	
+1012	Bora	ooʔíí-pʲe	ooʔíí-pʲe	dog	o o ʔ !í/i !í/i pʲ e	200		o o ʔ !í/i !í/i pʲ e	
+1013	Muinane	-ʔui	-ʔui	dog	ʔ u i	204		ʔ u i	
+1283	AchuarShiwiar	yãwá̃ã	yãwá̃ã	dog	j a ∼ w !á/a ∼ a ∼	197		j a ∼ w !á/a ∼ a ∼ -	
+1453	Andoa	atsarí	atsarí	dog	a ts a r !í/i	198		a ts a r !í/i	
+1495	Canichana	ni-pao	ni-pao	dog	n i p a o	202		n i p a o	ni = ABS
+1599	Shiwilu	ñiñi’wa	ñiñi’wa	dog	ɲ i ɲ i ʔ w a	207		ɲ i ɲ i ʔ w a	
+1778	Shuar	tanku-yawá	tanku-yawá	dog	t a nˠ k u j a w !á/a	197		t a nˠ k u j a w !á/a	
+1941	Omurano	maladží	maladží	dog	m a l a dʒ !í/i	206		m a l a dʒ !í/i	Tessmann: Hund
+2013	Yameo	niamĭ́	niamĭ́	dog	n i a m !ĭ́/i	210		n i a m !ĭ́/i	Tessmann: Hund
+2081	Zaparo	aryawku	aryawku	dog	a rʲ au k u	211		a rʲ au k u	
+#
+34	Iquito	turúuni	turúuni	dry (substance)	t u r !ú/u u ɲ	216		t u r !ú/u u ɲ	dry
+220	Aguaruna	buku	buku	dry (substance)	b ʊ k ʊ	213		b ʊ k ʊ	
+358	Arabela	j̃ooj̃eeka	j̃ooj̃eeka	dry (substance)	j̃ oː j̃ eː k a	214		j̃ oː j̃ eː k a	
+488	Candoshi-Shapra	pooʂa	pooʂa	dry (substance)	p oː ʂ a	215		p oː ʂ a	
+600	Muniche	tɨna	tɨna	dry (substance)	t ɨ n a	217		t ɨ n a	
+720	Taushiro	iʔtaʔantaɾo	iʔtaʔantaɾo	dry (substance)	i ʔ t a ʔ a n t a ɾ o	219		i ʔ t a ʔ a n t a ɾ o	
+835	Waorani	abĩbõ	abĩbõ	dry (substance)	a b i ∼ b o ∼	220		a b i ∼ b o ∼	
+1285	AchuarShiwiar	mujúkash	mujúkash	dry (substance)	m u h !ú/u k a ʃ	212		m u h !ú/u k a ʃ	
+1780	Shuar	jujúptin	jujúptin	dry (substance)	h u h !ú/u p t i n	218		h u h !ú/u p t i n	
+#
+18	Iquito	tikina	tikina	dull (knife)	t i k i n a	225		t i k i n a	rounded or blunt
+209	Aguaruna	sujuhu	sujuhu	dull (knife)	s ʊ j ʊ h ʊ	222		s ʊ j ʊ h ʊ	
+347	Arabela	kwsekaj̃a	kwsekaj̃a	dull (knife)	k u s e k a j̃ a	223		k u s e k a j̃ a	
+712	Taushiro	itʃihinhiɾo	itʃihinhiɾo	dull (knife)	i tʃ i h i n h i ɾ o	226		i tʃ i h i n h i ɾ o	
+824	Waorani	babedoka	babedoka	dull (knife)	b a b e d o k a	227		b a b e d o k a	
+1183	Bora	ʦʰɯ́ʔhɨ́-βa-tʰɯ́-ne	ʦʰɯ́ʔhɨ́-βa-tʰɯ́-ne	dull (knife)	tsʰ !ɯ́/ɯ ʔ h !ɨ́/ɨ β a tʰ !ɯ́/ɯ n e	224		tsʰ !ɯ́/ɯ - ʔ h !ɨ́/ɨ β a tʰ !ɯ́/ɯ n e	
+1184	Muinane	sɨ́ɨ́he-βa-tɨ-no	sɨ́ɨ́he-βa-tɨ-no	dull (knife)	s !ɨ́/ɨ !ɨ́/ɨ h e β a t ɨ n o	224		s !ɨ́/ɨ !ɨ́/ɨ h - e β a t ɨ n o	
+1286	AchuarShiwiar	mushúm	mushúm	dull (knife)	m u ʃ !ú/u m	221		m u ʃ !ú/u m	Phonological alternation: mushúmp
+#
+35	Iquito	pukitika	pukitika	dust	p u k i t i k a	233		p u k i t i k a	dust or fine powder
+221	Aguaruna	jukuukuntu	jukuukuntu	dust	j ʊ k ʊː k ʊ n t ʊ	229		j ʊ k ʊː k ʊ n t ʊ	
+359	Arabela	j̃aakwia	j̃aakwia	dust	j̃ aː k i a	230		j̃ aː k i a	
+489	Candoshi-Shapra	pojimpo	pojimpo	dust	p o j i m p o	232		p o j i m p o	
+601	Muniche	apuhtuʔme	apuhtuʔme	dust	a p u h t u ʔ m e	235		a p u h t u ʔ m e	
+721	Taushiro	iwa	iwa	dust	i w a	237		i w a	
+836	Waorani	gidĩbõ	gidĩbõ	dust	g i d i ∼ b o ∼	238		g i d i ∼ b o ∼	
+1240	Bora	ʧíhʲɯɯ́	ʧíhʲɯɯ́	dust	tʃ !í/i hʲ ɯ !ɯ́/ɯ	231		tʃ !í/i hʲ ɯ !ɯ́/ɯ	
+1241	Muinane	gíihɨ	gíihɨ	dust	g !í/i i h ɨ	234		g !í/i i h ɨ	
+1287	AchuarShiwiar	jũyú̃r	jũyú̃r	dust	h u ∼ j !ú/u ∼ r	228		h u ∼ j !ú/u ∼ r -	Because of order of the entries: mamúunkat
+1601	Shiwilu	tu’sunlu’	tu’sunlu’	dust	t u ʔ s u n l u ʔ	236		t u ʔ s u n l u ʔ	
+1781	Shuar	júyui	júyui	dust	h !ú/u j u i	228		h !ú/u - j u - - i	
+#
+36	Iquito	túuku	túuku	ear	t !ú/u u k u	240		t !ú/u - u k u	ear
+222	Aguaruna	kuwiʃ	kuwiʃ	ear	k ʊ w i ʃ	239		k ʊ w i ʃ -	
+360	Arabela	numoko	numoko	ear	n u m o k o	240		n u m o k o	
+490	Candoshi-Shapra	kitsitʃ	kitsitʃ	ear	k i ts i tʃ	242		k i ts i tʃ	
+602	Muniche	epɾa	epɾa	ear	e p ɾ a	244		e p ɾ a	
+722	Taushiro	aʔoo	aʔoo	ear	a ʔ o o	247		a ʔ o o	
+837	Waorani	õdõbõka	õdõbõka	ear	o ∼ d o ∼ b o ∼ k a	249		o ∼ d o ∼ b o ∼ k a	
+957	Bora	nɯ́ɯ́-mɨʔo	nɯ́ɯ́-mɨʔo	ear	n !ɯ́/ɯ !ɯ́/ɯ m ɨ ʔ o	241		n !ɯ́/ɯ - !ɯ́/ɯ m - ɨ ʔ o	
+958	Muinane	nɨ́-hɨ-meeʔu	nɨ́-hɨ-meeʔu	ear	n !ɨ́/ɨ h ɨ m e e ʔ u	241		n !ɨ́/ɨ h ɨ m e e ʔ u	
+1288	AchuarShiwiar	kuwísh	kuwísh	ear	k u w !í/i ʃ	239		k u w !í/i ʃ -	
+1454	Andoa	nomáko	nomáko	ear	n o m !á/a k o	240		n o m !á/a k o	
+1497	Canichana	eu-comete	eu-comete	ear	e u k o m e t e	243		e u k o m e t e	eu = 1SG
+1602	Shiwilu	wi’wek	wi’wek	ear	w i ʔ w ə ˀk	246		w i ʔ w ə ˀk	
+1782	Shuar	kuish’	kuish’	ear	k u i ʃ i	239		k u - i ʃ i	
+1933	Omurano	(a)natsḗi̯yo	natsḗi̯yo	ear	n a ts !ḗ/e !i̯/i j o	245		n a ts !ḗ/e !i̯/i j o	Tessmann: Ohr
+1993	Tequiraca	otoroã	otoroã	ear	o t o r o a ∼	248		o t o r o a ∼	Tessmann: Ohr
+2083	Zaparo	takɨrɨkaw	takɨrɨkaw	ear	t a k ɨ r ɨ k au	250		t a k ɨ r ɨ k au	
+#
+37	Iquito	níiya	níiya	earth (soil)	n !í/i i j a	256		n !í/i i j a	soil or earth
+223	Aguaruna	nugka	nugka	earth (soil)	n ʊ g k a	251		n ʊ g k a	
+361	Arabela	j̃ija	j̃ija	earth (soil)	j̃ i j a	252		j̃ i j a	
+491	Candoshi-Shapra	tsaapo	tsaapo	earth (soil)	ts aː p o	254		ts aː p o	
+603	Muniche	pɨmɨ	pɨmɨ	earth (soil)	p ɨ m ɨ	257		p ɨ m ɨ	
+723	Taushiro	uʔuntu	uʔuntu	earth (soil)	u ʔ u n t u	259		u ʔ u n t u	
+838	Waorani	õgipo	õgipo	earth (soil)	o ∼ g i p o	260		o ∼ g i p o	
+1008	Bora	ííɲɯhɨ	ííɲɯhɨ	earth (soil)	!í/i !í/i ɲ ɯ h ɨ	253		- !í/i !í/i ɲ ɯ h ɨ	
+1009	Muinane	híínɨ-he	híínɨ-he	earth (soil)	h !í/i !í/i n ɨ h e	253		h !í/i !í/i n ɨ h e	
+1289	AchuarShiwiar	núngka	núngka	earth (soil)	n !ú/u ŋ k a	251		n !ú/u ŋ k a	
+1498	Canichana	ni-chix	ni-chix	earth (soil)	n i tʃ i h	255		n i tʃ i h	ni = ABS
+1603	Shiwilu	lu’tek	lu’tek	earth (soil)	l u ʔ tˀ ə k	258		l u ʔ tˀ ə k	
+1783	Shuar	nunka	nunka	earth (soil)	n u nˠ k a	251		n u nˠ k a	
+2084	Zaparo	rapaka	rapaka	earth (soil)	r a p a k a	261		r a p a k a	
+#
+39	Iquito	naaki	naaki	egg	n aː k i	268		n aː k i	egg
+225	Aguaruna	nuhin	nuhin	egg	n ʊ h i n	262		n ʊ h i n -	
+363	Arabela	ɾiuɾiukwiu	ɾiuɾiukwiu	egg	ɾ i u ɾ i u k i u	264		ɾ i u ɾ i u k i u	
+493	Candoshi-Shapra	wajaŋktʃi	wajaŋktʃi	egg	w a j a ŋ k tʃ i	266		w a j a ŋ k tʃ i	
+605	Muniche	wɨha	wɨha	egg	w ɨ h a	270		w ɨ h a	
+725	Taushiro	aʔtuwa_kɨʔtu	aʔtuwa_kɨʔtu	egg	a ʔ t u w a k ɨ ʔ t u	273		a ʔ t u w a k ɨ ʔ t u	
+840	Waorani	ĩkĩbo	ĩkĩbo	egg	i ∼ k i ∼ b o	274		i ∼ k i ∼ b o	
+1093	Bora	ííʔʲɯ́ɯ-ɯ́	ííʔʲɯ́ɯ-ɯ́	egg	!í/i !í/i ʔʲ !ɯ́/ɯ ɯ !ɯ́/ɯ	265		!í/i !í/i ʔʲ !ɯ́/ɯ ɯ !ɯ́/ɯ	
+1094	Muinane	ííjɨ	ííjɨ	egg	!í/i !í/i j ɨ	269		!í/i !í/i j ɨ	
+1291	AchuarShiwiar	nujín	nujín	egg	n u h !í/i n	262		n u h !í/i n -	Phonological alternation: nujínt
+1455	Andoa	nodíko	nodíko	egg	n o d !í/i k o	263		n o d !í/i k o	
+1500	Canichana	davari-michi	davari-michi	egg	d a v a ɾ i m i tʃ i	267		d a v a ɾ i m i tʃ i	
+1605	Shiwilu	kadu’	kadu’	egg	k a ð u ʔ	272		k a ð u ʔ	
+1785	Shuar	nujint	nujint	egg	n u h i n̪ t	262		n u h i n̪ t	
+1971	Omurano	ū͜ŭ́n	ū͜ŭ́n	egg	!ū͜ŭ́/uː n	271		!ū͜ŭ́/uː n	Tessmann: Ei
+2048	Yameo	waalán̊	waalán̊	egg	w a a l !á/a !n̊/n	275		w a a l !á/a !n̊/n	Tessmann: Ei
+2086	Zaparo	iku	iku	egg	i k u	276		i k u	
+#
+40	Iquito	namija	namija	eye	n a m i h a	279		n a m i h - - a	eye
+226	Aguaruna	hii	hii	eye	h iː	278		h iː	
+364	Arabela	namij̃ia	namij̃ia	eye	n a m i j̃ i a	279		n a m i - j̃ i a	
+494	Candoshi-Shapra	katʃitʃ	katʃitʃ	eye	k a tʃ i tʃ	281		k a tʃ i tʃ	
+606	Muniche	wɨʔnɨ	wɨʔnɨ	eye	w ɨ ʔ n ɨ	283		w ɨ ʔ n ɨ	
+726	Taushiro	aʔtʃiwihiʔ	aʔtʃiwihiʔ	eye	a ʔ tʃ i w i h i ʔ	286		a ʔ tʃ i w i h i ʔ	
+841	Waorani	awĩka	awĩka	eye	a w i ∼ k a	288		a w i ∼ k a	
+955	Bora	ʔáʧɯ-ɯ	ʔáʧɯ-ɯ	eye	ʔ !á/a tʃ ɯ ɯ	280		ʔ !á/a - tʃ ɯ ɯ	
+956	Muinane	ááʤɨ-ɨ	ááʤɨ-ɨ	eye	!á/a !á/a dʒ ɨ ɨ	280		- !á/a !á/a dʒ ɨ ɨ	
+1292	AchuarShiwiar	jĩĩ	jĩĩ	eye	h i ∼ i ∼	277		h i ∼ i ∼	
+1456	Andoa	namíjya	namíjya	eye	n a m !í/i h j a	279		n a m !í/i h j - a	
+1501	Canichana	eu-tot	eu-tot	eye	e u t o t	282		e u t o t	eu = 1SG
+1606	Shiwilu	lada	lada	eye	l a ð a	285		l a ð a	
+1786	Shuar	ji̠	ji̠	eye	h i ∼	277		h i - - ∼	
+1932	Omurano	(a)natn̄n	natn̄n	eye	n a t n n	284		n a t n n	Tessmann: Auge
+1992	Tequiraca	atū́ka̯	atū́ka̯	eye	a t !ū́/u k !a̯/a	287		a t !ū́/u k !a̯/a	Tessmann: Auge
+2087	Zaparo	namihya	namihya	eye	n a m i hʲ a	279		n a m i hʲ - - a	
+#
+42	Iquito	síipa	síipa	far	s !í/i i p a	293		s !í/i i p a	far
+228	Aguaruna	atuʃat	atuʃat	far	a t ʊ ʃ a t	290		a t ʊ ʃ a t	
+366	Arabela	tukwakaanu	tukwakaanu	far	t u k ua k aː n u	291		t u k ua k aː n u	
+496	Candoshi-Shapra	aɾapi	aɾapi	far	a ɾ a p i	292		a ɾ a p i	
+608	Muniche	tihna	tihna	far	t i h n a	294		t i h n a	
+728	Taushiro	ɨʔiwan	ɨʔiwan	far	ɨ ʔ i w a n	297		ɨ ʔ i w a n	
+843	Waorani	goobæ	goobæ	far	g o o b æ	298		g o o b æ	
+1294	AchuarShiwiar	arák	arák	far	a r !á/a k	289		a r !á/a k	Because of order of the entries: téjchau
+1608	Shiwilu	wi	wi	far	w i	295		w i	
+1788	Shuar	yajá	yajá	far	j a h !á/a	296		j a h !á/a	
+2089	Zaparo	taikwa	taikwa	far	t a i kʷ a	299		t a i kʷ a	
+#
+43	Iquito	wíira	wíira	fat (organic substance)	w !í/i i r a	304		w !í/i i r a	or grease
+241	Aguaruna	wija	wija	fat (organic substance)	w i j a	301		w i j a	
+378	Arabela	kaɾaaka	kaɾaaka	fat (organic substance)	k a ɾ aː k a	302		k a ɾ aː k a	
+738	Taushiro	iʔxah	iʔxah	fat (organic substance)	i ʔ x a h	306		i ʔ x a h	
+856	Waorani	ogĩje	ogĩje	fat (organic substance)	o g i ∼ j e	307		o g i ∼ j e	
+1091	Bora	tɯ́ɯ́rɯ-pa	tɯ́ɯ́rɯ-pa	fat (organic substance)	t !ɯ́/ɯ !ɯ́/ɯ r ɯ p a	303		t !ɯ́/ɯ !ɯ́/ɯ r ɯ p a	
+1092	Muinane	dɨ́ɨrɨ-ba	dɨ́ɨrɨ-ba	fat (organic substance)	d !ɨ́/ɨ ɨ r ɨ b a	303		d !ɨ́/ɨ ɨ r ɨ b a	
+1295	AchuarShiwiar	mácha	mácha	fat (organic substance)	m !á/a tʃ a	300		m !á/a tʃ a	
+1609	Shiwilu	iyadek	iyadek	fat (organic substance)	i j a ð ə ˀk	305		i j a ð ə ˀk	
+#
+44	Iquito	akɨ	akɨ	father	a k ɨ	309		- a k ɨ	father
+981	Bora	ʧiʔíjo	ʧiʔíjo	father	tʃ i ʔ !í/i j o	310		tʃ i ʔ !í/i j o	
+982	Bora	kʰaani	kʰaani	father	kʰ a a n i	317		kʰ a a n i	
+983	Muinane	gíʔírubi	gíʔírubi	father	g !í/i ʔ !í/i r u b i	312		g !í/i ʔ !í/i r u b i	
+984	Muinane	kááni	kááni	father	k !á/a !á/a n i	317		k !á/a !á/a n i	
+1296	AchuarShiwiar	páachir	páachir	father	p !á/a a tʃ i r	308		p !á/a a tʃ i r	Phonological alternation: ápar,apáachir
+1457	Andoa	kwakí	kwakí	father	kʷ a k !í/i	309		kʷ a k !í/i	
+1502	Canichana	eu-tishi	eu-tishi	father	e u t i ʃ i	311		e u t i ʃ i	eu = 1SG
+1610	Shiwilu	tata	tata	father	t a t a	313		t a t a	
+1789	Shuar	apa̠	apa̠	father	a p a ∼	314		a p a ∼	
+2033	Yameo	ī́yē̠	ī́yē̠	father	!ī́/i j !ē̠/e	315		!ī́/i j !ē̠/e	Tessmann: Vater
+2090	Zaparo	kumanu	kumanu	father	k u m a n u	316		k u m a n u	
+#
+46	Iquito	kajasi	kajasi	feather (larger feathers rather than down)	k a h a ʃ	323		k a h a ʃ	feather
+229	Aguaruna	uhɨ	uhɨ	feather (larger feathers rather than down)	ʊ h ɨ	318		ʊ h ɨ	
+367	Arabela	kaj̃asu	kaj̃asu	feather (larger feathers rather than down)	k a j̃ a s u	319		k a j̃ a s u	
+497	Candoshi-Shapra	poɾo	poɾo	feather (larger feathers rather than down)	p o ɾ o	321		p o ɾ o	
+609	Muniche	tʃitna	tʃitna	feather (larger feathers rather than down)	tʃ i t n a	324		tʃ i t n a	
+729	Taushiro	ɲahan	ɲahan	feather (larger feathers rather than down)	ɲ a h a n	326		ɲ a h a n	
+844	Waorani	õõbã	õõbã	feather (larger feathers rather than down)	o ∼ o ∼ b a ∼	327		o ∼ o ∼ b a ∼	
+1095	Bora	ɨ́ʔhɨne	ɨ́ʔhɨne	feather (larger feathers rather than down)	!ɨ́/ɨ ʔ h ɨ n e	320		!ɨ́/ɨ ʔ h - ɨ n e	
+1096	Muinane	íhéene	íhéene	feather (larger feathers rather than down)	!í/i h !é/e e n e	320		!í/i h - !é/e e n e	
+1298	AchuarShiwiar	úre	úre	feather (larger feathers rather than down)	!ú/u r ɨ	318		!ú/u r ɨ	
+1458	Andoa	kajáso	kajáso	feather (larger feathers rather than down)	k a h !á/a s o	319		k a h !á/a s o	
+1503	Canichana	mim-colli	mim-colli	feather (larger feathers rather than down)	m i m k o ʎ i	322		m i m k o ʎ i	
+1612	Shiwilu	anpulu’	anpulu’	feather (larger feathers rather than down)	a m b u l u ʔ	325		a m b u l u ʔ	
+2092	Zaparo	kahaakwa	kahaakwa	feather (larger feathers rather than down)	k a h aː kʷ a	319		k a h aː kʷ a	
+#
+47	Iquito	jɨɨ́timijaarika	jɨɨ́timijaarika	few	h !ɨɨ́/ɨː t i m i h aː r i k a	333		h !ɨɨ́/ɨː t i m i h aː r i k a	a few
+48	Iquito	jɨɨ́tipɨjaarika	jɨɨ́tipɨjaarika	few	h !ɨɨ́/ɨː t i p ɨ h aː r i k a	333		h !ɨɨ́/ɨː t i p ɨ h aː r i k a	a few
+230	Aguaruna	uhumak	uhumak	few	ʊ h ʊ m a k	329		ʊ h ʊ m a k	
+368	Arabela	ʃiitianijoj̃ua	ʃiitianijoj̃ua	few	ʃ iː t i a n i j o j̃ u a	330		ʃ iː t i a n i j o j̃ u a	
+498	Candoshi-Shapra	paktʃi	paktʃi	few	p a k tʃ i	331		p a k tʃ i	
+730	Taushiro	atʃintuhiɾo	atʃintuhiɾo	few	a tʃ i n t u h i ɾ o	336		a tʃ i n t u h i ɾ o	
+845	Waorani	wædæ̃ke	wædæ̃ke	few	w æ d æ ∼ k e	337		w æ d æ ∼ k e	
+1299	AchuarShiwiar	untsúrinchu	untsúrinchu	few	u n ts !ú/u r i n tʃ u	328		u n ts !ú/u r i n tʃ u	Phonological variation: untsúrinchau
+1504	Canichana	mehumache	mehumache	few	m e h u m a tʃ e	332		m e h u m a tʃ e	
+1613	Shiwilu	ñi enpu’ni	ñi enpu’ni	few	ɲ i ə m b u ʔ n i	335		ɲ i ə m b u ʔ n i	
+1981	Omurano	atatī́u	atatī́u	few	a t a t !ī́/i u	334		a t a t !ī́/i u	Tessmann: wenig
+2060	Yameo	tekar paṛinṛe	tekar paṛinṛe	few	t e k a r p a !ṛ/r i n !ṛ/r e	338		t e k a r p a !ṛ/r i n !ṛ/r e	Tessmann: wenig
+#
+50	Iquito	ijakɨ́ɨni	ijakɨ́ɨni	fire	i h a k !ɨ́/ɨ ɨ ɲ	345		i h a k !ɨ́/ɨ ɨ ɲ	fire
+231	Aguaruna	hii_kɨɨku	hii_kɨɨku	fire	h iː k ɨː k ʊ	340		h iː k ɨː k ʊ	
+369	Arabela	mani	mani	fire	m a n i	341		- m a n i	
+499	Candoshi-Shapra	somaasi	somaasi	fire	s o m aː s i	343		s o m aː s i	
+610	Muniche	tʃusɨ	tʃusɨ	fire	tʃ u s ɨ	346		tʃ u s ɨ	
+731	Taushiro	hontoʔ	hontoʔ	fire	h o n t o ʔ	349		h o n t o ʔ	
+846	Waorani	gõga	gõga	fire	g o ∼ g a	351		g o ∼ g a	
+994	Bora	kʰɯ́ɯ́hɯ-kʷa	kʰɯ́ɯ́hɯ-kʷa	fire	kʰ !ɯ́/ɯ !ɯ́/ɯ h ɯ kʷ a	342		kʰ !ɯ́/ɯ !ɯ́/ɯ h ɯ kʷ a -	
+995	Muinane	kɨ́ɨhɨ-gai	kɨ́ɨhɨ-gai	fire	k !ɨ́/ɨ ɨ h ɨ g a i	342		k !ɨ́/ɨ ɨ h ɨ g a i	
+1301	AchuarShiwiar	ji	ji	fire	h i	339		h i	
+1459	Andoa	omaní	omaní	fire	o m a n !í/i	341		o m a n !í/i	
+1505	Canichana	ni-chucu	ni-chucu	fire	n i tʃ u k u	344		n i tʃ u k u	ni = ABS
+1614	Shiwilu	pen	pen	fire	pˀ ə n	348		pˀ ə n	
+1792	Shuar	ji	ji	fire	h i	339		h i	
+1937	Omurano	ínjo	ínjo	fire	!í/i ɲ o	347		!í/i ɲ o	Tessmann: Feuer
+1997	Tequiraca	yaha̯ó̄n̊	yaha̯ó̄n̊	fire	j a h !a̯/a !ó̄/o !n̊/n	350		j a h !a̯/a !ó̄/o !n̊/n	Tessmann: Feuer
+2009	Yameo	ō̠lĕ̠	ō̠lĕ̠	fire	!ō̠/o l !ĕ̠/e	352		!ō̠/o l !ĕ̠/e	Tessmann: Feuer
+#
+51	Iquito	paápaaraja	paápaaraja	fish	p a !á/a p aː r a h a	357		p a !á/a p aː r a h a	fish (general term)
+232	Aguaruna	namak	namak	fish	n a m a k	353		n a m a k	
+370	Arabela	sapitiaaj̃a	sapitiaaj̃a	fish	s a p i t i aː j̃ a	355		s a p i t i aː j̃ a	
+611	Muniche	ima	ima	fish	i m a	358		- i m a	
+847	Waorani	gæjæ	gæjæ	fish	g æ j æ	361		g æ j æ	
+1302	AchuarShiwiar	namák	namák	fish	n a m !á/a k	353		n a m !á/a k	
+1460	Andoa	imyáno	imyáno	fish	i m j !á/a n o	354		i m j !á/a n o	
+1506	Canichana	ni-cacu	ni-cacu	fish	n i k a k u	356		n i k a k u	ni = ABS
+1615	Shiwilu	samer	samer	fish	s a m ə ɾ	359		s a m ə ɾ	
+1793	Shuar	jarump’	jarump’	fish	h a r u m p i	360		h a r u m p i	Because of order of entries, here are the variants: kasur,kuserú
+1961	Omurano	mā́ma	mā́ma	fish	m !ā́/a m a	358		m !ā́/a m a	Tessmann: Fisch
+2036	Yameo	amī́n̊	amī́n̊	fish	a m !ī́/i !n̊/n	362		a m !ī́/i !n̊/n	Tessmann: Fisch
+#
+233	Aguaruna	uwɨha_amua	uwɨha_amua	five	ʊ w ɨ h a a m ʊ a	364		ʊ w ɨ h a a m ʊ a	
+500	Candoshi-Shapra	kowiʂ_ptʃiaɾo	kowiʂ_ptʃiaɾo	five	k o w i ʂ p tʃ i a ɾ o	366		k o w i ʂ p tʃ i a ɾ o	
+612	Muniche	tsaaʃowa	tsaaʃowa	five	ts a a ʃ o w a	367		ts a a ʃ o w a	
+732	Taushiro	uʔkontawa	uʔkontawa	five	u ʔ k o n t a w a	370		u ʔ k o n t a w a	
+848	Waorani	õdõpo_æ̃bæ̃poke	õdõpo_æ̃bæ̃poke	five	o ∼ d o ∼ p o æ ∼ b æ ∼ p o k e	371		o ∼ d o ∼ p o æ ∼ b æ ∼ p o k e	
+1040	Bora	ʦʰá-ʔohʦʰɨ́	ʦʰá-ʔohʦʰɨ́	five	tsʰ !á/a ʔ o h tsʰ !ɨ́/ɨ	365		tsʰ !á/a ʔ o h tsʰ !ɨ́/ɨ	
+1041	Muinane	sa-ʔúse	sa-ʔúse	five	s a ʔ !ú/u s e	365		s a ʔ !ú/u - s e	
+1303	AchuarShiwiar	jũ ũwé̃jka mash	jũ ũwé̃jka mash	five	h u ∼ u ∼ w !é/ɨ ∼ h k a m a ʃ	363		h u ∼ u ∼ w !é/ɨ ∼ h k a m a ʃ	
+1616	Shiwilu	alei’teklun	alei’teklun	five	a l ə i ʔ tˀ ə k l u n	369		a l ə i ʔ tˀ ə k l u n	
+1983	Omurano	or̥ar̥ápa	or̥ar̥ápa	five	o !r̥/r a !r̥/r !á/a p a	368		o !r̥/r a !r̥/r !á/a p a	Tessmann: fünf
+2062	Yameo	piški (Ket.)	piški	five	p i ʃ k i	372		p i ʃ k i	Tessmann: fünf
+#
+55	Iquito	itiyɨki	itiyɨki	flower	i t i j ɨ k i	377		i t i j ɨ k i	a flower
+234	Aguaruna	jagkug	jagkug	flower	j a g k ʊ g	373		j a g k ʊ g -	
+371	Arabela	ʃuu	ʃuu	flower	ʃ uː	374		ʃ uː	
+501	Candoshi-Shapra	tʃapo	tʃapo	flower	tʃ a p o	375		tʃ a p o	
+613	Muniche	tʃatʃapɨʔɨ	tʃatʃapɨʔɨ	flower	tʃ a tʃ a p ɨ ʔ ɨ	378		tʃ a tʃ a p ɨ ʔ ɨ	
+733	Taushiro	awanɨʔkɨ	awanɨʔkɨ	flower	a w a n ɨ ʔ k ɨ	380		a w a n ɨ ʔ k ɨ	
+849	Waorani	õgaĩ	õgaĩ	flower	o ∼ g a i ∼	381		o ∼ g a i ∼	
+1305	AchuarShiwiar	yangkúr	yangkúr	flower	j a ŋ k !ú/u r	373		j a ŋ k !ú/u r -	
+1507	Canichana	ni-platsu	ni-platsu	flower	n i p l a ts u	376		n i p l a ts u	ni = ABS
+1618	Shiwilu	danku	danku	flower	ð a n g u	379		ð a n g u	
+1796	Shuar	yankuj’	yankuj’	flower	j a nˠ k u h i	373		j a nˠ k u h i	
+2046	Yameo	sisắ	sisắ	flower	s i s !ắ/a	382		s i s !ắ/a	Tessmann: Blume
+2094	Zaparo	nukawiku	nukawiku	flower	n u k a w i k u	383		n u k a w i k u	
+#
+57	Iquito	panakaja	panakaja	fog	p a n a k a h a	386		p a n a k a h a	mist or falling damp
+1149	Bora	ohʦʰó	ohʦʰó	fog	o h tsʰ !ó/o	385		o h tsʰ !ó/o -	
+1150	Muinane	súɨ	súɨ	fog	s !ú/u ɨ	385		- - s !ú/u ɨ	
+1307	AchuarShiwiar	yurángkim	yurángkim	fog	j u r !á/a ŋ k i m	384		j u r !á/a ŋ k i m	
+1798	Shuar	yuránkim	yuránkim	fog	j u r !á/a nˠ k i m	384		j u r !á/a nˠ k i m	
+#
+58	Iquito	tiitiwa	tiitiwa	foot	t iː t i w a	392		t iː t i w a	foot (plural)
+236	Aguaruna	dawɨ	dawɨ	foot	d a w ɨ	387		d a w ɨ -	
+373	Arabela	niowaka	niowaka	foot	n i o w a k a	388		n i o w a k a	
+503	Candoshi-Shapra	kotsitʃ	kotsitʃ	foot	k o ts i tʃ	390		k o ts i tʃ	
+615	Muniche	htatɨnɨ	htatɨnɨ	foot	h t a t ɨ n ɨ	393		h t a t ɨ n ɨ	
+851	Waorani	õdõwa	õdõwa	foot	o ∼ d o ∼ w a	396		o ∼ d o ∼ w a	
+967	Bora	htʰɯ́-ʔaá	htʰɯ́-ʔaá	foot	h tʰ !ɯ́/ɯ ʔ a !á/a	389		h tʰ !ɯ́/ɯ ʔ a !á/a	
+968	Muinane	tɨ́-ʔai	tɨ́-ʔai	foot	t !ɨ́/ɨ ʔ a i	389		- t !ɨ́/ɨ ʔ a i	
+1308	AchuarShiwiar	náwẽ	náwẽ	foot	n !á/a w ɨ ∼	387		n !á/a w ɨ ∼	
+1508	Canichana	eu-axts	eu-axts	foot	e u a h ts	391		e u a h ts	eu = 1SG
+1620	Shiwilu	lantek	lantek	foot	l a n d ə ˀk	395		l a n d ə ˀk	
+1799	Shuar	nawe	nawe	foot	n a w e	387		n a w e -	
+1955	Omurano	analṓ̠tθi	analṓ̠tθi	foot	a n a l !ṓ̠/o t θ i	394		a n a l !ṓ̠/o t θ i	Tessmann: Fuß
+2028	Yameo	erē̠šamtínjo̯	erē̠šamtínjo̯	foot	e r !ē̠/e ʃ a m t !í/i ɲ !o̯/o	397		e r !ē̠/e ʃ a m t !í/i ɲ !o̯/o	Tessmann: Fuß
+2096	Zaparo	inyawka	inyawka	foot	i ɲ au k a	398		i ɲ au k a	
+#
+60	Iquito	suwaramaajɨtáami	suwaramaajɨtáami	four	s u w a r a m aː h ɨ t !á/a a m i	403		s u w a r a m aː h ɨ t !á/a a m i	four
+237	Aguaruna	ipak_usumat	ipak_usumat	four	i p a k ʊ s ʊ m a t	400		i p a k ʊ s ʊ m a t	
+374	Arabela	saa_kakweetakaj̃a	saa_kakweetakaj̃a	four	s aː k a k eː t a k a j̃ a	401		s aː k a k eː t a k a j̃ a	
+504	Candoshi-Shapra	iponponaɾo	iponponaɾo	four	i p o n p o n a ɾ o	402		i p o n p o n a ɾ o	
+616	Muniche	tsaʔfa	tsaʔfa	four	ts a ʔ f a	404		ts a ʔ f a	
+734	Taushiro	nɨʔkɨnɨnɨ	nɨʔkɨnɨnɨ	four	n ɨ ʔ k ɨ n ɨ n ɨ	408		n ɨ ʔ k ɨ n ɨ n ɨ	
+852	Waorani	bẽa_go_bẽa	bẽa_go_bẽa	four	b e ∼ a g o b e ∼ a	409		b e ∼ a g o b e ∼ a	
+1309	AchuarShiwiar	chintúk chintúk	chintúk chintúk	four	tʃ i n t !ú/u k tʃ i n t !ú/u k	399		tʃ i n t !ú/u k tʃ i n t !ú/u k	
+1621	Shiwilu	ínkatu’	ínkatu’	four	!í/i n g a t u ʔ	406		!í/i n g a t u ʔ	
+1800	Shuar	aíntiuk	aíntiuk	four	a !í/i n̪ t i u k	407		a !í/i n̪ t i u k	
+1982	Omurano	natsononídza	natsononídza	four	n a ts o n o n !í/i dz a	405		n a ts o n o n !í/i dz a	Tessmann: vier
+2061	Yameo	tšiúskō (Ket.)	tšiúskō	four	tʃ i !ú/u s k !ō/o	410		tʃ i !ú/u s k !ō/o	Tessmann: vier
+#
+62	Iquito	suwáani	suwáani	good	s u w !á/a a ɲ	415		s u w !á/a a ɲ	good
+239	Aguaruna	pɨgkɨg	pɨgkɨg	good	p ɨ g k ɨ g	411		p ɨ g k ɨ g	
+376	Arabela	maninia	maninia	good	m a n i n i a	412		m a n i n i a	
+618	Muniche	tʃu	tʃu	good	tʃ u	416		tʃ u	
+736	Taushiro	jaʔtuʔa	jaʔtuʔa	good	j a ʔ t u ʔ a	419		j a ʔ t u ʔ a	
+854	Waorani	wa	wa	good	w a	420		w a	
+1060	Bora	imí	imí	good	i m !í/i	413		i m !í/i - -	
+1061	Muinane	ími-no	ími-no	good	!í/i m i n o	413		!í/i m i n o	
+1311	AchuarShiwiar	péngker	péngker	good	p !é/ɨ ŋ k ɨ r	411		p !é/ɨ ŋ k ɨ r	
+1510	Canichana	ererets	ererets	good	e ɾ e ɾ e ts	414		e ɾ e ɾ e ts	
+1623	Shiwilu	makanka	makanka	good	m a k a n g a	418		m a k a n g a	
+1803	Shuar	pénker	pénker	good	p !é/e nˠ k e r	411		p !é/e nˠ k e r	
+1984	Omurano	ni'manei	ni'manei	good	n i ʔ m a n e i	417		n i ʔ m a n e i	Tessmann: gut (?)
+2098	Zaparo	wɨtsaka	wɨtsaka	good	w ɨ ts a k a	421		w ɨ ts a k a	
+#
+63	Iquito	iyásììka	iyásììka	grass	i j !á/a s !ì/i !ì/i k a	424		- i j !á/a s !ì/i !ì/i k a	
+240	Aguaruna	dupa	dupa	grass	d ʊ p a	423		d ʊ p a	
+377	Arabela	j̃ijasokwa	j̃ijasokwa	grass	j̃ i j a s o k ua	424		j̃ i j a s - o k ua	
+506	Candoshi-Shapra	tʃiɾitʃiɾi	tʃiɾitʃiɾi	grass	tʃ i ɾ i tʃ i ɾ i	426		tʃ i ɾ i tʃ i ɾ i	
+619	Muniche	mamça	mamça	grass	m a m ç a	428		m a m ç a	
+737	Taushiro	itʃuntuʔ	itʃuntuʔ	grass	i tʃ u n t u ʔ	431		i tʃ u n t u ʔ	
+855	Waorani	gagĩbæ̃	gagĩbæ̃	grass	g a g i ∼ b æ ∼	432		g a g i ∼ b æ ∼	
+1032	Bora	ʦʰóhkʰómɯ-hɨ	ʦʰóhkʰómɯ-hɨ	grass	tsʰ !ó/o h kʰ !ó/o m ɯ h ɨ	425		tsʰ !ó/o h kʰ !ó/o m ɯ h ɨ	
+1033	Muinane	súkkume-he	súkkume-he	grass	s !ú/u k k u m e h e	425		s !ú/u k k u m e h e	
+1312	AchuarShiwiar	nupá̃ã	nupá̃ã	grass	n u p !á/a ∼ a ∼	422		n u p !á/a ∼ a ∼	
+1511	Canichana	nim-hugu	nim-hugu	grass	n i m h u g u	427		n i m h u g u	
+1624	Shiwilu	panpatek	panpatek	grass	p a m b a tˀ ə k	429		p a m b a tˀ ə k	
+1804	Shuar	saák’	saák’	grass	s a !á/a k i	430		s a !á/a k i	
+2099	Zaparo	yawsuka	yawsuka	grass	j au s u k a	424		- - j au s - u k a	
+#
+64	Iquito	nɨyana	nɨyana	green	n ɨ j a n a	439		n ɨ j a n a	green
+242	Aguaruna	samɨkbau	samɨkbau	green	s a m ɨ k b oʊ	434		s a m ɨ k b oʊ	
+379	Arabela	neeɾuuka	neeɾuuka	green	n eː ɾ uː k a	435		n eː ɾ uː k a	
+507	Candoshi-Shapra	kawampana	kawampana	green	k a w a m p a n a	437		k a w a m p a n a	
+857	Waorani	wĩjadæ̃	wĩjadæ̃	green	w i ∼ j a d æ ∼	441		w i ∼ j a d æ ∼	
+1133	Bora	ahtʰʲɯ́βa	ahtʰʲɯ́βa	green	a h tʰʲ !ɯ́/ɯ β a	436		a h tʰʲ !ɯ́/ɯ β - - a	
+1134	Muinane	attʲɨ́βa-no	attʲɨ́βa-no	green	a t tʲ !ɨ́/ɨ β a n o	436		a t tʲ !ɨ́/ɨ β a n o	
+1313	AchuarShiwiar	wingkiá	wingkiá	green	v i ŋ k i !á/a	433		v i ŋ k i !á/a	dark green. Because of order of the entries, this seems to be a phonological variation: kingkiá
+1314	AchuarShiwiar	samék	samék	green	s a m !é/ɨ k	434		s a m !é/ɨ k - -	light green
+1512	Canichana	ni-cchacha	ni-cchacha	green	n i k tʃ a tʃ a	438		n i k tʃ a tʃ a	ni = ABS
+1625	Shiwilu	tankuwawamekpu’a’su’	tankuwawamekpu’a’su’	green	t a n g u w a w a m ə ˀk p u ʔ a ʔ s u ʔ	440		t a n g u w a w a m ə ˀk p u ʔ a ʔ s u ʔ	
+1805	Shuar	sámek	sámek	green	s !á/a m e k	434		s !á/a m e k - -	
+2100	Zaparo	nɨɨka	nɨɨka	green	n ɨː k a	435		n ɨː - - k a	
+#
+1315	AchuarShiwiar	ampúj	ampúj	guts	a m p !ú/u h	442		a m p !ú/u h -	
+1626	Shiwilu	dullin	dullin	guts	ð u ʎ i n	443		ð u ʎ i n	
+1806	Shuar	ámpuje	ámpuje	guts	!á/a m p u h e	442		!á/a m p u h e	
+2101	Zaparo	maraka	maraka	guts	m a r a k a	444		m a r a k a	
+#
+65	Iquito	ririíkɨɨtáani	ririíkɨɨtáani	hair	r i r i !í/i k ɨː t !á/a a ɲ	449		r i r i !í/i k ɨː t !á/a a ɲ	hair
+243	Aguaruna	intaʃ	intaʃ	hair	i n t a ʃ	445		i n t - a ʃ -	
+380	Arabela	muesu	muesu	hair	m u e s u	446		m u e s u	
+508	Candoshi-Shapra	motʃooʂi	motʃooʂi	hair	m o tʃ oː ʂ i	448		m o tʃ oː ʂ i	
+620	Muniche	tʃaçpɨɾa	tʃaçpɨɾa	hair	tʃ a ç p ɨ ɾ a	451		tʃ a ç p ɨ ɾ a	
+739	Taushiro	aʔtʃiʔtʃiʔha	aʔtʃiʔtʃiʔha	hair	a ʔ tʃ i ʔ tʃ i ʔ h a	453		a ʔ tʃ i ʔ tʃ i ʔ h a	
+858	Waorani	okagĩ	okagĩ	hair	o k a g i ∼	454		o k a g i ∼	
+961	Bora	ɨʔ-hɨne	ɨʔ-hɨne	hair	ɨ ʔ h ɨ n e	447		ɨ ʔ h ɨ n e	
+962	Muinane	nígaɨ-hee-ne	nígaɨ-hee-ne	hair	n !í/i g a ɨ h e e n e	450		n !í/i g a ɨ h e e n e	
+1316	AchuarShiwiar	intásh	intásh	hair	i n t !á/a ʃ	445		i n t - !á/a ʃ -	
+1627	Shiwilu	enchek	enchek	hair	ə n dʒ ə ˀk	445		ə n dʒ - ə ˀk -	
+1807	Shuar	intiash’	intiash’	hair	i n̪ t i a ʃ i	445		i n̪ t i a ʃ i	
+1949	Omurano	anána	anána	hair	a n !á/a n a	452		a n !á/a n a	Tessmann: Haar
+2021	Yameo	yana'an̊se	yana'an̊se	hair	j a n a ʔ a !n̊/n s e	455		j a n a ʔ a !n̊/n s e	Tessmann: Haar
+2102	Zaparo	anakɨsu	anakɨsu	hair	a n a k ɨ s u	456		a n a k ɨ s u	
+#
+66	Iquito	kurika	kurika	hand	k u r i k a	462		k u r i k a	hand
+244	Aguaruna	uwɨh	uwɨh	hand	ʊ w ɨ h	458		ʊ w ɨ h	
+381	Arabela	j̃uaaʃikwia	j̃uaaʃikwia	hand	j̃ u aː ʃ i k i a	460		j̃ u aː ʃ i k i a	
+509	Candoshi-Shapra	kowitʃ	kowitʃ	hand	k o w i tʃ	461		k o w i tʃ	
+621	Muniche	htaʔsɨɾa	htaʔsɨɾa	hand	h t a ʔ s ɨ ɾ a	463		h t a ʔ s ɨ ɾ a	
+740	Taushiro	jawa	jawa	hand	j a w a	467		j a w a	
+859	Waorani	õdõpo	õdõpo	hand	o ∼ d o ∼ p o	469		o ∼ d o ∼ p o	
+965	Bora	ʔóhʦʰɨɨ́	ʔóhʦʰɨɨ́	hand	ʔ !ó/o h tsʰ ɨ !ɨ́/ɨ	459		ʔ !ó/o h - tsʰ ɨ !ɨ́/ɨ	
+966	Muinane	úse	úse	hand	!ú/u s e	459		- !ú/u - - s - e	
+1317	AchuarShiwiar	ũwé̃j	ũwé̃j	hand	u ∼ w !é/ɨ ∼ h	457		u ∼ w !é/ɨ ∼ h	
+1461	Andoa	awashí	awashí	hand	a w a ʃ !í/i	459		- a w a ʃ - !í/i	
+1628	Shiwilu	itekla	itekla	hand	i tˀ ə k l a	465		i tˀ ə k l a	
+1808	Shuar	eweje	eweje	hand	e w e h e	466		e w e h e	
+1935	Omurano	(a)na̯óra	na̯óra	hand	n !a̯/a !ó/o r a	464		n !a̯/a !ó/o r a	Tessmann: Hand
+1995	Tequiraca	akokī́wǎ	akokī́wǎ	hand	a k o k !ī́/i w !ǎ/a	468		a k o k !ī́/i w !ǎ/a	Tessmann: Hand
+2103	Zaparo	kuruha	kuruha	hand	k u r u h a	462		k u r u h a	
+#
+67	Iquito	nu=	nu=	he	n u	470		n u	he
+1046	Bora	áánɯɯ́	áánɯɯ́	he	!á/a !á/a n ɯ !ɯ́/ɯ	471		- - !á/a !á/a n ɯ !ɯ́/ɯ	
+1047	Bora	tií-pʲe	tií-pʲe	he	t i !í/i pʲ e	474		t i !í/i pʲ e	
+1048	Muinane	áháanɨ	áháanɨ	he	!á/a h !á/a a n ɨ	471		!á/a h !á/a a n - ɨ	
+1049	Muinane	díi-bo	díi-bo	he	d !í/i i b o	474		d !í/i i b o	
+1318	AchuarShiwiar	ni,áu	ni	he	n i	470		n i	
+1319	AchuarShiwiar	ni,áu	áu	he	!á/a u	473		!á/a u	
+1513	Canichana	enxale	enxale	he	e n h a l e	472		e n h a l e	
+1809	Shuar	au	au	he	au	473		au -	masculine, the feminine form is: nii
+2104	Zaparo	naw	naw	he	n au	470		n au	
+#
+68	Iquito	ánaka	ánaka	head	!á/a n a k a	477		!á/a n - a k a -	head
+245	Aguaruna	buuk	buuk	head	b ʊː k	476		b ʊː k	
+382	Arabela	naka	naka	head	n a k a	477		- n - a k a -	
+510	Candoshi-Shapra	mootʃo	mootʃo	head	m oː tʃ o	478		m oː tʃ o -	
+622	Muniche	ukɨɾa	ukɨɾa	head	u k ɨ ɾ a	480		u k ɨ ɾ a	
+741	Taushiro	nuʔ	nuʔ	head	n u ʔ	482		n u ʔ	
+860	Waorani	okabo	okabo	head	o k a b o	483		o k a b o	
+959	Bora	nííkʷa-ɯ	nííkʷa-ɯ	head	n !í/i !í/i kʷ a ɯ	477		- n !í/i !í/i kʷ a ɯ	
+960	Muinane	níga-ɨ	níga-ɨ	head	n !í/i g a ɨ	477		- n - !í/i g a ɨ	
+1320	AchuarShiwiar	múuk	múuk	head	m !ú/u u k	475		m !ú/u u k -	
+1462	Andoa	anaká	anaká	head	a n a k !á/a	477		a n - a k !á/a -	
+1514	Canichana	eu-cucu	eu-cucu	head	e u k u k u	479		e - u k u k u	eu = 1SG
+1629	Shiwilu	mutu’	mutu’	head	m u t u ʔ	478		m u t u ʔ	
+1810	Shuar	múuka	múuka	head	m !ú/u u k a	475		m !ú/u u k a	
+1934	Omurano	naneyalok	naneyalok	head	n a n e j a l o k	481		n a n e j a l o k	Tessmann: Kopf
+1994	Tequiraca	awarēkě	awarēkě	head	a w a r !ē/e k !ě/e	479		a w a r !ē/e k !ě/e	Tessmann: Kopf
+2105	Zaparo	anaka	anaka	head	a n a k a	477		a n - a k a -	
+#
+70	Iquito	akánataaja	akánataaja	heart	a k !á/a n a t aː h a	489		a k !á/a n a t aː h a	heart
+247	Aguaruna	anɨntai	anɨntai	heart	a n ɨ n t ɛi	484		a n ɨ n t - ɛi	
+384	Arabela	j̃iuuj̃iatenu	j̃iuuj̃iatenu	heart	j̃ i uː j̃ i a t e n u	485		j̃ i uː j̃ i a t e n u	
+512	Candoshi-Shapra	maŋko	maŋko	heart	m a ŋ k o	487		m a ŋ k o	
+624	Muniche	dɨseɾa	dɨseɾa	heart	d ɨ s e ɾ a	490		d ɨ s e ɾ a	
+743	Taushiro	aʔtantu	aʔtantu	heart	a ʔ t a n t u	492		a ʔ t a n t u	
+862	Waorani	bĩbõ	bĩbõ	heart	b i ∼ b o ∼	493		b i ∼ b o ∼	
+973	Bora	ɨ́ɨ́pɯ-ɯ	ɨ́ɨ́pɯ-ɯ	heart	!ɨ́/ɨ !ɨ́/ɨ p ɯ ɯ	486		- !ɨ́/ɨ !ɨ́/ɨ p ɯ ɯ	
+974	Muinane	héebɨ-ɨ	héebɨ-ɨ	heart	h !é/e e b ɨ ɨ	486		h !é/e e b ɨ ɨ	
+1322	AchuarShiwiar	nintí	nintí	heart	n i n t !í/i	484		- n i n t - !í/i	Phonological alternation: inintí
+1515	Canichana	eu-nimara	eu-nimara	heart	e u n i m a ɾ a	488		e u n i m a ɾ a	eu = 1SG
+1631	Shiwilu	dinlupi	dinlupi	heart	ð i n l u p i	491		ð i n l u p i	
+1812	Shuar	anentái	anentái	heart	a n e n̪ t !á/a i	484		a n e n̪ t !á/a i	
+2107	Zaparo	uihya	uihya	heart	u i hʲ a	494		u i hʲ a	
+#
+71	Iquito	iinana	iinana	heavy	iː n a n a	496		iː n a n - a	heavy
+248	Aguaruna	kihin	kihin	heavy	k i h i n	495		k i h i n	
+385	Arabela	niikwia	niikwia	heavy	n iː k i a	496		- n iː k i a	
+513	Candoshi-Shapra	kajaka	kajaka	heavy	k a j a k a	497		k a j a k a	
+625	Muniche	hɨtsɨtsaʔa	hɨtsɨtsaʔa	heavy	h ɨ ts ɨ ts a ʔ a	498		h ɨ ts ɨ ts a ʔ a	
+863	Waorani	te_ẽbẽ	te_ẽbẽ	heavy	t e e ∼ b e ∼	501		t e e ∼ b e ∼	
+1323	AchuarShiwiar	kíjin	kíjin	heavy	k !í/i h i n	495		k !í/i h i n	Because of order of the entries: méram
+1632	Shiwilu	kuer’a’su’	kuer’a’su’	heavy	kʷ ə ɾ ʔ a ʔ s u ʔ	499		kʷ ə ɾ ʔ a ʔ s u ʔ	
+1813	Shuar	eméram	eméram	heavy	e m !é/e r a m	500		e m !é/e r a m	Because of order of entries, here are the variant: kijín
+2108	Zaparo	inyaka	inyaka	heavy	i ɲ a k a	496		i ɲ a k - a	
+#
+72	Iquito	kiniki	kiniki	here	k i ɲ k i	506		k i ɲ k i	here
+249	Aguaruna	jui	jui	here	j ʊ i	502		j ʊ - - i	
+386	Arabela	nija	nija	here	n i j a	503		n i j a	
+626	Muniche	naneʔe	naneʔe	here	n a n e ʔ e	507		n a n e ʔ e	
+744	Taushiro	aʔɨ	aʔɨ	here	a ʔ ɨ	510		a ʔ ɨ	
+1143	Bora	í-ɲeé-ri	í-ɲeé-ri	here	!í/i ɲ e !é/e r i	504		- !í/i ɲ e !é/e r i	
+1144	Muinane	hi-néé-ri	hi-néé-ri	here	h i n !é/e !é/e r i	504		h i n !é/e !é/e r i	
+1324	AchuarShiwiar	jú̃ni	jú̃ni	here	h !ú/u ∼ n i	502		h !ú/u ∼ n i	
+1516	Canichana	heuniche	heuniche	here	h e u n i tʃ e	505		h e u n i tʃ e	
+1633	Shiwilu	asek	asek	here	a s ə ˀk	509		a s ə ˀk	
+1814	Shuar	juí	juí	here	h u !í/i	502		h u - - !í/i	
+1978	Omurano	ńtalo	ńtalo	here	n t a l o	508		n t a l o	Tessmann: hier
+2055	Yameo	anṹlaṛa	anṹlaṛa	here	a n !ṹ/u ∼ l a !ṛ/r a	511		a n !ṹ/u ∼ l a !ṛ/r a	Tessmann: hier
+2109	Zaparo	ani	ani	here	a n i	512		a n i	Varient: aniti
+#
+75	Iquito	jaátaaraa	jaátaaraa	how	h a !á/a t aː r aː	519		h a !á/a t aː r aː	how
+251	Aguaruna	wahuk	wahuk	how	w a h ʊ k	514		w a h ʊ k	
+388	Arabela	j̃ijano	j̃ijano	how	j̃ i j a n o	515		j̃ i j a n o	
+515	Candoshi-Shapra	tamaapaɾi	tamaapaɾi	how	t a m aː p a ɾ i	517		t a m aː p a ɾ i	
+628	Muniche	peɾna	peɾna	how	p e ɾ n a	520		p e ɾ n a	
+746	Taushiro	ɨntɨhan	ɨntɨhan	how	ɨ n t ɨ h a n	522		ɨ n t ɨ h a n	
+865	Waorani	æbãdõ_kæte	æbãdõ_kæte	how	æ b a ∼ d o ∼ k æ t e	523		æ b a ∼ d o ∼ k æ t e	
+1141	Bora	mɯʔtɯ	mɯʔtɯ	how	m ɯ ʔ t ɯ	516		m ɯ ʔ t ɯ	
+1142	Muinane	mɨ́ʤɨ	mɨ́ʤɨ	how	m !ɨ́/ɨ dʒ ɨ	516		m !ɨ́/ɨ - dʒ ɨ	
+1327	AchuarShiwiar	itúr	itúr	how	i t !ú/u r	513		i t - !ú/u r	Phonological alternation: itiúr
+1517	Canichana	corissi	corissi	how	k o ɾ i s s i	518		k o ɾ i s s i	
+1635	Shiwilu	ma’pu’su	ma’pu’su	how	m a ʔ p u ʔ s u	521		m a ʔ p u ʔ s u	
+1816	Shuar	itiúr	itiúr	how	i t i !ú/u r	513		i t i !ú/u r	
+2111	Zaparo	tiya	tiya	how	t i j a	524		t i j a	
+#
+77	Iquito	níyaaka	níyaaka	husband	n !í/i j aː k a	528		n !í/i j aː k a	husband
+977	Bora	tʰahɨ	tʰahɨ	husband	tʰ a h ɨ	526		tʰ a h ɨ	
+978	Muinane	táhe	táhe	husband	t !á/a h e	526		t !á/a h e	
+1328	AchuarShiwiar	áishri	áishri	husband	!á/a i ʃ r i	525		!á/a i ʃ r i	
+1518	Canichana	eu-cohti	eu-cohti	husband	e u k o h t i	527		e u k o h t i	eu = 1SG . This form translates to ‘marido’ (which makes reference to the living together/apart distinction): eu-cihiti
+1637	Shiwilu	suda	suda	husband	s u ð a	530		s u ð a	
+1818	Shuar	áish	áish	husband	!á/a i ʃ	531		!á/a i ʃ	
+1958	Omurano	njiwā́na	njiwā́na	husband	ɲ i w !ā́/a n a	529		ɲ i w !ā́/a n a	Tessmann: Ehemann
+2031	Yameo	ilē̠yā́	ilē̠yā́	husband	i l !ē̠/e j !ā́/a	532		i l !ē̠/e j !ā́/a	Tessmann: Ehemann
+2112	Zaparo	iryanaw	iryanaw	husband	i rʲ a n au	533		i rʲ a n au	
+#
+253	Aguaruna	ɨʔɨ	ɨʔɨ	if	ɨ ʔ ɨ	535		ɨ ʔ ɨ	
+390	Arabela	maaɾaj̃a	maaɾaj̃a	if	m aː ɾ a j̃ a	536		m aː ɾ a j̃ a	
+867	Waorani	ĩte_baĩ	ĩte_baĩ	if	i ∼ t e b a i ∼	538		i ∼ t e b a i ∼	
+1169	Bora	ʔahʧʰííhʲɯ	ʔahʧʰííhʲɯ	if	ʔ a h tʃʰ !í/i !í/i hʲ ɯ	537		ʔ a h tʃʰ !í/i !í/i hʲ ɯ	
+1170	Muinane	aʧʧihɨ	aʧʧihɨ	if	a tʃ tʃ i h ɨ	537		- a tʃ tʃ - i h ɨ	
+1330	AchuarShiwiar	-ka	-ka	if	k a	534		k a	Phonological alternation: -kia
+1820	Shuar	-ka	-ka	if	k a	534		k a	
+#
+79	Iquito	=jina	=jina	in	h i n a	543		h i n a	in
+254	Aguaruna	initak	initak	in	i n i t a k	540		i n i t a k	
+391	Arabela	ko	ko	in	k o	541		k o	
+868	Waorani	gibõga_kæ̃kadẽ	gibõga_kæ̃kadẽ	in	g i b o ∼ g a k æ ∼ k a d e ∼	544		g i b o ∼ g a k æ ∼ k a d e ∼	
+1165	Bora	pʰaɲe	pʰaɲe	in	pʰ a ɲ e	542		pʰ a ɲ e	
+1166	Muinane	ɸaɲo	ɸaɲo	in	ɸ a ɲ o	542		ɸ a ɲ o	
+1331	AchuarShiwiar	-num	-num	in	n u m	539		n u m	Phonological alternation: -nam
+1640	Shiwilu	=k	=k	in	k	541		k -	
+1821	Shuar	-nam	-nam	in	n a m	539		n a m	With consonant-ending nouns
+1822	Shuar	-num	-num	in	n u m	539		n u m	With vowel-ending nouns
+2114	Zaparo	=hinya	=hinya	in	h i ɲ a	543		h i ɲ a	
+#
+82	Iquito	iniyáani	iniyáani	lake	i ɲ j !á/a a ɲ	547		i ɲ j !á/a a ɲ	such as a river or lake
+1334	AchuarShiwiar	mamús	mamús	lake	m a m !ú/u s	545		m a m !ú/u s	
+1521	Canichana	ni-hsiph	ni-hsiph	lake	n i h s i p h	546		n i h s i p h	ni = ABS
+1643	Shiwilu	senna	senna	lake	s ə n n a	548		s ə n n a	
+2117	Zaparo	nakɨtɨrɨka	nakɨtɨrɨka	lake	n a k ɨ t ɨ r ɨ k a	549		n a k ɨ t ɨ r ɨ k a	
+#
+84	Iquito	íimɨ	íimɨ	leaf	!í/i i m ɨ	555		!í/i i m ɨ	leaf
+85	Iquito	naamɨ	naamɨ	leaf	n aː m ɨ	551		- n - - aː - m - ɨ	leaf
+257	Aguaruna	duka	duka	leaf	d ʊ k a	550		d ʊ k a	
+394	Arabela	j̃aamasu	j̃aamasu	leaf	j̃ aː m a s u	552		j̃ aː m a s u	
+519	Candoshi-Shapra	waaɾo	waaɾo	leaf	w aː ɾ o	553		w aː ɾ o	
+632	Muniche	tʃatui	tʃatui	leaf	tʃ a t u i	556		tʃ a t u i	
+748	Taushiro	awaʔja	awaʔja	leaf	a w a ʔ j a	559		a w a ʔ j a	
+871	Waorani	õjabo	õjabo	leaf	o ∼ j a b o	560		o ∼ j a b o	
+1022	Bora	ʔáámɨɨ́	ʔáámɨɨ́	leaf	ʔ !á/a !á/a m ɨ !ɨ́/ɨ	551		- ʔ - - !á/a !á/a m ɨ !ɨ́/ɨ	
+1023	Muinane	áame	áame	leaf	!á/a a m e	551		- - - - !á/a a m - e	
+1024	Bora	ɨ́naʔáámɨ	ɨ́naʔáámɨ	leaf	!ɨ́/ɨ n a ʔ !á/a !á/a m ɨ	551		!ɨ́/ɨ n a ʔ !á/a !á/a m - ɨ	
+1025	Muinane	áame	áame	leaf	!á/a a m e	551		- - - - !á/a a m - e	
+1336	AchuarShiwiar	núka	núka	leaf	n !ú/u k a	550		n !ú/u k a	
+1464	Andoa	naamé	naamé	leaf	n aː m !é/e	551		- n - - aː - m - !é/e	
+1523	Canichana	em-tixle	em-tixle	leaf	e m t i h l e	554		e m t i h l e	
+1645	Shiwilu	lalumek	lalumek	leaf	l a l u m ə ˀk	558		l a l u m ə ˀk	
+1825	Shuar	nuka	nuka	leaf	n u k a	550		n u k a	
+1969	Omurano	ápai	ápai	leaf	!á/a p a i	557		!á/a p a i	Tessmann: Blatt
+2045	Yameo	nin̊ɣū́n̊	nin̊ɣū́n̊	leaf	n i !n̊/n ɣ !ū́/u !n̊/n	561		n i !n̊/n ɣ !ū́/u !n̊/n	Tessmann: Blatt
+2119	Zaparo	uɨmɨ	uɨmɨ	leaf	u ɨ m ɨ	555		u ɨ m ɨ	
+#
+86	Iquito	jaámɨɨkiji	jaámɨɨkiji	left (hand)	h a !á/a m ɨː k i h i	566		h a !á/a m ɨː k i h i	left side
+258	Aguaruna	mɨna	mɨna	left (hand)	m ɨ n a	562		m ɨ n a	
+395	Arabela	muenekaɾa	muenekaɾa	left (hand)	m u e n e k a ɾ a	563		m u e n e k a ɾ a	
+520	Candoshi-Shapra	mpaʂinoŋktʃi	mpaʂinoŋktʃi	left (hand)	m p a ʂ i n o ŋ k tʃ i	565		m p a ʂ i n o ŋ k tʃ i	
+872	Waorani	dipæ̃bæ̃ĩdõ	dipæ̃bæ̃ĩdõ	left (hand)	d i p æ ∼ b æ ∼ i ∼ d o ∼	568		d i p æ ∼ b æ ∼ i ∼ d o ∼	
+1200	Bora	náni-ɲéhkʰɯ	náni-ɲéhkʰɯ	left (hand)	n !á/a n i ɲ !é/e h kʰ ɯ	564		n !á/a n i ɲ !é/e h - kʰ ɯ	
+1201	Muinane	nániʔɨgo	nániʔɨgo	left (hand)	n !á/a n i ʔ ɨ g o	564		n !á/a n i - - ʔ ɨ g o	
+1337	AchuarShiwiar	ména	ména	left (hand)	m !é/ɨ n a	562		m !é/ɨ n a	
+1646	Shiwilu	amennan	amennan	left (hand)	a m ə n n a n	567		a m ə n n a n	
+1826	Shuar	mena	mena	left (hand)	m e n a	562		m e n a	
+2058	Yameo	moná̠jŭ	moná̠jŭ	left (hand)	m o n !á̠/a !j/j !ŭ/u	569		m o n !á̠/a !j/j !ŭ/u	Tessmann: links
+#
+87	Iquito	áaja	áaja	leg	!á/a a h a	573		!á/a a h a	leg
+1338	AchuarShiwiar	máku	máku	leg	m !á/a k u	570		m !á/a k u	
+1465	Andoa	inyawaká	inyawaká	leg	i ɲ a w a k !á/a	571		i ɲ a w a k !á/a	
+1524	Canichana	eu-chota	eu-chota	leg	e u tʃ o t a	572		e u tʃ o t a	eu = 1SG
+1647	Shiwilu	kutu’	kutu’	leg	kʷ t u ʔ	574		kʷ t u ʔ	This is the form for the lower part of the leg. The term for the upper parte is: tula
+1827	Shuar	maku	maku	leg	m a k u	570		m a k u	
+2027	Yameo	ilī́	ilī́	leg	i l !ī́/i	575		i l !ī́/i	Tessmann: Bein
+2120	Zaparo	numaha	numaha	leg	n u m a h a	576		n u m a h a	
+#
+89	Iquito	kúwaaja	kúwaaja	liver	k !ú/u w aː h a	578		k !ú/u w aː h a	liver
+260	Aguaruna	akap	akap	liver	a k a p	577		a k a p -	
+397	Arabela	kowaj̃a	kowaj̃a	liver	k o w a j̃ a	578		k o w a j̃ a	
+522	Candoshi-Shapra	ʃipitʃ	ʃipitʃ	liver	ʃ i p i tʃ	580		ʃ i p i tʃ	
+634	Muniche	tʃameɾa	tʃameɾa	liver	tʃ a m e ɾ a	581		tʃ a m e ɾ a	
+750	Taushiro	aʔxu	aʔxu	liver	a ʔ x u	583		a ʔ x u	
+874	Waorani	batæ̃	batæ̃	liver	b a t æ ∼	584		b a t æ ∼	
+1099	Bora	íʔkʷáneé	íʔkʷáneé	liver	!í/i ʔ kʷ !á/a n e !é/e	579		!í/i ʔ kʷ !á/a n e !é/e	
+1100	Muinane	ígano	ígano	liver	!í/i g a n o	579		!í/i - g a n - o	
+1341	AchuarShiwiar	akáp	akáp	liver	a k !á/a p	577		a k !á/a p -	
+1649	Shiwilu	kankan	kankan	liver	k a n g a n	582		k a n g a n	
+1830	Shuar	akape	akape	liver	a k a p e	577		a k a p e	
+2122	Zaparo	kawaha	kawaha	liver	k a w a h a	578		k a w a h a	
+#
+90	Iquito	saana	saana	long	s aː n a	590		s aː n a	long
+261	Aguaruna	ɨsaham	ɨsaham	long	ɨ s a h a m	585		ɨ s a h a m	
+398	Arabela	tukwasu	tukwasu	long	t u k ua s u	586		t u k ua s u	
+523	Candoshi-Shapra	waʂoɾaani	waʂoɾaani	long	w a ʂ o ɾ aː n i	588		w a ʂ o ɾ aː n i	
+635	Muniche	mɨwɨʔʂu	mɨwɨʔʂu	long	m ɨ w ɨ ʔ ʂ u	591		m ɨ w ɨ ʔ ʂ u	
+875	Waorani	dojæ̃	dojæ̃	long	d o j æ ∼	595		d o j æ ∼	
+1085	Bora	kʰááme-ne	kʰááme-ne	long	kʰ !á/a !á/a m e n e	587		kʰ !á/a !á/a m - - e n e	
+1086	Muinane	káámo-βo-no	káámo-βo-no	long	k !á/a !á/a m o β o n o	587		k !á/a !á/a m o β o n o	
+1342	AchuarShiwiar	sáram	sáram	long	s !á/a r a m	585		- s !á/a r a m	The first form here seems to be a bit more restricted and the second form is a phonological aternation: japiáng,esáram
+1526	Canichana	clatse	clatse	long	k l a ts e	589		k l a ts e	
+1650	Shiwilu	shinsu’	shinsu’	long	ʃ i n s u ʔ	593		ʃ i n s u ʔ	
+1831	Shuar	táinkiasip	táinkiasip	long	t !á/a i nˠ k i a s i p	594		t !á/a i nˠ k i a s i p	Because of more semantic complexity, here is the variant: ésaram
+1975	Omurano	ðaḗ̠ma	ðaḗ̠ma	long	ð a !ḗ̠/e m a	592		ð a !ḗ̠/e m a	Tessmann: lang
+2052	Yameo	pṛē̠alŭ́	pṛē̠alŭ́	long	p !ṛ/r !ē̠/e a l !ŭ́/u	596		p !ṛ/r !ē̠/e a l !ŭ́/u	Tessmann: lang
+2123	Zaparo	saaka	saaka	long	s aː k a	590		s aː k a	
+#
+91	Iquito	sikwanaja	sikwanaja	louse	ʃ kʷ a n a h a	598		ʃ - kʷ a n a h a	louse
+262	Aguaruna	tɨma	tɨma	louse	t ɨ m a	597		t ɨ m a -	
+399	Arabela	sukwanaj̃a	sukwanaj̃a	louse	s u k ua n a j̃ a	598		s u k ua n a j̃ a	
+524	Candoshi-Shapra	iisi	iisi	louse	iː s i	600		iː s i	
+636	Muniche	ɲu	ɲu	louse	ɲ u	601		ɲ u	
+751	Taushiro	aʔwltʃa	aʔwltʃa	louse	a ʔ w l tʃ a	602		a ʔ w l tʃ a	
+876	Waorani	kæ̃pæ	kæ̃pæ	louse	k æ ∼ p æ	603		k æ ∼ p æ	
+1018	Bora	kʷááni-ʔʲo	kʷááni-ʔʲo	louse	kʷ !á/a !á/a n i ʔʲ o	599		kʷ !á/a !á/a n i ʔʲ o	
+1019	Muinane	gáaɲi-ʔu	gáaɲi-ʔu	louse	g !á/a a ɲ i ʔ u	599		g !á/a a ɲ i ʔ u	
+1343	AchuarShiwiar	téma	téma	louse	t !é/ɨ m a	597		t !é/ɨ m a -	
+1466	Andoa	sokwanája	sokwanája	louse	s o kʷ a n !á/a h a	598		s o kʷ a n !á/a h a	
+1651	Shiwilu	chimen	chimen	louse	tʃ i m ə n	597		tʃ i m ə n	
+1832	Shuar	tema	tema	louse	t e m a	597		t e m a -	This is the term for louse (in humans). Because of more morphological complexity, here is the variant for louse (in animals): temáish
+2124	Zaparo	sukanawa	sukanawa	louse	s u k a n a w a	598		s u k a n a w a	
+#
+92	Iquito	ikwánì	ikwánì	man (male human)	i kʷ !á/a n !ì/i	607		i kʷ !á/a n !ì/i	
+1344	AchuarShiwiar	áishmang	áishmang	man (male human)	!á/a i ʃ m a ŋ	604		!á/a i ʃ m a ŋ -	
+1467	Andoa	iyaraká	iyaraká	man (male human)	i j a r a k !á/a	605		i j a r a k !á/a	
+1527	Canichana	enacu	enacu	man (male human)	e n a k u	606		e n a k u	
+1652	Shiwilu	enmu’pinen	enmu’pinen	man (male human)	ə n m u ʔ p i n ə n	608		ə n m u ʔ p i n ə n	
+1833	Shuar	áishmank	áishmank	man (male human)	!á/a i ʃ m a nˠ k	604		!á/a i ʃ m a nˠ k	
+#
+93	Iquito	maasiáànà	maasiáànà	many	m aː ʃ !á/a !à/a n !à/a	614		m aː ʃ !á/a !à/a n !à/a	
+263	Aguaruna	kuaʃat	kuaʃat	many	k ʊ a ʃ a t	610		k ʊ a ʃ a t	
+400	Arabela	kweɾaatia	kweɾaatia	many	k e ɾ aː t i a	612		k e ɾ aː t i a	
+637	Muniche	pahtsaʔa	pahtsaʔa	many	p a h ts a ʔ a	615		p a h ts a ʔ a	
+752	Taushiro	hoʔwu	hoʔwu	many	h o ʔ w u	618		h o ʔ w u	
+877	Waorani	dãgĩ	dãgĩ	many	d a ∼ g i ∼	619		d a ∼ g i ∼	
+1083	Bora	mítʰʲa-ne	mítʰʲa-ne	many	m !í/i tʰʲ a n e	613		m !í/i tʰʲ a n e	
+1084	Muinane	mítʲa	mítʲa	many	m !í/i tʲ a	613		m !í/i tʲ - - a	
+1345	AchuarShiwiar	untsúri	untsúri	many	u n ts !ú/u r i	609		u n ts - !ú/u r i	Because of frequence and order of the entries, these are the more general secondary forms (non dialect specific): kuáchat,kuwáchat,chúcha,kúsha
+1468	Andoa	saaniyá	saaniyá	many	s aː n i j !á/a	611		s aː n i j !á/a	
+1653	Shiwilu	wapu’	wapu’	many	w a p u ʔ	617		w a p u ʔ	
+1834	Shuar	untsurí	untsurí	many	u n̪ t s u r !í/i	609		u n̪ t s u r !í/i	
+1980	Omurano	alē̠ē̠ma	alē̠ē̠ma	many	a l !ē̠/e !ē̠/e m a	616		a l !ē̠/e !ē̠/e m a	Tessmann: viele
+2059	Yameo	parī́n̊ṛĕ	parī́n̊ṛĕ	many	p a r !ī́/i !n̊/n !ṛ/r !ĕ/e	620		p a r !ī́/i !n̊/n !ṛ/r !ĕ/e	Tessmann: viele
+2125	Zaparo	manuka	manuka	many	m a n u k a	621		m a n u k a	
+#
+52	Iquito	naasíija	naasíija	meat (flesh)	n aː s !í/i i h a	624		n aː s !í/i i h a	flesh or meat
+1346	AchuarShiwiar	namáng	namáng	meat (flesh)	n a m !á/a ŋ	622		n a m !á/a ŋ - -	
+1528	Canichana	ni-huaka	ni-huaka	meat (flesh)	n i w a k a	623		n i w a k a	ni = ABS
+1654	Shiwilu	chuchu	chuchu	meat (flesh)	tʃ u tʃ u	626		tʃ u tʃ u	
+1835	Shuar	namanke	namanke	meat (flesh)	n a m a nˠ k e	622		n a m a nˠ k e	
+1960	Omurano	aitša	aitša	meat (flesh)	a i tʃ a	625		a i tʃ a	Tessmann: Fleisch
+2035	Yameo	salái	salái	meat (flesh)	s a l !á/a i	627		s a l !á/a i	Tessmann: Fleisch
+2126	Zaparo	ishu	ishu	meat (flesh)	i ʃ u	628		i ʃ u	
+#
+94	Iquito	maámaaja	maámaaja	mother	m a !á/a m aː h a	632		m a !á/a m aː h a	mother
+985	Bora	kʷaʔáro	kʷaʔáro	mother	kʷ a ʔ !á/a r o	630		kʷ a ʔ !á/a r o - -	
+986	Bora	ʦʰɨ́ɨ́hɯ	ʦʰɨ́ɨ́hɯ	mother	tsʰ !ɨ́/ɨ !ɨ́/ɨ h ɯ	635		tsʰ !ɨ́/ɨ !ɨ́/ɨ h ɯ	
+987	Muinane	gáʔárubi	gáʔárubi	mother	g !á/a ʔ !á/a r u b i	630		g !á/a ʔ !á/a r u b i	
+988	Muinane	sééhɨ	sééhɨ	mother	s !é/e !é/e h ɨ	635		s !é/e !é/e h ɨ	
+1347	AchuarShiwiar	núkur	núkur	mother	n !ú/u k u r	629		- n !ú/u k u r	
+1469	Andoa	anokwá	anokwá	mother	a n o kʷ !á/a	629		a n o kʷ !á/a -	
+1529	Canichana	eu-tana	eu-tana	mother	e u t a n a	631		e u t a n a	eu = 1SG
+1655	Shiwilu	awa	awa	mother	a w a	633		a w a	
+1836	Shuar	nuku	nuku	mother	n u k u	629		- n u k u -	
+2034	Yameo	yan̊ū́elö̯	yan̊ū́elö̯	mother	j a !n̊/n !ū́/u e l !ö̯/o	634		j a !n̊/n !ū́/u e l !ö̯/o	Tessmann: Mutter
+2127	Zaparo	anu	anu	mother	a n u	629		a n - - u -	
+#
+264	Aguaruna	nain	nain	mountain	n ɛi n	636		n ɛi - n -	
+638	Muniche	ɾuʔmu	ɾuʔmu	mountain	ɾ u ʔ m u	638		ɾ u ʔ m u	
+753	Taushiro	awowa	awowa	mountain	a w o w a	640		a w o w a	
+878	Waorani	ãdãkidi	ãdãkidi	mountain	a ∼ d a ∼ k i d i	641		a ∼ d a ∼ k i d i	
+1127	Bora	kʷáhɯɯ́	kʷáhɯɯ́	mountain	kʷ !á/a h ɯ !ɯ́/ɯ	637		kʷ !á/a h ɯ !ɯ́/ɯ	
+1128	Bora	páɯɯ́	páɯɯ́	mountain	p !á/a ɯ !ɯ́/ɯ	642		p !á/a ɯ !ɯ́/ɯ	
+1129	Muinane	gáhɨ	gáhɨ	mountain	g !á/a h ɨ	637		g !á/a h - ɨ	
+1130	Muinane	báaɨ	báaɨ	mountain	b !á/a a ɨ	642		b !á/a a ɨ	
+1656	Shiwilu	mutupi	mutupi	mountain	m u t u p i	639		m u t u p i	
+1837	Shuar	náint	náint	mountain	n !á/a i n̪ t	636		n !á/a i n̪ t	
+#
+95	Iquito	itípùmà	itípùmà	mouth	i t !í/i p !ù/u m !à/a	649		i t !í/i p !ù/u m !à/a	
+265	Aguaruna	wɨnu	wɨnu	mouth	w ɨ n ʊ	644		w ɨ n ʊ	
+401	Arabela	ɾupaa	ɾupaa	mouth	ɾ u p aː	645		ɾ u p aː	
+525	Candoshi-Shapra	koko	koko	mouth	k o k o	647		k o k o	
+639	Muniche	pi	pi	mouth	p i	651		p i	
+754	Taushiro	aʔɲantaʔku	aʔɲantaʔku	mouth	a ʔ ɲ a n t a ʔ k u	654		a ʔ ɲ a n t a ʔ k u	
+879	Waorani	õdõde	õdõde	mouth	o ∼ d o ∼ d e	655		o ∼ d o ∼ d e	
+949	Bora	íʔ-hʲɯɯ́	íʔ-hʲɯɯ́	mouth	!í/i ʔ hʲ ɯ !ɯ́/ɯ	646		!í/i ʔ hʲ ɯ !ɯ́/ɯ	
+950	Muinane	íi-hɨ	íi-hɨ	mouth	!í/i i h ɨ	650		!í/i i h ɨ	
+1348	AchuarShiwiar	jángkẽ	jángkẽ	mouth	h !á/a ŋ k ɨ ∼	643		h !á/a ŋ k ɨ ∼	
+1530	Canichana	eu-chene	eu-chene	mouth	e u tʃ e n e	648		e u tʃ e n e	eu = 1SG
+1657	Shiwilu	la’la’	la’la’	mouth	l a ʔ l a ʔ	653		l a ʔ l a ʔ	
+1838	Shuar	wene	wene	mouth	w e n e	644		w e n e	
+1951	Omurano	anar̥á͜u	anar̥á͜u	mouth	a n a !r̥/r au	652		a n a !r̥/r au	Tessmann: Mund
+2023	Yameo	ĭ́pĕ̠	ĭ́pĕ̠	mouth	!ĭ́/i p !ĕ̠/e	656		!ĭ́/i p !ĕ̠/e	Tessmann: Mund
+2128	Zaparo	atupama	atupama	mouth	a t u p a m a	649		a t u p a m a	
+#
+96	Iquito	ɨɨ́yaaka	ɨɨ́yaaka	name	!ɨɨ́/ɨː j aː k a	663		!ɨɨ́/ɨː j aː k a	name
+266	Aguaruna	daahi	daahi	name	d aː h i	658		d aː h i	
+402	Arabela	sesa	sesa	name	s e s a	659		s e s a	
+526	Candoshi-Shapra	sooɾa	sooɾa	name	s oː ɾ a	661		s oː ɾ a	
+640	Muniche	wɨʔcu	wɨʔcu	name	w ɨ ʔ c u	664		w ɨ ʔ c u	
+755	Taushiro	nuʔxu	nuʔxu	name	n u ʔ x u	666		n u ʔ x u	
+880	Waorani	ẽbõwo	ẽbõwo	name	e ∼ b o ∼ w o	667		e ∼ b o ∼ w o	
+1139	Bora	meme	meme	name	m e m e	660		m e m e	
+1140	Muinane	mómo	mómo	name	m !ó/o m o	660		m !ó/o m o	
+1349	AchuarShiwiar	náar	náar	name	n !á/a a r	657		n !á/a a r	
+1531	Canichana	ehu-acu	ehu-acu	name	e h u a k u	662		e h u a k u	
+1658	Shiwilu	llinlli	llinlli	name	ʎ i n ʎ i	665		ʎ i n ʎ i	
+2129	Zaparo	aychaw	aychaw	name	ai tʃ au	668		ai tʃ au	
+#
+97	Iquito	tuukina	tuukina	narrow	t uː k i n a	673		t uː k i n a	narrow
+267	Aguaruna	tsɨhɨg	tsɨhɨg	narrow	ts ɨ h ɨ g	670		ts ɨ h ɨ g	
+403	Arabela	saatiu	saatiu	narrow	s aː t i u	671		s aː t i u	
+756	Taushiro	hoʔwuhiɾo	hoʔwuhiɾo	narrow	h o ʔ w u h i ɾ o	675		h o ʔ w u h i ɾ o	
+881	Waorani	gijæ̃	gijæ̃	narrow	g i j æ ∼	676		g i j æ ∼	
+1173	Bora	ɨɨhɨ́	ɨɨhɨ́	narrow	ɨ ɨ h !ɨ́/ɨ	672		ɨ ɨ h - - !ɨ́/ɨ	
+1174	Muinane	ííhe-ne	ííhe-ne	narrow	!í/i !í/i h e n e	672		!í/i !í/i h e n e	
+1350	AchuarShiwiar	wangkármachu	wangkármachu	narrow	w a ŋ k !á/a r m a tʃ u	669		w a ŋ k !á/a r m a tʃ u	Because of order of the entries: ménaku
+1659	Shiwilu	du’winpu’	du’winpu’	narrow	ð u ʔ w i m b u ʔ	674		ð u ʔ w i m b u ʔ	
+#
+268	Aguaruna	tikihu	tikihu	near	t i k i h ʊ	678		t i k i h ʊ	
+404	Arabela	sejaɾako	sejaɾako	near	s e j a ɾ a k o	679		s e j a ɾ a k o	
+527	Candoshi-Shapra	watsiɾiita	watsiɾiita	near	w a ts i ɾ iː t a	680		w a ts i ɾ iː t a	
+641	Muniche	seɾkaʔna	seɾkaʔna	near	s e ɾ k a ʔ n a	681		s e ɾ k a ʔ n a	
+757	Taushiro	ɨiwanhiɾo	ɨiwanhiɾo	near	ɨ i w a n h i ɾ o	684		ɨ i w a n h i ɾ o	
+882	Waorani	ejekeĩ	ejekeĩ	near	e j e k e i ∼	685		e j e k e i ∼	
+1351	AchuarShiwiar	nintúmas	nintúmas	near	n i n t !ú/u m a s	677		n i n t !ú/u m a s	Phonological alternation: jintiúmas
+1660	Shiwilu	kawi	kawi	near	k a w i	682		k a w i	
+1839	Shuar	tíjiuch’	tíjiuch’	near	t !í/i h i u tʃ i	683		t !í/i h i u tʃ i	
+#
+98	Iquito	ríkiija	ríkiija	neck	r !í/i k iː h a	688		- r !í/i k iː h a	neck
+269	Aguaruna	suwɨ	suwɨ	neck	s ʊ w ɨ	687		s ʊ w ɨ	
+405	Arabela	ɾikwia	ɾikwia	neck	ɾ i k i a	688		- ɾ i k i - a	
+528	Candoshi-Shapra	jaaɾponitʃ	jaaɾponitʃ	neck	j aː ɾ p o n i tʃ	689		j aː ɾ p o n i tʃ	
+642	Muniche	tʃaʂniʔɲe	tʃaʂniʔɲe	neck	tʃ a ʂ n i ʔ ɲ e	690		tʃ a ʂ n i ʔ ɲ e	
+758	Taushiro	ajiwaʔhuʔ	ajiwaʔhuʔ	neck	a j i w a ʔ h u ʔ	693		a j i w a ʔ h u ʔ	
+883	Waorani	õdõbẽka	õdõbẽka	neck	o ∼ d o ∼ b e ∼ k a	694		o ∼ d o ∼ b e ∼ k a	
+1352	AchuarShiwiar	kuntúj	kuntúj	neck	k u n t !ú/u h	686		k u n t !ú/u h	
+1661	Shiwilu	unker	unker	neck	u n g ə ɾ	692		u n g ə ɾ	
+1840	Shuar	kuntuj	kuntuj	neck	k u n̪ t u h	686		k u n̪ t u h	
+1952	Omurano	anaṓni	anaṓni	neck	a n a !ṓ/o n i	691		a n a !ṓ/o n i	Tessmann: Hals
+2024	Yameo	eren̊šamtitená	eren̊šamtitená	neck	e r e !n̊/n ʃ a m t i t e n !á/a	695		e r e !n̊/n ʃ a m t i t e n !á/a	Tessmann: Hals
+2130	Zaparo	arichakwa	arichakwa	neck	a r i tʃ a kʷ a	688		a r i tʃ a kʷ a	
+#
+99	Iquito	saámina	saámina	new	s a !á/a m i n a	700		s a !á/a m i n a	new
+270	Aguaruna	jamaham	jamaham	new	j a m a h a m	696		j a m a h a m	
+406	Arabela	kwiaɾinio	kwiaɾinio	new	k i a ɾ i n i o	697		k i a ɾ i n i o	
+529	Candoshi-Shapra	kaniastʃi	kaniastʃi	new	k a n i a s tʃ i	699		k a n i a s tʃ i	
+643	Muniche	çi	çi	new	ç i	701		ç i	
+759	Taushiro	hiʔna_naʔkɨ	hiʔna_naʔkɨ	new	h i ʔ n a n a ʔ k ɨ	703		h i ʔ n a n a ʔ k ɨ	
+884	Waorani	bĩĩ	bĩĩ	new	b i ∼ i ∼	704		b i ∼ i ∼	
+1137	Bora	péʔ-ne	péʔ-ne	new	p !é/e ʔ n e	698		p !é/e ʔ - n e	
+1138	Muinane	bóʔo-no	bóʔo-no	new	b !ó/o ʔ o n o	698		b !ó/o ʔ o n o	
+1353	AchuarShiwiar	yamáram	yamáram	new	j a m !á/a r a m	696		j a m !á/a r a m	
+1662	Shiwilu	nalu	nalu	new	n a l u	702		n a l u	
+1841	Shuar	yamáram	yamáram	new	j a m !á/a r a m	696		j a m !á/a r a m	
+#
+100	Iquito	niínaki	niínaki	night	ɲ !í/i n a k i	708		ɲ !í/i n a k i	night
+271	Aguaruna	kaʃi	kaʃi	night	k a ʃ i	705		k a ʃ i	
+407	Arabela	niukwa	niukwa	night	n i u k ua	706		n i u k ua	
+644	Muniche	uʔtsa	uʔtsa	night	u ʔ ts a	709		u ʔ ts a	
+760	Taushiro	iʔtʃia	iʔtʃia	night	i ʔ tʃ i a	712		i ʔ tʃ i a	
+885	Waorani	wojowotæ̃	wojowotæ̃	night	w o j o w o t æ ∼	713		w o j o w o t æ ∼	
+1006	Bora	pʰehkʰo	pʰehkʰo	night	pʰ e h kʰ o	707		pʰ e h kʰ o	
+1007	Muinane	ɸúkku	ɸúkku	night	ɸ !ú/u k k u	707		ɸ !ú/u k k u	
+1354	AchuarShiwiar	káshi	káshi	night	k !á/a ʃ i	705		k !á/a ʃ i	
+1663	Shiwilu	utawan	utawan	night	u t a w a n	711		u t a w a n	
+1842	Shuar	kashi	kashi	night	k a ʃ i	705		k a ʃ i	
+1965	Omurano	nṓpei	nṓpei	night	n !ṓ/o p e i	710		n !ṓ/o p e i	Tessmann: Nacht
+2041	Yameo	nkṓ̠o̯ši	nkṓ̠o̯ši	night	n k !ṓ̠/o !o̯/o ʃ i	714		n k !ṓ̠/o !o̯/o ʃ i	Tessmann: Nacht
+2131	Zaparo	ninya	ninya	night	n i ɲ a	708		n i ɲ - - a	
+#
+101	Iquito	najika	najika	nose	n a h i k a	716		n a h i k a	nose
+272	Aguaruna	nuhi	nuhi	nose	n ʊ h i	715		n ʊ h i -	
+408	Arabela	naj̃akwa	naj̃akwa	nose	n a j̃ a k ua	716		n a j̃ a k ua	
+530	Candoshi-Shapra	ʃiipa	ʃiipa	nose	ʃ iː p a	718		ʃ iː p a	
+645	Muniche	ɨʔʂɨ	ɨʔʂɨ	nose	ɨ ʔ ʂ ɨ	720		ɨ ʔ ʂ ɨ	
+761	Taushiro	tantan	tantan	nose	t a n t a n	723		t a n t a n	
+886	Waorani	õdõkado	õdõkado	nose	o ∼ d o ∼ k a d o	724		o ∼ d o ∼ k a d o	
+953	Bora	tʰɯ́-hɯ-ʔo	tʰɯ́-hɯ-ʔo	nose	tʰ !ɯ́/ɯ h ɯ ʔ o	717		tʰ !ɯ́/ɯ h ɯ ʔ o	
+954	Muinane	tɨ́hɨ-ʔu	tɨ́hɨ-ʔu	nose	t !ɨ́/ɨ h ɨ ʔ u	717		t !ɨ́/ɨ h ɨ ʔ u	
+1355	AchuarShiwiar	nújĩ	nújĩ	nose	n !ú/u h i ∼	715		n !ú/u h i ∼	
+1470	Andoa	najúkwa	najúkwa	nose	n a h !ú/u kʷ a	716		n a h !ú/u kʷ a	
+1532	Canichana	eu-xe	eu-xe	nose	e u h e	719		e u h e	
+1664	Shiwilu	nerchek	nerchek	nose	n ə ɾ tʃ ə ˀk	722		n ə ɾ tʃ ə ˀk	
+1843	Shuar	nuji̠	nuji̠	nose	n u h i ∼	715		n u h i ∼	
+1950	Omurano	analáma	analáma	nose	a n a l !á/a m a	721		a n a l !á/a m a	Tessmann: Nase
+2022	Yameo	inĭṛše'á	inĭṛše'á	nose	i n !ĭ/i !ṛ/r ʃ e ʔ !á/a	725		i n !ĭ/i !ṛ/r ʃ e ʔ !á/a	Tessmann: Nase
+2132	Zaparo	nahuka	nahuka	nose	n a h u k a	716		n a h u k a	
+#
+102	Iquito	kaa	kaa	not	k aː	730		k aː	
+273	Aguaruna	atsa	atsa	not	a ts a	726		a ts a	
+409	Arabela	maj̃a	maj̃a	not	m a j̃ a	727		m a j̃ a	
+531	Candoshi-Shapra	nta	nta	not	n t a	729		n t a	
+646	Muniche	apɾa	apɾa	not	a p ɾ a	732		a p ɾ a	
+762	Taushiro	naʔhiɾo	naʔhiɾo	not	n a ʔ h i ɾ o	735		n a ʔ h i ɾ o	
+887	Waorani	wĩĩ	wĩĩ	not	w i ∼ i ∼	736		w i ∼ i ∼	
+1077	Bora	ʦʰáʔaá	ʦʰáʔaá	not	tsʰ !á/a ʔ a !á/a	728		tsʰ !á/a ʔ a !á/a	
+1078	Bora	-tʰɯ	-tʰɯ	not	tʰ ɯ	734		tʰ ɯ	
+1079	Muinane	ʧáʔano	ʧáʔano	not	tʃ !á/a ʔ a n o	731		tʃ !á/a ʔ a n o	
+1080	Muinane	-tɨ	-tɨ	not	t ɨ	734		t ɨ	
+1356	AchuarShiwiar	tsá	tsá	not	ts !á/a	726		- ts !á/a	Phonological alternation: atsá
+1665	Shiwilu	-i'n	-i'n	not	i ʔ n	733		i ʔ n	
+1844	Shuar	-ch	-ch	not	tʃ	734		tʃ -	Because of order of entries, here are the variants: sh,ts
+#
+103	Iquito	kumaku	kumaku	old	k u m a k u	740		k u m a k u	old
+1204	Bora	ʦʰɯ́ɯ́kʰáa-ne	ʦʰɯ́ɯ́kʰáa-ne	old	tsʰ !ɯ́/ɯ !ɯ́/ɯ kʰ !á/a a n e	738		tsʰ !ɯ́/ɯ !ɯ́/ɯ kʰ !á/a a n e	
+1205	Bora	kʰeéme	kʰeéme	old	kʰ e !é/e m e	744		kʰ e !é/e m - - e	
+1206	Muinane	sɨ́kɨ́heʔɨno	sɨ́kɨ́heʔɨno	old	s !ɨ́/ɨ k !ɨ́/ɨ h e ʔ ɨ n o	741		s !ɨ́/ɨ k !ɨ́/ɨ h e ʔ ɨ n o	
+1207	Muinane	kóomobo	kóomobo	old	k !ó/o o m o b o	744		k !ó/o o m o b o	
+1357	AchuarShiwiar	weámrau	weámrau	old	w ɨ !á/a m r a u	737		w ɨ !á/a m r a u	anciano
+1358	AchuarShiwiar	arút	arút	old	a r !ú/u t	743		a r !ú/u t	usado
+1533	Canichana	em-mara	em-mara	old	e m m a ɾ a	739		e m m a ɾ a	
+1666	Shiwilu	taserpi	taserpi	old	t a s ə ɾ p i	742		t a s ə ɾ p i	The form given here is for persons. The form used to refer to things is: user’
+1845	Shuar	arut	arut	old	a r u t	743		a r u t	Because of more morphological complexity (and perhaps also semantic), here is the variant: úuntach’
+#
+104	Iquito	nuúkiika	nuúkiika	one	n u !ú/u k iː k a	750		n u !ú/u k iː k a	one
+274	Aguaruna	makitʃik	makitʃik	one	m a k i tʃ i k	745		m a k i tʃ i k	
+410	Arabela	nikiiɾijatu	nikiiɾijatu	one	n i k iː ɾ i j a t u	746		n i k iː ɾ i j a t u	
+532	Candoshi-Shapra	minamta	minamta	one	m i n a m t a	748		m i n a m t a	
+647	Muniche	wɨʔtsaʔa	wɨʔtsaʔa	one	w ɨ ʔ ts a ʔ a	751		w ɨ ʔ ts a ʔ a	
+763	Taushiro	watʃiʔkanto	watʃiʔkanto	one	w a tʃ i ʔ k a n t o	754		w a tʃ i ʔ k a n t o	
+888	Waorani	adoke	adoke	one	a d o k e	756		a d o k e	
+1036	Bora	ʦʰa-ne	ʦʰa-ne	one	tsʰ a n e	747		tsʰ a - n e	
+1037	Muinane	sáá-no	sáá-no	one	s !á/a !á/a n o	747		s !á/a !á/a n o	
+1359	AchuarShiwiar	kíchik	kíchik	one	k !í/i tʃ i k	745		- - k !í/i tʃ i k	Phonological anternation: chikíchik
+1534	Canichana	merece	merece	one	m e ɾ e k e	749		m e ɾ e k e	
+1667	Shiwilu	ala’sa’	ala’sa’	one	a l a ʔ s a ʔ	753		a l a ʔ s a ʔ	
+1846	Shuar	chikíchik	chikíchik	one	tʃ i k !í/i tʃ i k	745		tʃ i k !í/i tʃ i k	
+1943	Omurano	naθŏ́ro	naθŏ́ro	one	n a θ !ŏ́/o r o	752		n a θ !ŏ́/o r o	Tessmann: eins
+2002	Tequiraca	ismáwa	ismáwa	one	i s m !á/a w a	755		i s m !á/a w a	Tessmann: eins
+2015	Yameo	pwitĕ́r	pwitĕ́r	one	p w i t !ĕ́/e r	757		p w i t !ĕ́/e r	Tessmann: eins
+2133	Zaparo	nukakɨha	nukakɨha	one	n u k a k ɨ h a	758		n u k a k ɨ h a	
+#
+105	Iquito	taana	taana	other	t aː n a	760		t aː n a	other
+275	Aguaruna	tikitʃ	tikitʃ	other	t i k i tʃ	759		t i k i tʃ	
+411	Arabela	tama	tama	other	t a m a	760		t a m a	
+533	Candoshi-Shapra	mino	mino	other	m i n o	762		m i n o	
+648	Muniche	pɨtsɨ	pɨtsɨ	other	p ɨ ts ɨ	763		p ɨ ts ɨ	
+764	Taushiro	jiʔtua	jiʔtua	other	j i ʔ t u a	765		j i ʔ t u a	
+1147	Bora	ʦʰi-hpʰi	ʦʰi-hpʰi	other	tsʰ i h pʰ i	761		tsʰ i h pʰ i	
+1148	Muinane	sí-ɸi	sí-ɸi	other	s !í/i ɸ i	761		s !í/i - ɸ i	
+1360	AchuarShiwiar	kich	kich	other	k i tʃ	759		- - k i tʃ	Phonological alternation: chíkich
+1668	Shiwilu	ali’la	ali’la	other	a l i ʔ l a	764		a l i ʔ l a	
+1847	Shuar	chíkich	chíkich	other	tʃ !í/i k i tʃ	759		tʃ !í/i k i tʃ	
+2134	Zaparo	taka	taka	other	t a k a	760		t a k a	
+#
+106	Iquito	kaaya	kaaya	person	k aː j a	770		k aː j a	person or human being
+276	Aguaruna	aɨnts	aɨnts	person	əɨ n ts	767		əɨ n ts	
+412	Arabela	puejano	puejano	person	p u e j a n o	768		p u e j a n o	
+534	Candoshi-Shapra	tpootsi	tpootsi	person	t p oː ts i	769		t p oː ts i	
+649	Muniche	iwɨʔɨ	iwɨʔɨ	person	i w ɨ ʔ ɨ	771		i w ɨ ʔ ɨ	
+889	Waorani	waokã	waokã	person	w a o k a ∼	773		w a o k a ∼	
+1361	AchuarShiwiar	áints	áints	person	!á/a i n ts	766		!á/a i n ts	
+1471	Andoa	püáno	püáno	person	p ɨ !á/a n o	768		p ɨ - - !á/a n o	
+1848	Shuar	aéntsu	aéntsu	person	a !é/e n̪ t s u	772		a !é/e n̪ t s u	
+2135	Zaparo	kaya	kaya	person	k a j a	770		k a j a	person (zaparo)
+2136	Zaparo	tawɨ	tawɨ	person	t a w ɨ	774		t a w ɨ	non-zaparo person
+#
+111	Iquito	nuusina	nuusina	red	n uː ʃ n a	780		n uː ʃ n a	red
+277	Aguaruna	kapantu	kapantu	red	k a p a n t ʊ	775		k a p a n t ʊ -	
+413	Arabela	naatuuka	naatuuka	red	n aː t uː k a	777		n aː t uː k a	
+650	Muniche	afe	afe	red	a f e	781		a f e	
+765	Taushiro	atʃija	atʃija	red	a tʃ i j a	784		a tʃ i j a	
+890	Waorani	opatawæ̃	opatawæ̃	red	o p a t a w æ ∼	786		o p a t a w æ ∼	
+1131	Bora	tʰɯ́-hpʰa-ɲe	tʰɯ́-hpʰa-ɲe	red	tʰ !ɯ́/ɯ h pʰ a ɲ e	778		tʰ !ɯ́/ɯ h pʰ a - ɲ e	
+1132	Muinane	tɨ́-ɸai-ɲo	tɨ́-ɸai-ɲo	red	t !ɨ́/ɨ ɸ a i ɲ o	778		t !ɨ́/ɨ - ɸ a i ɲ o	
+1366	AchuarShiwiar	kapántin	kapántin	red	k a p !á/a n t i n	775		k a p !á/a n t i n	
+1472	Andoa	nóshki	nóshki	red	n !ó/o ʃ k i	776		n !ó/o ʃ k i	
+1536	Canichana	nim-bitsi	nim-bitsi	red	n i m b i ts i	779		n i m b i ts i	
+1673	Shiwilu	piper	piper	red	p i pˀ ə ɾ	783		p i pˀ ə ɾ	
+1853	Shuar	kapántin	kapántin	red	k a p !á/a n̪ t i n	775		k a p !á/a n̪ t i n	
+1948	Omurano	rav̠ima	rav̠ima	red	r a v i m a	782		r a v i m a	Tessmann: rot
+2007	Tequiraca	taxḗkiǎ	taxḗkiǎ	red	t a x !ḗ/e k i !ǎ/a	785		t a x !ḗ/e k i !ǎ/a	Tessmann: rot
+2020	Yameo	ntelắ	ntelắ	red	n t e l !ắ/a	787		n t e l !ắ/a	Tessmann: rot
+2140	Zaparo	natuka	natuka	red	n a t u k a	777		n a t u k a	
+#
+214	Aguaruna	bɨtɨk	bɨtɨk	right (correct)	b ɨ t ɨ k	788		b ɨ t ɨ k	
+352	Arabela	maninia	maninia	right (correct)	m a n i n i a	789		m a n i n i a	
+829	Waorani	dõ_ĩte	dõ_ĩte	right (correct)	d o ∼ i ∼ t e	791		d o ∼ i ∼ t e	
+1198	Bora	ɨ́mɨáá-ne	ɨ́mɨáá-ne	right (correct)	!ɨ́/ɨ m ɨ !á/a !á/a n e	790		!ɨ́/ɨ m ɨ - !á/a !á/a n e	
+1199	Muinane	míjáá-no	míjáá-no	right (correct)	m !í/i j !á/a !á/a n o	790		- m !í/i j !á/a !á/a n o	
+1367	AchuarShiwiar	métek	métek	right (correct)	m !é/ɨ t ɨ k	788		m !é/ɨ t ɨ k	
+#
+112	Iquito	suwákija	suwákija	right (hand)	s u w !á/a k i h a	797		s u w !á/a k i h a	right side
+278	Aguaruna	untsug	untsug	right (hand)	ʊ n ts ʊ g	793		ʊ n ts - ʊ g	
+414	Arabela	miakwetaj̃a	miakwetaj̃a	right (hand)	m i a k e t a j̃ a	794		m i a k e t a j̃ a	
+535	Candoshi-Shapra	mpotsanoŋktʃi	mpotsanoŋktʃi	right (hand)	m p o ts a n o ŋ k tʃ i	796		m p o ts a n o ŋ k tʃ i	
+766	Taushiro	xohuɨn	xohuɨn	right (hand)	x o h u ɨ n	799		x o h u ɨ n	
+891	Waorani	tõbẽbæ̃ĩdõ	tõbẽbæ̃ĩdõ	right (hand)	t o ∼ b e ∼ b æ ∼ i ∼ d o ∼	800		t o ∼ b e ∼ b æ ∼ i ∼ d o ∼	
+1202	Bora	ɨ́mɨá-néhkʰɯ	ɨ́mɨá-néhkʰɯ	right (hand)	!ɨ́/ɨ m ɨ !á/a n !é/e h kʰ ɯ	795		!ɨ́/ɨ m ɨ - !á/a n !é/e h kʰ - - ɯ	
+1203	Muinane	ímíja-nagono	ímíja-nagono	right (hand)	!í/i m !í/i j a n a g o n o	795		!í/i m !í/i j a n a - g o n o	
+1368	AchuarShiwiar	unsúrinini	unsúrinini	right (hand)	u n s !ú/u r i n i n i	792		u n s !ú/u r i n i n i	
+1674	Shiwilu	ichina	ichina	right (hand)	i tʃ i n a	798		i tʃ i n a	
+1854	Shuar	untsur	untsur	right (hand)	u n̪ t s u r	793		u n̪ t s u r	
+2057	Yameo	marī́n̊'ŭ	marī́n̊'ŭ	right (hand)	m a r !ī́/i !n̊/n ʔ !ŭ/u	801		m a r !ī́/i !n̊/n ʔ !ŭ/u	Tessmann: rechts
+#
+113	Iquito	aatɨ́ɨni	aatɨ́ɨni	river	aː t !ɨ́/ɨ ɨ ɲ	808		aː t !ɨ́/ɨ ɨ ɲ	river
+114	Iquito	nunáani	nunáani	river	n u n !á/a a ɲ	814		n u n !á/a a ɲ	river
+279	Aguaruna	namak	namak	river	n a m a k	803		n a m a k	
+415	Arabela	moo	moo	river	m oː	804		m oː	
+536	Candoshi-Shapra	koŋko	koŋko	river	k o ŋ k o	806		k o ŋ k o	
+651	Muniche	idɨ	idɨ	river	i d ɨ	809		i d ɨ	
+767	Taushiro	wɨi	wɨi	river	w ɨ i	811		w ɨ i	
+892	Waorani	õdõ	õdõ	river	o ∼ d o ∼	812		o ∼ d o ∼	
+991	Bora	tʰeé-ʔi	tʰeé-ʔi	river	tʰ e !é/e ʔ i	805		tʰ e !é/e ʔ i	
+992	Muinane	téé-ʔi	téé-ʔi	river	t !é/e !é/e ʔ i	805		t !é/e !é/e ʔ i	
+993	Muinane	múúai	múúai	river	m !ú/u !ú/u a i	815		m !ú/u !ú/u a i	
+1369	AchuarShiwiar	éntsa	éntsa	river	!é/ɨ n ts a	802		!é/ɨ n ts - a	
+1537	Canichana	nih-cuguxu	nih-cuguxu	river	n i h k u g u h u	807		n i h k u g u h u	ni = ABS
+1675	Shiwilu	siladek	siladek	river	s i l a ð ə ˀk	810		s i l a ð ə ˀk	
+1855	Shuar	entsa	entsa	river	e n̪ t s a	802		e n̪ t s a	
+2141	Zaparo	murichaha	murichaha	river	m u r i tʃ a h a	813		m u r i tʃ a h a	
+#
+115	Iquito	amakɨ	amakɨ	road (or trail)	a m a k ɨ	817		a m a k ɨ	
+1370	AchuarShiwiar	jínta	jínta	road (or trail)	h !í/i n t a	816		h !í/i n t - a	Phonological alternation: jíntia
+1676	Shiwilu	dekkun	dekkun	road (or trail)	ð ə ˀk kʷ n	818		ð ə ˀk kʷ n	
+1856	Shuar	jíntia	jíntia	road (or trail)	h !í/i n̪ t i a	816		h !í/i n̪ t i a	
+2142	Zaparo	nu	nu	road (or trail)	n u	819		n u	
+#
+116	Iquito	anija	anija	root	a ɲ h a	823		a ɲ h a	root (plant
+280	Aguaruna	kagkapɨ	kagkapɨ	root	k a g k a p ɨ	820		k a g k a p ɨ	
+416	Arabela	nuj̃ua	nuj̃ua	root	n u j̃ u a	821		n u j̃ u a	
+652	Muniche	tʃahpɨ	tʃahpɨ	root	tʃ a h p ɨ	824		tʃ a h p ɨ	
+768	Taushiro	oʔtintih	oʔtintih	root	o ʔ t i n t i h	827		o ʔ t i n t i h	
+893	Waorani	gæjæ̃bẽ	gæjæ̃bẽ	root	g æ j æ ∼ b e ∼	828		g æ j æ ∼ b e ∼	
+1026	Bora	páhkʰʲeé	páhkʰʲeé	root	p !á/a h kʰʲ e !é/e	822		p !á/a - - h - kʰʲ e !é/e	
+1027	Muinane	bakóʔoko	bakóʔoko	root	b a k !ó/o ʔ o k o	822		b a k !ó/o ʔ o k - o	
+1371	AchuarShiwiar	kangkáp	kangkáp	root	k a ŋ k !á/a p	820		k a ŋ k !á/a p -	
+1677	Shiwilu	itek	itek	root	i tˀ ə k	826		i tˀ ə k	
+1857	Shuar	kankap	kankap	root	k a nˠ k a p	820		k a nˠ k a p -	
+1970	Omurano	yálĕ'	yálĕ'	root	j !á/a l !ĕ/e ʔ	825		j !á/a l !ĕ/e ʔ	Tessmann: Wurzel
+2047	Yameo	ṛasā́laṇ	ṛasā́laṇ	root	!ṛ/r a s !ā́/a l a !ṇ/n	829		!ṛ/r a s !ā́/a l a !ṇ/n	Tessmann: Wurzel
+2143	Zaparo	tapuka	tapuka	root	t a p u k a	830		t a p u k a	
+#
+117	Iquito	iiyɨɨ	iiyɨɨ	rope	iː j ɨː	835		iː j ɨː	rope or cord of any type
+281	Aguaruna	wasakɨa	wasakɨa	rope	w a s a k ɨ a	832		w a s a k ɨ a	
+417	Arabela	poʃijokwa	poʃijokwa	rope	p o ʃ i j o k ua	833		p o ʃ i j o k ua	
+653	Muniche	wɨhpɨ	wɨhpɨ	rope	w ɨ h p ɨ	836		w ɨ h p ɨ	
+894	Waorani	gægĩkabẽ	gægĩkabẽ	rope	g æ g i ∼ k a b e ∼	838		g æ g i ∼ k a b e ∼	
+1244	Bora	kʷáápʲa-ɯ	kʷáápʲa-ɯ	rope	kʷ !á/a !á/a pʲ a ɯ	834		kʷ !á/a !á/a - pʲ a ɯ	
+1245	Muinane	gáaiba-ɨ	gáaiba-ɨ	rope	g !á/a a i b a ɨ	834		g !á/a a i b a ɨ	
+1372	AchuarShiwiar	chápik	chápik	rope	tʃ !á/a p i k	831		tʃ !á/a p i k	
+1678	Shiwilu	ilallin	ilallin	rope	i l a ʎ i n	837		i l a ʎ i n	
+1858	Shuar	chápic	chápic	rope	tʃ !á/a p i k	831		tʃ !á/a p i k	
+2144	Zaparo	iyawka	iyawka	rope	i j au k a	839		i j au k a	
+#
+118	Iquito	pukina	pukina	rotten (especially log)	p u k i n a	844		p u k i n a	rotten or decayed
+282	Aguaruna	kauhu	kauhu	rotten (especially log)	k oʊ h ʊ	840		k oʊ - h - ʊ	
+418	Arabela	mokweeka	mokweeka	rotten (especially log)	m o k eː k a	841		m o k eː k a	
+537	Candoshi-Shapra	kotʃaaɾi	kotʃaaɾi	rotten (especially log)	k o tʃ aː ɾ i	843		k o tʃ aː ɾ i	
+654	Muniche	tʃtu	tʃtu	rotten (especially log)	tʃ t u	845		tʃ t u	
+769	Taushiro	iʔtʃantɨhɨ	iʔtʃantɨhɨ	rotten (especially log)	i ʔ tʃ a n t ɨ h ɨ	846		i ʔ tʃ a n t ɨ h ɨ	
+895	Waorani	jõbæ̃ĩ	jõbæ̃ĩ	rotten (especially log)	j o ∼ b æ ∼ i ∼	847		j o ∼ b æ ∼ i ∼	
+1190	Bora	tʰóókʰɯ-ne	tʰóókʰɯ-ne	rotten (especially log)	tʰ !ó/o !ó/o kʰ ɯ n e	842		tʰ !ó/o !ó/o kʰ ɯ n e	
+1191	Muinane	túúkɨ-no	túúkɨ-no	rotten (especially log)	t !ú/u !ú/u k ɨ n o	842		t !ú/u !ú/u k ɨ n o	
+1373	AchuarShiwiar	káuru	káuru	rotten (especially log)	k !á/a u r u	840		k !á/a u r - u	
+1473	Andoa	mokwashí	mokwashí	rotten (especially log)	m o kʷ a ʃ !í/i	841		m o kʷ a ʃ !í/i	
+1859	Shuar	kaúrma	kaúrma	rotten (especially log)	k a !ú/u r m a	840		k a !ú/u r m a	
+2145	Zaparo	mukaka	mukaka	rotten (especially log)	m u k a k a	841		m u k a k a	
+#
+120	Iquito	iisaja	iisaja	salt	iː s a h a	849		iː s a h a	salt
+1034	Bora	ɯ́me	ɯ́me	salt	!ɯ́/ɯ m e	850		!ɯ́/ɯ m e	
+1035	Muinane	ɨ́muʔu	ɨ́muʔu	salt	!ɨ́/ɨ m u ʔ u	852		!ɨ́/ɨ m u ʔ u	
+1375	AchuarShiwiar	wee	wee	salt	w ɨ ɨ	848		w ɨ ɨ	
+1474	Andoa	ichojá	ichojá	salt	i tʃ o h !á/a	849		i tʃ o h !á/a	
+1538	Canichana	ne-ulucu	ne-ulucu	salt	n e u l u k u	851		n e u l u k u	ni = ABS
+1680	Shiwilu	damula	damula	salt	ð a m u l a	853		ð a m u l a	
+1861	Shuar	wee	wee	salt	w e e	848		w e e	This is the term for sa; (de vertiente Amazonica). Here is the name for sal (del mar): kachi
+2146	Zaparo	ichahwa	ichahwa	salt	i tʃ a hʷ a	849		i tʃ a hʷ a	
+#
+121	Iquito	kakuti	kakuti	sand	k a k u t i	860		k a k u t i	sand
+283	Aguaruna	kaamatak	kaamatak	sand	k aː m a t a k	855		k aː m a t a k	
+419	Arabela	j̃aakwia	j̃aakwia	sand	j̃ aː k i a	856		j̃ aː k i a	
+538	Candoshi-Shapra	maʂatʃi	maʂatʃi	sand	m a ʂ a tʃ i	858		m a ʂ a tʃ i	
+655	Muniche	smaʔsa	smaʔsa	sand	s m a ʔ s a	861		s m a ʔ s a	
+770	Taushiro	hɨiɲuntuʔ	hɨiɲuntuʔ	sand	h ɨ i ɲ u n t u ʔ	863		h ɨ i ɲ u n t u ʔ	
+896	Waorani	ẽbõdai	ẽbõdai	sand	e ∼ b o ∼ d a i	864		e ∼ b o ∼ d a i	
+1010	Bora	nékʷa-jɯ́ɯ́ʔa	nékʷa-jɯ́ɯ́ʔa	sand	n !é/e kʷ a j !ɯ́/ɯ !ɯ́/ɯ ʔ a	857		- - - n !é/e kʷ a - j !ɯ́/ɯ !ɯ́/ɯ ʔ a -	
+1011	Muinane	híínɨgai-jɨʔai	híínɨgai-jɨʔai	sand	h !í/i !í/i n ɨ g a i j ɨ ʔ a i	857		h !í/i !í/i n ɨ g a i j - ɨ ʔ a i	
+1376	AchuarShiwiar	yayákim	yayákim	sand	j a j !á/a k i m	854		j a j !á/a k i m	Phonological alternation: nayákim,yáikim
+1539	Canichana	melchiga	melchiga	sand	m e l tʃ i g a	859		m e l tʃ i g a	
+1681	Shiwilu	dellu’tek	dellu’tek	sand	ð ə ʎ u ʔ tˀ ə k	862		ð ə ʎ u ʔ tˀ ə k	
+2147	Zaparo	ayawhwa	ayawhwa	sand	a j au hʷ a	865		a j au hʷ a	
+#
+122	Iquito	aríini	aríini	say	a r !í/i i ɲ	872		a r !í/i i ɲ	say
+284	Aguaruna	ɨtʃɨhut	ɨtʃɨhut	say	ɨ tʃ ɨ h ʊ t	867		ɨ tʃ ɨ h ʊ t	
+420	Arabela	sekwenu	sekwenu	say	s e k e n u	868		s e k e n u	
+539	Candoshi-Shapra	taamaama	taamaama	say	t aː m aː m a	870		t aː m aː m a	
+656	Muniche	tʃa	tʃa	say	tʃ a	874		tʃ a	
+897	Waorani	ã	ã	say	a ∼	876		a ∼	
+1123	Bora	ɯɯpáʧe	ɯɯpáʧe	say	ɯ ɯ p !á/a tʃ e	869		ɯ ɯ p !á/a tʃ e	
+1124	Bora	neé	neé	say	n e !é/e	878		n e - - !é/e	
+1125	Muinane	hɨ́ɨ́bege-ʔi	hɨ́ɨ́bege-ʔi	say	h !ɨ́/ɨ !ɨ́/ɨ b e g e ʔ i	873		h !ɨ́/ɨ !ɨ́/ɨ b e g e ʔ i	
+1126	Muinane	néé-ʔi	néé-ʔi	say	n !é/e !é/e ʔ i	878		n !é/e !é/e ʔ i	
+1377	AchuarShiwiar	títin	títin	say	t !í/i t i n	866		t !í/i t i n	
+1540	Canichana	en-assi	en-assi	say	e n a s s i	871		e n a s s i	en = 2SG
+1682	Shiwilu	tapalli	tapalli	say	t a p a ʎ i	870		t a p a ʎ i	
+1862	Shuar	chichá-s	chichá-s	say	tʃ i tʃ !á/a s	875		tʃ i tʃ !á/a s	
+2148	Zaparo	atinyu	atinyu	say	a t i ɲ u	877		a t i ɲ u	
+#
+285	Aguaruna	najants	najants	sea (ocean)	n a j a n ts	880		n a j a n ts -	
+421	Arabela	pueɾeetuuka_ʃoniniakw_kaminia	pueɾeetuuka_ʃoniniakw_kaminia	sea (ocean)	p u e ɾ eː t uː k a ʃ o n i n i a k w k a m i n i a	881		p u e ɾ eː t uː k a ʃ o n i n i a k w k a m i n i a	
+657	Muniche	kotʃa	kotʃa	sea (ocean)	k o tʃ a	883		k o tʃ a	
+771	Taushiro	wɨiʔkɨ_wantɨʔjo	wɨiʔkɨ_wantɨʔjo	sea (ocean)	w ɨ i ʔ k ɨ w a n t ɨ ʔ j o	885		w ɨ i ʔ k ɨ w a n t ɨ ʔ j o	
+898	Waorani	gãwapæ̃_jæ̃dæ̃	gãwapæ̃_jæ̃dæ̃	sea (ocean)	g a ∼ w a p æ ∼ j æ ∼ d æ ∼	886		g a ∼ w a p æ ∼ j æ ∼ d æ ∼	
+1153	Bora	moóa	moóa	sea (ocean)	m o !ó/o a	882		m o !ó/o a -	
+1154	Muinane	múúai	múúai	sea (ocean)	m !ú/u !ú/u a i	882		m !ú/u !ú/u a i	
+1379	AchuarShiwiar	jũũn éntsa	jũũn éntsa	sea (ocean)	h u ∼ u ∼ n !é/ɨ n ts a	879		h u ∼ u ∼ n !é/ɨ n ts a	
+1684	Shiwilu	kupin-sennan	kupin-sennan	sea (ocean)	kʷ p i n s ə n n a n	884		kʷ p i n s ə n n a n	
+1864	Shuar	nayants	nayants	sea (ocean)	n a j a n̪ t s	880		n a j a n̪ t s	
+#
+124	Iquito	nikíini	nikíini	see	ɲ k !í/i i ɲ	889		ɲ - k !í/i i ɲ - -	see
+286	Aguaruna	wainat	wainat	see	w ɛi n a t	888		w ɛi n a t	
+422	Arabela	nikwiniu	nikwiniu	see	n i k i n i u	889		n i k - i n i u	
+540	Candoshi-Shapra	pamaama	pamaama	see	p a m aː m a	891		p a m aː m a	
+658	Muniche	ɲa	ɲa	see	ɲ a	893		ɲ a	
+899	Waorani	a	a	see	a	896		a	
+1105	Bora	ahtʰʲɯ́mɨ	ahtʰʲɯ́mɨ	see	a h tʰʲ !ɯ́/ɯ m ɨ	890		a h tʰʲ !ɯ́/ɯ m ɨ	
+1106	Muinane	áttʲɨ́me-	áttʲɨ́me-	see	!á/a t tʲ !ɨ́/ɨ m e	890		!á/a t tʲ !ɨ́/ɨ m e	
+1380	AchuarShiwiar	jíistin	jíistin	see	h !í/i i s t i n	887		h !í/i i s t i n	Because of order of the entries and examples around it: wáinkatin
+1541	Canichana	au-xar-coivoe	au-xar-coivoe	see	a u h a ɾ k o i v o e	892		a u h a ɾ k o i v o e	au = 1SG
+1685	Shiwilu	lli’apalli	lli’apalli	see	ʎ i ʔ a p a ʎ i	894		ʎ i ʔ a p a ʎ i	
+1865	Shuar	íim-sa	íim-sa	see	!í/i i m s a	895		!í/i i m s a	Because or order of the entries, here is the variant: íi-s
+2150	Zaparo	nukinyu	nukinyu	see	n u k i ɲ u	889		n u k - i ɲ - u	
+#
+125	Iquito	íniijaa	íniijaa	seed	!í/i ɲ i h aː	902		!í/i ɲ i h aː	seed (plural)
+287	Aguaruna	ahakɨ	ahakɨ	seed	a h a k ɨ	898		a h a k ɨ	
+423	Arabela	j̃aj̃au	j̃aj̃au	seed	j̃ a j̃ a u	899		j̃ a j̃ a u	
+541	Candoshi-Shapra	watʃo	watʃo	seed	w a tʃ o	901		w a tʃ o	
+659	Muniche	tʃaʔpɨɾa	tʃaʔpɨɾa	seed	tʃ a ʔ p ɨ ɾ a	903		tʃ a ʔ p ɨ ɾ a	
+772	Taushiro	hiʔ	hiʔ	seed	h i ʔ	905		h i ʔ	
+900	Waorani	tõbẽbõ	tõbẽbõ	seed	t o ∼ b e ∼ b o ∼	906		t o ∼ b e ∼ b o ∼	
+1028	Bora	pahʦʰó-kʷa	pahʦʰó-kʷa	seed	p a h tsʰ !ó/o kʷ a	900		p a h tsʰ !ó/o kʷ a	
+1029	Muinane	basú-ta	basú-ta	seed	b a s !ú/u t a	900		b a - s !ú/u t a	
+1381	AchuarShiwiar	jingkiájĩ	jingkiájĩ	seed	h i ŋ k i !á/a h i ∼	897		h i ŋ k i !á/a h i ∼	
+1686	Shiwilu	lada	lada	seed	l a ð a	904		l a ð a	
+2151	Zaparo	tuicha	tuicha	seed	t u i tʃ a	907		t u i tʃ a	
+#
+127	Iquito	kuukwana	kuukwana	sharp (as knife)	k uː kʷ a n a	912		k uː kʷ a n a	sharp
+288	Aguaruna	ɨtsakamu	ɨtsakamu	sharp (as knife)	ɨ ts a k a m ʊ	909		ɨ ts a k a m ʊ	
+424	Arabela	ɾakotasano	ɾakotasano	sharp (as knife)	ɾ a k o t a s a n o	910		ɾ a k o t a s a n o	
+660	Muniche	sɨni	sɨni	sharp (as knife)	s ɨ n i	913		s ɨ n i	
+901	Waorani	waẽga	waẽga	sharp (as knife)	w a e ∼ g a	915		w a e ∼ g a	
+1185	Bora	ʦʰɯ́ʔhɨ-βá-ne	ʦʰɯ́ʔhɨ-βá-ne	sharp (as knife)	tsʰ !ɯ́/ɯ ʔ h ɨ β !á/a n e	911		tsʰ !ɯ́/ɯ - ʔ h ɨ β !á/a n e	
+1186	Muinane	sɨ́ɨ́héβano	sɨ́ɨ́héβano	sharp (as knife)	s !ɨ́/ɨ !ɨ́/ɨ h !é/e β a n o	911		s !ɨ́/ɨ !ɨ́/ɨ h - !é/e β a n o	
+1383	AchuarShiwiar	ére	ére	sharp (as knife)	!é/ɨ r ɨ	908		!é/ɨ r ɨ	Because of order of the entries: tsákamu
+1688	Shiwilu	denshipa’	denshipa’	sharp (as knife)	ð ə n ʃ i p a ʔ	914		ð ə n ʃ i p a ʔ	
+1867	Shuar	atsákamu	atsákamu	sharp (as knife)	a ts !á/a k a m u	909		a ts !á/a k a m u	
+#
+128	Iquito	takínuurika	takínuurika	short	t a k !í/i n uː r i k a	919		t a k !í/i n uː r i k a	short
+289	Aguaruna	sutag	sutag	short	s ʊ t a g	916		s ʊ t a g - - -	
+425	Arabela	poʃiɾijatu	poʃiɾijatu	short	p o ʃ i ɾ i j a t u	917		p o ʃ i ɾ i j a t u	
+661	Muniche	stɨsta	stɨsta	short	s t ɨ s t a	920		s t ɨ s t a	
+773	Taushiro	ahantaʔkɨhiɾo	ahantaʔkɨhiɾo	short	a h a n t a ʔ k ɨ h i ɾ o	923		a h a n t a ʔ k ɨ h i ɾ o	
+902	Waorani	okaa	okaa	short	o k a a	924		o k a a	
+1181	Bora	páʔríɲeɯ́βɯ́	páʔríɲeɯ́βɯ́	short	p !á/a ʔ r !í/i ɲ e !ɯ́/ɯ β !ɯ́/ɯ	918		p !á/a ʔ - r !í/i ɲ e !ɯ́/ɯ β !ɯ́/ɯ	
+1182	Muinane	báárene	báárene	short	b !á/a !á/a r e n e	918		b !á/a - !á/a r e n e - - -	
+1384	AchuarShiwiar	sútarach	sútarach	short	s !ú/u t a r a tʃ	916		s !ú/u t a r a tʃ -	
+1689	Shiwilu	tunka’sha	tunka’sha	short	t u n g a ʔ ʃ a	922		t u n g a ʔ ʃ a	
+1868	Shuar	sútarach’	sútarach’	short	s !ú/u t a r a tʃ i	916		s !ú/u t a r a tʃ i	Because it is not the most general meaning, here is the variant: sumpit
+1976	Omurano	atatṓi	atatṓi	short	a t a t !ṓ/o i	921		a t a t !ṓ/o i	Tessmann: kurz
+2053	Yameo	nīnlḗ̠ra	nīnlḗ̠ra	short	n !ī/i n l !ḗ̠/e r a	925		n !ī/i n l !ḗ̠/e r a	Tessmann: kurz
+#
+130	Iquito	ajirɨ́ɨ̀nì	ajirɨ́ɨ̀nì	sit	a h i r !ɨ́/ɨ !ɨ̀/ɨ n !ì/i	930		a h i r !ɨ́/ɨ !ɨ̀/ɨ n !ì/i	
+290	Aguaruna	ɨkɨmat	ɨkɨmat	sit	ɨ k ɨ m a t	927		ɨ k ɨ m a t	
+426	Arabela	kaj̃iniu	kaj̃iniu	sit	k a j̃ i n i u	928		k a j̃ i n i u	
+542	Candoshi-Shapra	koʈʂinamaama	koʈʂinamaama	sit	k o ʈʂ i n a m aː m a	929		k o ʈʂ i n a m aː m a	
+662	Muniche	çawɨ	çawɨ	sit	ç a w ɨ	931		ç a w ɨ	
+774	Taushiro	aʔtɨ	aʔtɨ	sit	a ʔ t ɨ	934		a ʔ t ɨ	
+903	Waorani	tæ̃æ̃_kõta	tæ̃æ̃_kõta	sit	t æ ∼ æ ∼ k o ∼ t a	935		t æ ∼ æ ∼ k o ∼ t a	
+1386	AchuarShiwiar	kéemsatin	kéemsatin	sit	k !é/ɨ ɨ m s a t i n	926		k !é/ɨ ɨ m s a t i n	Phonological alternation: ekéemsatin
+1691	Shiwilu	du’apalli	du’apalli	sit	ð u ʔ a p a ʎ i	932		ð u ʔ a p a ʎ i	
+1870	Shuar	pujú-s	pujú-s	sit	p u h !ú/u s	933		p u h !ú/u s	
+2154	Zaparo	ikunu	ikunu	sit	i k u n u	936		i k u n u	
+#
+131	Iquito	ísɨ̀kɨ̀	ísɨ̀kɨ̀	skin (person's)	!í/i s !ɨ̀/ɨ k !ɨ̀/ɨ	939		!í/i s !ɨ̀/ɨ k !ɨ̀/ɨ	
+1387	AchuarShiwiar	nuwáp	nuwáp	skin (person's)	n u w !á/a p	937		n u w !á/a p -	
+1543	Canichana	eu-shalesik	eu-shalesik	skin (person's)	e u ʃ a l e s i k	938		e u ʃ a l e s i k	eu = 1SG
+1692	Shiwilu	tek	tek	skin (person's)	tˀ ə k	940		tˀ ə k	
+1871	Shuar	nuápe	nuápe	skin (person's)	n u !á/a p e	937		n u - !á/a p e	
+2155	Zaparo	ichawkɨ	ichawkɨ	skin (person's)	i tʃ au k ɨ	939		i tʃ au k ɨ	General term for SKIN
+#
+132	Iquito	níiya=karikuku	níiya=karikuku	sky	n !í/i i j a k a r i k u k u	947		n !í/i i j a k a r i k u k u	sky
+291	Aguaruna	najaim	najaim	sky	n a j ɛi m	941		n a j ɛi - m - -	
+427	Arabela	kija_kaj̃iniokwa	kija_kaj̃iniokwa	sky	k i j a k a j̃ i n i o k ua	943		k i j a k a j̃ i n i o k ua	
+543	Candoshi-Shapra	kaninta	kaninta	sky	k a n i n t a	945		k a n i n t a	
+663	Muniche	tʃɨʔ	tʃɨʔ	sky	tʃ ɨ ʔ	948		tʃ ɨ ʔ	
+775	Taushiro	aʔkɨn	aʔkɨn	sky	a ʔ k ɨ n	951		a ʔ k ɨ n	
+904	Waorani	õõdæ	õõdæ	sky	o ∼ o ∼ d æ	952		o ∼ o ∼ d æ	
+998	Bora	níhkʰʲe-hɨ	níhkʰʲe-hɨ	sky	n !í/i h kʰʲ e h ɨ	944		n !í/i h kʰʲ e h ɨ	
+999	Muinane	níkke-he	níkke-he	sky	n !í/i k k e h e	944		n !í/i k k e h e	
+1388	AchuarShiwiar	nayáim	nayáim	sky	n a j !á/a i m	941		n a j !á/a i m - -	Phonological alternation: yayáim
+1475	Andoa	anapachá	anapachá	sky	a n a p a tʃ !á/a	942		a n a p a tʃ !á/a	
+1544	Canichana	eu-kuneo-taoli	eu-kuneo-taoli	sky	e u k u n e o t a o l i	946		e u k u n e o t a o l i	eu = 1SG
+1693	Shiwilu	Kekki-lu’tek	Kekki-lu’tek	sky	k ə ˀk k i l u ʔ tˀ ə k	950		k ə ˀk k i l u ʔ tˀ ə k	
+1872	Shuar	nayáimp’	nayáimp’	sky	n a j !á/a i m p i	941		n a j !á/a i m p i	
+1962	Omurano	bā́al	bā́al	sky	b !ā́/a a l	949		b !ā́/a a l	Tessmann: Himmel
+2037	Yameo	ṛešiṍ'	ṛešiṍ'	sky	!ṛ/r e ʃ i !ṍ/o ∼ ʔ	953		!ṛ/r e ʃ i !ṍ/o ∼ ʔ	Tessmann: Himmel
+2156	Zaparo	niya	niya	sky	n i j a	954		n i j a	
+#
+133	Iquito	makɨ́ɨni	makɨ́ɨni	sleep	m a k !ɨ́/ɨ ɨ ɲ	956		m a k !ɨ́/ɨ ɨ ɲ -	sleep
+292	Aguaruna	kanut	kanut	sleep	k a n ʊ t	955		k a n ʊ - t - -	
+428	Arabela	makwenu	makwenu	sleep	m a k e n u	956		m a k e - n u	
+544	Candoshi-Shapra	mamaama	mamaama	sleep	m a m aː m a	958		m a m aː m a	
+664	Muniche	stɨnɨ	stɨnɨ	sleep	s t ɨ n ɨ	960		s t ɨ n ɨ	
+776	Taushiro	oʔja	oʔja	sleep	o ʔ j a	963		o ʔ j a	
+905	Waorani	bõ	bõ	sleep	b o ∼	964		b o ∼	
+1109	Bora	kʰɯkʷa	kʰɯkʷa	sleep	kʰ ɯ kʷ a	957		kʰ ɯ kʷ a	
+1110	Muinane	kɨ́ga-	kɨ́ga-	sleep	k !ɨ́/ɨ g a	957		k !ɨ́/ɨ g a	
+1389	AchuarShiwiar	kanúrtin	kanúrtin	sleep	k a n !ú/u r t i n	955		k a n !ú/u r t i n	Because of order of the entries and past examples (maybe a phonological alternation): kajíngtin
+1545	Canichana	agaxa	agaxa	sleep	a g a h a	959		a g a h a	
+1694	Shiwilu	wichia’palli	wichia’palli	sleep	w i tʃ i a ʔ p a ʎ i	962		w i tʃ i a ʔ p a ʎ i	
+1873	Shuar	kaná-r	kaná-r	sleep	k a n !á/a r	955		k a n !á/a r - - -	
+1988	Omurano	látšani	látšani	sleep	l !á/a tʃ a n i	961		l !á/a tʃ a n i	Tessmann: schlafen (Form?)
+2157	Zaparo	makɨnu	makɨnu	sleep	m a k ɨ n u	956		m a k ɨ - n u	
+#
+134	Iquito	sɨɨ́sanurika	sɨɨ́sanurika	small	s !ɨɨ́/ɨː s a n u r i k a	970		s !ɨɨ́/ɨː s a n u r i k a	small or little
+293	Aguaruna	piipitʃ	piipitʃ	small	p iː p i tʃ	966		p iː p i tʃ	
+429	Arabela	sekaa	sekaa	small	s e k aː	967		s e k aː	
+665	Muniche	miɲaʔʂa	miɲaʔʂa	small	m i ɲ a ʔ ʂ a	971		m i ɲ a ʔ ʂ a	
+906	Waorani	gijæ̃	gijæ̃	small	g i j æ ∼	973		g i j æ ∼	
+1058	Bora	ɲomɨ	ɲomɨ	small	ɲ o m ɨ	968		ɲ o m - - - - ɨ	
+1059	Muinane	núménéne	núménéne	small	n !ú/u m !é/e n !é/e n e	968		n !ú/u m !é/e n !é/e n e	
+1390	AchuarShiwiar	trúpich	trúpich	small	t r !ú/u p i tʃ	965		t r !ú/u p i tʃ	Because of phonological alternation and order of the entries: túupich,tiúpich,túumpich,yáirach
+1546	Canichana	chumache	chumache	small	tʃ u m a tʃ e	969		tʃ u m a tʃ e	
+1695	Shiwilu	damer	damer	small	ð a m ə ɾ	972		ð a m ə ɾ	
+2158	Zaparo	niichakakihya	niichakakihya	small	n iː tʃ a k a k i hʲ a	974		n iː tʃ a k a k i hʲ a	
+#
+136	Iquito	anajaka	anajaka	smoke (of fire)	a n a h a k a	976		a n a h a k a	smoke
+294	Aguaruna	tsaag_bukuitimu	tsaag_bukuitimu	smoke (of fire)	ts aː g b ʊ k ʊ i t i m ʊ	975		ts aː g b ʊ k ʊ i - t i m ʊ	
+430	Arabela	naj̃aka	naj̃aka	smoke (of fire)	n a j̃ a k a	976		- n a j̃ a k a	
+545	Candoshi-Shapra	msaasi	msaasi	smoke (of fire)	m s aː s i	977		m s aː s i	
+666	Muniche	tʃuhtɨ	tʃuhtɨ	smoke (of fire)	tʃ u h t ɨ	978		tʃ u h t ɨ	
+907	Waorani	tẽbãa	tẽbãa	smoke (of fire)	t e ∼ b a ∼ a	981		t e ∼ b a ∼ a	
+1392	AchuarShiwiar	mukúnit	mukúnit	smoke (of fire)	m u k !ú/u n i t	975		m u k - !ú/u n - i - t - - -	
+1697	Shiwilu	kellu	kellu	smoke (of fire)	kˀ ə ʎ u	980		kˀ ə ʎ u	
+1875	Shuar	mukuíntiu	mukuíntiu	smoke (of fire)	m u k u !í/i n̪ t i u	975		m u k - u - - !í/i n̪ t i - u	
+1974	Omurano	niáuwitsŏ	niáuwitsŏ	smoke (of fire)	n i !á/a u w i ts !ŏ/o	979		n i !á/a u w i ts !ŏ/o	Tessmann: Rauch
+2051	Yameo	wanḗ̠asi̯	wanḗ̠asi̯	smoke (of fire)	w a n !ḗ̠/e a s !i̯/i	982		w a n !ḗ̠/e a s !i̯/i	Tessmann: Rauch
+2160	Zaparo	ahanaka	ahanaka	smoke (of fire)	a h a n a k a	983		a h a n a k a	
+#
+137	Iquito	aákanana	aákanana	smooth	a !á/a k a n a n a	989		a !á/a k a n a n a	smooth
+295	Aguaruna	tʃuwin	tʃuwin	smooth	tʃ ʊ w i n	985		tʃ ʊ w i n	
+431	Arabela	j̃uusukwa	j̃uusukwa	smooth	j̃ uː s u k ua	986		j̃ uː s u k ua	
+546	Candoshi-Shapra	moʈʂaʈʂa	moʈʂaʈʂa	smooth	m o ʈʂ a ʈʂ a	988		m o ʈʂ a ʈʂ a	
+667	Muniche	açma	açma	smooth	a ç m a	990		a ç m a	
+777	Taushiro	aʔihinhiɾo	aʔihinhiɾo	smooth	a ʔ i h i n h i ɾ o	992		a ʔ i h i n h i ɾ o	
+908	Waorani	ajade_kæ	ajade_kæ	smooth	a j a d e k æ	993		a j a d e k æ	
+1192	Bora	pʰɨ́rɯɯkʰɯ́-ne	pʰɨ́rɯɯkʰɯ́-ne	smooth	pʰ !ɨ́/ɨ r ɯ ɯ kʰ !ɯ́/ɯ n e	987		pʰ !ɨ́/ɨ r ɯ ɯ kʰ !ɯ́/ɯ n e	
+1193	Bora	mééβa-ne	mééβa-ne	smooth	m !é/e !é/e β a n e	994		m !é/e !é/e β a n e	
+1194	Muinane	párʲɨ́ɨ́kɨno	párʲɨ́ɨ́kɨno	smooth	p !á/a rʲ !ɨ́/ɨ !ɨ́/ɨ k ɨ n o	987		p !á/a rʲ !ɨ́/ɨ !ɨ́/ɨ k ɨ n o	
+1195	Muinane	móóβano	móóβano	smooth	m !ó/o !ó/o β a n o	994		m !ó/o !ó/o β a n o	
+1393	AchuarShiwiar	pínu	pínu	smooth	p !í/i n u	984		p !í/i n - - - - u	
+1698	Shiwilu	kudi	kudi	smooth	kʷ ð i	991		kʷ ð i	
+1876	Shuar	piniúkma	piniúkma	smooth	p i n i !ú/u k m a	984		p i n i !ú/u k m a	
+#
+138	Iquito	sirɨ́ɨni	sirɨ́ɨni	snake	ʃ r !ɨ́/ɨ ɨ ɲ	997		ʃ r !ɨ́/ɨ ɨ ɲ	a worm or snake
+1016	Bora	ííɲimʲe	ííɲimʲe	snake	!í/i !í/i ɲ i mʲ e	996		- !í/i !í/i ɲ i mʲ e	
+1017	Muinane	híinimo	híinimo	snake	h !í/i i n i m o	996		h !í/i i n i m o	
+1394	AchuarShiwiar	nápi	nápi	snake	n !á/a p i	995		n !á/a p i	
+1699	Shiwilu	da’wan	da’wan	snake	ð a ʔ w a n	999		ð a ʔ w a n	
+1877	Shuar	napi	napi	snake	n a p i	995		n a p i	
+1972	Omurano	r̥óma	r̥óma	snake	!r̥/r !ó/o m a	998		!r̥/r !ó/o m a	Tessmann: Schlange
+2049	Yameo	šatŭ́n̊	šatŭ́n̊	snake	ʃ a t !ŭ́/u !n̊/n	1000		ʃ a t !ŭ́/u !n̊/n	Tessmann: Schlange
+#
+1700	Shiwilu	saneklu’	saneklu’	snow	s a n ə ˀk l u ʔ	1001		s a n ə ˀk l u ʔ	
+1878	Shuar	etsétsentai	etsétsentai	snow	e ts !é/e ts e n̪ t ai	1002		e ts !é/e ts e n̪ t ai	
+#
+139	Iquito	jɨɨ́timi	jɨɨ́timi	some	h !ɨɨ́/ɨː t i m i	1006		h !ɨɨ́/ɨː t i m i	some
+140	Iquito	jɨɨ́tipɨ	jɨɨ́tipɨ	some	h !ɨɨ́/ɨː t i p ɨ	1006		h !ɨɨ́/ɨː t i p ɨ	some
+296	Aguaruna	matʃikiutʃ	matʃikiutʃ	some	m a tʃ i k i ʊ tʃ	1004		m a tʃ i k i ʊ tʃ	
+432	Arabela	tamonu	tamonu	some	t a m o n u	1005		t a m o n u	
+909	Waorani	pãkaa	pãkaa	some	p a ∼ k a a	1008		p a ∼ k a a	
+1395	AchuarShiwiar	júmchik	júmchik	some	h !ú/u m tʃ i k	1003		h !ú/u m tʃ i k	
+1701	Shiwilu	nu’unta’	nu’unta’	some	n u ʔ u n d a ʔ	1007		n u ʔ u n d a ʔ	
+#
+146	Iquito	sawija	sawija	star	s a w i h a	1014		s a w i h a	star
+299	Aguaruna	jaja	jaja	star	j a j a	1009		j a j a	
+434	Arabela	ɾij̃ia	ɾij̃ia	star	ɾ i j̃ i a	1010		ɾ i j̃ i a	
+549	Candoshi-Shapra	tsaŋkatʃi	tsaŋkatʃi	star	ts a ŋ k a tʃ i	1012		ts a ŋ k a tʃ i	
+670	Muniche	tʃatʃa	tʃatʃa	star	tʃ a tʃ a	1015		tʃ a tʃ a	
+779	Taushiro	aʔtʃiwi	aʔtʃiwi	star	a ʔ tʃ i w i	1018		a ʔ tʃ i w i	
+912	Waorani	dẽbõ	dẽbõ	star	d e ∼ b o ∼	1019		d e ∼ b o ∼	
+1002	Bora	mɨ́ɨ́kʰɯ́rɯ-kʷa	mɨ́ɨ́kʰɯ́rɯ-kʷa	star	m !ɨ́/ɨ !ɨ́/ɨ kʰ !ɯ́/ɯ r ɯ kʷ a	1011		m !ɨ́/ɨ !ɨ́/ɨ kʰ !ɯ́/ɯ r ɯ kʷ a -	
+1003	Muinane	méékɨrɨ-gai	méékɨrɨ-gai	star	m !é/e !é/e k ɨ r ɨ g a i	1011		m !é/e !é/e k ɨ r ɨ g a i	
+1400	AchuarShiwiar	yaa	yaa	star	j a a	1009		j a - a	
+1547	Canichana	ni-coma	ni-coma	star	n i k o m a	1013		n i k o m a	ni = ABS
+1704	Shiwilu	tandula	tandula	star	t a n ð u l a	1017		t a n ð u l a	
+1884	Shuar	yáa	yáa	star	j !á/a a	1009		j !á/a - a	
+1963	Omurano	θnn̄́	θnn̄́	star	θ n n	1016		θ n n	Tessmann: Stern
+2038	Yameo	kláṛeši	kláṛeši	star	k l !á/a !ṛ/r e ʃ i	1020		k l !á/a !ṛ/r e ʃ i	Tessmann: Stern
+2163	Zaparo	naricha	naricha	star	n a r i tʃ a	1021		n a r i tʃ a	
+#
+147	Iquito	náànà	náànà	stick (of wood)	n !á/a !à/a n !à/a	1024		n !á/a !à/a n !à/a	
+1030	Bora	ɯ́mé-ʔe-i	ɯ́mé-ʔe-i	stick (of wood)	!ɯ́/ɯ m !é/e ʔ e i	1023		!ɯ́/ɯ m - !é/e ʔ e i	
+1031	Muinane	ɨ́mee-ʔi	ɨ́mee-ʔi	stick (of wood)	!ɨ́/ɨ m e e ʔ i	1023		!ɨ́/ɨ m e e ʔ - i	
+1401	AchuarShiwiar	númi	númi	stick (of wood)	n !ú/u m i	1022		n !ú/u m i	Phonolotical alternation: yúmi
+1705	Shiwilu	nala	nala	stick (of wood)	n a l a	1026		n a l a	
+1885	Shuar	numi	numi	stick (of wood)	n u m i	1022		n u m i	
+1942	Omurano	áă	áă	stick (of wood)	!á/a !ă/a	1025		!á/a !ă/a	Tessmann: Stock
+2001	Tequiraca	áwa	áwa	stick (of wood)	!á/a w a	1026		- !á/a w a	Tessmann: Stock
+2014	Yameo	ō̠ɣŭ́'	ō̠ɣŭ́'	stick (of wood)	!ō̠/o ɣ !ŭ́/u ʔ	1027		!ō̠/o ɣ !ŭ́/u ʔ	Tessmann: Stock
+2164	Zaparo	amaka	amaka	stick (of wood)	a m a k a	1028		a m a k a	
+#
+148	Iquito	sawija	sawija	stone	s a w i h a	1034		s a w i h a	stone
+300	Aguaruna	kaja	kaja	stone	k a j a	1029		k a j a	
+435	Arabela	saaj̃ia	saaj̃ia	stone	s aː j̃ i a	1031		s aː j̃ i a	
+550	Candoshi-Shapra	patomptʃi	patomptʃi	stone	p a t o m p tʃ i	1032		p a t o m p tʃ i	
+671	Muniche	sɨstɨ	sɨstɨ	stone	s ɨ s t ɨ	1035		s ɨ s t ɨ	
+780	Taushiro	hanɨʔtʃi	hanɨʔtʃi	stone	h a n ɨ ʔ tʃ i	1038		h a n ɨ ʔ tʃ i	
+913	Waorani	dika	dika	stone	d i k a	1040		d i k a	
+1402	AchuarShiwiar	káya	káya	stone	k !á/a j a	1029		k !á/a j a	
+1476	Andoa	tasayjyá	tasayjyá	stone	t a s a j h j !á/a	1030		t a s a j h j !á/a	
+1548	Canichana	ni-cumchi	ni-cumchi	stone	n i k u m tʃ i	1033		n i k u m tʃ i	ni = ABS
+1706	Shiwilu	la’pi	la’pi	stone	l a ʔ p i	1037		l a ʔ p i	
+1886	Shuar	kaya	kaya	stone	k a j a	1029		k a j a	
+1939	Omurano	tiṓkn	tiṓkn	stone	t i !ṓ/o k n	1036		t i !ṓ/o k n	Tessmann: Stein
+1999	Tequiraca	noklo̯ā́xe̯	noklo̯ā́xe̯	stone	n o k l !o̯/o !ā́/a x !e̯/e	1039		n o k l !o̯/o !ā́/a x !e̯/e	Tessmann: Stein
+2011	Yameo	rŭšŭ' (ruwisu)	rŭšŭ'	stone	r !ŭ/u ʃ !ŭ/u ʔ	1041		r !ŭ/u ʃ !ŭ/u ʔ	Tessmann: Stein
+2165	Zaparo	naruka	naruka	stone	n a r u k a	1042		n a r u k a	
+#
+149	Iquito	kamíkiikaana	kamíkiikaana	straight	k a m !í/i k iː k aː n a	1046		k a m !í/i k iː k aː n a	straight
+301	Aguaruna	tutupit	tutupit	straight	t ʊ t ʊ p i t	1043		t ʊ t ʊ p i t	
+436	Arabela	j̃akananaj̃a	j̃akananaj̃a	straight	j̃ a k a n a n a j̃ a	1044		j̃ a k a n a n a j̃ a	
+781	Taushiro	xohuɨn	xohuɨn	straight	x o h u ɨ n	1049		x o h u ɨ n	
+914	Waorani	tõ	tõ	straight	t o ∼	1050		t o ∼	
+1196	Bora	ʦʰa-tʰɯ́hkʰe-βe	ʦʰa-tʰɯ́hkʰe-βe	straight	tsʰ a tʰ !ɯ́/ɯ h kʰ e β e	1045		tsʰ a tʰ !ɯ́/ɯ h kʰ e β e	
+1197	Muinane	sá-tɨ́kko-βo	sá-tɨ́kko-βo	straight	s !á/a t !ɨ́/ɨ k k o β o	1045		s !á/a t !ɨ́/ɨ k k o β o	
+1403	AchuarShiwiar	túpin	túpin	straight	t !ú/u p i n	1043		t !ú/u - - p i n	
+1707	Shiwilu	chek	chek	straight	tʃ ə ˀk	1047		tʃ ə ˀk	
+1887	Shuar	naka	naka	straight	n a k a	1048		n a k a	
+#
+151	Iquito	nunamija	nunamija	sun	n u n a m i h a	1056		n u n a m i h a	the sun
+303	Aguaruna	ɨtsa	ɨtsa	sun	ɨ ts a	1051		ɨ ts a -	
+438	Arabela	pananu	pananu	sun	p a n a n u	1052		- p a n a n u	
+552	Candoshi-Shapra	ʂaaɾi	ʂaaɾi	sun	ʂ aː ɾ i	1054		ʂ aː ɾ i	
+673	Muniche	fa	fa	sun	f a	1057		f a	
+782	Taushiro	aʔkuʔ	aʔkuʔ	sun	a ʔ k u ʔ	1061		a ʔ k u ʔ	
+916	Waorani	dæ̃ke	dæ̃ke	sun	d æ ∼ k e	1063		d æ ∼ k e	
+1000	Bora	nɯʔpa	nɯʔpa	sun	n ɯ ʔ p a	1053		n ɯ ʔ - p a	
+1001	Muinane	nɨ́ʔɨba	nɨ́ʔɨba	sun	n !ɨ́/ɨ ʔ ɨ b a	1053		n !ɨ́/ɨ ʔ ɨ b a	
+1405	AchuarShiwiar	tsaa	tsaa	sun	ts a a	1051		- ts a a	Phonolotical alternation: etsáa
+1477	Andoa	opanáno	opanáno	sun	o p a n !á/a n o	1052		o p a n !á/a n o	
+1549	Canichana	ni-coxli	ni-coxli	sun	n i k o h l i	1055		n i k o h l i	ni = ABS
+1709	Shiwilu	kekki	kekki	sun	kˀ ə k k i	1059		kˀ ə k k i	
+1889	Shuar	tsawái-nantu	tsawái-nantu	sun	ts a w !á/a i n a n̪ t u	1060		ts a w !á/a i n a n̪ t u	
+1938	Omurano	hḗ̠na	hḗ̠na	sun	h !ḗ̠/e n a	1058		h !ḗ̠/e n a	Tessmann: Sonne
+1998	Tequiraca	akro̯ā́k	akro̯ā́k	sun	a k r !o̯/o !ā́/a k	1062		a k r !o̯/o !ā́/a k	Tessmann: Sonne
+2010	Yameo	natĕ̠́ra	natĕ̠́ra	sun	n a t !ĕ̠́/e r a	1064		n a t !ĕ̠́/e r a	Tessmann: Sonne
+2167	Zaparo	yanawkwa	yanawkwa	sun	j a n au kʷ a	1052		- j a n au kʷ a	
+#
+154	Iquito	aniáàsì	aniáàsì	tail	a ɲ !á/a !à/a s !ì/i	1069		a ɲ !á/a !à/a s !ì/i	
+305	Aguaruna	uhukɨ	uhukɨ	tail	ʊ h ʊ k ɨ	1065		ʊ h ʊ k ɨ -	
+440	Arabela	pitiu	pitiu	tail	p i t i u	1066		p i t i u	
+554	Candoshi-Shapra	waniiʃi	waniiʃi	tail	w a n iː ʃ i	1068		w a n iː ʃ i	
+675	Muniche	ɾuku	ɾuku	tail	ɾ u k u	1071		ɾ u k u	
+784	Taushiro	uʔ_xuɨ	uʔ_xuɨ	tail	u ʔ x u ɨ	1073		u ʔ x u ɨ	
+918	Waorani	õdõkaibĩjæ̃	õdõkaibĩjæ̃	tail	o ∼ d o ∼ k a i b i ∼ j æ ∼	1074		o ∼ d o ∼ k a i b i ∼ j æ ∼	
+1014	Bora	pó-kʷaá	pó-kʷaá	tail	p !ó/o kʷ a !á/a	1067		p !ó/o kʷ a !á/a	
+1015	Muinane	íí-bu-ʔu	íí-bu-ʔu	tail	!í/i !í/i b u ʔ u	1070		!í/i !í/i b u ʔ u	
+1407	AchuarShiwiar	juké̃	juké̃	tail	h u k !é/ɨ ∼	1065		- h u k !é/ɨ ∼	Phonolotical alternation: ujuké̃
+1711	Shiwilu	llintek	llintek	tail	ʎ i n d ə ˀk	1072		ʎ i n d ə ˀk	
+1892	Shuar	ujuke	ujuke	tail	u h u k e	1065		u h u k e -	
+#
+155	Iquito	iina	iina	that	iː n a	1075		iː n a	that or which
+306	Aguaruna	anu	anu	that	a n ʊ	1075		a n ʊ	
+441	Arabela	kwno	kwno	that	k u n o	1076		k u n o	
+555	Candoshi-Shapra	ini	ini	that	i n i	1075		i n i	
+676	Muniche	ɨnhane	ɨnhane	that	ɨ n h a n e	1077		- ɨ n h a n - e	
+785	Taushiro	ni	ni	that	n i	1075		- n i	
+919	Waorani	tõbẽbi	tõbẽbi	that	t o ∼ b e ∼ b i	1080		t o ∼ b e ∼ b i	
+1070	Bora	éʔ-neé	éʔ-neé	that	!é/e ʔ n e !é/e	1077		- !é/e - ʔ - n e !é/e	
+1071	Muinane	hóʔo-no	hóʔo-no	that	h !ó/o ʔ o n o	1077		h !ó/o - ʔ o n - o	
+1408	AchuarShiwiar	nu	nu	that	n u	1075		- n u	
+1550	Canichana	eje	eje	that	e j e	1078		e j e	
+1712	Shiwilu	ma’	ma’	that	m a ʔ	1079		m a ʔ	
+1893	Shuar	nu	nu	that	n u	1075		- n u	
+2170	Zaparo	nuka	nuka	that	n u k a	1081		n u k a	
+#
+156	Iquito	tii	tii	there	t iː	1086		- t iː	there
+307	Aguaruna	anui	anui	there	a n ʊ i	1082		a n ʊ i	
+442	Arabela	kwnikwi	kwnikwi	there	k u n i k i	1083		k u n i k i	
+786	Taushiro	tʃon	tʃon	there	tʃ o n	1089		tʃ o n	
+1145	Bora	éé-ne	éé-ne	there	!é/e !é/e n e	1084		!é/e !é/e n e	
+1146	Muinane	óó-no	óó-no	there	!ó/o !ó/o n o	1084		!ó/o !ó/o n o	
+1409	AchuarShiwiar	áni	áni	there	!á/a n i	1082		!á/a n - i	
+1551	Canichana	nocohche	nocohche	there	n o k o h tʃ e	1085		n o k o h tʃ e	
+1713	Shiwilu	nanek	nanek	there	n a n ə ˀk	1088		n a n ə ˀk	
+1894	Shuar	nuí	nuí	there	n u !í/i	1082		- n u !í/i	
+1979	Omurano	ńtali	ńtali	there	n t a l i	1087		n t a l i	Tessmann: dort
+2056	Yameo	lŏmā́tṛĕ	lŏmā́tṛĕ	there	l !ŏ/o m !ā́/a t !ṛ/r !ĕ/e	1090		l !ŏ/o m !ā́/a t !ṛ/r !ĕ/e	Tessmann: dort
+2171	Zaparo	ati	ati	there	a t i	1086		a t i	
+#
+157	Iquito	na=	na=	they	n a	1091		n a -	they
+308	Aguaruna	dita	dita	they	d i t a	1092		d i t a	
+443	Arabela	na	na	they	n a	1091		n a -	
+556	Candoshi-Shapra	tʃija	tʃija	they	tʃ i j a	1092		tʃ i j a	
+677	Muniche	açaɨne	açaɨne	they	a ç a ɨ n e	1095		a ç a ɨ n e	
+787	Taushiro	naʔnɨ_in	naʔnɨ_in	they	n a ʔ n ɨ i n	1097		n a ʔ n ɨ i n	
+920	Waorani	tõbẽdãdi	tõbẽdãdi	they	t o ∼ b e ∼ d a ∼ d i	1098		t o ∼ b e ∼ d a ∼ d i	
+1054	Bora	tií-tʰʲe	tií-tʰʲe	they	t i !í/i tʰʲ e	1093		t i !í/i tʰʲ e	
+1055	Muinane	díí-to	díí-to	they	d !í/i !í/i t o	1093		d !í/i !í/i t o	
+1410	AchuarShiwiar	ni	ni	they	n i	1091		n i -	Form when the adressee is ausent. Rarely used form: aníta
+1411	AchuarShiwiar	áu	áu	they	!á/a u	1096		!á/a u	Form when the adressee is present.
+1552	Canichana	ikona	ikona	they	i k o n a	1094		i k o n a	
+1895	Shuar	au	au	they	au	1096		au -	masculine
+1896	Shuar	nii	nii	they	n i i	1091		n i i	feminine
+2172	Zaparo	nukwaka	nukwaka	they	n u kʷ a k a	1099		n u kʷ a k a	Short form: nuka
+#
+158	Iquito	yaasina	yaasina	thick	j aː ʃ n a	1105		j aː ʃ n a	thick
+309	Aguaruna	kampuham	kampuham	thick	k a m p ʊ h a m	1101		k a m p ʊ h a m	
+444	Arabela	pueɾeetuuka	pueɾeetuuka	thick	p u e ɾ eː t uː k a	1102		p u e ɾ eː t uː k a	
+557	Candoshi-Shapra	waʃitaani	waʃitaani	thick	w a ʃ i t aː n i	1104		w a ʃ i t aː n i	
+678	Muniche	mɨpeʔʂu	mɨpeʔʂu	thick	m ɨ p e ʔ ʂ u	1106		m ɨ p e ʔ ʂ u	
+921	Waorani	jæ̃dæ̃	jæ̃dæ̃	thick	j æ ∼ d æ ∼	1108		j æ ∼ d æ ∼	
+1175	Bora	pʰɨɨ́mɨ	pʰɨɨ́mɨ	thick	pʰ ɨ !ɨ́/ɨ m ɨ	1103		pʰ ɨ !ɨ́/ɨ m - - ɨ	
+1176	Muinane	ɸééme-ne	ɸééme-ne	thick	ɸ !é/e !é/e m e n e	1103		ɸ !é/e !é/e m e n e	
+1412	AchuarShiwiar	nupáram	nupáram	thick	n u p !á/a r a m	1100		n u p !á/a r a m	Because of semantics and order of the entries: tuup,ápu
+1714	Shiwilu	tanatek	tanatek	thick	t a n a tˀ ə k	1107		t a n a tˀ ə k	
+1897	Shuar	kámpuram	kámpuram	thick	k !á/a m p u r a m	1101		k !á/a m p u r a m	
+#
+159	Iquito	kiísana	kiísana	thin	k i !í/i s a n a	1114		k i !í/i s a n a	thin
+310	Aguaruna	tsɨhɨg	tsɨhɨg	thin	ts ɨ h ɨ g	1110		ts ɨ h ɨ g	
+445	Arabela	masejokwa	masejokwa	thin	m a s e j o k ua	1111		m a s e j o k ua	
+558	Candoshi-Shapra	ʈʂaŋkitama	ʈʂaŋkitama	thin	ʈʂ a ŋ k i t a m a	1113		ʈʂ a ŋ k i t a m a	
+788	Taushiro	hoʔwuhiɾo	hoʔwuhiɾo	thin	h o ʔ w u h i ɾ o	1117		h o ʔ w u h i ɾ o	
+922	Waorani	giijæ̃	giijæ̃	thin	g i i j æ ∼	1118		g i i j æ ∼	
+1177	Bora	ani	ani	thin	a n i	1112		a n i - -	
+1178	Bora	ɯhʦʰi	ɯhʦʰi	thin	ɯ h tsʰ i	1114		- ɯ - h - tsʰ i	
+1179	Muinane	ɨ́sino	ɨ́sino	thin	!ɨ́/ɨ s i n o	1114		- !ɨ́/ɨ - s i n o	
+1180	Muinane	áɲino	áɲino	thin	!á/a ɲ i n o	1112		!á/a ɲ i n o	
+1413	AchuarShiwiar	watsáru	watsáru	thin	w a ts !á/a r u	1109		w a ts !á/a r u	
+1715	Shiwilu	simen	simen	thin	s i m ə n	1115		s i m ə n	
+1898	Shuar	yayu	yayu	thin	j a j u	1116		j a j u	
+#
+161	Iquito	iina	iina	this	iː n a	1122		- iː n - a	
+312	Aguaruna	juu	juu	this	j ʊː	1120		j ʊː	
+447	Arabela	nio	nio	this	n i o	1121		n i - o	
+560	Candoshi-Shapra	ini	ini	this	i n i	1122		- i n - i	
+680	Muniche	ɨnhane	ɨnhane	this	ɨ n h a n e	1124		ɨ n h a n e	
+790	Taushiro	ni	ni	this	n i	1121		n i - -	
+924	Waorani	tõbẽbo	tõbẽbo	this	t o ∼ b e ∼ b o	1126		t o ∼ b e ∼ b o	
+1068	Bora	í-ɲeé	í-ɲeé	this	!í/i ɲ e !é/e	1122		- !í/i ɲ e !é/e	
+1069	Muinane	hí-no	hí-no	this	h !í/i n o	1122		h !í/i n - o	
+1415	AchuarShiwiar	jũ	jũ	this	h u ∼	1119		h u ∼	
+1553	Canichana	jovieje	jovieje	this	j o v i e j e	1123		j o v i e j e	
+1717	Shiwilu	asu’	asu’	this	a s u ʔ	1125		a s u ʔ	
+1900	Shuar	ju	ju	this	h u	1119		h u -	
+2174	Zaparo	niicha	niicha	this	n iː tʃ a	1121		n iː tʃ a	
+#
+162	Iquito	kiaa=	kiaa=	thou	kʲ aː	1128		kʲ aː -	
+334	Aguaruna	amɨ	amɨ	thou	a m ɨ	1127		a m ɨ -	
+469	Arabela	kwia	kwia	thou	k i a	1128		k i a	
+580	Candoshi-Shapra	ʃija	ʃija	thou	ʃ i j a	1130		ʃ i j a	
+698	Muniche	aʔpaʔpɨ	aʔpaʔpɨ	thou	a ʔ p a ʔ p ɨ	1133		a ʔ p a ʔ p ɨ	
+809	Taushiro	ijo	ijo	thou	i j o	1130		- i j o	
+946	Waorani	bitõ	bitõ	thou	b i t o ∼	1135		b i t o ∼	
+1044	Bora	ɯɯ́	ɯɯ́	thou	ɯ !ɯ́/ɯ	1129		ɯ !ɯ́/ɯ	
+1045	Muinane	ɨ́ɨ́-hóʔo	ɨ́ɨ́-hóʔo	thou	!ɨ́/ɨ !ɨ́/ɨ h !ó/o ʔ o	1132		!ɨ́/ɨ !ɨ́/ɨ h !ó/o ʔ o	
+1416	AchuarShiwiar	ámẽ	ámẽ	thou	!á/a m ɨ ∼	1127		!á/a m ɨ ∼	
+1554	Canichana	inahali	inahali	thou	i n a h a l i	1131		i n a h a l i	
+1718	Shiwilu	kenma	kenma	thou	kˀ ə n m a	1134		kˀ ə n m a	
+1901	Shuar	ame	ame	thou	a m e	1127		a m e -	
+2175	Zaparo	chaha	chaha	thou	tʃ a h a	1136		tʃ a h a	Short form: cha
+#
+163	Iquito	sɨɨ́saramaajɨtáami	sɨɨ́saramaajɨtáami	three	s !ɨɨ́/ɨː s a r a m aː h ɨ t !á/a a m i	1141		s !ɨɨ́/ɨː s a r a m aː h ɨ t !á/a a m i	three
+313	Aguaruna	kampatum	kampatum	three	k a m p a t ʊ m	1137		k a m p a t ʊ m	
+448	Arabela	j̃iuuj̃ianaɾaka	j̃iuuj̃ianaɾaka	three	j̃ i uː j̃ i a n a ɾ a k a	1138		j̃ i uː j̃ i a n a ɾ a k a	
+561	Candoshi-Shapra	tootʃpa	tootʃpa	three	t oː tʃ p a	1139		t oː tʃ p a	
+681	Muniche	utsmɨ	utsmɨ	three	u ts m ɨ	1142		u ts m ɨ	
+791	Taushiro	washiunweantu	washiunweantu	three	w a ʃ i u n w e a n t u	1146		w a ʃ i u n w e a n t u	
+925	Waorani	bẽa_go_adoke	bẽa_go_adoke	three	b e ∼ a g o a d o k e	1147		b e ∼ a g o a d o k e	
+1417	AchuarShiwiar	kampátam	kampátam	three	k a m p !á/a t a m	1137		k a m p !á/a t a m	
+1555	Canichana	caarxata	caarxata	three	k a a ɾ h a t a	1140		k a a ɾ h a t a	
+1719	Shiwilu	kala	kala	three	k a l a	1144		- k a l a	
+1902	Shuar	menáintiu	menáintiu	three	m e n !á/a i n̪ t i u	1145		m e n !á/a i n̪ t i u	
+1945	Omurano	ononṍ̠o̠n	ononṍ̠o̠n	three	o n o n !ó̠/o ∼ !o̠/o n	1143		o n o n !ó̠/o ∼ !o̠/o n	Tessmann: drei
+2004	Tequiraca	akū́wa	akū́wa	three	a k !ū́/u w a	1144		a k !ū́/u w a	Tessmann: drei
+2017	Yameo	kin̊sắ (von kimsa Ketsch.)	kin̊sắ	three	k i !n̊/n s !ắ/a	1148		k i !n̊/n s !ắ/a	Tessmann: drei
+2176	Zaparo	aymukamara	aymukamara	three	ai m u k a m a r a	1149		ai m u k a m a r a	
+#
+14	Iquito	sɨ́ɨni	sɨ́ɨni	to bite	s !ɨ́/ɨ ɨ ɲ	1152		s !ɨ́/ɨ ɨ ɲ - -	bite
+205	Aguaruna	ɨsat	ɨsat	to bite	ɨ s a t	1151		ɨ s a t -	
+343	Arabela	saaniu	saaniu	to bite	s aː n i u	1152		s aː - n i u	
+477	Candoshi-Shapra	kapoʈʂomaama	kapoʈʂomaama	to bite	k a p o ʈʂ o m aː m a	1154		k a p o ʈʂ o m aː m a	
+587	Muniche	ʂa	ʂa	to bite	ʂ a	1155		ʂ a	
+708	Taushiro	aʔxo	aʔxo	to bite	a ʔ x o	1157		a ʔ x o	
+820	Waorani	pokæ̃	pokæ̃	to bite	p o k æ ∼	1158		p o k æ ∼	
+1103	Bora	ɨʔto	ɨʔto	to bite	ɨ ʔ t o	1153		ɨ ʔ - t o	
+1104	Muinane	éédu-	éédu-	to bite	!é/e !é/e d u	1153		!é/e - !é/e d u	
+1266	AchuarShiwiar	sákratin	sákratin	to bite	s !á/a k r a t i n	1150		s !á/a k r a t i n	Phonological alternation: esáitin,esákatrin
+1584	Shiwilu	kitek’apalli	kitek’apalli	to bite	k i tˀ ə k ʔ a p a ʎ i	1156		k i tˀ ə k ʔ a p a ʎ i	
+1763	Shuar	esá-i	esá-i	to bite	e s !á/a i	1151		e s !á/a - i	
+2071	Zaparo	tsainyu	tsainyu	to bite	ts a i ɲ u	1152		ts a i ɲ - u	
+#
+17	Iquito	núuni	núuni	to blow (of wind)	n !ú/u u ɲ	1160		n !ú/u u ɲ - -	blow or blow on something
+208	Aguaruna	umpuut	umpuut	to blow (of wind)	ʊ m p ʊː t	1159		ʊ m p ʊː - t - -	
+346	Arabela	nooniu	nooniu	to blow (of wind)	n oː n i u	1160		n oː - n i u	
+480	Candoshi-Shapra	tapoossamaama	tapoossamaama	to blow (of wind)	t a p oː s s a m aː m a	1162		t a p oː s s a m aː m a	
+590	Muniche	ʂunu	ʂunu	to blow (of wind)	ʂ u n u	1163		ʂ u n u	
+711	Taushiro	aʔxonɨ	aʔxonɨ	to blow (of wind)	a ʔ x o n ɨ	1166		a ʔ x o n ɨ	
+823	Waorani	wo_õõ	wo_õõ	to blow (of wind)	w o o ∼ o ∼	1167		w o o ∼ o ∼	
+1230	Bora	ɨpáʦʰo	ɨpáʦʰo	to blow (of wind)	ɨ p !á/a tsʰ o	1161		ɨ p - !á/a - tsʰ o - -	
+1231	Bora	pohʦʰókʰɯ	pohʦʰókʰɯ	to blow (of wind)	p o h tsʰ !ó/o kʰ ɯ	1161		- p - o h tsʰ !ó/o kʰ ɯ	
+1232	Muinane	ébásu-ʔi	ébásu-ʔi	to blow (of wind)	!é/e b !á/a s u ʔ i	1161		!é/e b - !á/a - s u ʔ i	
+1233	Muinane	búúsu-ʔi	búúsu-ʔi	to blow (of wind)	b !ú/u !ú/u s u ʔ i	1161		- b !ú/u !ú/u - s u ʔ i	
+1269	AchuarShiwiar	umpuítin	umpuítin	to blow (of wind)	u m p u !í/i t i n	1159		u m p u !í/i t i n	
+1587	Shiwilu	pekku’palli	pekku’palli	to blow (of wind)	pˀ ə k kʷ ʔ p a ʎ i	1164		pˀ ə k kʷ ʔ p a ʎ i	
+1766	Shuar	nasent-ka	nasent-ka	to blow (of wind)	n a s e n̪ t k a	1165		n a s e n̪ t k a	
+#
+20	Iquito	júnɨɨna iríini	júnɨɨna iríini	to breathe	h !ú/u n ɨː n a i r !í/i i ɲ	1171		h !ú/u n ɨː n a i r !í/i i ɲ	breathe
+211	Aguaruna	majatut	majatut	to breathe	m a j a t ʊ t	1168		m a j a - - - t ʊ t	
+349	Arabela	ɾiniu	ɾiniu	to breathe	ɾ i n i u	1169		ɾ i n i u	
+482	Candoshi-Shapra	kanoosamaama	kanoosamaama	to breathe	k a n oː s a m aː m a	1170		k a n oː s a m aː m a	
+592	Muniche	ɾɨʔsma	ɾɨʔsma	to breathe	ɾ ɨ ʔ s m a	1172		ɾ ɨ ʔ s m a	
+826	Waorani	gẽbã	gẽbã	to breathe	g e ∼ b a ∼	1175		g e ∼ b a ∼	
+1271	AchuarShiwiar	mayáiratin	mayáiratin	to breathe	m a j !á/a i r a t i n	1168		m a j !á/a i r a t i n	
+1589	Shiwilu	neripalli	neripalli	to breathe	n ə ɾ i p a ʎ i	1173		n ə ɾ i p a ʎ i	
+1768	Shuar	mayat-ka	mayat-ka	to breathe	m a j a t k a	1174		m a j a t k a	
+#
+21	Iquito	núùnì	núùnì	to burn (intrans)	n !ú/u !ù/u n !ì/i	1177		n !ú/u !ù/u n !ì/i	
+1272	AchuarShiwiar	kéektin	kéektin	to burn (intrans)	k !é/ɨ ɨ k t i n	1176		k !é/ɨ ɨ k t i n	
+1590	Shiwilu	uluntaplli	uluntaplli	to burn (intrans)	u l u n d a p ʎ i	1178		u l u n d a p ʎ i	
+1769	Shuar	kée-k	kée-k	to burn (intrans)	k !é/e e k	1176		k !é/e e k - - -	
+#
+25	Iquito	aníini	aníini	to come	a n !í/i i ɲ	1179		- a n !í/i - i ɲ -	come
+213	Aguaruna	minit	minit	to come	m i n i t	1179		m i n i t - - -	
+351	Arabela	niniu	niniu	to come	n i n i u	1179		n i n i - - - u	
+483	Candoshi-Shapra	nantaɾaŋkitʃ	nantaɾaŋkitʃ	to come	n a n t a ɾ a ŋ k i tʃ	1181		n a n t a ɾ a ŋ k i tʃ	
+594	Muniche	ma	ma	to come	m a	1183		m a	
+714	Taushiro	intɨ	intɨ	to come	i n t ɨ	1185		i n t ɨ	
+828	Waorani	põ	põ	to come	p o ∼	1186		p o ∼	
+1119	Bora	ʦʰaá	ʦʰaá	to come	tsʰ a !á/a	1180		tsʰ a - - !á/a	
+1120	Muinane	sáá-ʔi	sáá-ʔi	to come	s !á/a !á/a ʔ i	1180		s !á/a !á/a ʔ i	
+1276	AchuarShiwiar	winítin	winítin	to come	v i n !í/i t i n	1179		v i n !í/i t i n -	
+1493	Canichana	au-xar-tuinas	au-xar-tuinas	to come	a u h a ɾ t u i n a s	1182		a u h a ɾ t u i n a s	au = 1SG
+1592	Shiwilu	uk’apalli	uk’apalli	to come	u k ʔ a p a ʎ i	1184		u k ʔ a p a ʎ i	There is also other entry and the examples given for both are the same: wek’apalli
+1772	Shuar	winí-	winí-	to come	w i n !í/i	1179		w i n !í/i - - - -	
+2077	Zaparo	aninyu	aninyu	to come	a n i ɲ u	1179		- a n - - i ɲ u	
+#
+26	Iquito	sanitáani	sanitáani	to count	s a ɲ t !á/a a ɲ	1188		s a ɲ t !á/a a ɲ	measure or count
+1277	AchuarShiwiar	nekápmartin	nekápmartin	to count	n ɨ k !á/a p m a r t i n	1187		n ɨ k !á/a p m a r t i n	
+1593	Shiwilu	pichipalli	pichipalli	to count	p i tʃ i p a ʎ i	1189		p i tʃ i p a ʎ i	
+1773	Shuar	aújmat-sa	aújmat-sa	to count	a !ú/u h m a t s a	1190		a !ú/u h m a t s a	
+#
+27	Iquito	rapíini	rapíini	to cut	r a p !í/i i ɲ	1193		r a p !í/i i ɲ	cut
+1252	Bora	-βɯrɯ-	-βɯrɯ-	to cut	β ɯ r ɯ	1192		- - β ɯ r - - - - - ɯ	
+1253	Muinane	gáβɨrɨ́ɨ́ku-ʔi	gáβɨrɨ́ɨ́ku-ʔi	to cut	g !á/a β ɨ r !ɨ́/ɨ !ɨ́/ɨ k u ʔ i	1192		g !á/a β ɨ r !ɨ́/ɨ !ɨ́/ɨ k u ʔ i	
+1278	AchuarShiwiar	charúktin	charúktin	to cut	tʃ a r !ú/u k t i n	1191		tʃ a r !ú/u k t i n	
+1594	Shiwilu	dektunpalli	dektunpalli	to cut	ð ə ˀk t u m b a ʎ i	1194		ð ə ˀk t u m b a ʎ i	
+1774	Shuar	churút-ka	churút-ka	to cut	tʃ u r !ú/u t k a	1195		tʃ u r !ú/u t k a	
+2078	Zaparo	mahaanu	mahaanu	to cut	m a h aː n u	1196		m a h aː n u	
+#
+29	Iquito	iwarɨ́ɨni	iwarɨ́ɨni	to die	i w a r !ɨ́/ɨ ɨ ɲ	1202		i w a r !ɨ́/ɨ ɨ ɲ	die
+216	Aguaruna	hakau	hakau	to die	h a k oʊ	1197		h a k oʊ - - -	
+354	Arabela	kwsonu	kwsonu	to die	k u s o n u	1198		k u s o n u	
+485	Candoshi-Shapra	tsipaamaama	tsipaamaama	to die	ts i p aː m aː m a	1200		ts i p aː m aː m a	
+596	Muniche	kɨa	kɨa	to die	k ɨ a	1203		k ɨ a	
+716	Taushiro	waʔ	waʔ	to die	w a ʔ	1205		w a ʔ	
+831	Waorani	æ̃bæ̃wo_wæ̃	æ̃bæ̃wo_wæ̃	to die	æ ∼ b æ ∼ w o w æ ∼	1206		æ ∼ b æ ∼ w o w æ ∼	
+1111	Bora	ʦɨhɨ́-βe	ʦɨhɨ́-βe	to die	ts ɨ h !ɨ́/ɨ β e	1199		ts ɨ h !ɨ́/ɨ β - - e	
+1112	Muinane	gíhé-βe-ʔi	gíhé-βe-ʔi	to die	g !í/i h !é/e β e ʔ i	1199		g !í/i h !é/e β e ʔ i	
+1280	AchuarShiwiar	jákatin	jákatin	to die	h !á/a k a t i n	1197		h !á/a k a t i n	
+1494	Canichana	tanacu	tanacu	to die	t a n a k u	1201		t a n a k u	
+1596	Shiwilu	chiminpalli	chiminpalli	to die	tʃ i m i m b a ʎ i	1204		tʃ i m i m b a ʎ i	
+1776	Shuar	já-ka	já-ka	to die	h !á/a k a	1197		h !á/a k a - - -	
+2079	Zaparo	pukɨnu	pukɨnu	to die	p u k ɨ n u	1207		p u k ɨ n u	
+#
+30	Iquito	muráànì	muráànì	to dig	m u r !á/a !à/a n !ì/i	1210		m u r !á/a !à/a n !ì/i	
+1216	Bora	ʦʰeʔti	ʦʰeʔti	to dig	tsʰ e ʔ t i	1209		tsʰ e ʔ - t - - i	
+1217	Muinane	séédi-ʔi	séédi-ʔi	to dig	s !é/e !é/e d i ʔ i	1209		s !é/e - !é/e d i ʔ i	
+1281	AchuarShiwiar	táutin	táutin	to dig	t !á/a u t i n	1208		t !á/a u t i n	
+1597	Shiwilu	iwa’palli	iwa’palli	to dig	i w a ʔ p a ʎ i	1211		i w a ʔ p a ʎ i	
+2080	Zaparo	wityahunu	wityahunu	to dig	w i tʲ a h u n u	1212		w i tʲ a h u n u	
+#
+33	Iquito	raríini	raríini	to drink	r a r !í/i i ɲ	1215		r a r !í/i i ɲ -	drink
+219	Aguaruna	umut	umut	to drink	ʊ m ʊ t	1214		ʊ m ʊ t	
+357	Arabela	ɾatunu	ɾatunu	to drink	ɾ a t u n u	1215		ɾ a t - u n u	
+599	Muniche	niçta	niçta	to drink	n i ç t a	1218		n i ç t a	
+719	Taushiro	untiʔ	untiʔ	to drink	u n t i ʔ	1220		u n t i ʔ	
+834	Waorani	be	be	to drink	b e	1221		b e	
+1101	Bora	ato	ato	to drink	a t o	1216		a t o	
+1102	Muinane	ádu-	ádu-	to drink	!á/a d u	1216		!á/a d u	
+1284	AchuarShiwiar	múrtin	múrtin	to drink	m !ú/u r t i n	1213		m !ú/u r t i n	Phonological alternation: amúrtin,umúrtin
+1496	Canichana	au-hacoqui	au-hacoqui	to drink	a u h a k o k i	1217		a u h a k o k i	au = 1SG
+1600	Shiwilu	uwapalli	uwapalli	to drink	u w a p a ʎ i	1219		u w a p a ʎ i	
+1779	Shuar	uma-r	uma-r	to drink	u m a r	1214		u m a r	
+2082	Zaparo	ratunu	ratunu	to drink	r a t u n u	1215		r a t - u n u	
+#
+38	Iquito	asáani	asáani	to eat	a s !á/a a ɲ	1226		a s !á/a a ɲ -	eat
+224	Aguaruna	juwamu	juwamu	to eat	j ʊ w a m ʊ	1222		j ʊ w a m ʊ -	
+362	Arabela	miakwenu	miakwenu	to eat	m i a k e n u	1223		m i a k e n u	
+492	Candoshi-Shapra	katoŋkomaama	katoŋkomaama	to eat	k a t o ŋ k o m aː m a	1224		k a t o ŋ k o m aː m a	
+604	Muniche	ʂa	ʂa	to eat	ʂ a	1227		ʂ a	
+724	Taushiro	untuʔ	untuʔ	to eat	u n t u ʔ	1230		u n t u ʔ	
+839	Waorani	kæ̃	kæ̃	to eat	k æ ∼	1231		k æ ∼	
+1290	AchuarShiwiar	yúwatin	yúwatin	to eat	j !ú/u w a t i n	1222		j !ú/u w a t i n	
+1499	Canichana	alema	alema	to eat	a l e m a	1225		a l e m a	
+1604	Shiwilu	ka’apalli	ka’apalli	to eat	k a ʔ a p a ʎ i	1229		k a ʔ a p a ʎ i	intransative form: uranpalli
+1784	Shuar	yu-a	yu-a	to eat	j u a	1222		j u - - - a -	
+1987	Omurano	pḗ̠nē̠ĩn̊	pḗ̠nē̠ĩn̊	to eat	p !ḗ̠/e n !ē̠/e i ∼ !n̊/n	1228		p !ḗ̠/e n !ē̠/e i ∼ !n̊/n	Tessmann: essen (Form?)
+2085	Zaparo	atsanu	atsanu	to eat	a ts a n u	1226		a ts - a n u	
+#
+41	Iquito	itɨ́ɨni	itɨ́ɨni	to fall (drop rather than topple)	i t !ɨ́/ɨ ɨ ɲ	1237		i t !ɨ́/ɨ ɨ ɲ	fall
+227	Aguaruna	ijaut	ijaut	to fall (drop rather than topple)	i j oʊ t	1233		i j oʊ t	
+365	Arabela	ti	ti	to fall (drop rather than topple)	t i	1234		t i	
+495	Candoshi-Shapra	pantsamaama	pantsamaama	to fall (drop rather than topple)	p a n ts a m aː m a	1236		p a n ts a m aː m a	
+607	Muniche	wɨʔka	wɨʔka	to fall (drop rather than topple)	w ɨ ʔ k a	1238		w ɨ ʔ k a	
+727	Taushiro	kuanha	kuanha	to fall (drop rather than topple)	k u a n h a	1241		k u a n h a	
+842	Waorani	tæ̃_wæ̃æ̃	tæ̃_wæ̃æ̃	to fall (drop rather than topple)	t æ ∼ w æ ∼ æ ∼	1242		t æ ∼ w æ ∼ æ ∼	
+1222	Bora	aakʰítʰʲe	aakʰítʰʲe	to fall (drop rather than topple)	a a kʰ !í/i tʰʲ e	1235		a a kʰ !í/i - tʰʲ - - e	
+1223	Muinane	áákétte-ʔi	áákétte-ʔi	to fall (drop rather than topple)	!á/a !á/a k !é/e t t e ʔ i	1235		!á/a !á/a k !é/e t t e ʔ i	
+1293	AchuarShiwiar	kákeektin	kákeektin	to fall (drop rather than topple)	k !á/a k ɨ ɨ k t i n	1232		k !á/a k ɨ ɨ k t i n	From the examples, this seems to be the least used form or a phonological alternation: kakératin
+1607	Shiwilu	anu’palli	anu’palli	to fall (drop rather than topple)	a n u ʔ p a ʎ i	1239		a n u ʔ p a ʎ i	
+1787	Shuar	katu-ka	katu-ka	to fall (drop rather than topple)	k a t u k a	1240		k a t u k a	
+2088	Zaparo	ɨtɨkwanu	ɨtɨkwanu	to fall (drop rather than topple)	ɨ t ɨ kʷ a n u	1243		ɨ t ɨ kʷ a n u	
+#
+45	Iquito	kɨɨrɨ́ɨni	kɨɨrɨ́ɨni	to fear	k ɨː r !ɨ́/ɨ ɨ ɲ	1246		k ɨː r !ɨ́/ɨ ɨ ɲ -	fear
+1234	Bora	iʧi	iʧi	to fear	i tʃ i	1245		i tʃ i	
+1235	Muinane	ígi-ʔi	ígi-ʔi	to fear	!í/i g i ʔ i	1247		!í/i g i ʔ i	
+1297	AchuarShiwiar	sapíjmiatin	sapíjmiatin	to fear	s a p !í/i h mʲ a t i n	1244		s a p !í/i h mʲ a t i n	This form seems to mean GET SCARED: shámkatin
+1611	Shiwilu	tekkuapalli	tekkuapalli	to fear	tˀ ə k kʷ a p a ʎ i	1248		tˀ ə k kʷ a p a ʎ i	
+1790	Shuar	ishám-ka	ishám-ka	to fear	i ʃ !á/a m k a	1249		i ʃ !á/a m k a	
+2091	Zaparo	pɨrɨnu	pɨrɨnu	to fear	p ɨ r ɨ n u	1246		p ɨ r - ɨ n u	
+#
+49	Iquito	ipurúuni	ipurúuni	to fight	i p u r !ú/u u ɲ	1251		i p u r !ú/u u ɲ	fight
+1300	AchuarShiwiar	máaniktin	máaniktin	to fight	m !á/a a n i k t i n	1250		m !á/a a n i k t i n	From the examples, this seems to be the least used form or a phonological alternation: máaniatin
+1791	Shuar	máni-k	máni-k	to fight	m !á/a n i k	1250		m !á/a - n i k - - -	
+#
+53	Iquito	ikatáani	ikatáani	to float	i k a t !á/a a ɲ	1253		i k a t !á/a a ɲ	float
+1304	AchuarShiwiar	nanáastin	nanáastin	to float	n a n !á/a a s t i n	1252		n a n !á/a a s t i n	
+1617	Shiwilu	punka’palli	punka’palli	to float	p u n g a ʔ p a ʎ i	1254		p u n g a ʔ p a ʎ i	
+1794	Shuar	naná-s	naná-s	to float	n a n !á/a s	1252		n a n - !á/a s - - -	
+2093	Zaparo	ukanu	ukanu	to float	u k a n u	1255		u k a n u	
+#
+54	Iquito	ɨ́ɨni	ɨ́ɨni	to flow	!ɨ́/ɨ ɨ ɲ	1257		!ɨ́/ɨ ɨ ɲ	flow
+1151	Bora	niiβa	niiβa	to flow	n i i β a	1256		n i i β - - a	
+1152	Muinane	niiβa-ʔi	niiβa-ʔi	to flow	n i i β a ʔ i	1256		n i i β a ʔ i	
+1795	Shuar	pua-r	pua-r	to flow	p u a r	1258		p u a r	
+#
+56	Iquito	siaawíita	siaawíita	to fly	ʃ aː w !í/i i t a	1264		ʃ aː w !í/i i t a	fly
+235	Aguaruna	kaap	kaap	to fly	k aː p	1260		k aː p	
+372	Arabela	neɾoj̃ua	neɾoj̃ua	to fly	n e ɾ o j̃ u a	1261		n e ɾ o j̃ u a	
+502	Candoshi-Shapra	jajantʃi	jajantʃi	to fly	j a j a n tʃ i	1263		j a j a n tʃ i	
+614	Muniche	ɲuʔki	ɲuʔki	to fly	ɲ u ʔ k i	1266		ɲ u ʔ k i	
+850	Waorani	gobõbõ	gobõbõ	to fly	g o b o ∼ b o ∼	1269		g o b o ∼ b o ∼	
+1117	Bora	kʷaʔpʰe	kʷaʔpʰe	to fly	kʷ a ʔ pʰ e	1262		kʷ a ʔ pʰ e	
+1118	Muinane	gáʔáɸe-ʔi	gáʔáɸe-ʔi	to fly	g !á/a ʔ !á/a ɸ e ʔ i	1265		g !á/a ʔ !á/a ɸ e ʔ i	
+1306	AchuarShiwiar	nanámtin	nanámtin	to fly	n a n !á/a m t i n	1259		n a n !á/a m t i n	
+1619	Shiwilu	pennu’palli	pennu’palli	to fly	pˀ ə n n u ʔ p a ʎ i	1267		pˀ ə n n u ʔ p a ʎ i	
+1797	Shuar	nana-k	nana-k	to fly	n a n a k	1268		n a n a k	
+2095	Zaparo	ahanu	ahanu	to fly	a h a n u	1270		a h a n u	
+#
+1801	Shuar	supík	supík	to freeze	s u p !í/i k	1271		s u p !í/i k	
+#
+61	Iquito	miitɨ́ɨni	miitɨ́ɨni	to give	m iː t !ɨ́/ɨ ɨ ɲ	1278		m iː t !ɨ́/ɨ ɨ ɲ	give
+238	Aguaruna	suwamu	suwamu	to give	s ʊ w a m ʊ	1273		s ʊ w a m ʊ	
+375	Arabela	nikwitionu	nikwitionu	to give	n i k i t i o n u	1274		n i k i t i o n u	
+505	Candoshi-Shapra	panamaama	panamaama	to give	p a n a m aː m a	1276		p a n a m aː m a	
+617	Muniche	pa	pa	to give	p a	1279		p a	
+735	Taushiro	ana	ana	to give	a n a	1282		a n a	
+853	Waorani	põdõ	põdõ	to give	p o ∼ d o ∼	1283		p o ∼ d o ∼	
+1121	Bora	ahkʰɯ	ahkʰɯ	to give	a h kʰ ɯ	1275		a h kʰ - - ɯ	
+1122	Muinane	ákkɨ-ʔi	ákkɨ-ʔi	to give	!á/a k k ɨ ʔ i	1275		!á/a k k ɨ ʔ i	
+1310	AchuarShiwiar	súsatin	súsatin	to give	s !ú/u s a t i n	1272		s !ú/u s a t i n	
+1509	Canichana	au-dar-chiti	au-dar-chiti	to give	a u d a ɾ tʃ i t i	1277		a u d a ɾ tʃ i t i	au = 1SG
+1622	Shiwilu	enka’palli	enka’palli	to give	ə n g a ʔ p a ʎ i	1280		ə n g a ʔ p a ʎ i	
+1802	Shuar	amá-s	amá-s	to give	a m !á/a s	1281		a m !á/a s	
+2097	Zaparo	inyawnu	inyawnu	to give	i ɲ au n u	1284		i ɲ au n u	
+#
+69	Iquito	tuujíini	tuujíini	to hear	t uː h !í/i i ɲ	1286		t uː h !í/i i ɲ - -	hear or listen
+246	Aguaruna	antut	antut	to hear	a n t ʊ t	1285		a n t ʊ - t - -	
+383	Arabela	toj̃iniu	toj̃iniu	to hear	t o j̃ i n i u	1286		t o j̃ - i n i u	
+511	Candoshi-Shapra	maʂinamaama	maʂinamaama	to hear	m a ʂ i n a m aː m a	1288		m a ʂ i n a m aː m a	
+623	Muniche	masna	masna	to hear	m a s n a	1290		m a s n a	
+742	Taushiro	aʔkono	aʔkono	to hear	a ʔ k o n o	1292		a ʔ k o n o	
+861	Waorani	ẽjẽ	ẽjẽ	to hear	e ∼ j e ∼	1293		e ∼ j e ∼	
+1107	Bora	ʧeépo	ʧeépo	to hear	tʃ e !é/e p o	1287		tʃ e !é/e p o	
+1108	Muinane	gúúbu-	gúúbu-	to hear	g !ú/u !ú/u b u	1289		g !ú/u !ú/u b u	
+1321	AchuarShiwiar	antúktin	antúktin	to hear	a n t !ú/u k t i n	1285		a n t !ú/u k t i n	
+1630	Shiwilu	lawek’apalli	lawek’apalli	to hear	l a w ə ˀk ʔ a p a ʎ i	1291		l a w ə ˀk ʔ a p a ʎ i	
+1811	Shuar	ant-uk	ant-uk	to hear	a n̪ t u k	1285		a n̪ t u k - - -	
+2106	Zaparo	tahwinyu	tahwinyu	to hear	t a hʷ i ɲ u	1286		t a hʷ - i ɲ - u	
+#
+73	Iquito	aamúuni	aamúuni	to hit	aː m !ú/u u ɲ	1298		aː m !ú/u u ɲ	hit or strike a living being
+250	Aguaruna	awatut	awatut	to hit	a w a t ʊ t	1294		a w a t - ʊ t - -	
+387	Arabela	pi	pi	to hit	p i	1295		p i	
+514	Candoshi-Shapra	pʂkomaama	pʂkomaama	to hit	p ʂ k o m aː m a	1297		p ʂ k o m aː m a	
+627	Muniche	ʂatu	ʂatu	to hit	ʂ a t u	1299		ʂ a t u	
+745	Taushiro	awɨn	awɨn	to hit	a w ɨ n	1301		a w ɨ n	
+864	Waorani	tei_tei_pã	tei_tei_pã	to hit	t e i t e i p a ∼	1302		t e i t e i p a ∼	
+1212	Bora	íʧaájo	íʧaájo	to hit	!í/i tʃ a !á/a j o	1296		!í/i tʃ a !á/a j o - -	
+1213	Muinane	íʤáju-ʔi	íʤáju-ʔi	to hit	!í/i dʒ !á/a j u ʔ i	1296		!í/i dʒ - !á/a j u ʔ i	
+1325	AchuarShiwiar	awátratin	awátratin	to hit	a w !á/a t r a t i n	1294		a w !á/a t r a t i n	
+1634	Shiwilu	llipu’tapalli	llipu’tapalli	to hit	ʎ i p u ʔ t a p a ʎ i	1300		ʎ i p u ʔ t a p a ʎ i	
+1815	Shuar	awat-’	awat-’	to hit	a w a t i	1294		a w a t - - - i -	
+2110	Zaparo	apinyu	apinyu	to hit	a p i ɲ u	1303		a p i ɲ u	
+#
+74	Iquito	kasiráani	kasiráani	to hold (in hand)	k a ʃ r !á/a a ɲ	1306		k a ʃ r !á/a a ɲ	hold
+1238	Bora	ihkʰʲa	ihkʰʲa	to hold (in hand)	i h kʰʲ a	1305		i h kʰʲ - - a	
+1239	Muinane	ikka-ʔi	ikka-ʔi	to hold (in hand)	i k k a ʔ i	1305		i k k a ʔ i	
+1326	AchuarShiwiar	ayáarai túsar achíktin	ayáarai túsar achíktin	to hold (in hand)	a j !á/a a r ei t !ú/u s a r a tʃ !í/i k t i n	1304		a j !á/a a r ei t !ú/u s a r a tʃ !í/i k t i n	
+#
+76	Iquito	aamɨ́yààkíìnì	aamɨ́yààkíìnì	to hunt (game)	aː m !ɨ́/ɨ j !à/a !à/a k !í/i !ì/i n !ì/i	1308		aː m !ɨ́/ɨ j !à/a !à/a k !í/i !ì/i n !ì/i	
+1250	Bora	tʰaaβa	tʰaaβa	to hunt (game)	tʰ a a β a	1307		tʰ a a β - - a	
+1251	Muinane	tááβa-ʔi	tááβa-ʔi	to hunt (game)	t !á/a !á/a β a ʔ i	1307		t !á/a !á/a β a ʔ i	
+1636	Shiwilu	yunek’apalli	yunek’apalli	to hunt (game)	j u n ə ˀk ʔ a p a ʎ i	1309		j u n ə ˀk ʔ a p a ʎ i	
+1817	Shuar	eám-ka	eám-ka	to hunt (game)	e !á/a m k a	1310		e !á/a m k a	
+#
+80	Iquito	aamúuni	aamúuni	to kill	aː m !ú/u u ɲ	1312		aː m !ú/u u ɲ -	kill
+255	Aguaruna	maut	maut	to kill	m oʊ t	1311		m oʊ - t - -	
+392	Arabela	monu	monu	to kill	m o n u	1312		- m - o n u	
+517	Candoshi-Shapra	patʃamaama	patʃamaama	to kill	p a tʃ a m aː m a	1314		- - p a tʃ a m - aː m a	
+630	Muniche	pi	pi	to kill	p i	1316		p i	
+869	Waorani	wæ̃dõ	wæ̃dõ	to kill	w æ ∼ d o ∼	1318		w æ ∼ d o ∼	
+1113	Bora	ʦɨ́hɨ-βé-ʦʰo	ʦɨ́hɨ-βé-ʦʰo	to kill	ts !ɨ́/ɨ h ɨ β !é/e tsʰ o	1313		ts !ɨ́/ɨ h ɨ β !é/e tsʰ o - -	
+1114	Muinane	gíhéβesu-ʔi	gíhéβesu-ʔi	to kill	g !í/i h !é/e β e s u ʔ i	1313		g !í/i h !é/e β e s u ʔ i	
+1332	AchuarShiwiar	máatin	máatin	to kill	m !á/a a t i n	1311		m !á/a a t i n	
+1520	Canichana	atlege	atlege	to kill	a t l e g e	1315		a t l e g e	Because of order of entries, here is the variant: au-ar-chxina
+1641	Shiwilu	di’apalli	di’apalli	to kill	ð i ʔ a p a ʎ i	1317		ð i ʔ a p a ʎ i	
+1823	Shuar	ma-a	ma-a	to kill	m a a	1311		m a a - - -	
+1989	Omurano	napē̠tẽ́n̊ani	napē̠tẽ́n̊ani	to kill	n a p !ē̠/e t !é/e ∼ !n̊/n a n i	1314		n a p !ē̠/e t !é/e ∼ !n̊/n a n i	Tessmann: töten (Form?)
+2115	Zaparo	amunu	amunu	to kill	a m u n u	1312		a m - u n u	
+#
+81	Iquito	nakusíìnì	nakusíìnì	to know (facts)	n a k u s !í/i !ì/i n !ì/i	1320		n a k u s !í/i !ì/i n !ì/i	
+1333	AchuarShiwiar	nekáatin	nekáatin	to know (facts)	n ɨ k !á/a a t i n	1319		n ɨ k !á/a a t i n	
+1642	Shiwilu	ñinchitapalli	ñinchitapalli	to know (facts)	ɲ i n dʒ i t a p a ʎ i	1321		ɲ i n dʒ i t a p a ʎ i	
+1824	Shuar	neká-	neká-	to know (facts)	n e k !á/a	1319		n e k !á/a - - - -	
+2116	Zaparo	aytɨnu	aytɨnu	to know (facts)	ai t ɨ n u	1322		ai t ɨ n u	
+#
+83	Iquito	satáani	satáani	to laugh	s a t !á/a a ɲ	1328		s a t !á/a a ɲ -	laugh
+256	Aguaruna	duʃiamu	duʃiamu	to laugh	d ʊ ʃ i a m ʊ	1324		d ʊ ʃ i a m ʊ	
+393	Arabela	soɾekwenu	soɾekwenu	to laugh	s o ɾ e k e n u	1325		s o ɾ e k e n u	
+518	Candoshi-Shapra	stamaama	stamaama	to laugh	s t a m aː m a	1326		s t a m aː m a	
+631	Muniche	ʈʂaʂti	ʈʂaʂti	to laugh	ʈʂ a ʂ t i	1329		ʈʂ a ʂ t i	
+870	Waorani	ka_ka_to	ka_ka_to	to laugh	k a k a t o	1331		k a k a t o	
+1335	AchuarShiwiar	wishírtin	wishírtin	to laugh	v i ʃ !í/i r t i n	1323		v i ʃ !í/i r t i n	
+1522	Canichana	au-xar-docuna	au-xar-docuna	to laugh	a u h a ɾ d o k u n a	1327		a u h a ɾ d o k u n a	au = 1SG
+1644	Shiwilu	yamerapalli	yamerapalli	to laugh	j a m ə ɾ a p a ʎ i	1330		j a m ə ɾ a p a ʎ i	
+2118	Zaparo	tsutanu	tsutanu	to laugh	ts u t a n u	1328		ts u t - a n u	
+#
+88	Iquito	iwɨɨtáani	iwɨɨtáani	to lie	i w ɨː t !á/a a ɲ	1334		i w ɨː t !á/a a ɲ	be lying down
+1339	AchuarShiwiar	tepéstin	tepéstin	to lie	t ɨ p !é/ɨ s t i n	1332		t ɨ p !é/ɨ s t i n	
+1525	Canichana	ato	ato	to lie	a t o	1333		a t o	
+1828	Shuar	tepesma	tepesma	to lie	t e p e s m a	1332		t e p e s m a -	
+#
+9	Iquito	iwíini	iwíini	to live	i w !í/i i ɲ	1339		i w !í/i i ɲ	live
+259	Aguaruna	puhut	puhut	to live	p ʊ h ʊ t	1335		p ʊ h ʊ - t - -	
+396	Arabela	kwiniu	kwiniu	to live	k i n i u	1336		- k i n i u	
+521	Candoshi-Shapra	tamaama	tamaama	to live	t a m aː m a	1338		t a m aː m a	
+633	Muniche	ɾɨ	ɾɨ	to live	ɾ ɨ	1340		ɾ ɨ	
+749	Taushiro	inɨ	inɨ	to live	i n ɨ	1343		i n ɨ	
+873	Waorani	kẽwẽ	kẽwẽ	to live	k e ∼ w e ∼	1344		k e ∼ w e ∼	
+1242	Bora	póʔɨ́ɨ́-pe	póʔɨ́ɨ́-pe	to live	p !ó/o ʔ !ɨ́/ɨ !ɨ́/ɨ p e	1337		p !ó/o ʔ !ɨ́/ɨ !ɨ́/ɨ p e	
+1243	Muinane	búʔée-no	búʔée-no	to live	b !ú/u ʔ !é/e e n o	1337		b !ú/u ʔ !é/e e n o	
+1340	AchuarShiwiar	pujústin	pujústin	to live	p u h !ú/u s t i n	1335		p u h !ú/u s t i n	
+1648	Shiwilu	nanpiapalli	nanpiapalli	to live	n a m b i a p a ʎ i	1341		n a m b i a p a ʎ i	
+1829	Shuar	iwiák-	iwiák-	to live	i w i !á/a k	1342		i w i !á/a k	
+2121	Zaparo	ikinyu	ikinyu	to live	i k i ɲ u	1336		i k i ɲ - u	
+#
+107	Iquito	maayaasíini	maayaasíini	to play	m aː j aː s !í/i i ɲ	1346		m aː j aː s !í/i i ɲ	play
+1362	AchuarShiwiar	nakúrustin	nakúrustin	to play	n a k !ú/u r u s t i n	1345		n a k !ú/u r u s t i n	
+1669	Shiwilu	intekllitapalli	intekllitapalli	to play	i n d ə ˀk ʎ i t a p a ʎ i	1347		i n d ə ˀk ʎ i t a p a ʎ i	
+1849	Shuar	nakur-ús	nakur-ús	to play	n a k u r !ú/u s	1345		n a k u r !ú/u s - - -	
+2137	Zaparo	tawhwɨnu	tawhwɨnu	to play	t au hʷ ɨ n u	1348		t au hʷ ɨ n u	
+#
+108	Iquito	jɨ́ɨni	jɨ́ɨni	to pull	h !ɨ́/ɨ ɨ ɲ	1351		h !ɨ́/ɨ ɨ ɲ	pull
+1208	Bora	ʧiɯ́kʰɯ	ʧiɯ́kʰɯ	to pull	tʃ i !ɯ́/ɯ kʰ ɯ	1350		tʃ i !ɯ́/ɯ kʰ ɯ	
+1209	Muinane	gííjɨkɨ-ʔi	gííjɨkɨ-ʔi	to pull	g !í/i !í/i j ɨ k ɨ ʔ i	1352		g !í/i !í/i j ɨ k ɨ ʔ i	
+1363	AchuarShiwiar	japíktin	japíktin	to pull	h a p !í/i k t i n	1349		h a p !í/i k t i n	
+1670	Shiwilu	uwalapalli	uwalapalli	to pull	u w a l a p a ʎ i	1353		u w a l a p a ʎ i	
+1850	Shuar	japí-k	japí-k	to pull	h a p !í/i k	1349		h a p !í/i k - - -	
+2138	Zaparo	atanu	atanu	to pull	a t a n u	1354		a t a n u	
+#
+109	Iquito	kɨnitáani	kɨnitáani	to push	k ɨ ɲ t !á/a a ɲ	1357		k ɨ ɲ t !á/a a ɲ	push or lift a heavy load
+1248	Bora	kʰáβɯ́i-ʔhʲákʰo	kʰáβɯ́i-ʔhʲákʰo	to push	kʰ !á/a β !ɯ́/ɯ i ʔ hʲ !á/a kʰ o	1356		kʰ !á/a β !ɯ́/ɯ i ʔ hʲ !á/a kʰ o	
+1249	Muinane	kábújaaku-ʔi	kábújaaku-ʔi	to push	k !á/a b !ú/u j a a k u ʔ i	1358		k !á/a b !ú/u j a a k u ʔ i	
+1364	AchuarShiwiar	shitáktin	shitáktin	to push	ʃ i t !á/a k t i n	1355		ʃ i t !á/a k t i n	
+1671	Shiwilu	pita’kapalli	pita’kapalli	to push	p i t a ʔ k a p a ʎ i	1359		p i t a ʔ k a p a ʎ i	
+1851	Shuar	útsu-k	útsu-k	to push	!ú/u ts u k	1360		!ú/u ts u k	
+2139	Zaparo	takinyu	takinyu	to push	t a k i ɲ u	1361		t a k i ɲ u	
+#
+110	Iquito	aníìnì	aníìnì	to rain	a n !í/i !ì/i n !ì/i	1364		a n !í/i !ì/i n !ì/i	
+1365	AchuarShiwiar	jitúrtin	jitúrtin	to rain	h i t !ú/u r t i n	1362		h i t !ú/u r t i n	
+1535	Canichana	nina	nina	to rain	n i n a	1363		n i n a	
+1672	Shiwilu	u’lanpalli	u’lanpalli	to rain	u ʔ l a m b a ʎ i	1365		u ʔ l a m b a ʎ i	
+1852	Shuar	yut-uk	yut-uk	to rain	j u t u k	1366		j u t u k	
+#
+119	Iquito	kaakuusíini	kaakuusíini	to rub	k aː k uː s !í/i i ɲ	1368		k aː k uː s !í/i i ɲ	rub or massage a body part to alleviate pain
+1374	AchuarShiwiar	japírtin	japírtin	to rub	h a p !í/i r t i n	1367		h a p !í/i r t i n	
+1679	Shiwilu	piwipalli	piwipalli	to rub	p i w i p a ʎ i	1369		p i w i p a ʎ i	
+1860	Shuar	kue-r	kue-r	to rub	k u e r	1370		k u e r	Because of examples amd more semantic complexity, here is the variant: majú-r
+#
+123	Iquito	aríìnì	aríìnì	to scratch (as with fingernails to relieve itch)	a r !í/i !ì/i n !ì/i	1372		a r !í/i - !ì/i n !ì/i	
+1378	AchuarShiwiar	kesártin	kesártin	to scratch (as with fingernails to relieve itch)	k ɨ s !á/a r t i n	1371		k ɨ s !á/a r t i n	Because of order of the entries and this form has more semantic complexity: péruatin
+1683	Shiwilu	sekwa’palli	sekwa’palli	to scratch (as with fingernails to relieve itch)	s ə ˀk w a ʔ p a ʎ i	1373		s ə ˀk w a ʔ p a ʎ i	
+1863	Shuar	méek-ra	méek-ra	to scratch (as with fingernails to relieve itch)	m !é/e e k r a	1374		m !é/e e k r a	
+2149	Zaparo	arishunu	arishunu	to scratch (as with fingernails to relieve itch)	a r i ʃ u n u	1372		a r i ʃ u n u	
+#
+126	Iquito	sipúuni	sipúuni	to sew	ʃ p !ú/u u ɲ	1376		ʃ p !ú/u u ɲ	sew
+1382	AchuarShiwiar	apákmartin	apákmartin	to sew	a p !á/a k m a r t i n	1375		a p !á/a k m a r t i n	
+1687	Shiwilu	pi’per’chapalli	pi’per’chapalli	to sew	p i ʔ pˀ ə ɾ ʔ tʃ a p a ʎ i	1377		p i ʔ pˀ ə ɾ ʔ tʃ a p a ʎ i	intransative form: pi’pi’yunpalli
+1866	Shuar	apá-r	apá-r	to sew	a p !á/a r	1378		a p !á/a r	
+2152	Zaparo	kusupɨnu	kusupɨnu	to sew	k u s u p ɨ n u	1379		k u s u p ɨ n u	
+#
+129	Iquito	ariwáani	ariwáani	to sing	a r i w !á/a a ɲ	1383		a r i w !á/a a ɲ	sing
+1228	Bora	mahʦʰíβa	mahʦʰíβa	to sing	m a h tsʰ !í/i β a	1381		m a h tsʰ !í/i β - - a	
+1229	Muinane	másí-βa-ʔi	másí-βa-ʔi	to sing	m !á/a s !í/i β a ʔ i	1381		m !á/a - s !í/i β a ʔ i	
+1385	AchuarShiwiar	nampéstin	nampéstin	to sing	n a m p !é/ɨ s t i n	1380		n a m p !é/ɨ s t i n	
+1542	Canichana	au-jar-sonisna	au-jar-sonisna	to sing	a u j a ɾ s o n i s n a	1382		a u j a ɾ s o n i s n a	au = 1SG
+1690	Shiwilu	tuluner’apalli	tuluner’apalli	to sing	t u l u n ə ɾ ʔ a p a ʎ i	1384		t u l u n ə ɾ ʔ a p a ʎ i	
+1869	Shuar	nampés	nampés	to sing	n a m p !é/e s	1380		n a m p !é/e s - - -	Not sure about this form, the entry does not give much information: kantam-á
+2153	Zaparo	uranu	uranu	to sing	u r a n u	1385		u r a n u	
+#
+135	Iquito	najiwɨ́ɨ̀nì	najiwɨ́ɨ̀nì	to smell (perceive odor)	n a h i w !ɨ́/ɨ !ɨ̀/ɨ n !ì/i	1387		n a h i w !ɨ́/ɨ !ɨ̀/ɨ n !ì/i	
+1391	AchuarShiwiar	nekápratin	nekápratin	to smell (perceive odor)	n ɨ k !á/a p r a t i n	1386		n ɨ k !á/a p r a t i n	
+1696	Shiwilu	lanerapalli	lanerapalli	to smell (perceive odor)	l a n ə ɾ a p a ʎ i	1388		l a n ə ɾ a p a ʎ i	
+1874	Shuar	meje-ás	meje-ás	to smell (perceive odor)	m e h e !á/a s	1389		m e h e !á/a s	
+2159	Zaparo	nahuunu	nahuunu	to smell (perceive odor)	n a h uː n u	1387		n a h - - - uː n u	
+#
+141	Iquito	aruukíini	aruukíini	to spit	a r uː k !í/i i ɲ	1393		a r uː k !í/i i ɲ -	spit
+297	Aguaruna	usukit	usukit	to spit	ʊ s ʊ k i t	1390		ʊ s ʊ k - i t - -	
+433	Arabela	ɾiokonu	ɾiokonu	to spit	ɾ i o k o n u	1391		ɾ i o k o n u	
+547	Candoshi-Shapra	kawatʃimaama	kawatʃimaama	to spit	k a w a tʃ i m aː m a	1392		k a w a tʃ i m aː m a	
+668	Muniche	jaʂnɨ	jaʂnɨ	to spit	j a ʂ n ɨ	1394		j a ʂ n ɨ	
+778	Taushiro	tuhuanɨ	tuhuanɨ	to spit	t u h u a n ɨ	1396		t u h u a n ɨ	
+910	Waorani	towæ_tãdõ	towæ_tãdõ	to spit	t o w æ t a ∼ d o ∼	1397		t o w æ t a ∼ d o ∼	
+1396	AchuarShiwiar	usúkmitin	usúkmitin	to spit	u s !ú/u k m i t i n	1390		u s !ú/u k m i t i n	
+1702	Shiwilu	dinlu’palli	dinlu’palli	to spit	ð i n l u ʔ p a ʎ i	1395		ð i n l u ʔ p a ʎ i	
+1879	Shuar	usúk-ia	usúk-ia	to spit	u s !ú/u k i a	1390		u s !ú/u k - i - a -	
+2161	Zaparo	arukuno	arukuno	to spit	a r u k u n o	1393		a r u k - u n o	
+#
+142	Iquito	ijakɨ́ɨni	ijakɨ́ɨni	to split	i h a k !ɨ́/ɨ ɨ ɲ	1400		i h a k !ɨ́/ɨ ɨ ɲ	split or crack
+1214	Bora	kʷáʧʰéreákʰo	kʷáʧʰéreákʰo	to split	kʷ !á/a tʃʰ !é/e r e !á/a kʰ o	1399		kʷ !á/a tʃʰ !é/e r e !á/a kʰ o - -	
+1215	Muinane	gáʤéréku-ʔi	gáʤéréku-ʔi	to split	g !á/a dʒ !é/e r !é/e k u ʔ i	1399		g !á/a dʒ !é/e r !é/e - k u ʔ i	
+1397	AchuarShiwiar	akántratin	akántratin	to split	a k !á/a n t r a t i n	1398		a k !á/a n t r a t i n	
+1880	Shuar	yumpu-ár	yumpu-ár	to split	j u m p u !á/a r	1401		j u m p u !á/a r	
+#
+143	Iquito	minitáànì	minitáànì	to squeeze	m i ɲ t !á/a !à/a n !ì/i	1404		m i ɲ t !á/a !à/a n !ì/i	
+1236	Bora	aamɯ́-ʦʰó	aamɯ́-ʦʰó	to squeeze	a a m !ɯ́/ɯ tsʰ !ó/o	1403		a a m !ɯ́/ɯ tsʰ !ó/o - -	
+1237	Muinane	áámɨ́-su-ʔi	áámɨ́-su-ʔi	to squeeze	!á/a !á/a m !ɨ́/ɨ s u ʔ i	1403		!á/a !á/a m !ɨ́/ɨ s u ʔ i	
+1398	AchuarShiwiar	ijúrtin	ijúrtin	to squeeze	i h !ú/u r t i n	1402		i h !ú/u r t i n	
+1881	Shuar	ijiur-á	ijiur-á	to squeeze	i h i u r !á/a	1405		i h i u r !á/a	
+#
+144	Iquito	ijiráani	ijiráani	to stab (or stick)	i h i r !á/a a ɲ	1407		i h i r !á/a a ɲ	stab
+1399	AchuarShiwiar	kuchí̃ĩjãĩ ijútin	kuchí̃ĩjãĩ ijútin	to stab (or stick)	k u tʃ !í/i ∼ i ∼ h a ∼ i ∼ i h !ú/u t i n	1406		k u tʃ !í/i ∼ i ∼ h a ∼ i ∼ i h !ú/u t i n	
+1882	Shuar	akut-a	akut-a	to stab (or stick)	a k u t a	1408		a k u t a	
+#
+145	Iquito	takúuni	takúuni	to stand	t a k !ú/u u ɲ	1411		t a k !ú/u u ɲ	stand
+298	Aguaruna	wahamu	wahamu	to stand	w a h a m ʊ	1409		w a h a m ʊ	
+548	Candoshi-Shapra	itsiɾamaama	itsiɾamaama	to stand	i ts i ɾ a m aː m a	1410		i ts i ɾ a m aː m a	
+669	Muniche	ɨʔtɨ	ɨʔtɨ	to stand	ɨ ʔ t ɨ	1412		ɨ ʔ t ɨ	
+911	Waorani	gõõ_kæ	gõõ_kæ	to stand	g o ∼ o ∼ k æ	1414		g o ∼ o ∼ k æ	
+1703	Shiwilu	wanerapalli	wanerapalli	to stand	w a n ə ɾ a p a ʎ i	1413		w a n ə ɾ a p a ʎ i	
+1883	Shuar	wájaku	wájaku	to stand	w !á/a h a k u	1409		w !á/a h a k u	
+2162	Zaparo	achichanu	achichanu	to stand	a tʃ i tʃ a n u	1415		a tʃ i tʃ a n u	
+#
+150	Iquito	jíìnì	jíìnì	to suck	h !í/i !ì/i n !ì/i	1419		h !í/i !ì/i n !ì/i	
+302	Aguaruna	bukunat	bukunat	to suck	b ʊ k ʊ n a t	1416		b ʊ k ʊ n a t - -	
+437	Arabela	monijakonu	monijakonu	to suck	m o n i j a k o n u	1417		m o n i j a k o n u	
+551	Candoshi-Shapra	kamopʃfmaama	kamopʃfmaama	to suck	k a m o p ʃ f m aː m a	1418		k a m o p ʃ f m aː m a	
+672	Muniche	wa	wa	to suck	w a	1420		w a	
+915	Waorani	wi_õ	wi_õ	to suck	w i o ∼	1422		w i o ∼	
+1404	AchuarShiwiar	mukunátin	mukunátin	to suck	m u k u n !á/a t i n	1416		m u k u n !á/a t i n	
+1708	Shiwilu	siserapalli	siserapalli	to suck	s i s ə ɾ a p a ʎ i	1421		s i s ə ɾ a p a ʎ i	
+1888	Shuar	muku-n-a	muku-n-a	to suck	m u k u n a	1416		m u k u n a - - -	
+2166	Zaparo	supɨnu	supɨnu	to suck	s u p ɨ n u	1423		s u p ɨ n u	
+#
+152	Iquito	purúuni	purúuni	to swell	p u r !ú/u u ɲ	1425		p u r !ú/u u ɲ	swell
+1224	Bora	oóri	oóri	to swell	o !ó/o r i	1424		- o !ó/o r - - i	
+1225	Muinane	húúri-ʔi	húúri-ʔi	to swell	h !ú/u !ú/u r i ʔ i	1424		h !ú/u !ú/u r i ʔ i	
+1890	Shuar	tanká-r	tanká-r	to swell	t a nˠ k !á/a r	1426		t a nˠ k !á/a r	
+2168	Zaparo	muinyu	muinyu	to swell	m u i ɲ u	1427		m u i ɲ u	
+#
+153	Iquito	musíini	musíini	to swim	m u s !í/i i ɲ	1432		m u s !í/i i ɲ	swim
+304	Aguaruna	jukumat	jukumat	to swim	j ʊ k ʊ m a t	1428		j ʊ k ʊ m a - t - -	
+439	Arabela	kwanu	kwanu	to swim	k ua n u	1429		- k ua n u	
+553	Candoshi-Shapra	koɾiiŋkamaama	koɾiiŋkamaama	to swim	k o ɾ iː ŋ k a m aː m a	1431		k o ɾ iː ŋ k a m aː m a	
+674	Muniche	ʂusi	ʂusi	to swim	ʂ u s i	1434		ʂ u s i	
+783	Taushiro	xoʔkɨ_noʔkuanɨʔnɨ	xoʔkɨ_noʔkuanɨʔnɨ	to swim	x o ʔ k ɨ n o ʔ k u a n ɨ ʔ n ɨ	1436		x o ʔ k ɨ n o ʔ k u a n ɨ ʔ n ɨ	
+917	Waorani	pãta	pãta	to swim	p a ∼ t a	1437		p a ∼ t a	
+1115	Bora	ihʧʰi	ihʧʰi	to swim	i h tʃʰ i	1430		i h tʃʰ i	
+1116	Muinane	ísi-	ísi-	to swim	!í/i s i	1433		!í/i s i	
+1406	AchuarShiwiar	yukuáktin	yukuáktin	to swim	j u k u !á/a k t i n	1428		j u k u - !á/a k t i n	Because of order of the entries and frequency: yukúmkatin
+1710	Shiwilu	idunpalli	idunpalli	to swim	i ð u m b a ʎ i	1435		i ð u m b a ʎ i	
+1891	Shuar	yukuá-k	yukuá-k	to swim	j u k u !á/a k	1428		j u k u - !á/a k - - -	
+2169	Zaparo	ukanu	ukanu	to swim	u k a n u	1429		u k a n u	
+#
+160	Iquito	saminiijúuni	saminiijúuni	to think	s a m i ɲ i h !ú/u u ɲ	1442		s a m i ɲ i h !ú/u u ɲ	think
+311	Aguaruna	anɨntaimat	anɨntaimat	to think	a n ɨ n t ɛi m a t	1438		a n ɨ n t ɛi m - a t - -	
+446	Arabela	niiʃiɾioj̃onu	niiʃiɾioj̃onu	to think	n iː ʃ i ɾ i o j̃ o n u	1439		n iː ʃ i ɾ i o j̃ o n u	
+559	Candoshi-Shapra	tʃinamaama	tʃinamaama	to think	tʃ i n a m aː m a	1441		tʃ i n a m aː m a	
+679	Muniche	nuçta	nuçta	to think	n u ç t a	1443		n u ç t a	
+789	Taushiro	nuʔtʃi	nuʔtʃi	to think	n u ʔ tʃ i	1443		n u ʔ tʃ i	
+923	Waorani	okaidẽ_põdẽ	okaidẽ_põdẽ	to think	o k a i d e ∼ p o ∼ d e ∼	1446		o k a i d e ∼ p o ∼ d e ∼	
+1226	Bora	ɨ́hʦʰaméi	ɨ́hʦʰaméi	to think	!ɨ́/ɨ h tsʰ a m !é/e i	1440		!ɨ́/ɨ h tsʰ a m - - !é/e - i	
+1227	Muinane	ésámáái-ʔi	ésámáái-ʔi	to think	!é/e s !á/a m !á/a !á/a i ʔ i	1440		!é/e - s !á/a m !á/a !á/a i ʔ i	
+1414	AchuarShiwiar	nintímratin	nintímratin	to think	n i n t !í/i m r a t i n	1438		- n i n t !í/i m r a t i n	Phonolotical alternation: inintímratin
+1716	Shiwilu	inlli’inupalli	inlli’inupalli	to think	i n ʎ i ʔ i n u p a ʎ i	1444		i n ʎ i ʔ i n u p a ʎ i	
+1899	Shuar	enentáim-sa	enentáim-sa	to think	e n e n̪ t !á/a i m s a	1445		e n e n̪ t !á/a i m s a	
+2173	Zaparo	nishinyu	nishinyu	to think	n i ʃ i ɲ u	1439		n i ʃ - - i - - - ɲ u	
+#
+164	Iquito	simaajuutáani	simaajuutáani	to throw	ʃ m aː h uː t !á/a a ɲ	1449		ʃ m aː h uː t !á/a a ɲ	throw
+1210	Bora	pʰikʰʲo	pʰikʰʲo	to throw	pʰ i kʰʲ o	1448		pʰ i kʰʲ o - -	
+1211	Muinane	ɸíkú-ʔi	ɸíkú-ʔi	to throw	ɸ !í/i k !ú/u ʔ i	1448		ɸ !í/i k !ú/u ʔ i	
+1418	AchuarShiwiar	jíiktin	jíiktin	to throw	h !í/i i k t i n	1447		h !í/i i k t i n	
+1720	Shiwilu	pidatapalli	pidatapalli	to throw	p i ð a t a p a ʎ i	1450		p i ð a t a p a ʎ i	
+2177	Zaparo	ahatanu	ahatanu	to throw	a h a t a n u	1451		a h a t a n u	
+#
+165	Iquito	tiníini	tiníini	to tie	t i n !í/i i ɲ	1456		t i n !í/i i ɲ	tie or secure a rope to an entity
+314	Aguaruna	higkat	higkat	to tie	h i g k a t	1452		h i g k - a t - -	
+449	Arabela	moɾonu	moɾonu	to tie	m o ɾ o n u	1453		m o ɾ - - o n u	
+562	Candoshi-Shapra	kamoɾimaama	kamoɾimaama	to tie	k a m o ɾ i m aː m a	1455		k a m o ɾ i m aː m a	
+682	Muniche	di	di	to tie	d i	1458		d i	
+792	Taushiro	ɨiʔtaʔ	ɨiʔtaʔ	to tie	ɨ i ʔ t a ʔ	1460		ɨ i ʔ t a ʔ	
+926	Waorani	jã_kæ	jã_kæ	to tie	j a ∼ k æ	1461		j a ∼ k æ	
+1218	Bora	ʧʰíhʧʰɯ	ʧʰíhʧʰɯ	to tie	tʃʰ !í/i h tʃʰ ɯ	1454		tʃʰ !í/i h tʃʰ ɯ	
+1219	Bora	toʔhɨ́-nɯ	toʔhɨ́-nɯ	to tie	t o ʔ h !ɨ́/ɨ n ɯ	1462		t o - ʔ h !ɨ́/ɨ n - - ɯ	
+1220	Muinane	sísɨ-ʔi	sísɨ-ʔi	to tie	s !í/i s ɨ ʔ i	1457		s !í/i s ɨ ʔ i	
+1221	Muinane	dúúhé-nɨ-ʔi	dúúhé-nɨ-ʔi	to tie	d !ú/u !ú/u h !é/e n ɨ ʔ i	1462		d !ú/u !ú/u h - !é/e n ɨ ʔ i	
+1419	AchuarShiwiar	jingkiátin	jingkiátin	to tie	h i ŋ k i !á/a t i n	1452		h i ŋ k i !á/a t i n	More restrictive form: jíniuktin
+1721	Shiwilu	tenpu’palli	tenpu’palli	to tie	tˀ ə m b u ʔ p a ʎ i	1459		tˀ ə m b u ʔ p a ʎ i	
+1903	Shuar	jinkiá-	jinkiá-	to tie	h i nˠ k i !á/a	1452		h i nˠ k i !á/a - - -	
+2178	Zaparo	marahunu	marahunu	to tie	m a r a h u n u	1453		m a r a h u n u	
+#
+169	Iquito	takɨtɨ́ɨni	takɨtɨ́ɨni	to turn (change one's direction)	t a k ɨ t !ɨ́/ɨ ɨ ɲ	1464		t a k ɨ t !ɨ́/ɨ ɨ ɲ	turn around
+1423	AchuarShiwiar	yántratin	yántratin	to turn (change one's direction)	j !á/a n t r a t i n	1463		j !á/a n t r a t i n	Phonological alternation: ayántratin,yántumratin
+1725	Shiwilu	tamanerapalli	tamanerapalli	to turn (change one's direction)	t a m a n ə ɾ a p a ʎ i	1465		t a m a n ə ɾ a p a ʎ i	
+1907	Shuar	íik-ia	íik-ia	to turn (change one's direction)	!í/i i k i a	1466		!í/i i k i a	
+#
+172	Iquito	ikiníini	ikiníini	to vomit	i k i n !í/i i ɲ	1470		i k i n !í/i i ɲ -	vomit
+319	Aguaruna	imut	imut	to vomit	i m ʊ t	1467		i m - ʊ - t - -	
+454	Arabela	makaaniu	makaaniu	to vomit	m a k aː n i u	1468		m a k aː n i u	
+567	Candoshi-Shapra	katamaama	katamaama	to vomit	k a t a m aː m a	1469		k a t a m aː m a	
+687	Muniche	kuki	kuki	to vomit	k u k i	1471		k u k i	
+797	Taushiro	aʔxaʔa	aʔxaʔa	to vomit	a ʔ x a ʔ a	1473		a ʔ x a ʔ a	
+931	Waorani	awæ̃_wẽ	awæ̃_wẽ	to vomit	a w æ ∼ w e ∼	1474		a w æ ∼ w e ∼	
+1425	AchuarShiwiar	imiúktin	imiúktin	to vomit	i m i !ú/u k t i n	1467		i m i !ú/u k t i n	Phonological alternation: iniúktin
+1727	Shiwilu	enmu’palli	enmu’palli	to vomit	ə n m u ʔ p a ʎ i	1472		ə n m u ʔ p a ʎ i	
+1909	Shuar	imia-k	imia-k	to vomit	i m i a k	1467		i m i a k - - -	
+2183	Zaparo	ikɨninyu	ikɨninyu	to vomit	i k ɨ n i ɲ u	1470		i k ɨ n - i ɲ u	
+#
+173	Iquito	iikúuni	iikúuni	to walk	iː k !ú/u u ɲ	1477		iː k !ú/u u ɲ	walk
+1426	AchuarShiwiar	wekáasatin	wekáasatin	to walk	w ɨ k !á/a a s a t i n	1475		w ɨ k !á/a a s a t i n	
+1560	Canichana	au-xar-cuiyama	au-xar-cuiyama	to walk	a u h a ɾ k u i j a m a	1476		a u h a ɾ k u i j a m a	au = 1SG
+1728	Shiwilu	dekkuntapalli	dekkuntapalli	to walk	ð ə ˀk kʷ n d a p a ʎ i	1478		ð ə ˀk kʷ n d a p a ʎ i	
+1910	Shuar	weká-sa	weká-sa	to walk	w e k !á/a s a	1475		w e k !á/a - s a - - -	
+2184	Zaparo	awkunu	awkunu	to walk	au k u n u	1479		au k u n u	
+#
+175	Iquito	sikitáani	sikitáani	to wash	ʃ k i t !á/a a ɲ	1482		ʃ k i t !á/a a ɲ	wash
+1159	Bora	nihtʰʲɯ	nihtʰʲɯ	to wash	n i h tʰʲ ɯ	1481		n i h tʰʲ - - ɯ	
+1160	Muinane	níttɨ-ʔi	níttɨ-ʔi	to wash	n !í/i t t ɨ ʔ i	1481		n !í/i t t ɨ ʔ i	
+1428	AchuarShiwiar	nijártin	nijártin	to wash	n i h !á/a r t i n	1480		n i h - !á/a r t i n	
+1729	Shiwilu	pamu’palli	pamu’palli	to wash	p a m u ʔ p a ʎ i	1483		p a m u ʔ p a ʎ i	There is a specific form for ‘washing clothes’: peksa’dunpalli
+1911	Shuar	nijiá-r	nijiá-r	to wash	n i h i !á/a r	1480		n i h i !á/a r - - -	
+2185	Zaparo	tsukiryawhunu	tsukiryawhunu	to wash	ts u k i rʲ au h u n u	1484		ts u k i rʲ au h u n u	
+#
+189	Iquito	pɨ́ɨni	pɨ́ɨni	to wipe	p !ɨ́/ɨ ɨ ɲ	1486		p !ɨ́/ɨ ɨ ɲ	wipe or clean oneself after defecating
+1441	AchuarShiwiar	pakuíchau awajsatin	pakuíchau awajsatin	to wipe	p a k u !í/i tʃ a u a w a h s a t i n	1485		p a k u !í/i tʃ a u a w a h s a t i n	Phonological alternation: pakuíchau awáasatin
+1742	Shiwilu	nawerapalli	nawerapalli	to wipe	n a w ə ɾ a p a ʎ i	1487		n a w ə ɾ a p a ʎ i	
+#
+166	Iquito	nɨɨti	nɨɨti	tongue	n ɨː t i	1489		n ɨː t i	tongue
+315	Aguaruna	idai	idai	tongue	i d ɛi	1489		- i d ɛi	
+450	Arabela	niti	niti	tongue	n i t i	1489		n i t i	
+563	Candoshi-Shapra	niapoɾitʃ	niapoɾitʃ	tongue	n i a p o ɾ i tʃ	1491		n i a p o ɾ i tʃ	
+683	Muniche	tɨɾa	tɨɾa	tongue	t ɨ ɾ a	1493		t ɨ ɾ a	
+793	Taushiro	aʔkɨhɨʔ	aʔkɨhɨʔ	tongue	a ʔ k ɨ h ɨ ʔ	1496		a ʔ k ɨ h ɨ ʔ	
+927	Waorani	õdõgẽdẽwa	õdõgẽdẽwa	tongue	o ∼ d o ∼ g e ∼ d e ∼ w a	1498		o ∼ d o ∼ g e ∼ d e ∼ w a	
+947	Bora	nɨ́ɨ́hɨ-kʷa	nɨ́ɨ́hɨ-kʷa	tongue	n !ɨ́/ɨ !ɨ́/ɨ h ɨ kʷ a	1490		n !ɨ́/ɨ !ɨ́/ɨ h ɨ kʷ a	
+948	Muinane	néhe-ba	néhe-ba	tongue	n !é/e h e b a	1490		n !é/e - h e b a	
+1420	AchuarShiwiar	iná̃ĩ	iná̃ĩ	tongue	i n !á/a ∼ i ∼	1488		i n - !á/a ∼ i ∼	Phonological alternation: inĩá̃ĩ
+1478	Andoa	níti	níti	tongue	n !í/i t i	1489		n !í/i t i	
+1556	Canichana	au-chava	au-chava	tongue	a u tʃ a v a	1492		a u tʃ a v a	au = 1SG
+1722	Shiwilu	ñinekla	ñinekla	tongue	ɲ i n ə ˀk l a	1495		ɲ i n ə ˀk l a	
+1904	Shuar	iniái	iniái	tongue	i n i !á/a i	1488		i n i !á/a - i -	
+1930	Omurano	nateto	nateto	tongue	n a t e t o	1494		n a t e t o	Tessmann: Zunge
+1990	Tequiraca	axlī́ū	axlī́ū	tongue	a x l !ī́/i !ū/u	1497		a x l !ī́/i !ū/u	Tessmann: Zunge
+2179	Zaparo	riricha	riricha	tongue	r i r i tʃ a	1499		r i r i tʃ a	
+#
+167	Iquito	iika	iika	tooth (front rather than molar)	iː k a	1505		- iː k a	tooth or fang
+316	Aguaruna	dai	dai	tooth (front rather than molar)	d ɛi	1501		d ɛi	
+451	Arabela	kwiaj̃a	kwiaj̃a	tooth (front rather than molar)	k i a j̃ a	1502		- - - k i a j̃ - a	
+564	Candoshi-Shapra	nassitʃ	nassitʃ	tooth (front rather than molar)	n a s s i tʃ	1503		n a s s i tʃ	
+684	Muniche	diɾa	diɾa	tooth (front rather than molar)	d i ɾ a	1506		- d i ɾ a	
+794	Taushiro	aɲunɨ	aɲunɨ	tooth (front rather than molar)	a ɲ u n ɨ	1507		- a ɲ u n ɨ	
+928	Waorani	baga	baga	tooth (front rather than molar)	b a g a	1505		b a g a	
+951	Bora	íʔkʷáhɨɨ́	íʔkʷáhɨɨ́	tooth (front rather than molar)	!í/i ʔ kʷ !á/a h ɨ !ɨ́/ɨ	1502		!í/i ʔ - kʷ - !á/a h ɨ !ɨ́/ɨ	
+952	Muinane	íígai	íígai	tooth (front rather than molar)	!í/i !í/i g a i	1502		!í/i - !í/i g - a - - i	
+1421	AchuarShiwiar	nái	nái	tooth (front rather than molar)	n !á/a i	1500		n !á/a i	
+1479	Andoa	ikyajá	ikyajá	tooth (front rather than molar)	i kʲ a h !á/a	1502		i - - kʲ - a h - !á/a	
+1557	Canichana	eu-huti	eu-huti	tooth (front rather than molar)	e u h u t i	1504		e u h u t i	eu = 1SG
+1723	Shiwilu	latek	latek	tooth (front rather than molar)	l a tˀ ə k	1508		l a tˀ ə k	
+1905	Shuar	nai	nai	tooth (front rather than molar)	n ai	1500		n ai -	
+1931	Omurano	nanani	nanani	tooth (front rather than molar)	n a n a n i	1507		n a n a n i	Tessmann: Zahn
+1991	Tequiraca	āka	āka	tooth (front rather than molar)	!ā/a k a	1505		- !ā/a k a	Tessmann: Zahn
+2180	Zaparo	icharɨ	icharɨ	tooth (front rather than molar)	i tʃ a r ɨ	1506		i tʃ a r ɨ	
+#
+168	Iquito	náana	náana	tree	n !á/a a n a	1511		n !á/a - a n a	tree
+317	Aguaruna	numi	numi	tree	n ʊ m i	1509		n ʊ m i	
+452	Arabela	naana	naana	tree	n aː n a	1511		n aː - - n a	
+565	Candoshi-Shapra	jasina	jasina	tree	j a s i n a	1513		j a s i n a	
+685	Muniche	apaʔnɨ	apaʔnɨ	tree	a p a ʔ n ɨ	1515		a p a ʔ n ɨ	
+795	Taushiro	awah	awah	tree	a w a h	1518		a w a h	
+929	Waorani	awæ̃	awæ̃	tree	a w æ ∼	1519		a w æ ∼	
+1020	Bora	ɯ́me-ʔe	ɯ́me-ʔe	tree	!ɯ́/ɯ m e ʔ e	1512		!ɯ́/ɯ m e ʔ e	
+1021	Muinane	ɨ́mo-ʔo	ɨ́mo-ʔo	tree	!ɨ́/ɨ m o ʔ o	1512		!ɨ́/ɨ m o ʔ o	
+1422	AchuarShiwiar	númi	númi	tree	n !ú/u m i	1509		n !ú/u m i	Phonological alternation: yúmi
+1480	Andoa	amáka	amáka	tree	a m !á/a k a	1510		a m !á/a k a	
+1558	Canichana	ni-yiga	ni-yiga	tree	n i j i g a	1514		n i j i g a	ni = ABS
+1724	Shiwilu	nala	nala	tree	n a l a	1517		n a l a	
+1906	Shuar	numi	numi	tree	n u m i	1509		n u m i	
+1968	Omurano	á͜a	á͜a	tree	aː	1516		aː	Tessmann: Baum
+2044	Yameo	ṓɣun̊	ṓɣun̊	tree	!ṓ/o ɣ u !n̊/n	1520		!ṓ/o ɣ u !n̊/n	Tessmann: Baum
+2181	Zaparo	nakuna	nakuna	tree	n a k u n a	1511		n a k u n a	
+#
+170	Iquito	kuumi	kuumi	two	k uː m i	1522		k uː m - - i	two
+171	Iquito	kuupɨ	kuupɨ	two	k uː p ɨ	1522		k uː p - - ɨ	two
+318	Aguaruna	himag	himag	two	h i m a g	1521		h i m - a g	
+453	Arabela	kaapikwi	kaapikwi	two	k aː p i k i	1522		k aː p i k i	
+566	Candoshi-Shapra	tsimpono	tsimpono	two	ts i m p o n o	1524		ts i m p o n o	
+686	Muniche	utspa	utspa	two	u ts p a	1526		u ts p a	
+796	Taushiro	atʃini	atʃini	two	a tʃ i n i	1529		a tʃ i n i	
+930	Waorani	bẽa	bẽa	two	b e ∼ a	1531		b e ∼ a	
+1038	Bora	mí-ɲéé-kʰɯɯ́	mí-ɲéé-kʰɯɯ́	two	m !í/i ɲ !é/e !é/e kʰ ɯ !ɯ́/ɯ	1523		m !í/i - ɲ !é/e !é/e - kʰ ɯ !ɯ́/ɯ	
+1039	Muinane	míí-no-kkɨ	míí-no-kkɨ	two	m !í/i !í/i n o k k ɨ	1523		m !í/i !í/i n - o k k - ɨ	
+1424	AchuarShiwiar	jímiar	jímiar	two	h !í/i mʲ a r	1521		h !í/i mʲ - a r	
+1559	Canichana	caadita	caadita	two	k a a d i t a	1525		k a a d i t a	Because of order of entries, here is the variant: eu-colileche
+1726	Shiwilu	katu’	katu’	two	k a t u ʔ	1528		k a t u ʔ	
+1908	Shuar	jímiar	jímiar	two	h !í/i m i a r	1521		h !í/i m i a r	
+1944	Omurano	θṓoro	θṓoro	two	θ !ṓ/o o r o	1527		θ !ṓ/o o r o	Tessmann: zwei
+2003	Tequiraca	kisnáõ	kisnáõ	two	k i s n !á/a o ∼	1530		k i s n !á/a o ∼	Tessmann: zwei
+2016	Yameo	narámue̯	narámue̯	two	n a r !á/a m u !e̯/e	1532		n a r !á/a m u !e̯/e	Tessmann: zwei
+2182	Zaparo	amashaniki	amashaniki	two	a m a ʃ a n i k i	1533		a m a ʃ a n i k i	
+#
+174	Iquito	íípànàna	íípànàna	warm (of weather)	!í/i !í/i p !à/a n !à/a n a	1535		!í/i !í/i p !à/a n !à/a n a	
+1427	AchuarShiwiar	tsúwer	tsúwer	warm (of weather)	ts !ú/u w ɨ r	1534		ts !ú/u w ɨ r	
+#
+176	Iquito	aaka	aaka	water	aː k a	1537		- - - aː k a	water
+320	Aguaruna	jumi	jumi	water	j ʊ m i	1536		j ʊ m i	
+455	Arabela	mowaka	mowaka	water	m o w a k a	1537		m o w a k a	
+568	Candoshi-Shapra	koŋko	koŋko	water	k o ŋ k o	1539		k o ŋ k o	
+688	Muniche	idɨ	idɨ	water	i d ɨ	1541		i d ɨ	
+798	Taushiro	wɨi	wɨi	water	w ɨ i	1545		w ɨ i	
+932	Waorani	æpæ̃	æpæ̃	water	æ p æ ∼	1547		æ p æ ∼	
+989	Bora	nɯ́-hpʰakʰʲo	nɯ́-hpʰakʰʲo	water	n !ɯ́/ɯ h pʰ a kʰʲ o	1538		n !ɯ́/ɯ h pʰ a - kʰʲ o	
+990	Muinane	nɨ́-ɸáíʔu	nɨ́-ɸáíʔu	water	n !ɨ́/ɨ ɸ !á/a !í/i ʔ u	1538		n !ɨ́/ɨ - ɸ !á/a !í/i ʔ u	
+1429	AchuarShiwiar	yúmi	yúmi	water	j !ú/u m i	1536		j !ú/u m i	
+1481	Andoa	moáka	moáka	water	m o !á/a k a	1537		m o - !á/a k a	
+1561	Canichana	ne-se	ne-se	water	n e s e	1540		n e s e	ni = ABS
+1730	Shiwilu	dek	dek	water	ð ə ˀk	1543		ð ə ˀk	
+1912	Shuar	entsa	entsa	water	e n̪ t s a	1544		e n̪ t s a	
+1936	Omurano	tówă	tówă	water	t !ó/o w !ă/a	1542		t !ó/o w !ă/a	Tessmann: Wasser
+1996	Tequiraca	wā́ē	wā́ē	water	w !ā́/a !ē/e	1546		w !ā́/a !ē/e	Tessmann: Wasser
+2008	Yameo	nan̊'wá	nan̊'wá	water	n a !n̊/n ʔ w !á/a	1548		n a !n̊/n ʔ w !á/a	Tessmann: Wasser
+2186	Zaparo	murichaha	murichaha	water	m u r i tʃ a h a	1549		m u r i tʃ a h a	
+#
+177	Iquito	kana=,pɨ́ɨ́=	kana=	we	k a n a	1553		k a n - - a	
+178	Iquito	kana=,pɨ́ɨ́=	pɨ́ɨ́=	we	p !ɨ́/ɨ !ɨ́/ɨ	1556		p !ɨ́/ɨ !ɨ́/ɨ	
+1050	Bora	mɯɯ́ʔa	mɯɯ́ʔa	we	m ɯ !ɯ́/ɯ ʔ a	1551		m ɯ !ɯ́/ɯ ʔ a -	
+1051	Muinane	mɨ́ɨ́ʔai	mɨ́ɨ́ʔai	we	m !ɨ́/ɨ !ɨ́/ɨ ʔ a i	1551		m !ɨ́/ɨ !ɨ́/ɨ ʔ a i	
+1430	AchuarShiwiar	ii	ii	we	i i	1550		i i	
+1562	Canichana	ohexxalxina	ohexxalxina	we	o h e h h a l h i n a	1552		o h e h h a l h i n a	
+1731	Shiwilu	kenmu’wa’	kenmu’wa’	we	kˀ ə n m u ʔ w a ʔ	1554		kˀ ə n m u ʔ w a ʔ	inclusive form
+1732	Shiwilu	kuda	kuda	we	kʷ ð a	1557		kʷ ð a	exclusive form
+1913	Shuar	li	li	we	l i	1555		l i	
+2187	Zaparo	kanaha	kanaha	we	k a n a h a	1553		k a n a h a	exclusive. Short form: kana=
+2188	Zaparo	pɨaka	pɨaka	we	p ɨ a k a	1558		p ɨ a k a	inclusive. Short form: pa=
+#
+179	Iquito	pikana	pikana	wet	p i k a n a	1560		p i k a n - a	wet
+321	Aguaruna	tʃupihu	tʃupihu	wet	tʃ ʊ p i h ʊ	1559		tʃ ʊ p i h ʊ	
+456	Arabela	pikwiikwia	pikwiikwia	wet	p i k iː k i a	1560		p i k iː k i a	
+689	Muniche	çaju	çaju	wet	ç a j u	1563		ç a j u	
+799	Taushiro	itʃuntunoʔ	itʃuntunoʔ	wet	i tʃ u n t u n o ʔ	1565		i tʃ u n t u n o ʔ	
+933	Waorani	a_beĩ	a_beĩ	wet	a b e i ∼	1566		a b e i ∼	
+1155	Bora	mahááβe	mahááβe	wet	m a h !á/a !á/a β e	1561		m a h !á/a !á/a β e	
+1156	Bora	pʰɨ́ɨ́pʰá-ɲe	pʰɨ́ɨ́pʰá-ɲe	wet	pʰ !ɨ́/ɨ !ɨ́/ɨ pʰ !á/a ɲ e	1568		pʰ !ɨ́/ɨ !ɨ́/ɨ pʰ !á/a ɲ e	
+1157	Muinane	mááɲo	mááɲo	wet	m !á/a !á/a ɲ o	1562		m !á/a !á/a ɲ o	
+1158	Muinane	ɸééɸa-ɲo	ɸééɸa-ɲo	wet	ɸ !é/e !é/e ɸ a ɲ o	1568		ɸ !é/e !é/e ɸ a ɲ o	
+1431	AchuarShiwiar	chúpit	chúpit	wet	tʃ !ú/u p i t	1559		tʃ !ú/u p i t -	
+1914	Shuar	jiniárma	jiniárma	wet	h i n i !á/a r m a	1564		h i n i !á/a r m a	
+2189	Zaparo	tsutuka	tsutuka	wet	ts u t u k a	1567		ts u t u k a	
+#
+180	Iquito	saakaa	saakaa	what?	s aː k aː	1570		s aː k - - aː	what
+322	Aguaruna	wahi	wahi	what?	w a h i	1569		w a h i	
+457	Arabela	kasaa	kasaa	what?	k a s aː	1570		k a s - - aː	
+569	Candoshi-Shapra	maja	maja	what?	m a j a	1571		m a j a	
+690	Muniche	tiʔku	tiʔku	what?	t i ʔ k u	1573		t i ʔ k u	
+800	Taushiro	antuʔhan	antuʔhan	what?	a n t u ʔ h a n	1575		a n t u ʔ h a n	
+934	Waorani	kĩdõ	kĩdõ	what?	k i ∼ d o ∼	1576		k i ∼ d o ∼	
+1432	AchuarShiwiar	warí	warí	what?	w a r !í/i	1569		w a r !í/i	
+1563	Canichana	emta	emta	what?	e m t a	1572		e m t a	
+1733	Shiwilu	ma’	ma’	what?	m a ʔ	1574		m a ʔ	
+1915	Shuar	warí	warí	what?	w a r !í/i	1569		w a r !í/i	
+2190	Zaparo	katsaka	katsaka	what?	k a ts a k a	1570		k a ts a k a	
+#
+181	Iquito	jɨɨ́tikari	jɨɨ́tikari	when?	h !ɨɨ́/ɨː t i k a r i	1580		h !ɨɨ́/ɨː t i k a r i	when
+323	Aguaruna	wahuti	wahuti	when?	w a h ʊ t i	1577		w a h ʊ t i -	
+458	Arabela	kaɾi	kaɾi	when?	k a ɾ i	1578		k a ɾ i	
+801	Taushiro	inɨhan	inɨhan	when?	i n ɨ h a n	1583		i n ɨ h a n	
+935	Waorani	æjedẽdõ	æjedẽdõ	when?	æ j e d e ∼ d o ∼	1584		æ j e d e ∼ d o ∼	
+1433	AchuarShiwiar	warútik	warútik	when?	w a r !ú/u t i k	1577		w a r !ú/u t i k	Phonological alternation: warútia
+1564	Canichana	yahuaxana	yahuaxana	when?	j a w a h a n a	1579		j a w a h a n a	
+1734	Shiwilu	enpi’i’na	enpi’i’na	when?	ə m b i ʔ i ʔ n a	1581		ə m b i ʔ i ʔ n a	
+1916	Shuar	urútai	urútai	when?	u r !ú/u t ai	1582		u r !ú/u t ai	
+2191	Zaparo	tiyakari	tiyakari	when?	t i j a k a r i	1580		t i j a k a r i	
+#
+182	Iquito	tɨɨti	tɨɨti	where?	t ɨː t i	1590		t ɨː t i	where
+324	Aguaruna	tuwi	tuwi	where?	t ʊ w i	1586		t ʊ w i	
+459	Arabela	tee	tee	where?	t eː	1587		t eː	
+570	Candoshi-Shapra	tamanʃita	tamanʃita	where?	t a m a n ʃ i t a	1588		t a m a n ʃ i t a	
+691	Muniche	manca	manca	where?	m a n c a	1591		m a n c a	
+802	Taushiro	hihan	hihan	where?	h i h a n	1593		h i h a n	
+936	Waorani	æjõbõdõ	æjõbõdõ	where?	æ j o ∼ b o ∼ d o ∼	1594		æ j o ∼ b o ∼ d o ∼	
+1434	AchuarShiwiar	tuní	tuní	where?	t u n !í/i	1585		t u n !í/i	
+1565	Canichana	lava	lava	where?	l a v a	1589		l a v a	
+1735	Shiwilu	enkasek	enkasek	where?	ə n g a s ə ˀk	1592		ə n g a s ə ˀk	
+2192	Zaparo	tayi	tayi	where?	t a j i	1590		t a j i	
+#
+183	Iquito	musútina	musútina	white	m u s !ú/u t i n a	1600		m u s !ú/u t i n a	white
+325	Aguaruna	puhu	puhu	white	p ʊ h ʊ	1595		p ʊ h ʊ	
+460	Arabela	kowaj̃a	kowaj̃a	white	k o w a j̃ a	1597		k o w a j̃ a	
+571	Candoshi-Shapra	mpooɾʃi	mpooɾʃi	white	m p oː ɾ ʃ i	1598		m p oː ɾ ʃ i	
+692	Muniche	ahnedatsaʔa	ahnedatsaʔa	white	a h n e d a ts a ʔ a	1601		a h n e d a ts a ʔ a	
+803	Taushiro	haʔanta	haʔanta	white	h a ʔ a n t a	1604		h a ʔ a n t a	
+937	Waorani	dãbæ̃ta	dãbæ̃ta	white	d a ∼ b æ ∼ t a	1605		d a ∼ b æ ∼ t a	
+1064	Bora	ʦʰɨʦʰɨ	ʦʰɨʦʰɨ	white	tsʰ ɨ tsʰ ɨ	1596		- tsʰ ɨ tsʰ - ɨ - -	
+1065	Muinane	sésééne	sésééne	white	s !é/e s !é/e !é/e n e	1596		- s !é/e s !é/e !é/e n e	
+1435	AchuarShiwiar	púju	púju	white	p !ú/u h u	1595		p !ú/u h u	Because of order of the entries: píshi
+1482	Andoa	oshíshia	oshíshia	white	o ʃ !í/i ʃ i a	1596		o ʃ !í/i ʃ i a - -	
+1566	Canichana	m-bara	m-bara	white	m b a ɾ a	1599		m b a ɾ a	
+1736	Shiwilu	dadapu	dadapu	white	ð a ð a p u	1603		ð a ð a p u	
+1917	Shuar	puju	puju	white	p u h u	1595		p u h u	
+1946	Omurano	tšalama	tšalama	white	tʃ a l a m a	1602		tʃ a l a m a	Tessmann: weiß
+2005	Tequiraca	sukḗe	sukḗe	white	s u k !ḗ/e e	1596		- s u k !ḗ/e e - -	Tessmann: weiß
+2018	Yameo	pašelắ	pašelắ	white	p a ʃ e l !ắ/a	1606		p a ʃ e l !ắ/a	Tessmann: weiß
+2193	Zaparo	ushicha	ushicha	white	u ʃ i tʃ a	1607		u ʃ i tʃ a	
+#
+184	Iquito	kánɨɨka	kánɨɨka	who?	k !á/a n ɨː k a	1609		k !á/a n ɨː k a	who
+326	Aguaruna	ja	ja	who?	j a	1608		j a	
+461	Arabela	kana	kana	who?	k a n a	1609		k a n - - a	
+572	Candoshi-Shapra	tʃaka	tʃaka	who?	tʃ a k a	1611		tʃ a k a	
+693	Muniche	putaduça	putaduça	who?	p u t a d u ç a	1613		p u t a d u ç a	
+804	Taushiro	kuʔhan	kuʔhan	who?	k u ʔ h a n	1615		k u ʔ h a n	
+938	Waorani	ækãdõ	ækãdõ	who?	æ k a ∼ d o ∼	1616		æ k a ∼ d o ∼	
+1072	Bora	mɯ́ʔa	mɯ́ʔa	who?	m !ɯ́/ɯ ʔ a	1610		m !ɯ́/ɯ ʔ a	
+1073	Bora	kʰaatʰʲéʔa	kʰaatʰʲéʔa	who?	kʰ a a tʰʲ !é/e ʔ a	1617		kʰ a a tʰʲ !é/e ʔ a	
+1074	Muinane	mɨ́hɨ́	mɨ́hɨ́	who?	m !ɨ́/ɨ h !ɨ́/ɨ	1610		m !ɨ́/ɨ h !ɨ́/ɨ	
+1075	Muinane	káháánɨ	káháánɨ	who?	k !á/a h !á/a !á/a n ɨ	1618		k !á/a h !á/a !á/a n ɨ	
+1076	Muinane	káháámo	káháámo	who?	k !á/a h !á/a !á/a m o	1618		k !á/a h !á/a !á/a m o	
+1436	AchuarShiwiar	ya	ya	who?	j a	1608		j a	Because of order of the entries and examples: yáki
+1567	Canichana	ctanhati	ctanhati	who?	k t a n h a t i	1612		k t a n h a t i	
+1737	Shiwilu	den	den	who?	ð ə n	1614		ð ə n	
+1918	Shuar	ya	ya	who?	j a	1608		j a	
+2194	Zaparo	kanatɨ	kanatɨ	who?	k a n a t ɨ	1609		k a n a t ɨ	
+#
+185	Iquito	parina	parina	wide	p a r i n a	1623		p a r i n a	wide or broad
+327	Aguaruna	wagkaham	wagkaham	wide	w a g k a h a m	1619		w a g k - a h a m	
+462	Arabela	kweɾonu	kweɾonu	wide	k e ɾ o n u	1620		k e ɾ o n u	
+573	Candoshi-Shapra	omani	omani	wide	o m a n i	1622		o m a n i	
+694	Muniche	akata	akata	wide	a k a t a	1624		a k a t a	
+805	Taushiro	hoʔwu	hoʔwu	wide	h o ʔ w u	1626		h o ʔ w u	
+939	Waorani	jæ̃dæ̃	jæ̃dæ̃	wide	j æ ∼ d æ ∼	1627		j æ ∼ d æ ∼	
+1171	Bora	kʰorɨ́ɨ́-né	kʰorɨ́ɨ́-né	wide	kʰ o r !ɨ́/ɨ !ɨ́/ɨ n !é/e	1621		kʰ o r !ɨ́/ɨ - !ɨ́/ɨ n !é/e	
+1172	Muinane	kárékuno	kárékuno	wide	k !á/a r !é/e k u n o	1621		k !á/a r !é/e k u n o	
+1437	AchuarShiwiar	wangkáram	wangkáram	wide	w a ŋ k !á/a r a m	1619		w a ŋ k - !á/a r a m	
+1738	Shiwilu	du’wan	du’wan	wide	ð u ʔ w a n	1625		ð u ʔ w a n	
+1919	Shuar	wankáaram	wankáaram	wide	w a nˠ k !á/a a r a m	1619		w a nˠ k !á/a a r a m	
+#
+186	Iquito	majáana	majáana	wife	m a h !á/a a n a	1630		m a h !á/a a n a	wife
+979	Bora	tʰaápa	tʰaápa	wife	tʰ a !á/a p a	1629		tʰ a !á/a p a	
+980	Muinane	táaba	táaba	wife	t !á/a a b a	1629		t !á/a a b a	
+1438	AchuarShiwiar	nuwári	nuwári	wife	n u w !á/a r i	1628		n u w !á/a r i	Because of order of the entries and examples: nuwé̃
+1739	Shiwilu	sada	sada	wife	s a ð a	1632		s a ð a	
+1920	Shuar	ashant	ashant	wife	a ʃ a n̪ t	1633		a ʃ a n̪ t	
+1959	Omurano	njiwā́na	njiwā́na	wife	ɲ i w !ā́/a n a	1631		ɲ i w !ā́/a n a	Tessmann: Ehefrau
+2032	Yameo	ilē̠lö̆́'	ilē̠lö̆́'	wife	i l !ē̠/e l !ö̆́/o ʔ	1634		i l !ē̠/e l !ö̆́/o ʔ	Tessmann: Ehefrau
+2195	Zaparo	irichanaw	irichanaw	wife	i r i tʃ a n au	1635		i r i tʃ a n au	
+#
+187	Iquito	akíraja	akíraja	wind	a k !í/i r a h a	1640		a k !í/i r a h a	wind or breeze
+329	Aguaruna	dasɨ	dasɨ	wind	d a s ɨ	1636		d a s ɨ -	
+464	Arabela	paɾatu	paɾatu	wind	p a ɾ a t u	1637		p a ɾ a t u	
+575	Candoshi-Shapra	kamposoɾo	kamposoɾo	wind	k a m p o s o ɾ o	1638		k a m p o s o ɾ o	
+696	Muniche	mɨʔça	mɨʔça	wind	m ɨ ʔ ç a	1641		m ɨ ʔ ç a	
+941	Waorani	wobojæ̃	wobojæ̃	wind	w o b o j æ ∼	1644		w o b o j æ ∼	
+1439	AchuarShiwiar	nasé̃	nasé̃	wind	n a s !é/ɨ ∼	1636		n a s !é/ɨ ∼	
+1568	Canichana	ne-uraxabhin	ne-uraxabhin	wind	n e u ɾ a h a b h i n	1639		n e u ɾ a h a b h i n	ni = ABS
+1740	Shiwilu	tanluwa	tanluwa	wind	t a n l u w a	1643		t a n l u w a	
+1921	Shuar	nase	nase	wind	n a s e	1636		n a s e -	
+1964	Omurano	bū́na	bū́na	wind	b !ū́/u n a	1642		b !ū́/u n a	Tessmann: Wind
+2040	Yameo	walĕnḗ̠	walĕnḗ̠	wind	w a l !ĕ/e n !ḗ̠/e	1645		w a l !ĕ/e n !ḗ̠/e	Tessmann: Wind
+2196	Zaparo	paratu	paratu	wind	p a r a t u	1637		p a r a t u	
+#
+188	Iquito	námaku	námaku	wing	n !á/a m a k u	1649		n !á/a m a k u	wing
+328	Aguaruna	nanapɨ	nanapɨ	wing	n a n a p ɨ	1646		n a n a p ɨ	
+463	Arabela	nesu	nesu	wing	n e s u	1647		n e s u	
+574	Candoshi-Shapra	waʂiitpoŋktʃi	waʂiitpoŋktʃi	wing	w a ʂ iː t p o ŋ k tʃ i	1648		w a ʂ iː t p o ŋ k tʃ i	
+695	Muniche	tʃitɨna	tʃitɨna	wing	tʃ i t ɨ n a	1650		tʃ i t ɨ n a	
+806	Taushiro	aʔa	aʔa	wing	a ʔ a	1652		a ʔ a	
+940	Waorani	õdõbæ̃	õdõbæ̃	wing	o ∼ d o ∼ b æ ∼	1653		o ∼ d o ∼ b æ ∼	
+1440	AchuarShiwiar	nanáp	nanáp	wing	n a n !á/a p	1646		n a n !á/a p -	
+1741	Shiwilu	anpina	anpina	wing	a m b i n a	1651		a m b i n a	
+1922	Shuar	nánape	nánape	wing	n !á/a n a p e	1646		n !á/a n a p e	
+2197	Zaparo	kahaakwa	kahaakwa	wing	k a h aː kʷ a	1654		k a h aː kʷ a	
+#
+190	Iquito	=jata	=jata	with (accompanying)	h a t a	1657		h a t a	with
+1163	Bora	-ma	-ma	with (accompanying)	m a	1656		m a	
+1164	Muinane	-ma	-ma	with (accompanying)	m a	1656		m a	
+1442	AchuarShiwiar	-jaĩ	-jaĩ	with (accompanying)	h a i ∼	1655		h a i ∼	
+1743	Shiwilu	=lek	=lek	with (accompanying)	l ə ˀk	1658		l ə ˀk	
+1923	Shuar	-ja̠i	-ja̠i	with (accompanying)	h a ∼ i	1659		h a ∼ i	
+2198	Zaparo	=ta	=ta	with (accompanying)	t a	1660		t a	
+#
+191	Iquito	mɨɨsaji	mɨɨsaji	woman	m ɨː s a h i	1666		m ɨː s a h i	woman
+330	Aguaruna	nuwa	nuwa	woman	n ʊ w a	1661		n ʊ w a	
+465	Arabela	maaj̃i	maaj̃i	woman	m aː j̃ i	1662		m aː - j̃ i	
+576	Candoshi-Shapra	kiiʂa	kiiʂa	woman	k iː ʂ a	1664		k iː ʂ a	
+697	Muniche	mɨhmɨʈʂɨ	mɨhmɨʈʂɨ	woman	m ɨ h m ɨ ʈʂ ɨ	1667		m ɨ h m ɨ ʈʂ ɨ	
+807	Taushiro	ɲoʔon	ɲoʔon	woman	ɲ o ʔ o n	1670		ɲ o ʔ o n	
+942	Waorani	õkijæ̃gã	õkijæ̃gã	woman	o ∼ k i j æ ∼ g a ∼	1672		o ∼ k i j æ ∼ g a ∼	
+975	Bora	kʷa-ʧe	kʷa-ʧe	woman	kʷ a tʃ e	1663		kʷ a - tʃ e	
+976	Muinane	gáí-go	gáí-go	woman	g !á/a !í/i g o	1663		g !á/a !í/i g o	
+1443	AchuarShiwiar	núwa	núwa	woman	n !ú/u w a	1661		n !ú/u w a	
+1483	Andoa	máaji	máaji	woman	m !á/a a h i	1662		m !á/a a h i	
+1569	Canichana	iquegahui	iquegahui	woman	i k e g a w i	1665		i k e g a w i	
+1744	Shiwilu	ku’aper	ku’aper	woman	kʷ ʔ a pˀ ə ɾ	1669		kʷ ʔ a pˀ ə ɾ	
+1924	Shuar	nua	nua	woman	n u a	1661		n u - a	
+1940	Omurano	mpárawan	mpárawan	woman	m p !á/a r a w a n	1668		m p !á/a r a w a n	Tessmann: Frau
+2000	Tequiraca	aslanḗ	aslanḗ	woman	a s l a n !ḗ/e	1671		a s l a n !ḗ/e	Tessmann: Frau
+2012	Yameo	wátrĕ	wátrĕ	woman	w !á/a t r !ĕ/e	1673		w !á/a t r !ĕ/e	Tessmann: Frau
+2199	Zaparo	ityumuka	ityumuka	woman	i tʲ u m u k a	1674		i tʲ u m u k a	This form has more semantic and morphological complexity (esposa, pareja, mujer, esta palabra requiere un poseedor explícito): irichanaw
+#
+59	Iquito	táasa	táasa	woods	t !á/a a s a	1678		t !á/a a s a	mainly used to carry tubers (especially manioc) and fruits from the garden or forest
+1444	AchuarShiwiar	íkiam	íkiam	woods	!í/i kʲ a m	1675		!í/i kʲ a m	
+1484	Andoa	nakwája	nakwája	woods	n a kʷ !á/a h a	1676		n a kʷ !á/a h - - a	
+1570	Canichana	ni-scu	ni-scu	woods	n i s k u	1677		n i s k u	ni = ABS
+1745	Shiwilu	tana	tana	woods	t a n a	1680		t a n a	
+1925	Shuar	kampúntin	kampúntin	woods	k a m p !ú/u n̪ t i n	1681		k a m p !ú/u n̪ t i n	
+1967	Omurano	napápai	napápai	woods	n a p !á/a p a i	1679		n a p !á/a p a i	Tessmann: Wald
+2043	Yameo	tṓ̠o̯la	tṓ̠o̯la	woods	t !ṓ̠/o !o̯/o l a	1678		t !ṓ̠/o !o̯/o l a	Tessmann: Wald
+2200	Zaparo	nakuhinya	nakuhinya	woods	n a k u h i ɲ a	1676		n a k u h i ɲ a	
+#
+1161	Bora	ɯɯ́pa	ɯɯ́pa	worm	ɯ !ɯ́/ɯ p a	1683		- ɯ - !ɯ́/ɯ p a	
+1162	Muinane	hɨ́ʔɨba	hɨ́ʔɨba	worm	h !ɨ́/ɨ ʔ ɨ b a	1683		h !ɨ́/ɨ ʔ ɨ b a	
+1445	AchuarShiwiar	áka	áka	worm	!á/a k a	1682		!á/a k a	
+1746	Shiwilu	tunla	tunla	worm	t u n l a	1684		t u n l a	
+1926	Shuar	aka	aka	worm	a k a	1682		a k a	
+#
+194	Iquito	kina=	kina=	ye	k i n a	1691		k i n - - a	
+333	Aguaruna	huti	huti	ye	h ʊ t i	1686		h ʊ t i	
+468	Arabela	nia	nia	ye	n i a	1687		n i a	
+579	Candoshi-Shapra	sija	sija	ye	s i j a	1689		s i j a	
+808	Taushiro	intɨ	intɨ	ye	i n t ɨ	1693		i n t ɨ	
+945	Waorani	bĩditõ	bĩditõ	ye	b i ∼ d i t o ∼	1694		b i ∼ d i t o ∼	
+1052	Bora	ámɯɯ́ʔa	ámɯɯ́ʔa	ye	!á/a m ɯ !ɯ́/ɯ ʔ a	1688		!á/a m ɯ !ɯ́/ɯ ʔ a -	
+1053	Muinane	amɨ́ɨ́ʔai	amɨ́ɨ́ʔai	ye	a m !ɨ́/ɨ !ɨ́/ɨ ʔ a i	1688		a m !ɨ́/ɨ !ɨ́/ɨ ʔ a i	
+1446	AchuarShiwiar	átum	átum	ye	!á/a t u m	1685		!á/a t u m	
+1571	Canichana	nha-ikho-na	nha-ikho-na	ye	n h a i k h o n a	1690		n h a i k h o n a	
+1747	Shiwilu	kenmama’	kenmama’	ye	kˀ ə n m a m a ʔ	1692		kˀ ə n m a m a ʔ	
+1927	Shuar	átum	átum	ye	!á/a t u m	1685		!á/a t u m	
+2201	Zaparo	kinyaha	kinyaha	ye	k i ɲ a h a	1691		k i ɲ a h a	Short form: kinya
+#
+192	Iquito	amáriyaana	amáriyaana	year	a m !á/a r i j aː n a	1697		a m !á/a r i j aː n a	year
+331	Aguaruna	mihan	mihan	year	m i h a n	1696		m i h a n	
+466	Arabela	maɾij̃ia	maɾij̃ia	year	m a ɾ i j̃ i a	1697		- m a ɾ i j̃ i - a	
+577	Candoshi-Shapra	masaatʃi	masaatʃi	year	m a s aː tʃ i	1699		m a s aː tʃ i	
+943	Waorani	wadepo	wadepo	year	w a d e p o	1702		w a d e p o	
+1246	Bora	pʰíhkʰʲapa	pʰíhkʰʲapa	year	pʰ !í/i h kʰʲ a p a	1698		pʰ !í/i h kʰʲ a p a	
+1247	Muinane	ɸikába	ɸikába	year	ɸ i k !á/a b a	1698		ɸ i - k !á/a b a	
+1447	AchuarShiwiar	músach	músach	year	m !ú/u s a tʃ	1695		m !ú/u s a tʃ	
+1748	Shiwilu	ekkilala	ekkilala	year	ə ˀk k i l a l a	1700		ə ˀk k i l a l a	
+1928	Shuar	uwí	uwí	year	u w !í/i	1701		u w !í/i	
+2202	Zaparo	amarihya	amarihya	year	a m a r i hʲ a	1697		a m a r i hʲ - - a	
+#
+193	Iquito	nɨyana	nɨyana	yellow	n ɨ j a n a	1708		n ɨ j a n a	
+332	Aguaruna	ʃuʃui	ʃuʃui	yellow	ʃ ʊ ʃ ʊ i	1704		ʃ ʊ ʃ ʊ i	
+467	Arabela	pokonakwe	pokonakwe	yellow	p o k o n a k e	1705		p o k o n a k e	
+578	Candoshi-Shapra	ptsijaɾomaaʃi	ptsijaɾomaaʃi	yellow	p ts i j a ɾ o m aː ʃ i	1707		p ts i j a ɾ o m aː ʃ i	
+944	Waorani	wĩjadæ̃	wĩjadæ̃	yellow	w i ∼ j a d æ ∼	1712		w i ∼ j a d æ ∼	
+1135	Bora	ʧíhkʰʲáneɯ́βɯ́	ʧíhkʰʲáneɯ́βɯ́	yellow	tʃ !í/i h kʰʲ !á/a n e !ɯ́/ɯ β !ɯ́/ɯ	1706		tʃ !í/i h kʰʲ !á/a n e !ɯ́/ɯ β !ɯ́/ɯ	
+1136	Muinane	gíígiβano	gíígiβano	yellow	g !í/i !í/i g i β a n o	1709		g !í/i !í/i g i β a n o	
+1448	AchuarShiwiar	chakuir	chakuir	yellow	tʃ a k u i r	1703		tʃ a k u i r	Because of order of the entries: takúm,takúmp
+1749	Shiwilu	sha’pi’	sha’pi’	yellow	ʃ a ʔ p i ʔ	1710		ʃ a ʔ p i ʔ	
+1929	Shuar	yanku	yanku	yellow	j a nˠ k u	1711		j a nˠ k u	
+2203	Zaparo	tɨkɨrɨka	tɨkɨrɨka	yellow	t ɨ k ɨ r ɨ k a	1713		t ɨ k ɨ r ɨ k a	
