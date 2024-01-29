@@ -29,3 +29,9 @@ s	s
 m	m
 n	n
 ɾ	ɾ
+-$	NULL
+^-	NULL
+-	+
+_	+
+_$	NULL
+^_	NULL

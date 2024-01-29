@@ -6,6 +6,7 @@ o	o
 ɨ	ɨ
 e	e
 w	w
+l	l
 n	n
 j	j
 ʔ	ʔ
@@ -16,3 +17,6 @@ tʃ	tʃ
 h	h
 ɾ	ɾ
 ɲ	ɲ
+_	+
+_$	NULL
+^_	NULL
