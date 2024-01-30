@@ -1,4 +1,3 @@
-from lexibank_northernperu import Dataset
 from lingpy import Alignments, Wordlist, LexStat
 from lexibase.lexibase import LexiBase
 
@@ -8,9 +7,8 @@ cols = ['concept_id', 'concept_name', 'language_id', 'language_name', 'value',
         'comment']
 
 # Load dataset
-DS = Dataset()
 wl = Wordlist.from_cldf(
-    DS.cldf_dir.joinpath('cldf-metadata.json'),
+    '../cldf/cldf-metadata.json',
     columns=cols,
     namespace=(
         ("language_id", "doculect"),
@@ -40,7 +38,7 @@ for idx in alms:
     D[idx] = [alms[idx, h] for h in D[0]]
 
 # Create sqlite
-lex = LexiBase(D, dbase="crossandean.sqlite3")
-lex.create("crossandean")
+lex = LexiBase(D, dbase="northperulex.sqlite3")
+lex.create("northperulex")
 
 lex.output('tsv', filename="np_edictor", ignore="all")
