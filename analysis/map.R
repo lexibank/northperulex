@@ -9,8 +9,7 @@ library(viridisLite) # v0.4.2
 library(viridis) # v0.6.3
 
 # Loading the data
-lex <- read_csv('../cldf/languages.csv') %>% 
-  mutate(Subgroup = SubGroup)
+lex <- read_csv('../cldf/languages.csv')
 
 # Downloading the map
 spdf_sa <- ne_countries(continent=c("south america"),
@@ -19,27 +18,24 @@ spdf_sa <- ne_countries(continent=c("south america"),
 
 # Plotting the language points and labels on the map
 map_lex <- ggplot(data=lex) +
-  geom_sf(data = spdf_sa) +
-  coord_sf(ylim=c(-20.5, 2), xlim= c(-80, -45)) +
-  geom_point(aes(x=Longitude,y=Latitude, shape=Subgroup, fill=Subgroup), size=8) +
-  geom_label_repel(box.padding=0.75, point.padding=0.5,
+  geom_sf(data=spdf_sa) +
+  coord_sf(ylim=c(-10, 2), xlim= c(-81, -70)) +
+  geom_point(aes(x=Longitude,y=Latitude, fill=Family), size=8, shape=21) +
+  geom_label_repel(box.padding=1.1, point.padding=0.5,
                    data=lex, aes(Longitude, Latitude, label=Name), 
                    min.segment.length=unit(0.1, 'lines'),
-                   size=4, max.overlaps=99) +
-  scale_shape_manual(
-    values=c("Pano"=21, "Tacana"=22, "Mosetén"=23, "Movima"=24, "Uru-Chipaya"=25)
-    ) +
-  scale_fill_viridis_d(guide="legend", option="D") +
-  labs(caption = "Data: Glottolog") +
+                   size=6, max.overlaps=99) +
+  scale_fill_viridis_d(guide="legend", option="A") +
+  labs(caption="Data: Glottolog") +
   theme_bw() +
   theme(legend.position="right",
-        axis.title = element_text(size = rel(1.3)),
-        axis.text = element_text(size = rel(1.3)),
-        legend.text = element_text(size = rel(1.5)),
-        legend.spacing.y = unit(0.5, 'cm'),
-        legend.spacing.x = unit(0.2, 'cm'),
-        legend.title = element_text(size = rel(0))) +
-  guides(shape = guide_legend(byrow = TRUE))
+        axis.title=element_text(size=rel(1.3)),
+        axis.text=element_text(size=rel(1.3)),
+        legend.text=element_text(size=rel(1.5)),
+        legend.spacing.y=unit(0.5, 'cm'),
+        legend.spacing.x=unit(0.2, 'cm'),
+        legend.title=element_text(size=rel(0))) +
+  guides(shape=guide_legend(byrow=TRUE))
 
 map_lex
-ggsave('fig_map.png', map_lex, units="px", width=5000, height=2000)
+ggsave('fig_map.png', map_lex, units="px", width=3000, height=2000)
