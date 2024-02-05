@@ -1,9 +1,17 @@
 Grapheme	IPA
 a	a
+aa	aː
 ai	ɨi
 ái	!ái/ɨi
 au	au
 ua	ua
+uu	uː
+úu	!úu/uː
+ée	!ée/ɨː
+íi	!íi/iː
+ii	iː
+ee	ɨː
+áa	!áa/aː
 áu	!áu/au
 uí	!uí/ui
 ui	ui
@@ -42,6 +50,8 @@ y	j
 pia	pʲ a
 tia	tʲ a
 kia	kʲ a
+kiá	kʲ a
+kiá	kʲ !á/a
 mia	mʲ a
 nia	nʲ a
 wia	wʲ a
