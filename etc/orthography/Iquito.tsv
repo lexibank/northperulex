@@ -10,6 +10,7 @@ ii	iː
 ɨ̀	!ɨ̀/ɨ
 ɨ	ɨ
 ɨɨ	ɨː
+ɨɨ́	!ɨɨ́/ɨː
 ɨ́	!ɨ́/ɨ
 u	u
 uu	uː
@@ -21,14 +22,22 @@ kw	kʷ
 kia	kʲ a
 kiaa	kʲ aː
 m	m
+miaá	mʲ aː
 n	n
 ni	ɲ
 p	p
 r	r
 s	s
-si	ʃ
+siaa	ʃ aː
+siáà	ʃ aː
 t	t
 w	w
 y	j
 ia	ja
 iaa	jaː
+-	+
+-$	NULL
+^-	NULL
+=	+
+=$	NULL
+^=	NULL
