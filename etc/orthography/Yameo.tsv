@@ -1,0 +1,99 @@
+Grapheme	IPA
+a	a
+á	!á/a
+á̠	!á̠/a
+ā	!ā/a
+ā̠	!ā̠/a
+ắ	!ắ/a
+ă	!ă/a
+a̯	!a̯/a
+ā́	!ā́/a
+ã́	!ã́/a ∼
+ắ̠	!ắ̠/a
+ã	!ã/a ∼
+e	e
+ẽ	!ẽ/e ∼
+ē	!ē/e
+ḗ	!ḗ/e
+ĕ́	!ĕ́/e
+ḗ̠	!ḗ̠/e
+ĕ̠	!ĕ̠/e
+ĕ̠́	!ĕ̠́/e
+ẽ̠	!ẽ̠/e ∼
+ē̠	!ē̠/e
+ĕ	!ĕ/e
+ẹ̆	!ẹ̆/e
+ẹ̆́	!ẹ̆́/e
+e̯	!e̯/e
+ĕ̯	!ĕ̯/e
+i	i
+i̯	!i̯/i
+ĩ	!ĩ/i ∼
+í	!í/i
+ĭ́	!ĭ́/i
+ī́	!ī́/i
+ĭ	!ĭ/i
+ī	!ī/i
+ĩ́	!ĩ́/i ∼
+ị	!ị/i
+u	u
+ú	!ú/u
+ũ	!ũ/u ∼
+ū́	!ū́/u
+ŭ́	!ŭ́/u
+ŭ	!ŭ/u
+ū	!ū/u
+ü̯	!ü̯/u
+ō̠	!ō̠/o
+ṓ	!ṓ/o
+ō	!ō/o
+ṓ̠	!ṓ̠/o
+o̯	!o̯/o
+ö̆́	!ö̆́/o
+o	o
+ŏ	!ŏ/o
+ö̆	!ö̆/o
+ọ̈̆	!ọ̈̆/o
+ọ̈̆́	!ọ̈̆́/o
+ŏ́	!ŏ́/o
+õ	!õ/o ∼
+õ̠	!õ̠/o ∼
+ö̯	!ö̯/o
+ọ̈	!ọ̈/o
+ṍ	!ṍ/o ∼
+ṹ	!ṹ/u ∼
+u͜i	ui
+'	ʔ
+’	ʔ
+ɣ	ɣ
+ð	ð
+θ	θ
+k	k
+g	g
+y	j
+j	!j/j
+l	l
+m	m
+n	n
+n̯	n
+n̯̊	!n̯̊/n
+ṇ	!ṇ/n
+n̊	!n̊/n
+nj	ɲ
+n̊j	!n̊j/ɲ
+p	p
+r	r
+ṛ	!ṛ/r
+s	s
+š	ʃ
+t	t
+tš	tʃ
+ʋ̠	v
+w	w
+x	x
+-	+
+-$	NULL
+^-	NULL
+=	+
+=$	NULL
+^=	NULL

@@ -1,0 +1,288 @@
+ID	WORD	CONCEPTICON_ID	CONCEPTICON_GLOSS	MATCH
+1	Zunge	1205	TONGUE	12
+2	Zahn	1380	TOOTH	10
+3	Auge	1248	EYE	17
+4	Ohr	1247	EAR	14
+5	Kopf	1256	HEAD	14
+6	Hand	1277	HAND	12
+7	Wasser	948	WATER	10
+8	Feuer	221	FIRE	11
+9	Sonne	1343	SUN	12
+10	Mond	1313	MOON	13
+269	Erde (Erdboden)	2159	GROUND	
+12	Stein	857	STONE	12
+271	Haus (Wohn-)	1252	HOUSE	
+14	Topf- (Koch-)	3653	COOKING POT	
+15	Kanu	1970	CANOE	1
+16	Mann	1554	MAN	1
+17	Frau	962	WOMAN	3
+18	Huhn	1318	CHICKEN	1
+19	Hund	2009	DOG	14
+20	Jaguar	1250	JAGUAR	2
+21	Tapir (sachavaca)	312	TAPIR	
+280	Kaiman	2438	CAIMAN	
+23	Stock	1295	STICK	3
+282	Maniok	925	CASSAVA	
+25	Mais	506	MAIZE	4
+284	Plante			
+27	Tabak	974	TOBACCO	6
+28	eins	1493	ONE	7
+29	zwei	1498	TWO	11
+30	drei	492	THREE	10
+31	weiß	1335	WHITE	5
+32	schwarz	163	BLACK	8
+33	rot	156	RED	6
+272	Topf (Koch-)	3653	COOKING POT	
+54	Tapir	312	TAPIR	3
+67	Haar	1040	HAIR	1
+68	Schnurrbart	1165	MOUSTACHE	5
+69	Backenbart	678	BEARD	
+70	Stirn	123	FOREHEAD	7
+71	Brauen	1173	EYEBROW	2
+72	Wimpern	1540	EYELASH	2
+73	Nase	1221	NOSE	14
+74	Mund	674	MOUTH	13
+75	Kinn	1510	CHIN	6
+76	Hals	1333	NECK	11
+77	Rücken	1291	BACK	8
+78	Arm (mit Hand)	1673	ARM	
+79	Finger	1303	FINGER	9
+80	Nagel	1896	FINGERNAIL OR TOENAIL	1
+81	Brust	1592	CHEST	6
+82	Rippe	801	RIB	4
+83	Brustwarze	796	NIPPLE	3
+84	weibl. Brust	1402	BREAST	
+85	Bauch	1251	BELLY	10
+86	Nabel	1838	NAVEL	8
+87	Penis	1222	PENIS	4
+88	Hoden	797	TESTICLES	3
+89	Gesäß	834	BUTTOCKS	2
+90	Anus	1935	ANUS	1
+91	Vulva	1837	VULVA	2
+92	Oberschenkel	471	UPPER LEG (THIGH)	7
+93	Knie	1371	KNEE	11
+94	Fuß	1301	FOOT	8
+95	Ferse	980	HEEL	6
+96	Zehe	1389	TOE	3
+97	Haut	2614	SKIN (ANIMAL)	1
+98	Knochen	1394	BONE	13
+99	Blut	946	BLOOD	10
+100	Atem	870	BREATH	3
+101	Leute	789	PEOPLE	2
+102	Ehemann	1200	HUSBAND	
+103	Ehefrau	1199	WIFE	2
+104	Knabe	1366	BOY	4
+105	Mädchen	1646	GIRL	4
+106	Speise	481	DISH	1
+107	Fleisch	2615	FLESH OR MEAT	2
+108	Fisch	227	FISH	12
+109	Himmel	1732	SKY	9
+110	Vollmond	3690	FULL MOON	2
+356	Mond, zunehm.	3816	WAXING MOON	
+112	Stern	1430	STAR	11
+113	Blitz	1654	LIGHTNING	6
+114	Donner	1150	THUNDER	7
+115	Regen	658	RAIN (PRECIPITATION)	10
+116	Wind	960	WIND	6
+117	Nacht	1233	NIGHT	9
+118	Tag	1225	DAY (NOT NIGHT)	8
+119	Monat (s.10)	1370	MONTH	
+372	Sandbank			
+121	Hügel	614	HILL	4
+122	Wald	420	FOREST	7
+379	Pflanzung	212	FIELD	
+124	Weg	2457	PATH OR ROAD	3
+125	Baum	906	TREE	12
+126	Holz	1803	WOOD	4
+383	Liane	2388	LIANA	
+128	Blatt	628	LEAF	11
+129	Wurzel	670	ROOT	8
+130	Heller Kapuzineraffe			
+131	Dunkler Kapuzineraffe			
+391	Saimiri (frailecito)			
+133	Brüllaffe	433	HOWLER MONKEY	2
+393	Wollaffe (choro)			
+135	Spinnenaffe			
+136	Nachtaffe (musmuqui)			
+137	Fledermaus	1793	BAT	5
+138	Puma	1891	PUMA	2
+139	Tigerkatze (trigillo)			
+399	Buschhund			
+141	Nasenbär (achuni)			
+401	Otter	15	OTTER	
+402	Delphin (buféo)	1479	DOLPHIN	
+403	Seekuh			
+145	Reh	1936	DEER	
+405	Weißbartpekari	436	WHITE-LIPPED PECCARY	
+406	Halsbandpekari	435	COLLARED PECCARY	
+407	Wasserschwein (ronsoco)			
+408	Aguti	313	AGOUTI	
+409	Paka (majás)	316	PACA	
+151	Gr. Ameisenbär	181	ANTEATER	
+152	Faultier	2446	SLOTH	2
+153	Kl. Gürteltier (carachupa)			
+154	Hahn	1511	ROOSTER	5
+156	Ei	744	EGG	9
+413	Ara macao			
+414	Ara chloroptera			
+415	Ararauna			
+160	Papagei	882	PARROT	4
+420	Hokko			
+421	Penelope jacutinga			
+163	Penelope jacuacu (pucacunga L.)			
+164	Arapaima (paiche L.)			
+165	Reisenwels (súngaro)			
+425	Landschildkröte			
+426	Flußschildkröte			
+168	Schlange	730	SNAKE	10
+430	Eunectes (boa)			
+170	Wespe	1517	WASP	4
+171	Milbe (isangüe)			
+172	Mücke	1509	MOSQUITO	5
+438	Dinoponeraameise (isula)			
+174	Ding,Sache	738	THING	
+440	Feuerholz	10	FIREWOOD	
+176	Asche	646	ASH	12
+177	Rauch	778	SMOKE (EXHAUST)	9
+178	hart	1884	HARD	6
+179	weich	1856	SOFT	6
+180	lang	1203	LONG	7
+181	kurz	1645	SHORT	7
+182	groß	1202	BIG	6
+183	klein	2484	SMALL (NOT TALL)	1
+184	alt	2113	OLD (USED)	1
+185	hübsch	1427	BEAUTIFUL	1
+457	häßlich	1548	UGLY	
+187	kalt	1287	COLD	7
+188	heiß	1286	HOT	5
+189	heute	1283	TODAY	6
+190	gestern	1174	YESTERDAY	5
+191	morgen	1329	TOMORROW	
+365	Morgen	1339	MORNING	2
+192	hier	136	HERE	4
+193	dort	1937	THERE	4
+194	ja	1268	YES	3
+195	nein	1269	NO	3
+196	viele	1198	MANY	1
+197	wenig	1242	FEW	2
+198	vier	1500	FOUR	10
+199	fünf	493	FIVE	10
+200	sechs	1703	SIX	7
+201	sieben	1704	SEVEN	6
+202	acht	1705	EIGHT	7
+203	neun	1483	NINE	7
+204	zehn	1515	TEN	7
+205	gut (?)	1035	GOOD	
+206	schlect (?)	1292	BAD	
+207	Sohle (?)			
+208	Sohn	1620	SON	6
+209	mein Sohn			
+210	Messer aus Stein oder Eisen			
+211	Beil aus Stein oder Eisen			
+212	Nadel	1382	NEEDLE (FOR SEWING)	7
+213	Hemd	1622	SHIRT	5
+214	Flinte	3948	SHOTGUN	2
+215	Pulver (?)	3368	POWDER	
+216	Milch	635	MILK	6
+217	Kuh	1007	COW	8
+218	Spinne, bissig			
+219	rein (?)	704	CLEAN	
+220	schmutzig (?)	1230	DIRTY	
+221	Löwenäffchen (pichico)			
+222	Leptodactylusfrosch			
+223	essen (Form?)	1336	EAT	
+224	schlafen (Form?)	1585	SLEEP	
+225	töten (Form?)	1417	KILL	
+259	Zunge (unsere Zungen)			
+260	Zahn (unsere Zahn)			
+261	Auge (unsere Augen)			
+262	Ohr (unsere Ohren)			
+263	Kopf (unsere Köpfe)			
+264	Hand (unsere Hände)			
+294	Vollbart			
+295	Gesicht	1560	FACE	6
+301	Lippe	478	LIP	4
+303	Kehle	1346	THROAT	8
+306	Schulter	1482	SHOULDER	9
+307	Arm	1673	ARM	9
+308	Oberarm	431	UPPER ARM	3
+309	Unterarm	446	LOWER ARM	3
+310	Ellenbogen	981	ELBOW	4
+316	weibliche Brust	1402	BREAST	2
+321	Hinterer			
+324	Bein	1297	LEG	10
+326	Unterschenkel	447	LOWER LEG	5
+335	Mensch	683	PERSON	8
+341	Vater	1217	FATHER	8
+342	Mutter	1216	MOTHER	8
+343	Freund	1325	FRIEND	5
+344	Feind	1358	ENEMY	5
+345	Fremder	791	STRANGER	1
+346	Wilder			
+347	Sprache	1307	LANGUAGE	3
+348	Kopfschmerz	3625	HEADACHE	1
+349	Leibschmerz			
+350	Arznei	1372	MEDICINE	4
+358	Wolke	1489	CLOUD	8
+363	Regenzeit	453	RAINY SEASON	2
+364	Trockenzeit	452	DRY SEASON	1
+366	Mittag	12	MIDDAY	5
+369	Monat	1370	MONTH	4
+370	Jahr	1226	YEAR	7
+371	Fluß	666	RIVER	2
+373	Bach	947	STREAM	1
+374	Schnelle	2935	CURRENT	
+375	Quelle	849	SPRING (OF WATER)	4
+378	Sek. Wald (purma)			
+385	Blume	239	FLOWER	
+387	Heliconia (situlli)			
+388	Affe, allg.	1350	MONKEY	
+389	heller Kapuzineraffe			
+390	dunkler Kapuzineraffe			
+392	Brüllaffe			
+394	Spinnenaffe (maquisapa)			
+395	Naachtaffe (musmuqui)			
+398	Tigerkatze (tigrillo)			
+400	Nasenbär			
+404	Spießhirsch			
+417	Aasgeier	1185	VULTURE	1
+418	Kolibri	1589	HUMMINGBIRD	2
+419	Zigeunerhuhn			
+422	Penelope jacuacu (pucacunga)			
+423	Arapaima gigas (paiche)			
+424	Riesenwels (súngaro)			
+427	Tejueidechse			
+428	Eidechse	632	LIZARD	3
+431	Lanzenschlange (jergón)			
+432	Buschmeister (shushupi)			
+433	Kröte	894	TOAD	5
+434	Biene	665	BEE	6
+436	Spinnweben	1065	SPIDER WEB	
+439	Ding, Sache	738	THING
+441	Kohle	1188	CHARCOAL	1
+444	krank	1847	SICK	6
+445	gesund (gut)			
+448	rund	1395	ROUND	7
+454	jung	1207	YOUNG	5
+455	klug	2530	SMART	1
+465	rechts	1019	RIGHT	4
+466	links	244	LEFT	3
+471	alle, alles			
+472	nichts	687	NOTHING	3
+480	erster	728	FIRST	3
+481	letzter	1529	LAST (FINAL)	3
+482	gute Leute			
+483	gute Sache			
+484	schlechte Leute			
+485	ich esse			
+486	ich schlafe			
+487	ich töte			
+488	Amazonas			
+489	ein Affe			
+490	mein Kopf			
+491	dein Kopf			
+492	sein Kopf			
+493	unsere Köpfe			
+494	meine Pflanzung			
+495	deine Pflanzung			
+496	Zahnreibe (Zähne)			
