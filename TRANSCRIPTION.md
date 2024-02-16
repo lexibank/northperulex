@@ -14,8 +14,8 @@
 | m | 522 | ✓ | ✓ |
 | o | 428 | ✓ | ✓ |
 | h | 388 | ✓ | ✓ |
-| + | 372 | ✓ | ✓ |
 | ɨ | 361 | ✓ | ✓ |
+| + | 356 | ✓ | ✓ |
 | p | 344 | ✓ | ✓ |
 | ʔ | 341 | ✓ | ✓ |
 | ∼ | 321 | ✓ | ✓ |
@@ -176,23 +176,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-------------------------------|:-----------|:---------------------|:----------|:----------------------|
-| Bora-107_not-2 | Bora | 107_not | -tʰɯ | + tʰ ɯ |
-| Bora-194_withaccompanying-1 | Bora | 194_withaccompanying | -ma | + m a |
-| Bora-26_tocut-1 | Bora | 26_tocut | -βɯrɯ- | + β ɯ r ɯ + |
-| Bora-5_at-1 | Bora | 5_at | -βɯ | + β ɯ |
-| Bora-8_bark-1 | Bora | 8_bark | -mɨ́ɨ́ʔo | + m !ɨ́/ɨ !ɨ́/ɨ ʔ o |
-| Muinane-107_not-2 | Muinane | 107_not | -tɨ | + t ɨ |
-| Muinane-130_see-1 | Muinane | 130_see | áttʲɨ́me- | !á/a t tʲ !ɨ́/ɨ m e + |
-| Muinane-139_sleep-1 | Muinane | 139_sleep | kɨ́ga- | k !ɨ́/ɨ g a + |
-| Muinane-14_tobite-1 | Muinane | 14_tobite | éédu- | !é/e !é/e d u + |
-| Muinane-159_toswim-1 | Muinane | 159_toswim | ísi- | !í/i s i + |
-| Muinane-194_withaccompanying-1 | Muinane | 194_withaccompanying | -ma | + m a |
-| Muinane-31_dog-1 | Muinane | 31_dog | -ʔui | + ʔ u i |
-| Muinane-32_todrink-1 | Muinane | 32_todrink | ádu- | !á/a d u + |
-| Muinane-5_at-1 | Muinane | 5_at | -βɨ | + β ɨ |
-| Muinane-69_tohear-1 | Muinane | 69_tohear | gúúbu- | g !ú/u !ú/u b u + |
+|------|------------|-----------|--------|------------|
 
-(15 rows)
+(0 rows)
 
 

@@ -2436,7 +2436,7 @@
                 "!\u00f3/o": 16,
                 "!\u0268\u0301/\u0268": 33,
                 "!\u026f\u0301/\u026f": 51,
-                "+": 86,
+                "+": 80,
                 "a": 69,
                 "e": 60,
                 "h": 52,
@@ -4403,7 +4403,7 @@
                 "!\u00f3/o": 13,
                 "!\u00fa/u": 27,
                 "!\u0268\u0301/\u0268": 44,
-                "+": 112,
+                "+": 102,
                 "a": 60,
                 "b": 29,
                 "d": 7,
@@ -8891,114 +8891,8 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Bora-107_not-2",
-                "Bora",
-                "107_not",
-                "-t\u02b0\u026f",
-                "+ t\u02b0 \u026f"
-            ],
-            [
-                "Bora-194_withaccompanying-1",
-                "Bora",
-                "194_withaccompanying",
-                "-ma",
-                "+ m a"
-            ],
-            [
-                "Bora-26_tocut-1",
-                "Bora",
-                "26_tocut",
-                "-\u03b2\u026fr\u026f-",
-                "+ \u03b2 \u026f r \u026f +"
-            ],
-            [
-                "Bora-5_at-1",
-                "Bora",
-                "5_at",
-                "-\u03b2\u026f",
-                "+ \u03b2 \u026f"
-            ],
-            [
-                "Bora-8_bark-1",
-                "Bora",
-                "8_bark",
-                "-m\u0268\u0301\u0268\u0301\u0294o",
-                "+ m !\u0268\u0301/\u0268 !\u0268\u0301/\u0268 \u0294 o"
-            ],
-            [
-                "Muinane-107_not-2",
-                "Muinane",
-                "107_not",
-                "-t\u0268",
-                "+ t \u0268"
-            ],
-            [
-                "Muinane-130_see-1",
-                "Muinane",
-                "130_see",
-                "\u00e1tt\u02b2\u0268\u0301me-",
-                "!\u00e1/a t t\u02b2 !\u0268\u0301/\u0268 m e +"
-            ],
-            [
-                "Muinane-139_sleep-1",
-                "Muinane",
-                "139_sleep",
-                "k\u0268\u0301ga-",
-                "k !\u0268\u0301/\u0268 g a +"
-            ],
-            [
-                "Muinane-14_tobite-1",
-                "Muinane",
-                "14_tobite",
-                "\u00e9\u00e9du-",
-                "!\u00e9/e !\u00e9/e d u +"
-            ],
-            [
-                "Muinane-159_toswim-1",
-                "Muinane",
-                "159_toswim",
-                "\u00edsi-",
-                "!\u00ed/i s i +"
-            ],
-            [
-                "Muinane-194_withaccompanying-1",
-                "Muinane",
-                "194_withaccompanying",
-                "-ma",
-                "+ m a"
-            ],
-            [
-                "Muinane-31_dog-1",
-                "Muinane",
-                "31_dog",
-                "-\u0294ui",
-                "+ \u0294 u i"
-            ],
-            [
-                "Muinane-32_todrink-1",
-                "Muinane",
-                "32_todrink",
-                "\u00e1du-",
-                "!\u00e1/a d u +"
-            ],
-            [
-                "Muinane-5_at-1",
-                "Muinane",
-                "5_at",
-                "-\u03b2\u0268",
-                "+ \u03b2 \u0268"
-            ],
-            [
-                "Muinane-69_tohear-1",
-                "Muinane",
-                "69_tohear",
-                "g\u00fa\u00fabu-",
-                "g !\u00fa/u !\u00fa/u b u +"
-            ]
-        ],
-        "bad_words_count": 15,
+        "bad_words": [],
+        "bad_words_count": 0,
         "bipa_errors": [],
         "general_errors": 0,
         "invalid_words": [],
@@ -9531,7 +9425,7 @@
             "!\u1e79/u": 1,
             "!\u1eaf/a": 5,
             "!\u1ebd/e": 1,
-            "+": 372,
+            "+": 356,
             "a": 1955,
             "ai": 6,
             "au": 23,
