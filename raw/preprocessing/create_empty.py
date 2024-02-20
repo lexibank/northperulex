@@ -13,7 +13,7 @@ with open('../../etc/languages.tsv', mode='r', encoding="utf8") as file:
         if lines[4] == str(0):
             langs[lines[2]] = lines[0]
 
-BASE = "../../../../cldf_resources/concepticon-data/concepticondata/conceptlists/"
+BASE = "cldf-data/concepticon-data/concepticondata/conceptlists/"
 SWAD_200 = BASE + "Swadesh-1952-200.tsv"
 
 
