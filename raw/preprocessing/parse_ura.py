@@ -23,8 +23,9 @@ with UnicodeDictReader(SWAD_200, delimiter='\t') as reader:
 
 for row in rows:
     filtered_data = []
-    
     for item in concepts:
+        # Here is where it breaks. I believe the code is not being able to access the 7th column for each of the roads and
+        # therefore not being able to match it to the concepts dict
         if row[7] in concepts:
             filtered_data.append([
                 rows[row],
