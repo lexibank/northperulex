@@ -1,12 +1,15 @@
 Grapheme	IPA
 a	a
 aa	aː
+áa	!áa/aː
 à	!à/a
 á	!á/a
+áà	!áà/aː
 i	i
 ii	iː
 ì	!ì/i
 í	!í/i
+íi	!íi/iː
 ɨ̀	!ɨ̀/ɨ
 ɨ	ɨ
 ɨɨ	ɨː
@@ -16,6 +19,8 @@ u	u
 uu	uː
 ú	!ú/u
 ù	!ù/u
+úù	!úù/uː
+úu	!úu/uː
 j	h
 k	k
 kw	kʷ
@@ -24,7 +29,6 @@ kiaa	kʲ aː
 m	m
 miaá	mʲ aː
 n	n
-ni	ɲ
 p	p
 r	r
 s	s
