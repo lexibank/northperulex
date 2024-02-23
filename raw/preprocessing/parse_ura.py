@@ -29,6 +29,6 @@ with open('Urarina.csv', mode='r', encoding="utf-8") as file:
                 row[1],
                 row[2]
             ])
-            with open('Urarina.tsv', 'w', encoding="utf8", newline='') as f:
+            with open('../prepared_data/Urarina.tsv', 'w', encoding="utf8", newline='') as f:
                 writer = csv.writer(f, delimiter=",")
                 writer.writerows(filtered_data)
