@@ -16,7 +16,7 @@ with UnicodeDictReader(SWAD_200, delimiter='\t') as reader:
 # Iterate through data and filter entries
 
 filtered_data = [[
-        "Doculect", "Concept", "Form"
+        "Doculect", "Concept", "Form", "Note"
     ]]
 
 with open('Urarina.csv', mode='r', encoding="utf-8") as file:
@@ -27,8 +27,9 @@ with open('Urarina.csv', mode='r', encoding="utf-8") as file:
             filtered_data.append([
                 "Urarina",
                 row[1],
-                row[2]
+                row[2],
+                ""
             ])
             with open('../prepared_data/Urarina.tsv', 'w', encoding="utf8", newline='') as f:
-                writer = csv.writer(f, delimiter=",")
+                writer = csv.writer(f, delimiter='\t')
                 writer.writerows(filtered_data)
