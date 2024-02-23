@@ -25,6 +25,7 @@ with open('Urarina.csv', mode='r', encoding="utf-8") as file:
     for row in data:
         if row[7] in concepts:
             filtered_data.append([
+                "Urarina",
                 row[1],
                 row[2]
             ])

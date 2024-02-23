@@ -33,6 +33,6 @@ for lang in langs:
             concepts[item],
             ""
         ])
-    #with open(output_file, 'w', encoding="utf8", newline='') as f:
-        #writer = csv.writer(f, delimiter="\t")
-       # writer.writerows(doculect_data)
+    with open(output_file, 'w', encoding="utf8", newline='') as f:
+        writer = csv.writer(f, delimiter="\t")
+        writer.writerows(doculect_data)
