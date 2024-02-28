@@ -8257,17 +8257,17 @@
         },
         "Urarina": {
             "bipa_errors": [
-                "\u02b0",
                 "<<\u1dad>>",
                 "\u0268\u1dad",
-                "k\u1dad",
-                "\u02b2",
                 "<<\u0301>>",
-                "\u02b7",
-                "u\u02b7",
                 "u\u02b0",
+                "\u02b7",
+                "!\u0268\u0303\u1dad/\u0268\u1dad",
+                "u\u02b7",
                 "\u0268\u02b0",
-                "!\u0268\u0303\u1dad/\u0268\u1dad"
+                "\u02b0",
+                "k\u1dad",
+                "\u02b2"
             ],
             "general_errors": 60,
             "replacements": {
@@ -8783,17 +8783,17 @@
                 ]
             },
             "sclass_errors": [
-                "\u02b0",
                 "<<\u1dad>>",
                 "\u0268\u1dad",
-                "k\u1dad",
-                "\u02b2",
                 "<<\u0301>>",
-                "\u02b7",
-                "u\u02b7",
                 "u\u02b0",
+                "\u02b7",
+                "!\u0268\u0303\u1dad/\u0268\u1dad",
+                "u\u02b7",
                 "\u0268\u02b0",
-                "!\u0268\u0303\u1dad/\u0268\u1dad"
+                "\u02b0",
+                "k\u1dad",
+                "\u02b2"
             ],
             "segments": {
                 "!\u00e1/a": 40,
@@ -10883,17 +10883,17 @@
         ],
         "bad_words_count": 51,
         "bipa_errors": [
-            "\u02b0",
             "<<\u1dad>>",
             "\u0268\u1dad",
-            "k\u1dad",
-            "\u02b2",
             "<<\u0301>>",
-            "\u02b7",
-            "u\u02b7",
             "u\u02b0",
+            "\u02b7",
+            "!\u0268\u0303\u1dad/\u0268\u1dad",
+            "u\u02b7",
             "\u0268\u02b0",
-            "!\u0268\u0303\u1dad/\u0268\u1dad"
+            "\u02b0",
+            "k\u1dad",
+            "\u02b2"
         ],
         "general_errors": 60,
         "invalid_words": [],
@@ -11412,17 +11412,17 @@
             ]
         },
         "sclass_errors": [
-            "\u02b0",
             "<<\u1dad>>",
             "\u0268\u1dad",
-            "k\u1dad",
-            "\u02b2",
             "<<\u0301>>",
-            "\u02b7",
-            "u\u02b7",
             "u\u02b0",
+            "\u02b7",
+            "!\u0268\u0303\u1dad/\u0268\u1dad",
+            "u\u02b7",
             "\u0268\u02b0",
-            "!\u0268\u0303\u1dad/\u0268\u1dad"
+            "\u02b0",
+            "k\u1dad",
+            "\u02b2"
         ],
         "segments": {
             "!a\u032f/a": 3,
