@@ -1,10 +1,10 @@
-# CLDF dataset derived from Blum et al.'s "A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America (forthcoming).
+# CLDF dataset derived from Barrientos et al.'s "A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America (forthcoming).
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Blum, Frederic and Ingunza, Adriano and Gonzales, Rosa and Barrientos, Carlos and Peña, Jaime. Forthcoming. A Comparative Wordlist for Investigating the history of north Peruvian isolates and small language families.
+  > Barrientos, Carlos and Blum, Frederic and Ingunza, Adriano and Gonzales, Rosa and Peña, Jaime. Forthcoming. A Comparative Wordlist for Investigating the history of north Peruvian isolates and small language families.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -43,13 +43,13 @@ work in progress
 
 # Contributors
 
-Name | GitHub user | Description | Role |
---- | --- | --- | --- |
-Frederic Blum | @Tarotis | Data collection, CLDF conversion and annotation | Author
-Adriano Ingunza | @BadBatched | Data collector, CLDF conversion and annotation | Author
+Name | GitHub user    | Description | Role |
+--- |----------------| --- | --- |
 Carlos Barrientos | @Muffinlinwist | Data collector, CLDF conversion and annotation | Author
-Rosa Gonzales | | Data collector, CLDF conversion and annotation | Author
-Jaime Peña | | Data collector | Author
+Frederic Blum | @Tarotis       | Data collection, CLDF conversion and annotation | Author
+Adriano Ingunza | @BadBatched    | Data collector, CLDF conversion and annotation | Author
+Rosa Gonzales |                | Data collector, CLDF conversion and annotation | Author
+Jaime Peña | @JaimePenat | Data collector | Author
 
 
 
