@@ -11,13 +11,13 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Barrientos et al.'s \"A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America (forthcoming).",
+    "dc:title": "CLDF dataset derived from Barrientos et al.'s \"NorthPeruLex - A Lexical Dataset of small Language Families and Isolates from Northern Peru (forthcoming).",
     "dcat:accessURL": "https://github.com/lexibank/northernperu",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/northernperu",
             "rdf:type": "prov:Entity",
-            "dc:created": "46f4fbc",
+            "dc:created": "7ddd4a7",
             "dc:title": "Repository"
         },
         {
