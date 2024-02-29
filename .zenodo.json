@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Barrientos et al.'s \"NorthPeruLex - A Lexical Dataset of small Language Families and Isolates from Northern Peru (forthcoming).",
+    "title": "CLDF dataset derived from Barrientos et al.'s \"NorthPeruLex - A Lexical Dataset of Small Language Families and Isolates from Northern Peru (forthcoming).",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -29,7 +29,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Barrientos, Carlos and Blum, Frederic and Ingunza, Adriano and Gonzales, Rosa and Pe\u00f1a, Jaime. Forthcoming. A Comparative Wordlist for Investigating the history of north Peruvian isolates and small language families.</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Barrientos, Carlos and Blum, Frederic and Ingunza, Adriano and Gonzales, Rosa and Pe\u00f1a, Jaime. Forthcoming. NorthPeruLex - A Lexical Dataset of Small Language Families and Isolates from Northern Peru.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }
