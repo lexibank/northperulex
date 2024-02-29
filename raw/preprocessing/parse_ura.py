@@ -30,6 +30,7 @@ with open('Urarina.csv', mode='r', encoding="utf-8") as file:
                 row[2],
                 ""
             ])
-            with open('../prepared_data/Urarina.tsv', 'w', encoding="utf8", newline='') as f:
-                writer = csv.writer(f, delimiter='\t')
-                writer.writerows(filtered_data)
+
+with open('../prepared_data/Urarina.tsv', 'w', encoding="utf8", newline='') as f:
+    writer = csv.writer(f, delimiter='\t')
+    writer.writerows(filtered_data)
