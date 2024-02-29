@@ -1,10 +1,10 @@
-# CLDF dataset derived from Barrientos et al.'s "NorthPeruLex - A Lexical Dataset of small Language Families and Isolates from Northern Peru (forthcoming).
+# CLDF dataset derived from Barrientos et al.'s "NorthPeruLex - A Lexical Dataset of Small Language Families and Isolates from Northern Peru (forthcoming).
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Barrientos, Carlos and Blum, Frederic and Ingunza, Adriano and Gonzales, Rosa and Peña, Jaime. Forthcoming. A Comparative Wordlist for Investigating the history of north Peruvian isolates and small language families.
+  > Barrientos, Carlos and Blum, Frederic and Ingunza, Adriano and Gonzales, Rosa and Peña, Jaime. Forthcoming. NorthPeruLex - A Lexical Dataset of Small Language Families and Isolates from Northern Peru.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
