@@ -1,10 +1,10 @@
-# CLDF dataset derived from Blum et al.'s "A Comparative Wordlist for Investigating Distant Relations Among Languages in Lowland South America (forthcoming).
+# CLDF dataset derived from Barrientos et al.'s "NorthPeruLex - A Lexical Dataset of Small Language Families and Isolates from Northern Peru (forthcoming).
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Blum, Frederic and Ingunza, Adriano and Gonzales, Rosa and Barrientos, Carlos and Peña, Jaime. Forthcoming. A Comparative Wordlist for Investigating the history of north Peruvian isolates and small language families.
+  > Barrientos, Carlos and Blum, Frederic and Ingunza, Adriano and Gonzales, Rosa and Peña, Jaime. Forthcoming. NorthPeruLex - A Lexical Dataset of Small Language Families and Isolates from Northern Peru.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -31,25 +31,25 @@ work in progress
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 18
+- **Varieties:** 19
 - **Concepts:** 198
-- **Lexemes:** 2,203
-- **Sources:** 10
+- **Lexemes:** 2,382
+- **Sources:** 11
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 13,697
-- **Segments:** 154 (0 BIPA errors, 0 CLTS sound class errors, 151 CLTS modified)
-- **Inventory size (avg):** 31.83
+- **Tokens:** 15,020
+- **Segments:** 209 (0 BIPA errors, 0 CLTS sound class errors, 204 CLTS modified)
+- **Inventory size (avg):** 34.74
 
 # Contributors
 
-Name | GitHub user | Description | Role |
---- | --- | --- | --- |
-Frederic Blum | @Tarotis | Data collection, CLDF conversion and annotation | Author
-Adriano Ingunza | @BadBatched | Data collector, CLDF conversion and annotation | Author
-Carlos Barrientos | @Muffinlinwist | Data collector, CLDF conversion and annotation | Author
-Rosa Gonzales | | Data collector, CLDF conversion and annotation | Author
-Jaime Peña | | Data collector | Author
+Name | GitHub user    | Description                                     | Role |
+--- |----------------|-------------------------------------------------| --- |
+Carlos Barrientos | @MuffinLinwist | Data collector, CLDF conversion and annotation  | Author
+Frederic Blum | @FredericBlum  | Data collectior, CLDF conversion and annotation | Author
+Adriano Ingunza | @BadBatched    | Data collector and annotation                   | Author
+Rosa Gonzales |                | Data collector and annotation                   | Author
+Jaime Peña | @JaimePenat    | Data collector and annotation                   | Author
 
 
 
