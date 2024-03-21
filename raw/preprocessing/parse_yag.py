@@ -1,15 +1,20 @@
 import csv
 from collections import defaultdict
 from csvw.dsv import UnicodeDictReader
-import re
 
-data = []
-concepts = defaultdict()
+spanish_mappings = defaultdict(list)
+
+PATH = "cldf-data/concepticon-data/mappings/map-es.tsv"
+with UnicodeDictReader(PATH, delimiter='\t') as reader:
+    for concept in reader:
+        gloss = concept['GLOSS'].split('///')[1]
+        spanish_mappings[gloss].append((concept['ID'], int(concept['PRIORITY'])))
 
 # Load concept list
 BASE = "cldf-data/concepticon-data/concepticondata/conceptlists/"
 SWAD_200 = BASE + "Swadesh-1952-200.tsv"
 
+concepts = {}
 with UnicodeDictReader(SWAD_200, delimiter='\t') as reader:
     for line in reader:
         concepts[line["CONCEPTICON_ID"]] = line['CONCEPTICON_GLOSS']
@@ -30,11 +35,12 @@ word_pairs = []
 for i in range(0, len(lines), 2):
     yagua_words = lines[i].split()[1:]  # Extract Yagua words from the line
     spanish_words = lines[i + 1].split()[1:]  # Extract Spanish words from the next line
-    pairs = list(zip(yagua_words, spanish_words))  # Zip Yagua and Spanish words together
+    pairs = [(yagua, spanish) for yagua, spanish in zip(yagua_words, spanish_words)
+             if spanish in spanish_mappings]
     word_pairs.extend(pairs)  # Extend the list with pairs
     
-for pair in word_pairs:
-    print(pair)
+for yagua, spanish in word_pairs:
+    filtered_data.append(["Yagua", spanish, yagua, ""])
 
 with open('../prepared_data/Yagua.tsv', 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter='\t')
