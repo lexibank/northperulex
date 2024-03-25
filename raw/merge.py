@@ -13,10 +13,15 @@ def add_wl(language):
     """Adds data from languages in folder."""
     with open(language, mode='r', encoding="utf8") as f:
         wl = csv.reader(f, delimiter="\t")
-        next(wl)
-        for entry in wl:
-            if entry[2] != "":
-                final_data.append(entry)
+        header = next(wl)
+        if "Spanish" in header:
+            for entry in wl:
+                if entry[2] != "":
+                    final_data.append(entry[:-1])
+        else:
+            for entry in wl:
+                if entry[2] != "":
+                    final_data.append(entry)
 
 
 # Load Iquito data

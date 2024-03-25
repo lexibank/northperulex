@@ -24,7 +24,7 @@ with UnicodeDictReader(SWAD_200, delimiter='\t') as reader:
 # Iterate through data and filter entries
 
 filtered_data = [[
-        "Doculect", "Concept", "Form", "Note"
+        "Doculect", "Concept", "Form", "Note", "Spanish"
     ]]
 
 with open("Yagua.tsv", mode='r', encoding="utf-8") as file:
@@ -43,7 +43,7 @@ for i in range(0, len(lines), 2):
     word_pairs.extend(pairs)  # Extend the list with pairs
     
 for yagua, spanish, first_part in word_pairs:
-    filtered_data.append(["Yagua", first_part, yagua, ""])
+    filtered_data.append(["Yagua", first_part, yagua, "", spanish])
 
 with open('../prepared_data/Yagua.tsv', 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter='\t')
