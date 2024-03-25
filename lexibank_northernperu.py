@@ -125,7 +125,7 @@ class Dataset(BaseDataset):
             ),
             desc="cldfify"
         ):
-            if value != "":
+            if value and '_' not in value:
                 if language not in languages:
                     errors.add(("language", language))
                 elif concept not in concepts:
