@@ -17,10 +17,10 @@ b	b
 ch	tʃ
 k	k
 r	r
-ry	!ry/rʲ
-dy	!dy/dʲ
-ty	!ty/tʲ
-py	!py/pʲ
+ry	rʲ
+dy	dʲ
+ty	tʲ
+py	pʲ
 t	t
 s	s
 y	j
@@ -28,4 +28,3 @@ m	m
 ñ	ɲ
 p	p
 _	+
-#_	NULL
