@@ -7,8 +7,10 @@ spanish_mappings = defaultdict(list)
 PATH = "cldf-data/concepticon-data/mappings/map-es.tsv"
 with UnicodeDictReader(PATH, delimiter='\t') as reader:
     for concept in reader:
-        gloss = concept['GLOSS'].split('///')[1]
-        spanish_mappings[gloss].append((concept['ID'], int(concept['PRIORITY'])))
+        gloss_parts = concept['GLOSS'].split('///')
+        first_part = gloss_parts[0]
+        second_part = gloss_parts[1]
+        spanish_mappings[second_part].append((concept['ID'], int(concept['PRIORITY']), first_part))
 
 # Load concept list
 BASE = "cldf-data/concepticon-data/concepticondata/conceptlists/"
@@ -35,12 +37,13 @@ word_pairs = []
 for i in range(0, len(lines), 2):
     yagua_words = lines[i].split()[1:]  # Extract Yagua words from the line
     spanish_words = lines[i + 1].split()[1:]  # Extract Spanish words from the next line
-    pairs = [(yagua, spanish) for yagua, spanish in zip(yagua_words, spanish_words)
-             if spanish in spanish_mappings]
+    pairs = [(yagua, spanish, first_part) for yagua, spanish, first_part in zip(yagua_words, spanish_words, [
+        spanish_mappings.get(spanish, [(None, None, None)])[0][2] for spanish in spanish_words]) if
+             spanish in spanish_mappings]
     word_pairs.extend(pairs)  # Extend the list with pairs
     
-for yagua, spanish in word_pairs:
-    filtered_data.append(["Yagua", spanish, yagua, ""])
+for yagua, spanish, first_part in word_pairs:
+    filtered_data.append(["Yagua", first_part, yagua, ""])
 
 with open('../prepared_data/Yagua.tsv', 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter='\t')
