@@ -130,7 +130,7 @@ class Dataset(BaseDataset):
                     errors.add(("language", language))
                 elif concept not in concepts:
                     errors.add(("concept", concept))
-                    print(f"Missing concept: {concept} for language: {language} - Row: {idx}")
+                    #print(f"Missing concept: {concept} for language: {language} - Row: {idx}")
                 else:
                     # lexeme = args.writer.add_form_with_segments(
                     args.writer.add_forms_from_value(
