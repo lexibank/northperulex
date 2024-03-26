@@ -11432,10 +11432,8 @@
             }
         },
         "Yagua": {
-            "bipa_errors": [
-                "<<x>>"
-            ],
-            "general_errors": 1,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "!a\u02b0/a": [
                     "a"
@@ -12068,15 +12066,12 @@
                     "\u223c"
                 ]
             },
-            "sclass_errors": [
-                "<<x>>"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "!a\u0320/a": 18,
                 "!i\u0320/i": 7,
                 "!o\u0320/o": 2,
                 "!u\u0320/u": 9,
-                "<<x>>": 1,
                 "a": 144,
                 "b": 2,
                 "d": 33,
@@ -13482,24 +13477,16 @@
                 "163_they",
                 "a\u02b0kaa\u0268d\u033a\u0268\u0301",
                 "!a\u02b0/a k a a \u0268 d \u0268 <s> <<\u0301>> </s>"
-            ],
-            [
-                "Yagua-135_tosing-1",
-                "Yagua",
-                "135_tosing",
-                "yamaxra\u0320",
-                "j a m a <s> <<x>> </s> r !a\u0320/a"
             ]
         ],
-        "bad_words_count": 2,
+        "bad_words_count": 1,
         "bipa_errors": [
-            "<<x>>",
             "<<\u0301>>"
         ],
-        "general_errors": 2,
+        "general_errors": 1,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 34.25,
+        "inventory_size": 34.2,
         "replacements": {
             "!a\u02b0/a": [
                 "a"
@@ -14133,7 +14120,6 @@
             ]
         },
         "sclass_errors": [
-            "<<x>>",
             "<<\u0301>>"
         ],
         "segments": {
@@ -14263,7 +14249,6 @@
             "!\u1ebd/e": 1,
             "!\u1ebd\u0301/e": 9,
             "+": 316,
-            "<<x>>": 1,
             "<<\u0301>>": 1,
             "a": 2191,
             "ai": 6,
