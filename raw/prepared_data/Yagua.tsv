@@ -100,7 +100,7 @@ Yagua	SLEEP	sama		dormir
 Yagua	THROW	satiriyo̠		echar
 Yagua	SIT	yama_sa		sentar
 Yagua	SIT DOWN	yanuma_masa		sentarse
-Yagua	STOP DOING	yarani		parar
+Yagua	STAND	yarani		parar
 Yagua	STAND UP	yarani_jasi		pararse
 Yagua	FLOAT	yapa̠		flotar
 Yagua	GO	ye̠ya		ir
@@ -122,8 +122,8 @@ Yagua	SING	yamara̠		cantar
 Yagua	LAUGH	yatodi		reir
 Yagua	EAT	ya̠miy		comer
 Yagua	DRINK	yaja̠tu		beber
-Yagua	TAKE	urya̠jatura		tomar
-Yagua	LICK	ya̠rimi		chupar
+Yagua	DRINK	urya̠jatura		tomar
+Yagua	SUCK	ya̠rimi		chupar
 Yagua	BITE	yasu̠		morder
 Yagua	SPIT	yato̠chi		escupir
 Yagua	VOMIT	yayanï		vomitar
