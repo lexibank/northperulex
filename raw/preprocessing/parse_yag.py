@@ -37,6 +37,7 @@ word_pairs = []
 for i in range(0, len(lines), 2):
     yagua_words = lines[i].split()[1:]  # Extract Yagua words from the line
     spanish_words = lines[i + 1].split()[1:]  # Extract Spanish words from the next line
+    spanish_words = [word.split('_')[-1] if '_' in word else word for word in spanish_words]
     pairs = [(yagua, spanish, first_part) for yagua, spanish, first_part in zip(yagua_words, spanish_words, [
         spanish_mappings.get(spanish, [(None, None, None)])[0][2] for spanish in spanish_words]) if
              spanish in spanish_mappings]
