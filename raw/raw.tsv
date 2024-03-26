@@ -2439,7 +2439,7 @@ Yagua	FATHER	saja̠y
 Yagua	MOTHER	sunoda	
 Yagua	WIFE	sawaturu̠	
 Yagua	HUSBAND	sawanu	
-Yagua	MAN	wanu	
+Yagua	MALE PERSON	wanu	
 Yagua	WOMAN	watura	
 Yagua	CHILD (YOUNG HUMAN)	dera	
 Yagua	PERSON	nijyami̠	
@@ -2450,7 +2450,7 @@ Yagua	NOSE	nu
 Yagua	MOUTH	_	
 Yagua	TONGUE	dachi	
 Yagua	TOOTH	janda	
-Yagua	COLLAR	tunuju̠	
+Yagua	NECK	tunuju̠	
 Yagua	BELLY	pïde	
 Yagua	BACK	sata_sa	
 Yagua	TAIL	samusi	
@@ -2463,14 +2463,14 @@ Yagua	GUTS	sikidi
 Yagua	LIVER	suwa̠tu	
 Yagua	BONE	sadu	
 Yagua	FLESH OR MEAT	sasawi	
-Yagua	FAT (FROM ANIMALS)	nïra	
-Yagua	FUR	sajay	
-Yagua	HAIR (HEAD)	nojasi	
+Yagua	FAT (ORGANIC SUBSTANCE)	nïra	
+Yagua	SKIN (HUMAN)	sajay	
+Yagua	HAIR	nojasi	
 Yagua	FEATHER	sa̠si	
 Yagua	BLOOD	day	
 Yagua	ROOT	nutijyu̠	
 Yagua	BARK	jiway	
-Yagua	LEAF (LEAFLIKE OBJECT)	nawi̠	
+Yagua	LEAF	nawi̠	
 Yagua	FLOWER	rabï	
 Yagua	FRUIT	rajo	
 Yagua	SEED	rasï	
@@ -2478,7 +2478,7 @@ Yagua	STICK	jipu
 Yagua	ASH	pupo	
 Yagua	MOUNTAIN	to	
 Yagua	FOREST	kuruju	
-Yagua	FLOWING BODY OF WATER	nawa	
+Yagua	RIVER	nawa	
 Yagua	LAKE	ja̠	
 Yagua	SEA	jamu_nawa	
 Yagua	WATER	ja̠	
@@ -2488,7 +2488,7 @@ Yagua	SMOKE (EXHAUST)	anuwachi
 Yagua	EARTH (SOIL)	mïko	
 Yagua	DUST	rajuru	
 Yagua	SAND	ti̠cha̠	
-Yagua	ROCK	rawuchu	
+Yagua	STONE	rawuchu	
 Yagua	ROAD	nukï	
 Yagua	EGG	wada	
 Yagua	RAIN (PRECIPITATION)	rumura	
@@ -2500,7 +2500,7 @@ Yagua	WIND	richo
 Yagua	SUN	ñi	
 Yagua	STAR	darichi	
 Yagua	DAY (NOT NIGHT)	narya	
-Yagua	EVENING	nupora	
+Yagua	NIGHT	nupora	
 Yagua	YEAR	ña	
 Yagua	ROPE	niriju̠	
 Yagua	SALT	tiwi	
@@ -2540,7 +2540,7 @@ Yagua	SEE	yanu
 Yagua	SMELL (PERCEIVE)	yanari	
 Yagua	HEAR	yatuwa̠chu	
 Yagua	KNOW (SOMETHING)	ya̠datya	
-Yagua	THINK (REFLECT)	yachipïya̠	
+Yagua	THINK	yachipïya̠	
 Yagua	FEAR (BE AFRAID)	yasu̠wu̠	
 Yagua	COUNT	yasaranu̠	
 Yagua	SAY	yanike_siwa	
@@ -2557,23 +2557,23 @@ Yagua	SCRATCH	yamïnu
 Yagua	HUNT	yadapu	
 Yagua	BURN (SOMETHING)	yarupa	
 Yagua	SEW	yasinïrya	
-Yagua	FASTEN	yapichira	
+Yagua	TIE	yapichira	
 Yagua	HUNT	dapu	
 Yagua	BURN (SOMETHING)	arupa	
 Yagua	SEW	sakirichi	
-Yagua	FASTEN	sapichi	
+Yagua	TIE	sapichi	
 Yagua	PULL	sati	
-Yagua	LET GO OR SET FREE	sajasi	
+Yagua	THROW	sajasi	
 Yagua	PUSH	sasityada	
 Yagua	WASH	sasuta	
 Yagua	CLEAN (SOMETHING)	sapu̠	
 Yagua	RUB	sapa̠	
 Yagua	GIVE	riwa	
-Yagua	GRASP	sasa̠	
+Yagua	HOLD	sasa̠	
 Yagua	CUT	sirï	
 Yagua	BRAWL (FIGHT)	su_way	
-Yagua	BE DEFEATED	suwatyi_riwa	
-Yagua	GLUE	suwañi	
+Yagua	HIT	suwatyi_riwa	
+Yagua	HIT	suwañi	
 Yagua	BORE	sawidita	
 Yagua	KILL	suwañi	
 Yagua	SMOOTH	wasadya	
@@ -2590,19 +2590,19 @@ Yagua	RED	runa
 Yagua	YELLOW	wasunudi	
 Yagua	GREEN	wasunu	
 Yagua	NEW	wadira	
-Yagua	OLD MAN	rimityura	
+Yagua	OLD	rimityura	
 Yagua	GOOD	samïrya	
 Yagua	BAD	na_samïrya	
 Yagua	HERE	yu	
-Yagua	FENCE	ida	
+Yagua	NEAR	ida	
 Yagua	FAR	ripya	
-Yagua	RIGHT HAND	wase	
-Yagua	LEFT HAND	mïnaniju̠	
+Yagua	RIGHT	wase	
+Yagua	LEFT	mïnaniju̠	
 Yagua	BIG	jamura	
 Yagua	BROAD	jamujati	
 Yagua	THICK	jamupo	
 Yagua	SMALL	pasidyera	
-Yagua	THIN (OF SHAPE OF OBJECT)	pasipuda	
+Yagua	THIN	pasipuda	
 Yagua	NARROW	watatuda	
 Yagua	LONG	jamuka̠	
 Yagua	SHORT	pasidyera	
