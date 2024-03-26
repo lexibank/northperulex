@@ -2526,7 +2526,7 @@ Yagua	SLEEP	sama
 Yagua	THROW	satiriyo̠	
 Yagua	SIT	yama_sa	
 Yagua	SIT DOWN	yanuma_masa	
-Yagua	STOP DOING	yarani	
+Yagua	STAND	yarani	
 Yagua	STAND UP	yarani_jasi	
 Yagua	FLOAT	yapa̠	
 Yagua	GO	ye̠ya	
@@ -2548,8 +2548,8 @@ Yagua	SING	yamara̠
 Yagua	LAUGH	yatodi	
 Yagua	EAT	ya̠miy	
 Yagua	DRINK	yaja̠tu	
-Yagua	TAKE	urya̠jatura	
-Yagua	LICK	ya̠rimi	
+Yagua	DRINK	urya̠jatura	
+Yagua	SUCK	ya̠rimi	
 Yagua	BITE	yasu̠	
 Yagua	SPIT	yato̠chi	
 Yagua	VOMIT	yayanï	
