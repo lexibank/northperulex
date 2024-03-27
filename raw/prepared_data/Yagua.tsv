@@ -129,11 +129,11 @@ Yagua	SPIT	yato̠chi		escupir
 Yagua	VOMIT	yayanï		vomitar
 Yagua	SCRATCH	yamïnu		rascar
 Yagua	HUNT	yadapu		cazar
-Yagua	BURN (SOMETHING)	yarupa		quemar
+Yagua	BURNING	yarupa		quemar
 Yagua	SEW	yasinïrya		coser
 Yagua	TIE	yapichira		amarrar
 Yagua	HUNT	dapu		cazar
-Yagua	BURN (SOMETHING)	arupa		quemar
+Yagua	BURNING	arupa		quemar
 Yagua	SEW	sakirichi		coser
 Yagua	TIE	sapichi		amarrar
 Yagua	PULL	sati		jalar
@@ -152,7 +152,7 @@ Yagua	BORE	sawidita		perforar
 Yagua	KILL	suwañi		matar
 Yagua	SMOOTH	wasadya		liso
 Yagua	SPEAK	anike		hablar
-Yagua	COLD	sudora		frío
+Yagua	COLD (OF WEATHER)	sudora		frío
 Yagua	ROTTEN	purya		podrido
 Yagua	STRAIGHT	wase		recto
 Yagua	HEAVY	jima		pesado
@@ -173,7 +173,7 @@ Yagua	FAR	ripya		lejos
 Yagua	RIGHT	wase		derecha
 Yagua	LEFT	mïnaniju̠		izquierda
 Yagua	BIG	jamura		grande
-Yagua	BROAD	jamujati		ancho
+Yagua	WIDE	jamujati		ancho
 Yagua	THICK	jamupo		grueso
 Yagua	SMALL	pasidyera		pequeño
 Yagua	THIN	pasipuda		delgado
