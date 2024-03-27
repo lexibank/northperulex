@@ -33,11 +33,11 @@ work in progress
 
 - **Varieties:** 20
 - **Concepts:** 199
-- **Lexemes:** 2,519
+- **Lexemes:** 2,523
 - **Sources:** 12
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 15,472
+- **Tokens:** 15,497
 - **Segments:** 216 (0 BIPA errors, 0 CLTS sound class errors, 211 CLTS modified)
 - **Inventory size (avg):** 34.20
 
