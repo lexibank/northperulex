@@ -31,15 +31,15 @@ work in progress
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 19
-- **Concepts:** 198
-- **Lexemes:** 2,382
-- **Sources:** 11
+- **Varieties:** 20
+- **Concepts:** 199
+- **Lexemes:** 2,523
+- **Sources:** 12
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 15,020
-- **Segments:** 209 (0 BIPA errors, 0 CLTS sound class errors, 204 CLTS modified)
-- **Inventory size (avg):** 34.74
+- **Tokens:** 15,497
+- **Segments:** 216 (0 BIPA errors, 0 CLTS sound class errors, 211 CLTS modified)
+- **Inventory size (avg):** 34.20
 
 # Contributors
 
