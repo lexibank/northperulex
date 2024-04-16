@@ -128,6 +128,7 @@ class Dataset(BaseDataset):
             if value and '_' not in value:
                 if language not in languages:
                     errors.add(("language", language))
+                    #print(f"Missing language: {language} - Row: {idx}")
                 elif concept not in concepts:
                     errors.add(("concept", concept))
                     #print(f"Missing concept: {concept} for language: {language} - Row: {idx}")
