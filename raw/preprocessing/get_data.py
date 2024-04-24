@@ -20,7 +20,7 @@ WHERE
 		AND
 	p.core_concept like "%Swadesh-1952-200%"
         AND
-    l.cldf_glottocode IN ("arab1268", "cand1248", "muni1258", "taus1253", "waor1240", "agua1253")
+    l.cldf_glottocode IN ("arab1268", "cand1248", "muni1258", "taus1253", "waor1240", "agua1253", "ocai1244", "mini1256", "muru1274", "nupo1240")
 ;
 """
 
@@ -42,13 +42,18 @@ INNER JOIN
         FROM
             formtable as f_1,
             parametertable as p_1,
-            lb.parametertable as p_2
+            lb.parametertable as p_2,
+            languagetable as l_1
         WHERE
             f_1.cldf_parameterReference = p_1.cldf_id
                 AND
             p_1.concepticon_gloss = p_2.cldf_name
                 AND
             p_2.core_concept like "%Swadesh-1952-200%"
+                AND
+            f_1.cldf_languageReference = l_1.cldf_id
+                AND
+            l_1.cldf_glottocode IN ("arab1268", "cand1248", "muni1258", "taus1253", "waor1240", "agua1253", "ocai1244", "mini1256", "muru1274", "nupo1240")  
     ) as c
 ON
     c.cldf_id = f.cldf_id
@@ -90,6 +95,6 @@ for idx, doculect, gloss, form in tqdm.tqdm(db.fetchall()):
         doculect, gloss, form
     ])
 
-with open('imported/lexibank.tsv', 'w', encoding="utf8", newline='') as f:
+with open('raw/preprocessing/imported/lexibank.tsv', 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter="\t")
     writer.writerows(output_data)
