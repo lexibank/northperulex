@@ -55,7 +55,7 @@ Wampis	STICK	numi		stick
 Wampis	SEED	jinkai		seed
 Wampis	LEAF	nupa		leaf
 Wampis	ROOT	kankap		root
-Wampis	BARK	saepe	possessed	bark 
+Wampis	BARK	saepe	possessed	bark
 Wampis	FLOWER	yankur		flower
 Wampis	GRASS	nupa		grass
 Wampis	ROPE	naek		rope
@@ -63,6 +63,7 @@ Wampis	SKIN (HUMAN)	nuap		skin
 Wampis	FLESH OR MEAT	naman 		meat
 Wampis	BLOOD	numpa		blood
 Wampis	BONE	ukunch		bone
+Wampis	FAT (ORGANIC SUBSTANCE)	kuntut		fat
 Wampis	EGG	nujin		egg
 Wampis	TAIL	ujuke	ujukV + possessión	tail
 Wampis	FEATHER	ure		feather
@@ -154,6 +155,7 @@ Wampis	CLOUD	yurankim		cloud
 Wampis	FOG	yurankim		fog
 Wampis	SKY	nayaim		sky
 Wampis	WIND	nase		wind
+Wampis	SNOW	NA		snow
 Wampis	ICE	NA		ice
 Wampis	SMOKE (EXHAUST)	mukuin		smoke
 Wampis	FIRE	jii		fire
@@ -173,12 +175,14 @@ Wampis	NEW	yama		new
 Wampis	OLD	uun		old
 Wampis	GOOD	penker		good
 Wampis	BAD	pnkerchau		bad
+Wampis	ROTTEN	kauru		rotten
+Wampis	DIRTY	wapik		dirty
 Wampis	STRAIGHT	tutupin		straight
 Wampis	SHARP	tsakatskatu		sharp (as a knife)
 Wampis	BLUNT	muntuch		dull (as a knife)
 Wampis	SMOOTH	tamer		smooth
 Wampis	WET	jinaru		wet
-Wampis	DRY	kaaru		dry 
+Wampis	DRY	kaaru		dry
 Wampis	CORRECT (RIGHT)	penker		correct
 Wampis	NEAR	ijus		near
 Wampis	FAR	yaja		far

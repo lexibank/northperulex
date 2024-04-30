@@ -30,17 +30,17 @@ unmatched_glosses = []
 with open('Wampis.csv', mode='r', encoding="utf-8") as f:
     data = csv.reader(f, delimiter=",")
     for row in data:
-        if row[1] in mappings:
-            for mapping in mappings[row[1]]:
+        wampis_gloss = row[1].strip()
+        if wampis_gloss in mappings:
+            for mapping in mappings[wampis_gloss]:
                 concept_id, priority = mapping
                 if concept_id in concepts:
-                    gloss = concepts[concept_id]
                     filtered_data.append([
                         "Wampis",
-                        gloss,
+                        concepts[concept_id],
                         row[2],
                         row[3],
-                        row[1]
+                        wampis_gloss
                     ])
         else:
             unmatched_glosses.append(row[1])
@@ -49,3 +49,5 @@ with open('Wampis.csv', mode='r', encoding="utf-8") as f:
 with open('../prepared_data/Wampis.tsv', 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter='\t')
     writer.writerows(filtered_data)
+
+print(filtered_data)
