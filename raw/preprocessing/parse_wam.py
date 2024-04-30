@@ -26,13 +26,20 @@ filtered_data = [[
     "Doculect", "Concept", "Form", "Note", "Gloss"
 ]]
 unmatched_glosses = []
+gloss_mapping = {
+    "warm": "WARM (OF WEATHER)",
+    "to turn (intransitive)": "TURN AROUND",
+    "man (adult male)": "MALE PERSON",
+    "to burn": "BURNING"
+}
 
 with open('Wampis.csv', mode='r', encoding="utf-8") as f:
     data = csv.reader(f, delimiter=",")
     for row in data:
         wampis_gloss = row[1].strip()
+        mapped = 0
+        
         if wampis_gloss in mappings:
-            mapped = 0
             for mapping in mappings[wampis_gloss]:
                 concept_id, priority = mapping
                 if concept_id in concepts:
@@ -45,12 +52,19 @@ with open('Wampis.csv', mode='r', encoding="utf-8") as f:
                     ])
                     mapped += 1
 
-            if mapped == 0:
+        if mapped == 0:
+            concepticon_gloss = gloss_mapping.get(wampis_gloss)
+            if concepticon_gloss:
+                filtered_data.append([
+                    "Wampis",
+                    concepticon_gloss,
+                    row[2],
+                    row[3],
+                    wampis_gloss
+                ])
+            else:
                 unmatched_glosses.append(row[1])
-                print(f"Unmapped entry: {row}")
-        else:
-            unmatched_glosses.append(row[1])
-            print(f"No match found for gloss: {row[1]}")
+                print(f"No match found for gloss: {row[1]}")
 
 with open('../prepared_data/Wampis.tsv', 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter='\t')

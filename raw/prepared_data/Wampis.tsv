@@ -36,6 +36,7 @@ Wampis	SHORT	sutar		short
 Wampis	NARROW	wankarmachu		narrow
 Wampis	THIN	japat		thin
 Wampis	WOMAN	nuwa		woman
+Wampis	MALE PERSON	aishman		man (adult male)
 Wampis	PERSON	shuar		man (human being)
 Wampis	CHILD (YOUNG HUMAN)	uchi		child
 Wampis	WIFE	nuwe	nuwa + possession	wife
@@ -119,6 +120,7 @@ Wampis	COME	winit		to come
 Wampis	LIE (REST)	tepet		to lie
 Wampis	SIT	ekemat		to sit
 Wampis	STAND	wajat		to stand
+Wampis	TURN AROUND	ayantat		to turn (intransitive)
 Wampis	FALL	iyat		to fall
 Wampis	GIVE	suta		to give
 Wampis	HOLD	achinat		to hold
@@ -160,6 +162,7 @@ Wampis	ICE			ice
 Wampis	SMOKE (EXHAUST)	mukuin		smoke
 Wampis	FIRE	jii		fire
 Wampis	ASH	yunkunim		ash
+Wampis	BURNING	esat		to burn
 Wampis	ROAD	jinta		road
 Wampis	MOUNTAIN	mura		mountain
 Wampis	RED	kapantu		red
@@ -170,6 +173,7 @@ Wampis	BLACK	mukusa		black
 Wampis	NIGHT	kashi		night
 Wampis	DAY (NOT NIGHT)	tsawan		day
 Wampis	YEAR		existe la expresión wampush 	year
+Wampis	WARM (OF WEATHER)	jake		warm
 Wampis	COLD (OF WEATHER)	tsetsek		cold
 Wampis	NEW	yama		new
 Wampis	OLD	uun		old
