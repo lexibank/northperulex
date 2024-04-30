@@ -32,6 +32,7 @@ with open('Wampis.csv', mode='r', encoding="utf-8") as f:
     for row in data:
         wampis_gloss = row[1].strip()
         if wampis_gloss in mappings:
+            mapped = 0
             for mapping in mappings[wampis_gloss]:
                 concept_id, priority = mapping
                 if concept_id in concepts:
@@ -42,6 +43,11 @@ with open('Wampis.csv', mode='r', encoding="utf-8") as f:
                         row[3],
                         wampis_gloss
                     ])
+                    mapped += 1
+
+            if mapped == 0:
+                unmatched_glosses.append(row[1])
+                print(f"Unmapped entry: {row}")
         else:
             unmatched_glosses.append(row[1])
             print(f"No match found for gloss: {row[1]}")
@@ -49,5 +55,3 @@ with open('Wampis.csv', mode='r', encoding="utf-8") as f:
 with open('../prepared_data/Wampis.tsv', 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter='\t')
     writer.writerows(filtered_data)
-
-print(filtered_data)
