@@ -155,8 +155,8 @@ Wampis	CLOUD	yurankim		cloud
 Wampis	FOG	yurankim		fog
 Wampis	SKY	nayaim		sky
 Wampis	WIND	nase		wind
-Wampis	SNOW	NA		snow
-Wampis	ICE	NA		ice
+Wampis	SNOW			snow
+Wampis	ICE			ice
 Wampis	SMOKE (EXHAUST)	mukuin		smoke
 Wampis	FIRE	jii		fire
 Wampis	ASH	yunkunim		ash
@@ -169,7 +169,7 @@ Wampis	WHITE	puju		white
 Wampis	BLACK	mukusa		black
 Wampis	NIGHT	kashi		night
 Wampis	DAY (NOT NIGHT)	tsawan		day
-Wampis	YEAR	NA	existe la expresión wampush 	year
+Wampis	YEAR		existe la expresión wampush 	year
 Wampis	COLD (OF WEATHER)	tsetsek		cold
 Wampis	NEW	yama		new
 Wampis	OLD	uun		old
@@ -189,10 +189,10 @@ Wampis	FAR	yaja		far
 Wampis	CORRECT (RIGHT)	untsur		right
 Wampis	RIGHT	untsur		right
 Wampis	LEFT	mena		left
-Wampis	AT	NA	locative postposition -num / nam /- i	at
-Wampis	IN	NA	locative postposition -num / nam /- i	in
-Wampis	WITH	NA	commitative posposition -jai	with
+Wampis	AT	-num / nam / -i	locative postposition -num / nam /- i	at
+Wampis	IN	-num / nam / -i	locative postposition -num / nam /- i	in
+Wampis	WITH	-jai	commitative posposition -jai	with
 Wampis	AND	tura		and
-Wampis	IF		a subordinator -sha is used for conditional	if
-Wampis	BECAUSE		a subordinator -sa (or other subordinators) is used	because
+Wampis	IF	-sha	a subordinator -sha is used for conditional	if
+Wampis	BECAUSE	-sa	a subordinator -sa (or other subordinators) is used	because
 Wampis	NAME	naa		name
