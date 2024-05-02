@@ -36,6 +36,7 @@ Wampis	SHORT	sutar		short
 Wampis	NARROW	wankarmachu		narrow
 Wampis	THIN	japat		thin
 Wampis	WOMAN	nuwa		woman
+Wampis	MALE PERSON	aishman		man (adult male)
 Wampis	PERSON	shuar		man (human being)
 Wampis	CHILD (YOUNG HUMAN)	uchi		child
 Wampis	WIFE	nuwe	nuwa + possession	wife
@@ -55,7 +56,7 @@ Wampis	STICK	numi		stick
 Wampis	SEED	jinkai		seed
 Wampis	LEAF	nupa		leaf
 Wampis	ROOT	kankap		root
-Wampis	BARK	saepe	possessed	bark 
+Wampis	BARK	saepe	possessed	bark
 Wampis	FLOWER	yankur		flower
 Wampis	GRASS	nupa		grass
 Wampis	ROPE	naek		rope
@@ -63,6 +64,7 @@ Wampis	SKIN (HUMAN)	nuap		skin
 Wampis	FLESH OR MEAT	naman 		meat
 Wampis	BLOOD	numpa		blood
 Wampis	BONE	ukunch		bone
+Wampis	FAT (ORGANIC SUBSTANCE)	kuntut		fat
 Wampis	EGG	nujin		egg
 Wampis	TAIL	ujuke	ujukV + possessión	tail
 Wampis	FEATHER	ure		feather
@@ -118,6 +120,7 @@ Wampis	COME	winit		to come
 Wampis	LIE (REST)	tepet		to lie
 Wampis	SIT	ekemat		to sit
 Wampis	STAND	wajat		to stand
+Wampis	TURN AROUND	ayantat		to turn (intransitive)
 Wampis	FALL	iyat		to fall
 Wampis	GIVE	suta		to give
 Wampis	HOLD	achinat		to hold
@@ -154,10 +157,12 @@ Wampis	CLOUD	yurankim		cloud
 Wampis	FOG	yurankim		fog
 Wampis	SKY	nayaim		sky
 Wampis	WIND	nase		wind
-Wampis	ICE	NA		ice
+Wampis	SNOW			snow
+Wampis	ICE			ice
 Wampis	SMOKE (EXHAUST)	mukuin		smoke
 Wampis	FIRE	jii		fire
 Wampis	ASH	yunkunim		ash
+Wampis	BURNING	esat		to burn
 Wampis	ROAD	jinta		road
 Wampis	MOUNTAIN	mura		mountain
 Wampis	RED	kapantu		red
@@ -167,28 +172,31 @@ Wampis	WHITE	puju		white
 Wampis	BLACK	mukusa		black
 Wampis	NIGHT	kashi		night
 Wampis	DAY (NOT NIGHT)	tsawan		day
-Wampis	YEAR	NA	existe la expresión wampush 	year
+Wampis	YEAR		existe la expresión wampush 	year
+Wampis	WARM (OF WEATHER)	jake		warm
 Wampis	COLD (OF WEATHER)	tsetsek		cold
 Wampis	NEW	yama		new
 Wampis	OLD	uun		old
 Wampis	GOOD	penker		good
 Wampis	BAD	pnkerchau		bad
+Wampis	ROTTEN	kauru		rotten
+Wampis	DIRTY	wapik		dirty
 Wampis	STRAIGHT	tutupin		straight
 Wampis	SHARP	tsakatskatu		sharp (as a knife)
 Wampis	BLUNT	muntuch		dull (as a knife)
 Wampis	SMOOTH	tamer		smooth
 Wampis	WET	jinaru		wet
-Wampis	DRY	kaaru		dry 
+Wampis	DRY	kaaru		dry
 Wampis	CORRECT (RIGHT)	penker		correct
 Wampis	NEAR	ijus		near
 Wampis	FAR	yaja		far
 Wampis	CORRECT (RIGHT)	untsur		right
 Wampis	RIGHT	untsur		right
 Wampis	LEFT	mena		left
-Wampis	AT	NA	locative postposition -num / nam /- i	at
-Wampis	IN	NA	locative postposition -num / nam /- i	in
-Wampis	WITH	NA	commitative posposition -jai	with
+Wampis	AT	-num / nam / -i	locative postposition -num / nam /- i	at
+Wampis	IN	-num / nam / -i	locative postposition -num / nam /- i	in
+Wampis	WITH	-jai	commitative posposition -jai	with
 Wampis	AND	tura		and
-Wampis	IF		a subordinator -sha is used for conditional	if
-Wampis	BECAUSE		a subordinator -sa (or other subordinators) is used	because
+Wampis	IF	-sha	a subordinator -sha is used for conditional	if
+Wampis	BECAUSE	-sa	a subordinator -sa (or other subordinators) is used	because
 Wampis	NAME	naa		name
