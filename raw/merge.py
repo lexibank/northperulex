@@ -25,7 +25,7 @@ def add_wl(language):
 
 
 # Load Iquito data
-with open("preprocessing/imported/iquito.tsv", mode='r', encoding="utf8") as file:
+with open("prepared_data/iquito.tsv", mode='r', encoding="utf8") as file:
     d = csv.reader(file, delimiter="\t")
     next(d)
     for lines in d:
@@ -37,7 +37,7 @@ with open("preprocessing/imported/iquito.tsv", mode='r', encoding="utf8") as fil
     ])
 
 # Load Lexibank data
-with open("preprocessing/imported/lexibank.tsv", mode='r', encoding="utf8") as file:
+with open("prepared_data/lexibank.tsv", mode='r', encoding="utf8") as file:
     d = csv.reader(file, delimiter="\t")
     next(d)
     for lines in d:
