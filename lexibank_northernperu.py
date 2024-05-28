@@ -125,11 +125,13 @@ class Dataset(BaseDataset):
             ),
             desc="cldfify"
         ):
-            if value != "":
+            if value and '_' not in value:
                 if language not in languages:
                     errors.add(("language", language))
+                    #print(f"Missing language: {language} - Row: {idx}")
                 elif concept not in concepts:
                     errors.add(("concept", concept))
+                    #print(f"Missing concept: {concept} for language: {language} - Row: {idx}")
                 else:
                     # lexeme = args.writer.add_form_with_segments(
                     args.writer.add_forms_from_value(

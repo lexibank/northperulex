@@ -79,7 +79,7 @@ for i, entry in enumerate(data):
         ]]
 
 
-with open('Tessmann.tsv', 'w', encoding="utf8") as f_out:
+with open('Tessmann_mapped.tsv', 'w', encoding="utf8") as f_out:
     f_out.write('ID\tWORD\tCONCEPTICON_ID\tCONCEPTICON_GLOSS\tMATCH\n')
     for key, lines in de_data.items():
         best_line = sorted(lines, key=lambda x: x[-1])[0]

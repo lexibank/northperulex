@@ -20,7 +20,7 @@ WHERE
 		AND
 	p.core_concept like "%Swadesh-1952-200%"
         AND
-    l.cldf_glottocode IN ("arab1268", "cand1248", "muni1258", "taus1253", "waor1240", "agua1253")
+    l.cldf_glottocode IN ("arab1268", "cand1248", "muni1258", "taus1253", "waor1240", "agua1253", "ocai1244", "mini1256", "muru1274", "nupo1240")
 ;
 """
 
@@ -42,13 +42,16 @@ INNER JOIN
         FROM
             formtable as f_1,
             parametertable as p_1,
-            lb.parametertable as p_2
+            lb.parametertable as p_2,
+            languagetable as l_1
         WHERE
             f_1.cldf_parameterReference = p_1.cldf_id
                 AND
             p_1.concepticon_gloss = p_2.cldf_name
                 AND
             p_2.core_concept like "%Swadesh-1952-200%"
+                AND
+            f_1.cldf_languageReference = l_1.cldf_id  
     ) as c
 ON
     c.cldf_id = f.cldf_id
@@ -71,25 +74,25 @@ output_data = [[
     'Form'
 ]]
 
-db = get_db('cldf-data/lexibank-analysed/lexibank.sqlite3')
-db.execute(LB_QUERY)
+db_lb = get_db('cldf-data/lexibank-analysed/lexibank.sqlite3')
+db_lb.execute(LB_QUERY)
 
-for idx, doculect, gloss, form in tqdm.tqdm(db.fetchall()):
+for idx, doculect, gloss, form in tqdm.tqdm(db_lb.fetchall()):
     print(idx, doculect, gloss, form)
     output_data.append([
         doculect, gloss, form
     ])
 
-db = get_db('cldf-data/seifartecheverriboran/seifartecheverriboran.sqlite3')
-db.execute(ATTACH_LB)
-db.execute(SEB_QUERY)
+db_boran = get_db('cldf-data/seifartecheverriboran/seifartecheverriboran.sqlite3')
+db_boran.execute(ATTACH_LB)
+db_boran.execute(SEB_QUERY)
 
-for idx, doculect, gloss, form in tqdm.tqdm(db.fetchall()):
+for idx, doculect, gloss, form in tqdm.tqdm(db_boran.fetchall()):
     print(idx, doculect, gloss, form)
     output_data.append([
         doculect, gloss, form
     ])
 
-with open('imported/lexibank.tsv', 'w', encoding="utf8", newline='') as f:
+with open('raw/prepared_data/lexibank.tsv', 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter="\t")
     writer.writerows(output_data)
