@@ -1,5 +1,5 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile
-Iquito-1_allofanumber-1,,Iquito,1_allofanumber,pɨyɨ́ɨni,pɨyɨ́ɨni,p ɨ j !ɨ́/ɨ ɨ n i,all,Michael2022,,,^ p ɨ y ɨ́ ɨ n i $,Iquito
+Iquito-1_allofanumber-1,,Iquito,1_allofanumber,pɨyɨ́ɨni,pɨyɨ́ɨni,p ɨ j !ɨ́ɨ/ɨː n i,all,Michael2022,,,^ p ɨ y ɨ́ɨ n i $,Iquito
 Iquito-2_and-1,,Iquito,2_and,músati,músati,m !ú/u s a t i,and,Michael2022,,,^ m ú s a t i $,Iquito
 Iquito-3_animal-1,,Iquito,3_animal,tasiitáani,tasiitáani,t a s iː t !áa/aː n i,animal,Michael2022,,,^ t a s ii t áa n i $,Iquito
 Iquito-4_ashes-1,,Iquito,4_ashes,pukiti,pukiti,p u k i t i,ash,Michael2022,,,^ p u k i t i $,Iquito
@@ -11,8 +11,8 @@ Iquito-90_tolive-1,,Iquito,90_tolive,iwíini,iwíini,i w !íi/iː n i,live,Micha
 Iquito-9_because-1,,Iquito,9_because,iyaamiaákuji,iyaamiaákuji,i j aː mʲ aː k u h i,because,Michael2022,,,^ i y aa miaá k u j i $,Iquito
 Iquito-10_belly-1,,Iquito,10_belly,tanaka,tanaka,t a n a k a,belly,Michael2022,,,^ t a n a k a $,Iquito
 Iquito-12_big-1,,Iquito,12_big,aniita,aniita,a n iː t a,big,Michael2022,,,^ a n ii t a $,Iquito
-Iquito-13_bird-1,,Iquito,13_bird,iíwaasi,iíwaasi,i !í/i w aː s i,bird,Michael2022,,,^ i í w aa s i $,Iquito
-Iquito-14_tobite-1,,Iquito,14_tobite,sɨ́ɨni,sɨ́ɨni,s !ɨ́/ɨ ɨ n i,bite,Michael2022,,,^ s ɨ́ ɨ n i $,Iquito
+Iquito-13_bird-1,,Iquito,13_bird,iíwaasi,iíwaasi,!ií/iː w aː s i,bird,Michael2022,,,^ ií w aa s i $,Iquito
+Iquito-14_tobite-1,,Iquito,14_tobite,sɨ́ɨni,sɨ́ɨni,s !ɨ́ɨ/ɨː n i,bite,Michael2022,,,^ s ɨ́ɨ n i $,Iquito
 Iquito-15_black-1,,Iquito,15_black,sapatina,sapatina,s a p a t i n a,black,Michael2022,,,^ s a p a t i n a $,Iquito
 Iquito-16_blood-1,,Iquito,16_blood,májaaka,májaaka,m !á/a h aː k a,blood,Michael2022,,,^ m á j aa k a $,Iquito
 Iquito-17_toblowofwind-1,,Iquito,17_toblowofwind,núuni,núuni,n !úu/uː n i,blow or blow on something,Michael2022,,,^ n úu n i $,Iquito
@@ -22,14 +22,14 @@ Iquito-19_tobreathe-1,,Iquito,19_tobreathe,júnɨɨna iríini,júnɨɨna iríini
 Iquito-20_toburnintrans-1,,Iquito,20_toburnintrans,núùnì,núùnì,n !úù/uː n !ì/i,,Michael2022,,,^ n úù n ì $,Iquito
 Iquito-21_childyoungpersonratherthanasrelationshipterm-1,,Iquito,21_childyoungpersonratherthanasrelationshipterm,maaya,maaya,m aː j a,,Michael2022,,,^ m aa y a $,Iquito
 Iquito-22_cloud-1,,Iquito,22_cloud,anajaka,anajaka,a n a h a k a,cloud or mist,Michael2022,,,^ a n a j a k a $,Iquito
-Iquito-23_coldofweather-1,,Iquito,23_coldofweather,sɨɨmɨ́ɨtìnà,sɨɨmɨ́ɨtìnà,s ɨː m !ɨ́/ɨ ɨ t !ì/i n !à/a,,Michael2022,,,^ s ɨɨ m ɨ́ ɨ t ì n à $,Iquito
+Iquito-23_coldofweather-1,,Iquito,23_coldofweather,sɨɨmɨ́ɨtìnà,sɨɨmɨ́ɨtìnà,s ɨː m !ɨ́ɨ/ɨː t !ì/i n !à/a,,Michael2022,,,^ s ɨɨ m ɨ́ɨ t ì n à $,Iquito
 Iquito-24_tocome-1,,Iquito,24_tocome,aníini,aníini,a n !íi/iː n i,come,Michael2022,,,^ a n íi n i $,Iquito
 Iquito-25_tocount-1,,Iquito,25_tocount,sanitáani,sanitáani,s a n i t !áa/aː n i,measure or count,Michael2022,,,^ s a n i t áa n i $,Iquito
 Iquito-26_tocut-1,,Iquito,26_tocut,rapíini,rapíini,r a p !íi/iː n i,cut,Michael2022,,,^ r a p íi n i $,Iquito
-Iquito-27_dayoppositeofnightratherthantimemeasure-1,,Iquito,27_dayoppositeofnightratherthantimemeasure,yaawɨ́ɨni,yaawɨ́ɨni,j aː w !ɨ́/ɨ ɨ n i,day,Michael2022,,,^ y aa w ɨ́ ɨ n i $,Iquito
-Iquito-28_todie-1,,Iquito,28_todie,iwarɨ́ɨni,iwarɨ́ɨni,i w a r !ɨ́/ɨ ɨ n i,die,Michael2022,,,^ i w a r ɨ́ ɨ n i $,Iquito
+Iquito-27_dayoppositeofnightratherthantimemeasure-1,,Iquito,27_dayoppositeofnightratherthantimemeasure,yaawɨ́ɨni,yaawɨ́ɨni,j aː w !ɨ́ɨ/ɨː n i,day,Michael2022,,,^ y aa w ɨ́ɨ n i $,Iquito
+Iquito-28_todie-1,,Iquito,28_todie,iwarɨ́ɨni,iwarɨ́ɨni,i w a r !ɨ́ɨ/ɨː n i,die,Michael2022,,,^ i w a r ɨ́ɨ n i $,Iquito
 Iquito-29_todig-1,,Iquito,29_todig,muráànì,muráànì,m u r !áà/aː n !ì/i,,Michael2022,,,^ m u r áà n ì $,Iquito
-Iquito-30_dirty-1,,Iquito,30_dirty,suúkwarana,suúkwarana,s u !ú/u kʷ a r a n a,dirty,Michael2022,,,^ s u ú kw a r a n a $,Iquito
+Iquito-30_dirty-1,,Iquito,30_dirty,suúkwarana,suúkwarana,s !uú/uː kʷ a r a n a,dirty,Michael2022,,,^ s uú kw a r a n a $,Iquito
 Iquito-31_dog-1,,Iquito,31_dog,mɨyaaraa,mɨyaaraa,m ɨ j aː r aː,dog (plural),Michael2022,,,^ m ɨ y aa r aa $,Iquito
 Iquito-32_todrink-1,,Iquito,32_todrink,raríini,raríini,r a r !íi/iː n i,drink,Michael2022,,,^ r a r íi n i $,Iquito
 Iquito-33_drysubstance-1,,Iquito,33_drysubstance,turúuni,turúuni,t u r !úu/uː n i,dry,Michael2022,,,^ t u r úu n i $,Iquito
@@ -39,31 +39,31 @@ Iquito-37_earthsoil-1,,Iquito,37_earthsoil,níiya,níiya,n !íi/iː j a,soil or 
 Iquito-38_toeat-1,,Iquito,38_toeat,asáani,asáani,a s !áa/aː n i,eat,Michael2022,,,^ a s áa n i $,Iquito
 Iquito-39_egg-1,,Iquito,39_egg,naaki,naaki,n aː k i,egg,Michael2022,,,^ n aa k i $,Iquito
 Iquito-40_eye-1,,Iquito,40_eye,namija,namija,n a m i h a,eye,Michael2022,,,^ n a m i j a $,Iquito
-Iquito-41_tofalldropratherthantopple-1,,Iquito,41_tofalldropratherthantopple,itɨ́ɨni,itɨ́ɨni,i t !ɨ́/ɨ ɨ n i,fall,Michael2022,,,^ i t ɨ́ ɨ n i $,Iquito
+Iquito-41_tofalldropratherthantopple-1,,Iquito,41_tofalldropratherthantopple,itɨ́ɨni,itɨ́ɨni,i t !ɨ́ɨ/ɨː n i,fall,Michael2022,,,^ i t ɨ́ɨ n i $,Iquito
 Iquito-42_far-1,,Iquito,42_far,síipa,síipa,s !íi/iː p a,far,Michael2022,,,^ s íi p a $,Iquito
 Iquito-43_fatorganicsubstance-1,,Iquito,43_fatorganicsubstance,wíira,wíira,w !íi/iː r a,or grease,Michael2022,,,^ w íi r a $,Iquito
 Iquito-44_father-1,,Iquito,44_father,akɨ,akɨ,a k ɨ,father,Michael2022,,,^ a k ɨ $,Iquito
-Iquito-45_tofear-1,,Iquito,45_tofear,kɨɨrɨ́ɨni,kɨɨrɨ́ɨni,k ɨː r !ɨ́/ɨ ɨ n i,fear,Michael2022,,,^ k ɨɨ r ɨ́ ɨ n i $,Iquito
+Iquito-45_tofear-1,,Iquito,45_tofear,kɨɨrɨ́ɨni,kɨɨrɨ́ɨni,k ɨː r !ɨ́ɨ/ɨː n i,fear,Michael2022,,,^ k ɨɨ r ɨ́ɨ n i $,Iquito
 Iquito-46_featherlargerfeathersratherthandown-1,,Iquito,46_featherlargerfeathersratherthandown,kajasi,kajasi,k a h a s i,feather,Michael2022,,,^ k a j a s i $,Iquito
 Iquito-47_few-1,,Iquito,47_few,jɨɨ́timijaarika,jɨɨ́timijaarika,h !ɨɨ́/ɨː t i m i h aː r i k a,a few,Michael2022,,,^ j ɨɨ́ t i m i j aa r i k a $,Iquito
 Iquito-47_few-2,,Iquito,47_few,jɨɨ́tipɨjaarika,jɨɨ́tipɨjaarika,h !ɨɨ́/ɨː t i p ɨ h aː r i k a,a few,Michael2022,,,^ j ɨɨ́ t i p ɨ j aa r i k a $,Iquito
 Iquito-48_tofight-1,,Iquito,48_tofight,ipurúuni,ipurúuni,i p u r !úu/uː n i,fight,Michael2022,,,^ i p u r úu n i $,Iquito
-Iquito-49_fire-1,,Iquito,49_fire,ijakɨ́ɨni,ijakɨ́ɨni,i h a k !ɨ́/ɨ ɨ n i,fire,Michael2022,,,^ i j a k ɨ́ ɨ n i $,Iquito
-Iquito-50_fish-1,,Iquito,50_fish,paápaaraja,paápaaraja,p a !á/a p aː r a h a,fish (general term),Michael2022,,,^ p a á p aa r a j a $,Iquito
+Iquito-49_fire-1,,Iquito,49_fire,ijakɨ́ɨni,ijakɨ́ɨni,i h a k !ɨ́ɨ/ɨː n i,fire,Michael2022,,,^ i j a k ɨ́ɨ n i $,Iquito
+Iquito-50_fish-1,,Iquito,50_fish,paápaaraja,paápaaraja,p !aá/aː p aː r a h a,fish (general term),Michael2022,,,^ p aá p aa r a j a $,Iquito
 Iquito-96_meatflesh-1,,Iquito,96_meatflesh,naasíija,naasíija,n aː s !íi/iː h a,flesh or meat,Michael2022,,,^ n aa s íi j a $,Iquito
 Iquito-52_tofloat-1,,Iquito,52_tofloat,ikatáani,ikatáani,i k a t !áa/aː n i,float,Michael2022,,,^ i k a t áa n i $,Iquito
-Iquito-53_toflow-1,,Iquito,53_toflow,ɨ́ɨni,ɨ́ɨni,!ɨ́/ɨ ɨ n i,flow,Michael2022,,,^ ɨ́ ɨ n i $,Iquito
+Iquito-53_toflow-1,,Iquito,53_toflow,ɨ́ɨni,ɨ́ɨni,!ɨ́ɨ/ɨː n i,flow,Michael2022,,,^ ɨ́ɨ n i $,Iquito
 Iquito-54_flower-1,,Iquito,54_flower,itiyɨki,itiyɨki,i t i j ɨ k i,a flower,Michael2022,,,^ i t i y ɨ k i $,Iquito
 Iquito-55_tofly-1,,Iquito,55_tofly,siaawíita,siaawíita,ʃ aː w !íi/iː t a,fly,Michael2022,,,^ siaa w íi t a $,Iquito
 Iquito-56_fog-1,,Iquito,56_fog,panakaja,panakaja,p a n a k a h a,mist or falling damp,Michael2022,,,^ p a n a k a j a $,Iquito
 Iquito-57_foot-1,,Iquito,57_foot,tiitiwa,tiitiwa,t iː t i w a,foot (plural),Michael2022,,,^ t ii t i w a $,Iquito
 Iquito-196_woods-1,,Iquito,196_woods,táasa,táasa,t !áa/aː s a,mainly used to carry tubers (especially manioc) and fruits from the garden or forest,Michael2022,,,^ t áa s a $,Iquito
 Iquito-58_four-1,,Iquito,58_four,suwaramaajɨtáami,suwaramaajɨtáami,s u w a r a m aː h ɨ t !áa/aː m i,four,Michael2022,,,^ s u w a r a m aa j ɨ t áa m i $,Iquito
-Iquito-60_togive-1,,Iquito,60_togive,miitɨ́ɨni,miitɨ́ɨni,m iː t !ɨ́/ɨ ɨ n i,give,Michael2022,,,^ m ii t ɨ́ ɨ n i $,Iquito
+Iquito-60_togive-1,,Iquito,60_togive,miitɨ́ɨni,miitɨ́ɨni,m iː t !ɨ́ɨ/ɨː n i,give,Michael2022,,,^ m ii t ɨ́ɨ n i $,Iquito
 Iquito-61_good-1,,Iquito,61_good,suwáani,suwáani,s u w !áa/aː n i,good,Michael2022,,,^ s u w áa n i $,Iquito
-Iquito-62_grass-1,,Iquito,62_grass,iyásììka,iyásììka,i j !á/a s !ì/i !ì/i k a,,Michael2022,,,^ i y á s ì ì k a $,Iquito
+Iquito-62_grass-1,,Iquito,62_grass,iyásììka,iyásììka,i j !á/a s !ìì/iː k a,,Michael2022,,,^ i y á s ìì k a $,Iquito
 Iquito-63_green-1,,Iquito,63_green,nɨyana,nɨyana,n ɨ j a n a,green,Michael2022,,,^ n ɨ y a n a $,Iquito
-Iquito-65_hair-1,,Iquito,65_hair,ririíkɨɨtáani,ririíkɨɨtáani,r i r i !í/i k ɨː t !áa/aː n i,hair,Michael2022,,,^ r i r i í k ɨɨ t áa n i $,Iquito
+Iquito-65_hair-1,,Iquito,65_hair,ririíkɨɨtáani,ririíkɨɨtáani,r i r !ií/iː k ɨː t !áa/aː n i,hair,Michael2022,,,^ r i r ií k ɨɨ t áa n i $,Iquito
 Iquito-66_hand-1,,Iquito,66_hand,kurika,kurika,k u r i k a,hand,Michael2022,,,^ k u r i k a $,Iquito
 Iquito-67_he-1,,Iquito,67_he,nu=,nu=,n u,he,Michael2022,,,^ n u =$,Iquito
 Iquito-68_head-1,,Iquito,68_head,ánaka,ánaka,!á/a n a k a,head,Michael2022,,,^ á n a k a $,Iquito
@@ -73,18 +73,18 @@ Iquito-71_heavy-1,,Iquito,71_heavy,iinana,iinana,iː n a n a,heavy,Michael2022,,
 Iquito-72_here-1,,Iquito,72_here,kiniki,kiniki,k i n i k i,here,Michael2022,,,^ k i n i k i $,Iquito
 Iquito-73_tohit-1,,Iquito,73_tohit,aamúuni,aamúuni,aː m !úu/uː n i,hit or strike a living being,Michael2022,,,^ aa m úu n i $,Iquito
 Iquito-74_toholdinhand-1,,Iquito,74_toholdinhand,kasiráani,kasiráani,k a s i r !áa/aː n i,hold,Michael2022,,,^ k a s i r áa n i $,Iquito
-Iquito-75_how-1,,Iquito,75_how,jaátaaraa,jaátaaraa,h a !á/a t aː r aː,how,Michael2022,,,^ j a á t aa r aa $,Iquito
-Iquito-76_tohuntgame-1,,Iquito,76_tohuntgame,aamɨ́yààkíìnì,aamɨ́yààkíìnì,aː m !ɨ́/ɨ j !à/a !à/a k !í/i !ì/i n !ì/i,,Michael2022,,,^ aa m ɨ́ y à à k í ì n ì $,Iquito
+Iquito-75_how-1,,Iquito,75_how,jaátaaraa,jaátaaraa,h !aá/aː t aː r aː,how,Michael2022,,,^ j aá t aa r aa $,Iquito
+Iquito-76_tohuntgame-1,,Iquito,76_tohuntgame,aamɨ́yààkíìnì,aamɨ́yààkíìnì,aː m !ɨ́/ɨ j !àà/aː k !íì/iː n !ì/i,,Michael2022,,,^ aa m ɨ́ y àà k íì n ì $,Iquito
 Iquito-77_husband-1,,Iquito,77_husband,níyaaka,níyaaka,n !í/i j aː k a,husband,Michael2022,,,^ n í y aa k a $,Iquito
 Iquito-78_i-1,,Iquito,78_i,kí=,kí=,k !í/i,I,Michael2022,,,^ k í =$,Iquito
 Iquito-81_in-1,,Iquito,81_in,=jina,=jina,h i n a,in,Michael2022,,,^= j i n a $,Iquito
 Iquito-82_tokill-1,,Iquito,82_tokill,aamúuni,aamúuni,aː m !úu/uː n i,kill,Michael2022,,,^ aa m úu n i $,Iquito
-Iquito-83_toknowfacts-1,,Iquito,83_toknowfacts,nakusíìnì,nakusíìnì,n a k u s !í/i !ì/i n !ì/i,,Michael2022,,,^ n a k u s í ì n ì $,Iquito
+Iquito-83_toknowfacts-1,,Iquito,83_toknowfacts,nakusíìnì,nakusíìnì,n a k u s !íì/iː n !ì/i,,Michael2022,,,^ n a k u s íì n ì $,Iquito
 Iquito-84_lake-1,,Iquito,84_lake,iniyáani,iniyáani,i n i j !áa/aː n i,such as a river or lake,Michael2022,,,^ i n i y áa n i $,Iquito
 Iquito-85_tolaugh-1,,Iquito,85_tolaugh,satáani,satáani,s a t !áa/aː n i,laugh,Michael2022,,,^ s a t áa n i $,Iquito
 Iquito-86_leaf-1,,Iquito,86_leaf,íimɨ,íimɨ,!íi/iː m ɨ,leaf,Michael2022,,,^ íi m ɨ $,Iquito
 Iquito-86_leaf-2,,Iquito,86_leaf,naamɨ,naamɨ,n aː m ɨ,leaf,Michael2022,,,^ n aa m ɨ $,Iquito
-Iquito-87_lefthand-1,,Iquito,87_lefthand,jaámɨɨkiji,jaámɨɨkiji,h a !á/a m ɨː k i h i,left side,Michael2022,,,^ j a á m ɨɨ k i j i $,Iquito
+Iquito-87_lefthand-1,,Iquito,87_lefthand,jaámɨɨkiji,jaámɨɨkiji,h !aá/aː m ɨː k i h i,left side,Michael2022,,,^ j aá m ɨɨ k i j i $,Iquito
 Iquito-88_leg-1,,Iquito,88_leg,áaja,áaja,!áa/aː h a,leg,Michael2022,,,^ áa j a $,Iquito
 Iquito-89_tolie-1,,Iquito,89_tolie,iwɨɨtáani,iwɨɨtáani,i w ɨː t !áa/aː n i,be lying down,Michael2022,,,^ i w ɨɨ t áa n i $,Iquito
 Iquito-91_liver-1,,Iquito,91_liver,kúwaaja,kúwaaja,k !ú/u w aː h a,liver,Michael2022,,,^ k ú w aa j a $,Iquito
@@ -92,26 +92,26 @@ Iquito-92_long-1,,Iquito,92_long,saana,saana,s aː n a,long,Michael2022,,,^ s aa
 Iquito-93_louse-1,,Iquito,93_louse,sikwanaja,sikwanaja,s i kʷ a n a h a,louse,Michael2022,,,^ s i kw a n a j a $,Iquito
 Iquito-94_manmalehuman-1,,Iquito,94_manmalehuman,ikwánì,ikwánì,i kʷ !á/a n !ì/i,,Michael2022,,,^ i kw á n ì $,Iquito
 Iquito-95_many-1,,Iquito,95_many,maasiáànà,maasiáànà,m aː ʃ aː n !à/a,,Michael2022,,,^ m aa siáà n à $,Iquito
-Iquito-97_mother-1,,Iquito,97_mother,maámaaja,maámaaja,m a !á/a m aː h a,mother,Michael2022,,,^ m a á m aa j a $,Iquito
+Iquito-97_mother-1,,Iquito,97_mother,maámaaja,maámaaja,m !aá/aː m aː h a,mother,Michael2022,,,^ m aá m aa j a $,Iquito
 Iquito-99_mouth-1,,Iquito,99_mouth,itípùmà,itípùmà,i t !í/i p !ù/u m !à/a,,Michael2022,,,^ i t í p ù m à $,Iquito
 Iquito-100_name-1,,Iquito,100_name,ɨɨ́yaaka,ɨɨ́yaaka,!ɨɨ́/ɨː j aː k a,name,Michael2022,,,^ ɨɨ́ y aa k a $,Iquito
 Iquito-101_narrow-1,,Iquito,101_narrow,tuukina,tuukina,t uː k i n a,narrow,Michael2022,,,^ t uu k i n a $,Iquito
 Iquito-103_neck-1,,Iquito,103_neck,ríkiija,ríkiija,r !í/i k iː h a,neck,Michael2022,,,^ r í k ii j a $,Iquito
-Iquito-104_new-1,,Iquito,104_new,saámina,saámina,s a !á/a m i n a,new,Michael2022,,,^ s a á m i n a $,Iquito
-Iquito-105_night-1,,Iquito,105_night,niínaki,niínaki,n i !í/i n a k i,night,Michael2022,,,^ n i í n a k i $,Iquito
+Iquito-104_new-1,,Iquito,104_new,saámina,saámina,s !aá/aː m i n a,new,Michael2022,,,^ s aá m i n a $,Iquito
+Iquito-105_night-1,,Iquito,105_night,niínaki,niínaki,n !ií/iː n a k i,night,Michael2022,,,^ n ií n a k i $,Iquito
 Iquito-106_nose-1,,Iquito,106_nose,najika,najika,n a h i k a,nose,Michael2022,,,^ n a j i k a $,Iquito
 Iquito-107_not-1,,Iquito,107_not,kaa,kaa,k aː,,Michael2022,,,^ k aa $,Iquito
 Iquito-108_old-1,,Iquito,108_old,kumaku,kumaku,k u m a k u,old,Michael2022,,,^ k u m a k u $,Iquito
-Iquito-109_one-1,,Iquito,109_one,nuúkiika,nuúkiika,n u !ú/u k iː k a,one,Michael2022,,,^ n u ú k ii k a $,Iquito
+Iquito-109_one-1,,Iquito,109_one,nuúkiika,nuúkiika,n !uú/uː k iː k a,one,Michael2022,,,^ n uú k ii k a $,Iquito
 Iquito-110_other-1,,Iquito,110_other,taana,taana,t aː n a,other,Michael2022,,,^ t aa n a $,Iquito
 Iquito-111_person-1,,Iquito,111_person,kaaya,kaaya,k aː j a,person or human being,Michael2022,,,^ k aa y a $,Iquito
 Iquito-112_toplay-1,,Iquito,112_toplay,maayaasíini,maayaasíini,m aː j aː s !íi/iː n i,play,Michael2022,,,^ m aa y aa s íi n i $,Iquito
-Iquito-113_topull-1,,Iquito,113_topull,jɨ́ɨni,jɨ́ɨni,h !ɨ́/ɨ ɨ n i,pull,Michael2022,,,^ j ɨ́ ɨ n i $,Iquito
+Iquito-113_topull-1,,Iquito,113_topull,jɨ́ɨni,jɨ́ɨni,h !ɨ́ɨ/ɨː n i,pull,Michael2022,,,^ j ɨ́ɨ n i $,Iquito
 Iquito-114_topush-1,,Iquito,114_topush,kɨnitáani,kɨnitáani,k ɨ n i t !áa/aː n i,push or lift a heavy load,Michael2022,,,^ k ɨ n i t áa n i $,Iquito
-Iquito-115_torain-1,,Iquito,115_torain,aníìnì,aníìnì,a n !í/i !ì/i n !ì/i,,Michael2022,,,^ a n í ì n ì $,Iquito
+Iquito-115_torain-1,,Iquito,115_torain,aníìnì,aníìnì,a n !íì/iː n !ì/i,,Michael2022,,,^ a n íì n ì $,Iquito
 Iquito-116_red-1,,Iquito,116_red,nuusina,nuusina,n uː s i n a,red,Michael2022,,,^ n uu s i n a $,Iquito
 Iquito-118_righthand-1,,Iquito,118_righthand,suwákija,suwákija,s u w !á/a k i h a,right side,Michael2022,,,^ s u w á k i j a $,Iquito
-Iquito-119_river-1,,Iquito,119_river,aatɨ́ɨni,aatɨ́ɨni,aː t !ɨ́/ɨ ɨ n i,river,Michael2022,,,^ aa t ɨ́ ɨ n i $,Iquito
+Iquito-119_river-1,,Iquito,119_river,aatɨ́ɨni,aatɨ́ɨni,aː t !ɨ́ɨ/ɨː n i,river,Michael2022,,,^ aa t ɨ́ɨ n i $,Iquito
 Iquito-119_river-2,,Iquito,119_river,nunáani,nunáani,n u n !áa/aː n i,river,Michael2022,,,^ n u n áa n i $,Iquito
 Iquito-120_roadortrail-1,,Iquito,120_roadortrail,amakɨ,amakɨ,a m a k ɨ,,Michael2022,,,^ a m a k ɨ $,Iquito
 Iquito-121_root-1,,Iquito,121_root,anija,anija,a n i h a,root (plant,Michael2022,,,^ a n i j a $,Iquito
@@ -121,26 +121,26 @@ Iquito-124_torub-1,,Iquito,124_torub,kaakuusíini,kaakuusíini,k aː k uː s !í
 Iquito-125_salt-1,,Iquito,125_salt,iisaja,iisaja,iː s a h a,salt,Michael2022,,,^ ii s a j a $,Iquito
 Iquito-126_sand-1,,Iquito,126_sand,kakuti,kakuti,k a k u t i,sand,Michael2022,,,^ k a k u t i $,Iquito
 Iquito-127_say-1,,Iquito,127_say,aríini,aríini,a r !íi/iː n i,say,Michael2022,,,^ a r íi n i $,Iquito
-Iquito-128_toscratchaswithfingernailstorelieveitch-1,,Iquito,128_toscratchaswithfingernailstorelieveitch,aríìnì,aríìnì,a r !í/i !ì/i n !ì/i,,Michael2022,,,^ a r í ì n ì $,Iquito
+Iquito-128_toscratchaswithfingernailstorelieveitch-1,,Iquito,128_toscratchaswithfingernailstorelieveitch,aríìnì,aríìnì,a r !íì/iː n !ì/i,,Michael2022,,,^ a r íì n ì $,Iquito
 Iquito-130_see-1,,Iquito,130_see,nikíini,nikíini,n i k !íi/iː n i,see,Michael2022,,,^ n i k íi n i $,Iquito
 Iquito-131_seed-1,,Iquito,131_seed,íniijaa,íniijaa,!í/i n iː h aː,seed (plural),Michael2022,,,^ í n ii j aa $,Iquito
 Iquito-132_tosew-1,,Iquito,132_tosew,sipúuni,sipúuni,s i p !úu/uː n i,sew,Michael2022,,,^ s i p úu n i $,Iquito
 Iquito-133_sharpasknife-1,,Iquito,133_sharpasknife,kuukwana,kuukwana,k uː kʷ a n a,sharp,Michael2022,,,^ k uu kw a n a $,Iquito
 Iquito-134_short-1,,Iquito,134_short,takínuurika,takínuurika,t a k !í/i n uː r i k a,short,Michael2022,,,^ t a k í n uu r i k a $,Iquito
 Iquito-135_tosing-1,,Iquito,135_tosing,ariwáani,ariwáani,a r i w !áa/aː n i,sing,Michael2022,,,^ a r i w áa n i $,Iquito
-Iquito-136_sit-1,,Iquito,136_sit,ajirɨ́ɨ̀nì,ajirɨ́ɨ̀nì,a h i r !ɨ́/ɨ !ɨ̀/ɨ n !ì/i,,Michael2022,,,^ a j i r ɨ́ ɨ̀ n ì $,Iquito
+Iquito-136_sit-1,,Iquito,136_sit,ajirɨ́ɨ̀nì,ajirɨ́ɨ̀nì,a h i r !ɨ́ɨ̀/ɨː n !ì/i,,Michael2022,,,^ a j i r ɨ́ɨ̀ n ì $,Iquito
 Iquito-137_skinpersons-1,,Iquito,137_skinpersons,ísɨ̀kɨ̀,ísɨ̀kɨ̀,!í/i s !ɨ̀/ɨ k !ɨ̀/ɨ,,Michael2022,,,^ í s ɨ̀ k ɨ̀ $,Iquito
 Iquito-138_sky-1,,Iquito,138_sky,níiya=karikuku,níiya=karikuku,n !íi/iː j a + k a r i k u k u,sky,Michael2022,,,^ n íi y a = k a r i k u k u $,Iquito
-Iquito-139_sleep-1,,Iquito,139_sleep,makɨ́ɨni,makɨ́ɨni,m a k !ɨ́/ɨ ɨ n i,sleep,Michael2022,,,^ m a k ɨ́ ɨ n i $,Iquito
+Iquito-139_sleep-1,,Iquito,139_sleep,makɨ́ɨni,makɨ́ɨni,m a k !ɨ́ɨ/ɨː n i,sleep,Michael2022,,,^ m a k ɨ́ɨ n i $,Iquito
 Iquito-140_small-1,,Iquito,140_small,sɨɨ́sanurika,sɨɨ́sanurika,s !ɨɨ́/ɨː s a n u r i k a,small or little,Michael2022,,,^ s ɨɨ́ s a n u r i k a $,Iquito
-Iquito-141_tosmellperceiveodor-1,,Iquito,141_tosmellperceiveodor,najiwɨ́ɨ̀nì,najiwɨ́ɨ̀nì,n a h i w !ɨ́/ɨ !ɨ̀/ɨ n !ì/i,,Michael2022,,,^ n a j i w ɨ́ ɨ̀ n ì $,Iquito
+Iquito-141_tosmellperceiveodor-1,,Iquito,141_tosmellperceiveodor,najiwɨ́ɨ̀nì,najiwɨ́ɨ̀nì,n a h i w !ɨ́ɨ̀/ɨː n !ì/i,,Michael2022,,,^ n a j i w ɨ́ɨ̀ n ì $,Iquito
 Iquito-142_smokeoffire-1,,Iquito,142_smokeoffire,anajaka,anajaka,a n a h a k a,smoke,Michael2022,,,^ a n a j a k a $,Iquito
-Iquito-143_smooth-1,,Iquito,143_smooth,aákanana,aákanana,a !á/a k a n a n a,smooth,Michael2022,,,^ a á k a n a n a $,Iquito
-Iquito-144_snake-1,,Iquito,144_snake,sirɨ́ɨni,sirɨ́ɨni,s i r !ɨ́/ɨ ɨ n i,a worm or snake,Michael2022,,,^ s i r ɨ́ ɨ n i $,Iquito
+Iquito-143_smooth-1,,Iquito,143_smooth,aákanana,aákanana,!aá/aː k a n a n a,smooth,Michael2022,,,^ aá k a n a n a $,Iquito
+Iquito-144_snake-1,,Iquito,144_snake,sirɨ́ɨni,sirɨ́ɨni,s i r !ɨ́ɨ/ɨː n i,a worm or snake,Michael2022,,,^ s i r ɨ́ɨ n i $,Iquito
 Iquito-146_some-1,,Iquito,146_some,jɨɨ́timi,jɨɨ́timi,h !ɨɨ́/ɨː t i m i,some,Michael2022,,,^ j ɨɨ́ t i m i $,Iquito
 Iquito-146_some-2,,Iquito,146_some,jɨɨ́tipɨ,jɨɨ́tipɨ,h !ɨɨ́/ɨː t i p ɨ,some,Michael2022,,,^ j ɨɨ́ t i p ɨ $,Iquito
 Iquito-147_tospit-1,,Iquito,147_tospit,aruukíini,aruukíini,a r uː k !íi/iː n i,spit,Michael2022,,,^ a r uu k íi n i $,Iquito
-Iquito-148_tosplit-1,,Iquito,148_tosplit,ijakɨ́ɨni,ijakɨ́ɨni,i h a k !ɨ́/ɨ ɨ n i,split or crack,Michael2022,,,^ i j a k ɨ́ ɨ n i $,Iquito
+Iquito-148_tosplit-1,,Iquito,148_tosplit,ijakɨ́ɨni,ijakɨ́ɨni,i h a k !ɨ́ɨ/ɨː n i,split or crack,Michael2022,,,^ i j a k ɨ́ɨ n i $,Iquito
 Iquito-149_tosqueeze-1,,Iquito,149_tosqueeze,minitáànì,minitáànì,m i n i t !áà/aː n !ì/i,,Michael2022,,,^ m i n i t áà n ì $,Iquito
 Iquito-150_tostaborstick-1,,Iquito,150_tostaborstick,ijiráani,ijiráani,i h i r !áa/aː n i,stab,Michael2022,,,^ i j i r áa n i $,Iquito
 Iquito-151_tostand-1,,Iquito,151_tostand,takúuni,takúuni,t a k !úu/uː n i,stand,Michael2022,,,^ t a k úu n i $,Iquito
@@ -148,7 +148,7 @@ Iquito-152_star-1,,Iquito,152_star,sawija,sawija,s a w i h a,star,Michael2022,,,
 Iquito-153_stickofwood-1,,Iquito,153_stickofwood,náànà,náànà,n !áà/aː n !à/a,,Michael2022,,,^ n áà n à $,Iquito
 Iquito-154_stone-1,,Iquito,154_stone,sawija,sawija,s a w i h a,stone,Michael2022,,,^ s a w i j a $,Iquito
 Iquito-155_straight-1,,Iquito,155_straight,kamíkiikaana,kamíkiikaana,k a m !í/i k iː k aː n a,straight,Michael2022,,,^ k a m í k ii k aa n a $,Iquito
-Iquito-156_tosuck-1,,Iquito,156_tosuck,jíìnì,jíìnì,h !í/i !ì/i n !ì/i,,Michael2022,,,^ j í ì n ì $,Iquito
+Iquito-156_tosuck-1,,Iquito,156_tosuck,jíìnì,jíìnì,h !íì/iː n !ì/i,,Michael2022,,,^ j íì n ì $,Iquito
 Iquito-157_sun-1,,Iquito,157_sun,nunamija,nunamija,n u n a m i h a,the sun,Michael2022,,,^ n u n a m i j a $,Iquito
 Iquito-158_toswell-1,,Iquito,158_toswell,purúuni,purúuni,p u r !úu/uː n i,swell,Michael2022,,,^ p u r úu n i $,Iquito
 Iquito-159_toswim-1,,Iquito,159_toswim,musíini,musíini,m u s !íi/iː n i,swim,Michael2022,,,^ m u s íi n i $,Iquito
@@ -157,7 +157,7 @@ Iquito-161_that-1,,Iquito,161_that,iina,iina,iː n a,that or which,Michael2022,,
 Iquito-162_there-1,,Iquito,162_there,tii,tii,t iː,there,Michael2022,,,^ t ii $,Iquito
 Iquito-163_they-1,,Iquito,163_they,na=,na=,n a,they,Michael2022,,,^ n a =$,Iquito
 Iquito-164_thick-1,,Iquito,164_thick,yaasina,yaasina,j aː s i n a,thick,Michael2022,,,^ y aa s i n a $,Iquito
-Iquito-165_thin-1,,Iquito,165_thin,kiísana,kiísana,k i !í/i s a n a,thin,Michael2022,,,^ k i í s a n a $,Iquito
+Iquito-165_thin-1,,Iquito,165_thin,kiísana,kiísana,k !ií/iː s a n a,thin,Michael2022,,,^ k ií s a n a $,Iquito
 Iquito-166_tothink-1,,Iquito,166_tothink,saminiijúuni,saminiijúuni,s a m i n iː h !úu/uː n i,think,Michael2022,,,^ s a m i n ii j úu n i $,Iquito
 Iquito-167_this-1,,Iquito,167_this,iina,iina,iː n a,,Michael2022,,,^ ii n a $,Iquito
 Iquito-168_thou-1,,Iquito,168_thou,kiaa=,kiaa=,kʲ aː,,Michael2022,,,^ kiaa =$,Iquito
@@ -167,16 +167,16 @@ Iquito-171_totie-1,,Iquito,171_totie,tiníini,tiníini,t i n !íi/iː n i,tie or
 Iquito-172_tongue-1,,Iquito,172_tongue,nɨɨti,nɨɨti,n ɨː t i,tongue,Michael2022,,,^ n ɨɨ t i $,Iquito
 Iquito-173_toothfrontratherthanmolar-1,,Iquito,173_toothfrontratherthanmolar,iika,iika,iː k a,tooth or fang,Michael2022,,,^ ii k a $,Iquito
 Iquito-174_tree-1,,Iquito,174_tree,náana,náana,n !áa/aː n a,tree,Michael2022,,,^ n áa n a $,Iquito
-Iquito-175_toturnchangeonesdirection-1,,Iquito,175_toturnchangeonesdirection,takɨtɨ́ɨni,takɨtɨ́ɨni,t a k ɨ t !ɨ́/ɨ ɨ n i,turn around,Michael2022,,,^ t a k ɨ t ɨ́ ɨ n i $,Iquito
+Iquito-175_toturnchangeonesdirection-1,,Iquito,175_toturnchangeonesdirection,takɨtɨ́ɨni,takɨtɨ́ɨni,t a k ɨ t !ɨ́ɨ/ɨː n i,turn around,Michael2022,,,^ t a k ɨ t ɨ́ɨ n i $,Iquito
 Iquito-176_two-1,,Iquito,176_two,kuumi,kuumi,k uː m i,two,Michael2022,,,^ k uu m i $,Iquito
 Iquito-176_two-2,,Iquito,176_two,kuupɨ,kuupɨ,k uː p ɨ,two,Michael2022,,,^ k uu p ɨ $,Iquito
 Iquito-177_tovomit-1,,Iquito,177_tovomit,ikiníini,ikiníini,i k i n !íi/iː n i,vomit,Michael2022,,,^ i k i n íi n i $,Iquito
 Iquito-178_towalk-1,,Iquito,178_towalk,iikúuni,iikúuni,iː k !úu/uː n i,walk,Michael2022,,,^ ii k úu n i $,Iquito
-Iquito-179_warmofweather-1,,Iquito,179_warmofweather,íípànàna,íípànàna,!í/i !í/i p !à/a n !à/a n a,,Michael2022,,,^ í í p à n à n a $,Iquito
+Iquito-179_warmofweather-1,,Iquito,179_warmofweather,íípànàna,íípànàna,!íí/iː p !à/a n !à/a n a,,Michael2022,,,^ íí p à n à n a $,Iquito
 Iquito-180_towash-1,,Iquito,180_towash,sikitáani,sikitáani,s i k i t !áa/aː n i,wash,Michael2022,,,^ s i k i t áa n i $,Iquito
 Iquito-181_water-1,,Iquito,181_water,aaka,aaka,aː k a,water,Michael2022,,,^ aa k a $,Iquito
 Iquito-182_we-1,,Iquito,182_we,"kana=,pɨ́ɨ́=",kana=,k a n a,,Michael2022,,,^ k a n a =$,Iquito
-Iquito-182_we-2,,Iquito,182_we,"kana=,pɨ́ɨ́=",pɨ́ɨ́=,p !ɨ́/ɨ !ɨ́/ɨ,,Michael2022,,,^ p ɨ́ ɨ́ =$,Iquito
+Iquito-182_we-2,,Iquito,182_we,"kana=,pɨ́ɨ́=",pɨ́ɨ́=,p !ɨ́ɨ/ɨː <<́>>,,Michael2022,,,^ p ɨ́ɨ <́> =$,Iquito
 Iquito-183_wet-1,,Iquito,183_wet,pikana,pikana,p i k a n a,wet,Michael2022,,,^ p i k a n a $,Iquito
 Iquito-184_what-1,,Iquito,184_what,saakaa,saakaa,s aː k aː,what,Michael2022,,,^ s aa k aa $,Iquito
 Iquito-185_when-1,,Iquito,185_when,jɨɨ́tikari,jɨɨ́tikari,h !ɨɨ́/ɨː t i k a r i,when,Michael2022,,,^ j ɨɨ́ t i k a r i $,Iquito
@@ -187,7 +187,7 @@ Iquito-189_wide-1,,Iquito,189_wide,parina,parina,p a r i n a,wide or broad,Micha
 Iquito-190_wife-1,,Iquito,190_wife,majáana,majáana,m a h !áa/aː n a,wife,Michael2022,,,^ m a j áa n a $,Iquito
 Iquito-191_wind-1,,Iquito,191_wind,akíraja,akíraja,a k !í/i r a h a,wind or breeze,Michael2022,,,^ a k í r a j a $,Iquito
 Iquito-192_wing-1,,Iquito,192_wing,námaku,námaku,n !á/a m a k u,wing,Michael2022,,,^ n á m a k u $,Iquito
-Iquito-193_towipe-1,,Iquito,193_towipe,pɨ́ɨni,pɨ́ɨni,p !ɨ́/ɨ ɨ n i,wipe or clean oneself after defecating,Michael2022,,,^ p ɨ́ ɨ n i $,Iquito
+Iquito-193_towipe-1,,Iquito,193_towipe,pɨ́ɨni,pɨ́ɨni,p !ɨ́ɨ/ɨː n i,wipe or clean oneself after defecating,Michael2022,,,^ p ɨ́ɨ n i $,Iquito
 Iquito-194_withaccompanying-1,,Iquito,194_withaccompanying,=jata,=jata,h a t a,with,Michael2022,,,^= j a t a $,Iquito
 Iquito-195_woman-1,,Iquito,195_woman,mɨɨsaji,mɨɨsaji,m ɨː s a h i,woman,Michael2022,,,^ m ɨɨ s a j i $,Iquito
 Iquito-199_year-1,,Iquito,199_year,amáriyaana,amáriyaana,a m !á/a r i j aː n a,year,Michael2022,,,^ a m á r i y aa n a $,Iquito
@@ -329,105 +329,105 @@ Aguaruna-199_year-1,,Aguaruna,199_year,mihan,mihan,m i h a n,,List2022,,,^ m i h
 Aguaruna-200_yellow-1,,Aguaruna,200_yellow,ʃuʃui,ʃuʃui,ʃ ʊ ʃ ʊ i,,List2022,,,^ ʃ u ʃ u i $,Aguaruna
 Aguaruna-198_ye-1,,Aguaruna,198_ye,huti,huti,h ʊ t i,,List2022,,,^ h u t i $,Aguaruna
 Aguaruna-168_thou-1,,Aguaruna,168_thou,amɨ,amɨ,a m ɨ,,List2022,,,^ a m ɨ $,Aguaruna
-Arabela-1_allofanumber-1,,Arabela,1_allofanumber,puetunuj̃uanaa,puetunuj̃uanaa,p u e t u n u j ∼ u a n aː,,List2022,,,^ p u e t u n u j̃ u a n aa $,Arabela
+Arabela-1_allofanumber-1,,Arabela,1_allofanumber,puetunuj̃uanaa,puetunuj̃uanaa,p u e t u n u !h̃/h u a n aː,,List2022,,,^ p u e t u n u j̃ u a n aa $,Arabela
 Arabela-3_animal-1,,Arabela,3_animal,kasaa,kasaa,k a s aː,,List2022,,,^ k a s aa $,Arabela
-Arabela-4_ashes-1,,Arabela,4_ashes,j̃uaka,j̃uaka,j ∼ u a k a,,List2022,,,^ j̃ u a k a $,Arabela
+Arabela-4_ashes-1,,Arabela,4_ashes,j̃uaka,j̃uaka,!h̃/h u a k a,,List2022,,,^ j̃ u a k a $,Arabela
 Arabela-7_baddeleteriousorunsuitable-1,,Arabela,7_baddeleteriousorunsuitable,sesaaka,sesaaka,s e s aː k a,,List2022,,,^ s e s aa k a $,Arabela
 Arabela-10_belly-1,,Arabela,10_belly,saɾaka,saɾaka,s a ɾ a k a,,List2022,,,^ s a ɾ a k a $,Arabela
 Arabela-12_big-1,,Arabela,12_big,pueɾeetuuka,pueɾeetuuka,p u e ɾ eː t uː k a,,List2022,,,^ p u e ɾ ee t uu k a $,Arabela
-Arabela-13_bird-1,,Arabela,13_bird,ʃijoj̃ua,ʃijoj̃ua,ʃ i j o j ∼ u a,,List2022,,,^ ʃ i j o j̃ u a $,Arabela
+Arabela-13_bird-1,,Arabela,13_bird,ʃijoj̃ua,ʃijoj̃ua,ʃ i h o !h̃/h u a,,List2022,,,^ ʃ i j o j̃ u a $,Arabela
 Arabela-14_tobite-1,,Arabela,14_tobite,saaniu,saaniu,s aː n i u,,List2022,,,^ s aa n i u $,Arabela
 Arabela-15_black-1,,Arabela,15_black,mueɾuuka,mueɾuuka,m u e ɾ uː k a,,List2022,,,^ m u e ɾ uu k a $,Arabela
 Arabela-16_blood-1,,Arabela,16_blood,nanaka,nanaka,n a n a k a,,List2022,,,^ n a n a k a $,Arabela
 Arabela-17_toblowofwind-1,,Arabela,17_toblowofwind,nooniu,nooniu,n oː n i u,,List2022,,,^ n oo n i u $,Arabela
-Arabela-34_dullknife-1,,Arabela,34_dullknife,kwsekaj̃a,kwsekaj̃a,k u s e k a j ∼ a,,List2022,,,^ kws e k a j̃ a $,Arabela
+Arabela-34_dullknife-1,,Arabela,34_dullknife,kwsekaj̃a,kwsekaj̃a,k u s e k a !h̃/h a,,List2022,,,^ kws e k a j̃ a $,Arabela
 Arabela-18_bone-1,,Arabela,18_bone,nukw,nukw,n u k u,,List2022,,,^ n u kw$,Arabela
 Arabela-19_tobreathe-1,,Arabela,19_tobreathe,ɾiniu,ɾiniu,ɾ i n i u,,List2022,,,^ ɾ i n i u $,Arabela
-Arabela-22_cloud-1,,Arabela,22_cloud,naj̃aka,naj̃aka,n a j ∼ a k a,,List2022,,,^ n a j̃ a k a $,Arabela
+Arabela-22_cloud-1,,Arabela,22_cloud,naj̃aka,naj̃aka,n a !h̃/h a k a,,List2022,,,^ n a j̃ a k a $,Arabela
 Arabela-24_tocome-1,,Arabela,24_tocome,niniu,niniu,n i n i u,,List2022,,,^ n i n i u $,Arabela
 Arabela-117_rightcorrect-1,,Arabela,117_rightcorrect,maninia,maninia,m a n i n i a,,List2022,,,^ m a n i n i a $,Arabela
-Arabela-27_dayoppositeofnightratherthantimemeasure-1,,Arabela,27_dayoppositeofnightratherthantimemeasure,j̃uuka,j̃uuka,j ∼ uː k a,,List2022,,,^ j̃ uu k a $,Arabela
+Arabela-27_dayoppositeofnightratherthantimemeasure-1,,Arabela,27_dayoppositeofnightratherthantimemeasure,j̃uuka,j̃uuka,!h̃/h uː k a,,List2022,,,^ j̃ uu k a $,Arabela
 Arabela-28_todie-1,,Arabela,28_todie,kwsonu,kwsonu,k u s o n u,,List2022,,,^ kws o n u $,Arabela
 Arabela-30_dirty-1,,Arabela,30_dirty,kwɾiituuka,kwɾiituuka,k u ɾ iː t uː k a,,List2022,,,^ kwɾ ii t uu k a $,Arabela
 Arabela-31_dog-1,,Arabela,31_dog,saɾe,saɾe,s a ɾ e,,List2022,,,^ s a ɾ e $,Arabela
 Arabela-32_todrink-1,,Arabela,32_todrink,ɾatunu,ɾatunu,ɾ a t u n u,,List2022,,,^ ɾ a t u n u $,Arabela
-Arabela-33_drysubstance-1,,Arabela,33_drysubstance,j̃ooj̃eeka,j̃ooj̃eeka,j ∼ oː j ∼ eː k a,,List2022,,,^ j̃ oo j̃ ee k a $,Arabela
-Arabela-35_dust-1,,Arabela,35_dust,j̃aakwia,j̃aakwia,j ∼ aː k i a,,List2022,,,^ j̃ aa kwi a $,Arabela
+Arabela-33_drysubstance-1,,Arabela,33_drysubstance,j̃ooj̃eeka,j̃ooj̃eeka,!h̃/h oː !h̃/h eː k a,,List2022,,,^ j̃ oo j̃ ee k a $,Arabela
+Arabela-35_dust-1,,Arabela,35_dust,j̃aakwia,j̃aakwia,!h̃/h aː k i a,,List2022,,,^ j̃ aa kwi a $,Arabela
 Arabela-36_ear-1,,Arabela,36_ear,numoko,numoko,n u m o k o,,List2022,,,^ n u m o k o $,Arabela
-Arabela-37_earthsoil-1,,Arabela,37_earthsoil,j̃ija,j̃ija,j ∼ i j a,,List2022,,,^ j̃ i j a $,Arabela
+Arabela-37_earthsoil-1,,Arabela,37_earthsoil,j̃ija,j̃ija,!h̃/h i h a,,List2022,,,^ j̃ i j a $,Arabela
 Arabela-38_toeat-1,,Arabela,38_toeat,miakwenu,miakwenu,m i a k e n u,,List2022,,,^ m i a kwe n u $,Arabela
 Arabela-39_egg-1,,Arabela,39_egg,ɾiuɾiukwiu,ɾiuɾiukwiu,ɾ i u ɾ i u k i u,,List2022,,,^ ɾ i u ɾ i u kwi u $,Arabela
-Arabela-40_eye-1,,Arabela,40_eye,namij̃ia,namij̃ia,n a m i j ∼ i a,,List2022,,,^ n a m i j̃ i a $,Arabela
+Arabela-40_eye-1,,Arabela,40_eye,namij̃ia,namij̃ia,n a m i !h̃/h i a,,List2022,,,^ n a m i j̃ i a $,Arabela
 Arabela-41_tofalldropratherthantopple-1,,Arabela,41_tofalldropratherthantopple,ti,ti,t i,,List2022,,,^ t i $,Arabela
 Arabela-42_far-1,,Arabela,42_far,tukwakaanu,tukwakaanu,t u k ua k aː n u,,List2022,,,^ t u kwa k aa n u $,Arabela
-Arabela-46_featherlargerfeathersratherthandown-1,,Arabela,46_featherlargerfeathersratherthandown,kaj̃asu,kaj̃asu,k a j ∼ a s u,,List2022,,,^ k a j̃ a s u $,Arabela
-Arabela-47_few-1,,Arabela,47_few,ʃiitianijoj̃ua,ʃiitianijoj̃ua,ʃ iː t i a n i j o j ∼ u a,,List2022,,,^ ʃ ii t i a n i j o j̃ u a $,Arabela
+Arabela-46_featherlargerfeathersratherthandown-1,,Arabela,46_featherlargerfeathersratherthandown,kaj̃asu,kaj̃asu,k a !h̃/h a s u,,List2022,,,^ k a j̃ a s u $,Arabela
+Arabela-47_few-1,,Arabela,47_few,ʃiitianijoj̃ua,ʃiitianijoj̃ua,ʃ iː t i a n i h o !h̃/h u a,,List2022,,,^ ʃ ii t i a n i j o j̃ u a $,Arabela
 Arabela-49_fire-1,,Arabela,49_fire,mani,mani,m a n i,,List2022,,,^ m a n i $,Arabela
-Arabela-50_fish-1,,Arabela,50_fish,sapitiaaj̃a,sapitiaaj̃a,s a p i t i aː j ∼ a,,List2022,,,^ s a p i t i aa j̃ a $,Arabela
+Arabela-50_fish-1,,Arabela,50_fish,sapitiaaj̃a,sapitiaaj̃a,s a p i t i aː !h̃/h a,,List2022,,,^ s a p i t i aa j̃ a $,Arabela
 Arabela-54_flower-1,,Arabela,54_flower,ʃuu,ʃuu,ʃ uː,,List2022,,,^ ʃ uu $,Arabela
-Arabela-55_tofly-1,,Arabela,55_tofly,neɾoj̃ua,neɾoj̃ua,n e ɾ o j ∼ u a,,List2022,,,^ n e ɾ o j̃ u a $,Arabela
+Arabela-55_tofly-1,,Arabela,55_tofly,neɾoj̃ua,neɾoj̃ua,n e ɾ o !h̃/h u a,,List2022,,,^ n e ɾ o j̃ u a $,Arabela
 Arabela-57_foot-1,,Arabela,57_foot,niowaka,niowaka,n i o w a k a,,List2022,,,^ n i o w a k a $,Arabela
 Arabela-60_togive-1,,Arabela,60_togive,nikwitionu,nikwitionu,n i k i t i o n u,,List2022,,,^ n i kwi t i o n u $,Arabela
 Arabela-61_good-1,,Arabela,61_good,maninia,maninia,m a n i n i a,,List2022,,,^ m a n i n i a $,Arabela
-Arabela-62_grass-1,,Arabela,62_grass,j̃ijasokwa,j̃ijasokwa,j ∼ i j a s o k ua,,List2022,,,^ j̃ i j a s o kwa $,Arabela
+Arabela-62_grass-1,,Arabela,62_grass,j̃ijasokwa,j̃ijasokwa,!h̃/h i h a s o k ua,,List2022,,,^ j̃ i j a s o kwa $,Arabela
 Arabela-43_fatorganicsubstance-1,,Arabela,43_fatorganicsubstance,kaɾaaka,kaɾaaka,k a ɾ aː k a,,List2022,,,^ k a ɾ aa k a $,Arabela
 Arabela-63_green-1,,Arabela,63_green,neeɾuuka,neeɾuuka,n eː ɾ uː k a,,List2022,,,^ n ee ɾ uu k a $,Arabela
 Arabela-65_hair-1,,Arabela,65_hair,muesu,muesu,m u e s u,,List2022,,,^ m u e s u $,Arabela
-Arabela-66_hand-1,,Arabela,66_hand,j̃uaaʃikwia,j̃uaaʃikwia,j ∼ u aː ʃ i k i a,,List2022,,,^ j̃ u aa ʃ i kwi a $,Arabela
+Arabela-66_hand-1,,Arabela,66_hand,j̃uaaʃikwia,j̃uaaʃikwia,!h̃/h u aː ʃ i k i a,,List2022,,,^ j̃ u aa ʃ i kwi a $,Arabela
 Arabela-68_head-1,,Arabela,68_head,naka,naka,n a k a,,List2022,,,^ n a k a $,Arabela
-Arabela-69_tohear-1,,Arabela,69_tohear,toj̃iniu,toj̃iniu,t o j ∼ i n i u,,List2022,,,^ t o j̃ i n i u $,Arabela
-Arabela-70_heart-1,,Arabela,70_heart,j̃iuuj̃iatenu,j̃iuuj̃iatenu,j ∼ i uː j ∼ i a t e n u,,List2022,,,^ j̃ i uu j̃ i a t e n u $,Arabela
+Arabela-69_tohear-1,,Arabela,69_tohear,toj̃iniu,toj̃iniu,t o !h̃/h i n i u,,List2022,,,^ t o j̃ i n i u $,Arabela
+Arabela-70_heart-1,,Arabela,70_heart,j̃iuuj̃iatenu,j̃iuuj̃iatenu,!h̃/h i uː !h̃/h i a t e n u,,List2022,,,^ j̃ i uu j̃ i a t e n u $,Arabela
 Arabela-71_heavy-1,,Arabela,71_heavy,niikwia,niikwia,n iː k i a,,List2022,,,^ n ii kwi a $,Arabela
-Arabela-72_here-1,,Arabela,72_here,nija,nija,n i j a,,List2022,,,^ n i j a $,Arabela
+Arabela-72_here-1,,Arabela,72_here,nija,nija,n i h a,,List2022,,,^ n i j a $,Arabela
 Arabela-73_tohit-1,,Arabela,73_tohit,pi,pi,p i,,List2022,,,^ p i $,Arabela
-Arabela-75_how-1,,Arabela,75_how,j̃ijano,j̃ijano,j ∼ i j a n o,,List2022,,,^ j̃ i j a n o $,Arabela
+Arabela-75_how-1,,Arabela,75_how,j̃ijano,j̃ijano,!h̃/h i h a n o,,List2022,,,^ j̃ i j a n o $,Arabela
 Arabela-78_i-1,,Arabela,78_i,kwa,kwa,k ua,,List2022,,,^ kwa $,Arabela
-Arabela-80_if-1,,Arabela,80_if,maaɾaj̃a,maaɾaj̃a,m aː ɾ a j ∼ a,,List2022,,,^ m aa ɾ a j̃ a $,Arabela
+Arabela-80_if-1,,Arabela,80_if,maaɾaj̃a,maaɾaj̃a,m aː ɾ a !h̃/h a,,List2022,,,^ m aa ɾ a j̃ a $,Arabela
 Arabela-81_in-1,,Arabela,81_in,ko,ko,k o,,List2022,,,^ k o $,Arabela
 Arabela-82_tokill-1,,Arabela,82_tokill,monu,monu,m o n u,,List2022,,,^ m o n u $,Arabela
 Arabela-85_tolaugh-1,,Arabela,85_tolaugh,soɾekwenu,soɾekwenu,s o ɾ e k e n u,,List2022,,,^ s o ɾ e kwe n u $,Arabela
-Arabela-86_leaf-1,,Arabela,86_leaf,j̃aamasu,j̃aamasu,j ∼ aː m a s u,,List2022,,,^ j̃ aa m a s u $,Arabela
+Arabela-86_leaf-1,,Arabela,86_leaf,j̃aamasu,j̃aamasu,!h̃/h aː m a s u,,List2022,,,^ j̃ aa m a s u $,Arabela
 Arabela-87_lefthand-1,,Arabela,87_lefthand,muenekaɾa,muenekaɾa,m u e n e k a ɾ a,,List2022,,,^ m u e n e k a ɾ a $,Arabela
 Arabela-90_tolive-1,,Arabela,90_tolive,kwiniu,kwiniu,k i n i u,,List2022,,,^ kwi n i u $,Arabela
-Arabela-91_liver-1,,Arabela,91_liver,kowaj̃a,kowaj̃a,k o w a j ∼ a,,List2022,,,^ k o w a j̃ a $,Arabela
+Arabela-91_liver-1,,Arabela,91_liver,kowaj̃a,kowaj̃a,k o w a !h̃/h a,,List2022,,,^ k o w a j̃ a $,Arabela
 Arabela-92_long-1,,Arabela,92_long,tukwasu,tukwasu,t u k ua s u,,List2022,,,^ t u kwa s u $,Arabela
-Arabela-93_louse-1,,Arabela,93_louse,sukwanaj̃a,sukwanaj̃a,s u k ua n a j ∼ a,,List2022,,,^ s u kwa n a j̃ a $,Arabela
+Arabela-93_louse-1,,Arabela,93_louse,sukwanaj̃a,sukwanaj̃a,s u k ua n a !h̃/h a,,List2022,,,^ s u kwa n a j̃ a $,Arabela
 Arabela-95_many-1,,Arabela,95_many,kweɾaatia,kweɾaatia,k e ɾ aː t i a,,List2022,,,^ kwe ɾ aa t i a $,Arabela
 Arabela-99_mouth-1,,Arabela,99_mouth,ɾupaa,ɾupaa,ɾ u p aː,,List2022,,,^ ɾ u p aa $,Arabela
 Arabela-100_name-1,,Arabela,100_name,sesa,sesa,s e s a,,List2022,,,^ s e s a $,Arabela
 Arabela-101_narrow-1,,Arabela,101_narrow,saatiu,saatiu,s aː t i u,,List2022,,,^ s aa t i u $,Arabela
-Arabela-102_near-1,,Arabela,102_near,sejaɾako,sejaɾako,s e j a ɾ a k o,,List2022,,,^ s e j a ɾ a k o $,Arabela
+Arabela-102_near-1,,Arabela,102_near,sejaɾako,sejaɾako,s e h a ɾ a k o,,List2022,,,^ s e j a ɾ a k o $,Arabela
 Arabela-103_neck-1,,Arabela,103_neck,ɾikwia,ɾikwia,ɾ i k i a,,List2022,,,^ ɾ i kwi a $,Arabela
 Arabela-104_new-1,,Arabela,104_new,kwiaɾinio,kwiaɾinio,k i a ɾ i n i o,,List2022,,,^ kwi a ɾ i n i o $,Arabela
 Arabela-105_night-1,,Arabela,105_night,niukwa,niukwa,n i u k ua,,List2022,,,^ n i u kwa $,Arabela
-Arabela-106_nose-1,,Arabela,106_nose,naj̃akwa,naj̃akwa,n a j ∼ a k ua,,List2022,,,^ n a j̃ a kwa $,Arabela
-Arabela-107_not-1,,Arabela,107_not,maj̃a,maj̃a,m a j ∼ a,,List2022,,,^ m a j̃ a $,Arabela
-Arabela-109_one-1,,Arabela,109_one,nikiiɾijatu,nikiiɾijatu,n i k iː ɾ i j a t u,,List2022,,,^ n i k ii ɾ i j a t u $,Arabela
+Arabela-106_nose-1,,Arabela,106_nose,naj̃akwa,naj̃akwa,n a !h̃/h a k ua,,List2022,,,^ n a j̃ a kwa $,Arabela
+Arabela-107_not-1,,Arabela,107_not,maj̃a,maj̃a,m a !h̃/h a,,List2022,,,^ m a j̃ a $,Arabela
+Arabela-109_one-1,,Arabela,109_one,nikiiɾijatu,nikiiɾijatu,n i k iː ɾ i h a t u,,List2022,,,^ n i k ii ɾ i j a t u $,Arabela
 Arabela-110_other-1,,Arabela,110_other,tama,tama,t a m a,,List2022,,,^ t a m a $,Arabela
-Arabela-111_person-1,,Arabela,111_person,puejano,puejano,p u e j a n o,,List2022,,,^ p u e j a n o $,Arabela
+Arabela-111_person-1,,Arabela,111_person,puejano,puejano,p u e h a n o,,List2022,,,^ p u e j a n o $,Arabela
 Arabela-116_red-1,,Arabela,116_red,naatuuka,naatuuka,n aː t uː k a,,List2022,,,^ n aa t uu k a $,Arabela
-Arabela-118_righthand-1,,Arabela,118_righthand,miakwetaj̃a,miakwetaj̃a,m i a k e t a j ∼ a,,List2022,,,^ m i a kwe t a j̃ a $,Arabela
+Arabela-118_righthand-1,,Arabela,118_righthand,miakwetaj̃a,miakwetaj̃a,m i a k e t a !h̃/h a,,List2022,,,^ m i a kwe t a j̃ a $,Arabela
 Arabela-119_river-1,,Arabela,119_river,moo,moo,m oː,,List2022,,,^ m oo $,Arabela
-Arabela-121_root-1,,Arabela,121_root,nuj̃ua,nuj̃ua,n u j ∼ u a,,List2022,,,^ n u j̃ u a $,Arabela
-Arabela-122_rope-1,,Arabela,122_rope,poʃijokwa,poʃijokwa,p o ʃ i j o k ua,,List2022,,,^ p o ʃ i j o kwa $,Arabela
+Arabela-121_root-1,,Arabela,121_root,nuj̃ua,nuj̃ua,n u !h̃/h u a,,List2022,,,^ n u j̃ u a $,Arabela
+Arabela-122_rope-1,,Arabela,122_rope,poʃijokwa,poʃijokwa,p o ʃ i h o k ua,,List2022,,,^ p o ʃ i j o kwa $,Arabela
 Arabela-123_rottenespeciallylog-1,,Arabela,123_rottenespeciallylog,mokweeka,mokweeka,m o k eː k a,,List2022,,,^ m o kwee k a $,Arabela
-Arabela-126_sand-1,,Arabela,126_sand,j̃aakwia,j̃aakwia,j ∼ aː k i a,,List2022,,,^ j̃ aa kwi a $,Arabela
+Arabela-126_sand-1,,Arabela,126_sand,j̃aakwia,j̃aakwia,!h̃/h aː k i a,,List2022,,,^ j̃ aa kwi a $,Arabela
 Arabela-127_say-1,,Arabela,127_say,sekwenu,sekwenu,s e k e n u,,List2022,,,^ s e kwe n u $,Arabela
 Arabela-130_see-1,,Arabela,130_see,nikwiniu,nikwiniu,n i k i n i u,,List2022,,,^ n i kwi n i u $,Arabela
-Arabela-131_seed-1,,Arabela,131_seed,j̃aj̃au,j̃aj̃au,j ∼ a j ∼ a u,,List2022,,,^ j̃ a j̃ a u $,Arabela
+Arabela-131_seed-1,,Arabela,131_seed,j̃aj̃au,j̃aj̃au,!h̃/h a !h̃/h a u,,List2022,,,^ j̃ a j̃ a u $,Arabela
 Arabela-133_sharpasknife-1,,Arabela,133_sharpasknife,ɾakotasano,ɾakotasano,ɾ a k o t a s a n o,,List2022,,,^ ɾ a k o t a s a n o $,Arabela
-Arabela-134_short-1,,Arabela,134_short,poʃiɾijatu,poʃiɾijatu,p o ʃ i ɾ i j a t u,,List2022,,,^ p o ʃ i ɾ i j a t u $,Arabela
-Arabela-136_sit-1,,Arabela,136_sit,kaj̃iniu,kaj̃iniu,k a j ∼ i n i u,,List2022,,,^ k a j̃ i n i u $,Arabela
+Arabela-134_short-1,,Arabela,134_short,poʃiɾijatu,poʃiɾijatu,p o ʃ i ɾ i h a t u,,List2022,,,^ p o ʃ i ɾ i j a t u $,Arabela
+Arabela-136_sit-1,,Arabela,136_sit,kaj̃iniu,kaj̃iniu,k a !h̃/h i n i u,,List2022,,,^ k a j̃ i n i u $,Arabela
 Arabela-139_sleep-1,,Arabela,139_sleep,makwenu,makwenu,m a k e n u,,List2022,,,^ m a kwe n u $,Arabela
 Arabela-140_small-1,,Arabela,140_small,sekaa,sekaa,s e k aː,,List2022,,,^ s e k aa $,Arabela
-Arabela-142_smokeoffire-1,,Arabela,142_smokeoffire,naj̃aka,naj̃aka,n a j ∼ a k a,,List2022,,,^ n a j̃ a k a $,Arabela
-Arabela-143_smooth-1,,Arabela,143_smooth,j̃uusukwa,j̃uusukwa,j ∼ uː s u k ua,,List2022,,,^ j̃ uu s u kwa $,Arabela
+Arabela-142_smokeoffire-1,,Arabela,142_smokeoffire,naj̃aka,naj̃aka,n a !h̃/h a k a,,List2022,,,^ n a j̃ a k a $,Arabela
+Arabela-143_smooth-1,,Arabela,143_smooth,j̃uusukwa,j̃uusukwa,!h̃/h uː s u k ua,,List2022,,,^ j̃ uu s u kwa $,Arabela
 Arabela-146_some-1,,Arabela,146_some,tamonu,tamonu,t a m o n u,,List2022,,,^ t a m o n u $,Arabela
 Arabela-147_tospit-1,,Arabela,147_tospit,ɾiokonu,ɾiokonu,ɾ i o k o n u,,List2022,,,^ ɾ i o k o n u $,Arabela
-Arabela-152_star-1,,Arabela,152_star,ɾij̃ia,ɾij̃ia,ɾ i j ∼ i a,,List2022,,,^ ɾ i j̃ i a $,Arabela
-Arabela-154_stone-1,,Arabela,154_stone,saaj̃ia,saaj̃ia,s aː j ∼ i a,,List2022,,,^ s aa j̃ i a $,Arabela
-Arabela-155_straight-1,,Arabela,155_straight,j̃akananaj̃a,j̃akananaj̃a,j ∼ a k a n a n a j ∼ a,,List2022,,,^ j̃ a k a n a n a j̃ a $,Arabela
-Arabela-156_tosuck-1,,Arabela,156_tosuck,monijakonu,monijakonu,m o n i j a k o n u,,List2022,,,^ m o n i j a k o n u $,Arabela
+Arabela-152_star-1,,Arabela,152_star,ɾij̃ia,ɾij̃ia,ɾ i !h̃/h i a,,List2022,,,^ ɾ i j̃ i a $,Arabela
+Arabela-154_stone-1,,Arabela,154_stone,saaj̃ia,saaj̃ia,s aː !h̃/h i a,,List2022,,,^ s aa j̃ i a $,Arabela
+Arabela-155_straight-1,,Arabela,155_straight,j̃akananaj̃a,j̃akananaj̃a,!h̃/h a k a n a n a !h̃/h a,,List2022,,,^ j̃ a k a n a n a j̃ a $,Arabela
+Arabela-156_tosuck-1,,Arabela,156_tosuck,monijakonu,monijakonu,m o n i h a k o n u,,List2022,,,^ m o n i j a k o n u $,Arabela
 Arabela-157_sun-1,,Arabela,157_sun,pananu,pananu,p a n a n u,,List2022,,,^ p a n a n u $,Arabela
 Arabela-159_toswim-1,,Arabela,159_toswim,kwanu,kwanu,k ua n u,,List2022,,,^ kwa n u $,Arabela
 Arabela-160_tail-1,,Arabela,160_tail,pitiu,pitiu,p i t i u,,List2022,,,^ p i t i u $,Arabela
@@ -435,13 +435,13 @@ Arabela-161_that-1,,Arabela,161_that,kwno,kwno,k u n o,,List2022,,,^ kwn o $,Ara
 Arabela-162_there-1,,Arabela,162_there,kwnikwi,kwnikwi,k u n i k i,,List2022,,,^ kwn i kwi $,Arabela
 Arabela-163_they-1,,Arabela,163_they,na,na,n a,,List2022,,,^ n a $,Arabela
 Arabela-164_thick-1,,Arabela,164_thick,pueɾeetuuka,pueɾeetuuka,p u e ɾ eː t uː k a,,List2022,,,^ p u e ɾ ee t uu k a $,Arabela
-Arabela-165_thin-1,,Arabela,165_thin,masejokwa,masejokwa,m a s e j o k ua,,List2022,,,^ m a s e j o kwa $,Arabela
-Arabela-166_tothink-1,,Arabela,166_tothink,niiʃiɾioj̃onu,niiʃiɾioj̃onu,n iː ʃ i ɾ i o j ∼ o n u,,List2022,,,^ n ii ʃ i ɾ i o j̃ o n u $,Arabela
+Arabela-165_thin-1,,Arabela,165_thin,masejokwa,masejokwa,m a s e h o k ua,,List2022,,,^ m a s e j o kwa $,Arabela
+Arabela-166_tothink-1,,Arabela,166_tothink,niiʃiɾioj̃onu,niiʃiɾioj̃onu,n iː ʃ i ɾ i o !h̃/h o n u,,List2022,,,^ n ii ʃ i ɾ i o j̃ o n u $,Arabela
 Arabela-167_this-1,,Arabela,167_this,nio,nio,n i o,,List2022,,,^ n i o $,Arabela
-Arabela-169_three-1,,Arabela,169_three,j̃iuuj̃ianaɾaka,j̃iuuj̃ianaɾaka,j ∼ i uː j ∼ i a n a ɾ a k a,,List2022,,,^ j̃ i uu j̃ i a n a ɾ a k a $,Arabela
+Arabela-169_three-1,,Arabela,169_three,j̃iuuj̃ianaɾaka,j̃iuuj̃ianaɾaka,!h̃/h i uː !h̃/h i a n a ɾ a k a,,List2022,,,^ j̃ i uu j̃ i a n a ɾ a k a $,Arabela
 Arabela-171_totie-1,,Arabela,171_totie,moɾonu,moɾonu,m o ɾ o n u,,List2022,,,^ m o ɾ o n u $,Arabela
 Arabela-172_tongue-1,,Arabela,172_tongue,niti,niti,n i t i,,List2022,,,^ n i t i $,Arabela
-Arabela-173_toothfrontratherthanmolar-1,,Arabela,173_toothfrontratherthanmolar,kwiaj̃a,kwiaj̃a,k i a j ∼ a,,List2022,,,^ kwi a j̃ a $,Arabela
+Arabela-173_toothfrontratherthanmolar-1,,Arabela,173_toothfrontratherthanmolar,kwiaj̃a,kwiaj̃a,k i a !h̃/h a,,List2022,,,^ kwi a j̃ a $,Arabela
 Arabela-174_tree-1,,Arabela,174_tree,naana,naana,n aː n a,,List2022,,,^ n aa n a $,Arabela
 Arabela-176_two-1,,Arabela,176_two,kaapikwi,kaapikwi,k aː p i k i,,List2022,,,^ k aa p i kwi $,Arabela
 Arabela-177_tovomit-1,,Arabela,177_tovomit,makaaniu,makaaniu,m a k aː n i u,,List2022,,,^ m a k aa n i u $,Arabela
@@ -450,13 +450,13 @@ Arabela-183_wet-1,,Arabela,183_wet,pikwiikwia,pikwiikwia,p i k iː k i a,,List20
 Arabela-184_what-1,,Arabela,184_what,kasaa,kasaa,k a s aː,,List2022,,,^ k a s aa $,Arabela
 Arabela-185_when-1,,Arabela,185_when,kaɾi,kaɾi,k a ɾ i,,List2022,,,^ k a ɾ i $,Arabela
 Arabela-186_where-1,,Arabela,186_where,tee,tee,t eː,,List2022,,,^ t ee $,Arabela
-Arabela-187_white-1,,Arabela,187_white,kowaj̃a,kowaj̃a,k o w a j ∼ a,,List2022,,,^ k o w a j̃ a $,Arabela
+Arabela-187_white-1,,Arabela,187_white,kowaj̃a,kowaj̃a,k o w a !h̃/h a,,List2022,,,^ k o w a j̃ a $,Arabela
 Arabela-188_who-1,,Arabela,188_who,kana,kana,k a n a,,List2022,,,^ k a n a $,Arabela
 Arabela-189_wide-1,,Arabela,189_wide,kweɾonu,kweɾonu,k e ɾ o n u,,List2022,,,^ kwe ɾ o n u $,Arabela
 Arabela-192_wing-1,,Arabela,192_wing,nesu,nesu,n e s u,,List2022,,,^ n e s u $,Arabela
 Arabela-191_wind-1,,Arabela,191_wind,paɾatu,paɾatu,p a ɾ a t u,,List2022,,,^ p a ɾ a t u $,Arabela
-Arabela-195_woman-1,,Arabela,195_woman,maaj̃i,maaj̃i,m aː j ∼ i,,List2022,,,^ m aa j̃ i $,Arabela
-Arabela-199_year-1,,Arabela,199_year,maɾij̃ia,maɾij̃ia,m a ɾ i j ∼ i a,,List2022,,,^ m a ɾ i j̃ i a $,Arabela
+Arabela-195_woman-1,,Arabela,195_woman,maaj̃i,maaj̃i,m aː !h̃/h i,,List2022,,,^ m aa j̃ i $,Arabela
+Arabela-199_year-1,,Arabela,199_year,maɾij̃ia,maɾij̃ia,m a ɾ i !h̃/h i a,,List2022,,,^ m a ɾ i j̃ i a $,Arabela
 Arabela-200_yellow-1,,Arabela,200_yellow,pokonakwe,pokonakwe,p o k o n a k e,,List2022,,,^ p o k o n a kwe $,Arabela
 Arabela-198_ye-1,,Arabela,198_ye,nia,nia,n i a,,List2022,,,^ n i a $,Arabela
 Arabela-168_thou-1,,Arabela,168_thou,kwia,kwia,k i a,,List2022,,,^ kwi a $,Arabela
@@ -1369,7 +1369,7 @@ AchuarShiwiar-1_allofanumber-1,,AchuarShiwiar,1_allofanumber,ashí,ashí,a ʃ !�
 AchuarShiwiar-2_and-1,,AchuarShiwiar,2_and,túrua,túrua,t !ú/u r ua,Because of order of the entries: túra,Fast2008,,,^ t ú r ua $,AchuarShiwiar
 AchuarShiwiar-3_animal-1,,AchuarShiwiar,3_animal,ikiámia páchim,ikiámia páchim,i kʲ a mʲ a + p !á/a tʃ i m,wild animal,Fast2008,,,^ i kiá mia + p á ch i m $,AchuarShiwiar
 AchuarShiwiar-3_animal-2,,AchuarShiwiar,3_animal,tángku,tángku,t !á/a ŋ k u,domesticated animal,Fast2008,,,^ t á ng k u $,AchuarShiwiar
-AchuarShiwiar-4_ashes-1,,AchuarShiwiar,4_ashes,yukú̃ũ,yukú̃ũ,j u k !ú/u ∼ u ∼,,Fast2008,,,^ y u k ú̃ ũ $,AchuarShiwiar
+AchuarShiwiar-4_ashes-1,,AchuarShiwiar,4_ashes,yukú̃ũ,yukú̃ũ,j u k !ú̃/u !ũ/u,,Fast2008,,,^ y u k ú̃ ũ $,AchuarShiwiar
 AchuarShiwiar-5_at-1,,AchuarShiwiar,5_at,-num,-num,n u m,From examples and order this is the second most used form: -nam,Fast2008,,,^- n u m $,AchuarShiwiar
 AchuarShiwiar-6_backpersons-1,,AchuarShiwiar,6_backpersons,tuntúp,tuntúp,t u n t !ú/u p,,Fast2008,,,^ t u n t ú p $,AchuarShiwiar
 AchuarShiwiar-7_baddeleteriousorunsuitable-1,,AchuarShiwiar,7_baddeleteriousorunsuitable,tunáu,tunáu,t u n !áu/au,"From the semantics seems that the first form here is more related to EVIL and the secod form is discarted as main because of order: pasé,nápchau",Fast2008,,,^ t u n áu $,AchuarShiwiar
@@ -1394,16 +1394,16 @@ AchuarShiwiar-27_dayoppositeofnightratherthantimemeasure-1,,AchuarShiwiar,27_day
 AchuarShiwiar-28_todie-1,,AchuarShiwiar,28_todie,jákatin,jákatin,h !á/a k a t i n,,Fast2008,,,^ j á k a t i n $,AchuarShiwiar
 AchuarShiwiar-29_todig-1,,AchuarShiwiar,29_todig,táutin,táutin,t !áu/au t i n,,Fast2008,,,^ t áu t i n $,AchuarShiwiar
 AchuarShiwiar-30_dirty-1,,AchuarShiwiar,30_dirty,kúnta,kúnta,k !ú/u n t a,"Because of order of the entries: pakuí,shungkát,yukáip,máatrau,máatramu",Fast2008,,,^ k ú n t a $,AchuarShiwiar
-AchuarShiwiar-31_dog-1,,AchuarShiwiar,31_dog,yãwá̃ã,yãwá̃ã,j a ∼ w !á/a ∼ a ∼,,Fast2008,,,^ y ã w á̃ ã $,AchuarShiwiar
+AchuarShiwiar-31_dog-1,,AchuarShiwiar,31_dog,yãwá̃ã,yãwá̃ã,j !ã/a w !á̃/a !ã/a,,Fast2008,,,^ y ã w á̃ ã $,AchuarShiwiar
 AchuarShiwiar-32_todrink-1,,AchuarShiwiar,32_todrink,múrtin,múrtin,m !ú/u r t i n,"Phonological alternation: amúrtin,umúrtin",Fast2008,,,^ m ú r t i n $,AchuarShiwiar
 AchuarShiwiar-33_drysubstance-1,,AchuarShiwiar,33_drysubstance,mujúkash,mujúkash,m u h !ú/u k a ʃ,,Fast2008,,,^ m u j ú k a sh $,AchuarShiwiar
 AchuarShiwiar-34_dullknife-1,,AchuarShiwiar,34_dullknife,mushúm,mushúm,m u ʃ !ú/u m,Phonological alternation: mushúmp,Fast2008,,,^ m u sh ú m $,AchuarShiwiar
-AchuarShiwiar-35_dust-1,,AchuarShiwiar,35_dust,jũyú̃r,jũyú̃r,h u ∼ j !ú/u ∼ r,Because of order of the entries: mamúunkat,Fast2008,,,^ j ũ y ú̃ r $,AchuarShiwiar
+AchuarShiwiar-35_dust-1,,AchuarShiwiar,35_dust,jũyú̃r,jũyú̃r,h !ũ/u j !ú̃/u r,Because of order of the entries: mamúunkat,Fast2008,,,^ j ũ y ú̃ r $,AchuarShiwiar
 AchuarShiwiar-36_ear-1,,AchuarShiwiar,36_ear,kuwísh,kuwísh,k u w !í/i ʃ,,Fast2008,,,^ k u w í sh $,AchuarShiwiar
 AchuarShiwiar-37_earthsoil-1,,AchuarShiwiar,37_earthsoil,núngka,núngka,n !ú/u ŋ k a,,Fast2008,,,^ n ú ng k a $,AchuarShiwiar
 AchuarShiwiar-38_toeat-1,,AchuarShiwiar,38_toeat,yúwatin,yúwatin,j !ú/u w a t i n,,Fast2008,,,^ y ú w a t i n $,AchuarShiwiar
 AchuarShiwiar-39_egg-1,,AchuarShiwiar,39_egg,nujín,nujín,n u h !í/i n,Phonological alternation: nujínt,Fast2008,,,^ n u j í n $,AchuarShiwiar
-AchuarShiwiar-40_eye-1,,AchuarShiwiar,40_eye,jĩĩ,jĩĩ,h i ∼ i ∼,,Fast2008,,,^ j ĩ ĩ $,AchuarShiwiar
+AchuarShiwiar-40_eye-1,,AchuarShiwiar,40_eye,jĩĩ,jĩĩ,h !ĩ/i !ĩ/i,,Fast2008,,,^ j ĩ ĩ $,AchuarShiwiar
 AchuarShiwiar-41_tofalldropratherthantopple-1,,AchuarShiwiar,41_tofalldropratherthantopple,kákeektin,kákeektin,k !á/a k ɨː k t i n,"From the examples, this seems to be the least used form or a phonological alternation: kakératin",Fast2008,,,^ k á k ee k t i n $,AchuarShiwiar
 AchuarShiwiar-42_far-1,,AchuarShiwiar,42_far,arák,arák,a r !á/a k,Because of order of the entries: téjchau,Fast2008,,,^ a r á k $,AchuarShiwiar
 AchuarShiwiar-43_fatorganicsubstance-1,,AchuarShiwiar,43_fatorganicsubstance,mácha,mácha,m !á/a tʃ a,,Fast2008,,,^ m á ch a $,AchuarShiwiar
@@ -1414,28 +1414,28 @@ AchuarShiwiar-47_few-1,,AchuarShiwiar,47_few,untsúrinchu,untsúrinchu,u n ts !�
 AchuarShiwiar-48_tofight-1,,AchuarShiwiar,48_tofight,máaniktin,máaniktin,m !áa/aː n i k t i n,"From the examples, this seems to be the least used form or a phonological alternation: máaniatin",Fast2008,,,^ m áa n i k t i n $,AchuarShiwiar
 AchuarShiwiar-49_fire-1,,AchuarShiwiar,49_fire,ji,ji,h i,,Fast2008,,,^ j i $,AchuarShiwiar
 AchuarShiwiar-50_fish-1,,AchuarShiwiar,50_fish,namák,namák,n a m !á/a k,,Fast2008,,,^ n a m á k $,AchuarShiwiar
-AchuarShiwiar-51_five-1,,AchuarShiwiar,51_five,jũ ũwé̃jka mash,jũ ũwé̃jka mash,h u ∼ + u ∼ w !é/ɨ ∼ h k a + m a ʃ,,Fast2008,,,^ j ũ + ũ w é̃ j k a + m a sh $,AchuarShiwiar
+AchuarShiwiar-51_five-1,,AchuarShiwiar,51_five,jũ ũwé̃jka mash,jũ ũwé̃jka mash,h !ũ/u + !ũ/u w !é̃/ɨ h k a + m a ʃ,,Fast2008,,,^ j ũ + ũ w é̃ j k a + m a sh $,AchuarShiwiar
 AchuarShiwiar-52_tofloat-1,,AchuarShiwiar,52_tofloat,nanáastin,nanáastin,n a n !áa/aː s t i n,,Fast2008,,,^ n a n áa s t i n $,AchuarShiwiar
 AchuarShiwiar-54_flower-1,,AchuarShiwiar,54_flower,yangkúr,yangkúr,j a ŋ k !ú/u r,,Fast2008,,,^ y a ng k ú r $,AchuarShiwiar
 AchuarShiwiar-55_tofly-1,,AchuarShiwiar,55_tofly,nanámtin,nanámtin,n a n !á/a m t i n,,Fast2008,,,^ n a n á m t i n $,AchuarShiwiar
 AchuarShiwiar-56_fog-1,,AchuarShiwiar,56_fog,yurángkim,yurángkim,j u r !á/a ŋ k i m,,Fast2008,,,^ y u r á ng k i m $,AchuarShiwiar
-AchuarShiwiar-57_foot-1,,AchuarShiwiar,57_foot,náwẽ,náwẽ,n !á/a w ɨ ∼,,Fast2008,,,^ n á w ẽ $,AchuarShiwiar
+AchuarShiwiar-57_foot-1,,AchuarShiwiar,57_foot,náwẽ,náwẽ,n !á/a w !ẽ/ɨ,,Fast2008,,,^ n á w ẽ $,AchuarShiwiar
 AchuarShiwiar-58_four-1,,AchuarShiwiar,58_four,chintúk chintúk,chintúk chintúk,tʃ i n t !ú/u k + tʃ i n t !ú/u k,,Fast2008,,,^ ch i n t ú k + ch i n t ú k $,AchuarShiwiar
 AchuarShiwiar-60_togive-1,,AchuarShiwiar,60_togive,súsatin,súsatin,s !ú/u s a t i n,,Fast2008,,,^ s ú s a t i n $,AchuarShiwiar
 AchuarShiwiar-61_good-1,,AchuarShiwiar,61_good,péngker,péngker,p !é/ɨ ŋ k ɨ r,,Fast2008,,,^ p é ng k e r $,AchuarShiwiar
-AchuarShiwiar-62_grass-1,,AchuarShiwiar,62_grass,nupá̃ã,nupá̃ã,n u p !á/a ∼ a ∼,,Fast2008,,,^ n u p á̃ ã $,AchuarShiwiar
+AchuarShiwiar-62_grass-1,,AchuarShiwiar,62_grass,nupá̃ã,nupá̃ã,n u p !á̃/a !ã/a,,Fast2008,,,^ n u p á̃ ã $,AchuarShiwiar
 AchuarShiwiar-63_green-1,,AchuarShiwiar,63_green,wingkiá,wingkiá,v i ŋ kʲ a,"dark green. Because of order of the entries, this seems to be a phonological variation: kingkiá",Fast2008,,,^ wi ng kiá $,AchuarShiwiar
 AchuarShiwiar-63_green-2,,AchuarShiwiar,63_green,samék,samék,s a m !é/ɨ k,light green,Fast2008,,,^ s a m é k $,AchuarShiwiar
 AchuarShiwiar-64_guts-1,,AchuarShiwiar,64_guts,ampúj,ampúj,a m p !ú/u h,,Fast2008,,,^ a m p ú j $,AchuarShiwiar
 AchuarShiwiar-65_hair-1,,AchuarShiwiar,65_hair,intásh,intásh,i n t !á/a ʃ,,Fast2008,,,^ i n t á sh $,AchuarShiwiar
-AchuarShiwiar-66_hand-1,,AchuarShiwiar,66_hand,ũwé̃j,ũwé̃j,u ∼ w !é/ɨ ∼ h,,Fast2008,,,^ ũ w é̃ j $,AchuarShiwiar
+AchuarShiwiar-66_hand-1,,AchuarShiwiar,66_hand,ũwé̃j,ũwé̃j,!ũ/u w !é̃/ɨ h,,Fast2008,,,^ ũ w é̃ j $,AchuarShiwiar
 AchuarShiwiar-67_he-1,,AchuarShiwiar,67_he,"ni,áu",ni,n i,,Fast2008,,,^ n i $,AchuarShiwiar
 AchuarShiwiar-67_he-2,,AchuarShiwiar,67_he,"ni,áu",áu,!áu/au,,Fast2008,,,^ áu $,AchuarShiwiar
 AchuarShiwiar-68_head-1,,AchuarShiwiar,68_head,múuk,múuk,m !úu/uː k,,Fast2008,,,^ m úu k $,AchuarShiwiar
 AchuarShiwiar-69_tohear-1,,AchuarShiwiar,69_tohear,antúktin,antúktin,a n t !ú/u k t i n,,Fast2008,,,^ a n t ú k t i n $,AchuarShiwiar
 AchuarShiwiar-70_heart-1,,AchuarShiwiar,70_heart,nintí,nintí,n i n t !í/i,Phonological alternation: inintí,Fast2008,,,^ n i n t í $,AchuarShiwiar
 AchuarShiwiar-71_heavy-1,,AchuarShiwiar,71_heavy,kíjin,kíjin,k !í/i h i n,Because of order of the entries: méram,Fast2008,,,^ k í j i n $,AchuarShiwiar
-AchuarShiwiar-72_here-1,,AchuarShiwiar,72_here,jú̃ni,jú̃ni,h !ú/u ∼ n i,,Fast2008,,,^ j ú̃ n i $,AchuarShiwiar
+AchuarShiwiar-72_here-1,,AchuarShiwiar,72_here,jú̃ni,jú̃ni,h !ú̃/u n i,,Fast2008,,,^ j ú̃ n i $,AchuarShiwiar
 AchuarShiwiar-73_tohit-1,,AchuarShiwiar,73_tohit,awátratin,awátratin,a w !á/a t r a t i n,,Fast2008,,,^ a w á t r a t i n $,AchuarShiwiar
 AchuarShiwiar-74_toholdinhand-1,,AchuarShiwiar,74_toholdinhand,ayáarai túsar achíktin,ayáarai túsar achíktin,a j !áa/aː r ɨi + t !ú/u s a r + a tʃ !í/i k t i n,,Fast2008,,,^ a y áa r ai + t ú s a r + a ch í k t i n $,AchuarShiwiar
 AchuarShiwiar-75_how-1,,AchuarShiwiar,75_how,itúr,itúr,i t !ú/u r,Phonological alternation: itiúr,Fast2008,,,^ i t ú r $,AchuarShiwiar
@@ -1459,14 +1459,14 @@ AchuarShiwiar-94_manmalehuman-1,,AchuarShiwiar,94_manmalehuman,áishmang,áishma
 AchuarShiwiar-95_many-1,,AchuarShiwiar,95_many,untsúri,untsúri,u n ts !ú/u r i,"Because of frequence and order of the entries, these are the more general secondary forms (non dialect specific): kuáchat,kuwáchat,chúcha,kúsha",Fast2008,,,^ u n ts ú r i $,AchuarShiwiar
 AchuarShiwiar-96_meatflesh-1,,AchuarShiwiar,96_meatflesh,namáng,namáng,n a m !á/a ŋ,,Fast2008,,,^ n a m á ng $,AchuarShiwiar
 AchuarShiwiar-97_mother-1,,AchuarShiwiar,97_mother,núkur,núkur,n !ú/u k u r,,Fast2008,,,^ n ú k u r $,AchuarShiwiar
-AchuarShiwiar-99_mouth-1,,AchuarShiwiar,99_mouth,jángkẽ,jángkẽ,h !á/a ŋ k ɨ ∼,,Fast2008,,,^ j á ng k ẽ $,AchuarShiwiar
+AchuarShiwiar-99_mouth-1,,AchuarShiwiar,99_mouth,jángkẽ,jángkẽ,h !á/a ŋ k !ẽ/ɨ,,Fast2008,,,^ j á ng k ẽ $,AchuarShiwiar
 AchuarShiwiar-100_name-1,,AchuarShiwiar,100_name,náar,náar,n !áa/aː r,,Fast2008,,,^ n áa r $,AchuarShiwiar
 AchuarShiwiar-101_narrow-1,,AchuarShiwiar,101_narrow,wangkármachu,wangkármachu,w a ŋ k !á/a r m a tʃ u,Because of order of the entries: ménaku,Fast2008,,,^ w a ng k á r m a ch u $,AchuarShiwiar
 AchuarShiwiar-102_near-1,,AchuarShiwiar,102_near,nintúmas,nintúmas,n i n t !ú/u m a s,Phonological alternation: jintiúmas,Fast2008,,,^ n i n t ú m a s $,AchuarShiwiar
 AchuarShiwiar-103_neck-1,,AchuarShiwiar,103_neck,kuntúj,kuntúj,k u n t !ú/u h,,Fast2008,,,^ k u n t ú j $,AchuarShiwiar
 AchuarShiwiar-104_new-1,,AchuarShiwiar,104_new,yamáram,yamáram,j a m !á/a r a m,,Fast2008,,,^ y a m á r a m $,AchuarShiwiar
 AchuarShiwiar-105_night-1,,AchuarShiwiar,105_night,káshi,káshi,k !á/a ʃ i,,Fast2008,,,^ k á sh i $,AchuarShiwiar
-AchuarShiwiar-106_nose-1,,AchuarShiwiar,106_nose,nújĩ,nújĩ,n !ú/u h i ∼,,Fast2008,,,^ n ú j ĩ $,AchuarShiwiar
+AchuarShiwiar-106_nose-1,,AchuarShiwiar,106_nose,nújĩ,nújĩ,n !ú/u h !ĩ/i,,Fast2008,,,^ n ú j ĩ $,AchuarShiwiar
 AchuarShiwiar-107_not-1,,AchuarShiwiar,107_not,tsá,tsá,ts !á/a,Phonological alternation: atsá,Fast2008,,,^ ts á $,AchuarShiwiar
 AchuarShiwiar-108_old-1,,AchuarShiwiar,108_old,weámrau,weámrau,w !eá/ɨa m r au,anciano,Fast2008,,,^ w eá m r au $,AchuarShiwiar
 AchuarShiwiar-108_old-2,,AchuarShiwiar,108_old,arút,arút,a r !ú/u t,usado,Fast2008,,,^ a r ú t $,AchuarShiwiar
@@ -1490,9 +1490,9 @@ AchuarShiwiar-125_salt-1,,AchuarShiwiar,125_salt,wee,wee,w ɨː,,Fast2008,,,^ w 
 AchuarShiwiar-126_sand-1,,AchuarShiwiar,126_sand,yayákim,yayákim,j a j !á/a k i m,"Phonological alternation: nayákim,yáikim",Fast2008,,,^ y a y á k i m $,AchuarShiwiar
 AchuarShiwiar-127_say-1,,AchuarShiwiar,127_say,títin,títin,t !í/i t i n,,Fast2008,,,^ t í t i n $,AchuarShiwiar
 AchuarShiwiar-128_toscratchaswithfingernailstorelieveitch-1,,AchuarShiwiar,128_toscratchaswithfingernailstorelieveitch,kesártin,kesártin,k ɨ s !á/a r t i n,Because of order of the entries and this form has more semantic complexity: péruatin,Fast2008,,,^ k e s á r t i n $,AchuarShiwiar
-AchuarShiwiar-129_seaocean-1,,AchuarShiwiar,129_seaocean,jũũn éntsa,jũũn éntsa,h u ∼ u ∼ n + !é/ɨ n ts a,,Fast2008,,,^ j ũ ũ n + é n ts a $,AchuarShiwiar
+AchuarShiwiar-129_seaocean-1,,AchuarShiwiar,129_seaocean,jũũn éntsa,jũũn éntsa,h !ũ/u !ũ/u n + !é/ɨ n ts a,,Fast2008,,,^ j ũ ũ n + é n ts a $,AchuarShiwiar
 AchuarShiwiar-130_see-1,,AchuarShiwiar,130_see,jíistin,jíistin,h !íi/iː s t i n,Because of order of the entries and examples around it: wáinkatin,Fast2008,,,^ j íi s t i n $,AchuarShiwiar
-AchuarShiwiar-131_seed-1,,AchuarShiwiar,131_seed,jingkiájĩ,jingkiájĩ,h i ŋ kʲ a h i ∼,,Fast2008,,,^ j i ng kiá j ĩ $,AchuarShiwiar
+AchuarShiwiar-131_seed-1,,AchuarShiwiar,131_seed,jingkiájĩ,jingkiájĩ,h i ŋ kʲ a h !ĩ/i,,Fast2008,,,^ j i ng kiá j ĩ $,AchuarShiwiar
 AchuarShiwiar-132_tosew-1,,AchuarShiwiar,132_tosew,apákmartin,apákmartin,a p !á/a k m a r t i n,,Fast2008,,,^ a p á k m a r t i n $,AchuarShiwiar
 AchuarShiwiar-133_sharpasknife-1,,AchuarShiwiar,133_sharpasknife,ére,ére,!é/ɨ r ɨ,Because of order of the entries: tsákamu,Fast2008,,,^ é r e $,AchuarShiwiar
 AchuarShiwiar-134_short-1,,AchuarShiwiar,134_short,sútarach,sútarach,s !ú/u t a r a tʃ,,Fast2008,,,^ s ú t a r a ch $,AchuarShiwiar
@@ -1510,7 +1510,7 @@ AchuarShiwiar-146_some-1,,AchuarShiwiar,146_some,júmchik,júmchik,h !ú/u m tʃ
 AchuarShiwiar-147_tospit-1,,AchuarShiwiar,147_tospit,usúkmitin,usúkmitin,u s !ú/u k m i t i n,,Fast2008,,,^ u s ú k m i t i n $,AchuarShiwiar
 AchuarShiwiar-148_tosplit-1,,AchuarShiwiar,148_tosplit,akántratin,akántratin,a k !á/a n t r a t i n,,Fast2008,,,^ a k á n t r a t i n $,AchuarShiwiar
 AchuarShiwiar-149_tosqueeze-1,,AchuarShiwiar,149_tosqueeze,ijúrtin,ijúrtin,i h !ú/u r t i n,,Fast2008,,,^ i j ú r t i n $,AchuarShiwiar
-AchuarShiwiar-150_tostaborstick-1,,AchuarShiwiar,150_tostaborstick,kuchí̃ĩjãĩ ijútin,kuchí̃ĩjãĩ ijútin,k u tʃ !í/i ∼ i ∼ h a ∼ i ∼ + i h !ú/u t i n,,Fast2008,,,^ k u ch í̃ ĩ j ã ĩ + i j ú t i n $,AchuarShiwiar
+AchuarShiwiar-150_tostaborstick-1,,AchuarShiwiar,150_tostaborstick,kuchí̃ĩjãĩ ijútin,kuchí̃ĩjãĩ ijútin,k u tʃ !í̃/i !ĩ/i h !ã/a !ĩ/i + i h !ú/u t i n,,Fast2008,,,^ k u ch í̃ ĩ j ã ĩ + i j ú t i n $,AchuarShiwiar
 AchuarShiwiar-152_star-1,,AchuarShiwiar,152_star,yaa,yaa,j aː,,Fast2008,,,^ y aa $,AchuarShiwiar
 AchuarShiwiar-153_stickofwood-1,,AchuarShiwiar,153_stickofwood,númi,númi,n !ú/u m i,Phonolotical alternation: yúmi,Fast2008,,,^ n ú m i $,AchuarShiwiar
 AchuarShiwiar-154_stone-1,,AchuarShiwiar,154_stone,káya,káya,k !á/a j a,,Fast2008,,,^ k á y a $,AchuarShiwiar
@@ -1518,7 +1518,7 @@ AchuarShiwiar-155_straight-1,,AchuarShiwiar,155_straight,túpin,túpin,t !ú/u p
 AchuarShiwiar-156_tosuck-1,,AchuarShiwiar,156_tosuck,mukunátin,mukunátin,m u k u n !á/a t i n,,Fast2008,,,^ m u k u n á t i n $,AchuarShiwiar
 AchuarShiwiar-157_sun-1,,AchuarShiwiar,157_sun,tsaa,tsaa,ts aː,Phonolotical alternation: etsáa,Fast2008,,,^ ts aa $,AchuarShiwiar
 AchuarShiwiar-159_toswim-1,,AchuarShiwiar,159_toswim,yukuáktin,yukuáktin,j u k !uá/ua k t i n,Because of order of the entries and frequency: yukúmkatin,Fast2008,,,^ y u k uá k t i n $,AchuarShiwiar
-AchuarShiwiar-160_tail-1,,AchuarShiwiar,160_tail,juké̃,juké̃,h u k !é/ɨ ∼,Phonolotical alternation: ujuké̃,Fast2008,,,^ j u k é̃ $,AchuarShiwiar
+AchuarShiwiar-160_tail-1,,AchuarShiwiar,160_tail,juké̃,juké̃,h u k !é̃/ɨ,Phonolotical alternation: ujuké̃,Fast2008,,,^ j u k é̃ $,AchuarShiwiar
 AchuarShiwiar-161_that-1,,AchuarShiwiar,161_that,nu,nu,n u,,Fast2008,,,^ n u $,AchuarShiwiar
 AchuarShiwiar-162_there-1,,AchuarShiwiar,162_there,áni,áni,!á/a n i,,Fast2008,,,^ á n i $,AchuarShiwiar
 AchuarShiwiar-163_they-1,,AchuarShiwiar,163_they,ni,ni,n i,Form when the adressee is ausent. Rarely used form: aníta,Fast2008,,,^ n i $,AchuarShiwiar
@@ -1526,12 +1526,12 @@ AchuarShiwiar-163_they-2,,AchuarShiwiar,163_they,áu,áu,!áu/au,Form when the a
 AchuarShiwiar-164_thick-1,,AchuarShiwiar,164_thick,nupáram,nupáram,n u p !á/a r a m,"Because of semantics and order of the entries: tuup,ápu",Fast2008,,,^ n u p á r a m $,AchuarShiwiar
 AchuarShiwiar-165_thin-1,,AchuarShiwiar,165_thin,watsáru,watsáru,w a ts !á/a r u,,Fast2008,,,^ w a ts á r u $,AchuarShiwiar
 AchuarShiwiar-166_tothink-1,,AchuarShiwiar,166_tothink,nintímratin,nintímratin,n i n t !í/i m r a t i n,Phonolotical alternation: inintímratin,Fast2008,,,^ n i n t í m r a t i n $,AchuarShiwiar
-AchuarShiwiar-167_this-1,,AchuarShiwiar,167_this,jũ,jũ,h u ∼,,Fast2008,,,^ j ũ $,AchuarShiwiar
-AchuarShiwiar-168_thou-1,,AchuarShiwiar,168_thou,ámẽ,ámẽ,!á/a m ɨ ∼,,Fast2008,,,^ á m ẽ $,AchuarShiwiar
+AchuarShiwiar-167_this-1,,AchuarShiwiar,167_this,jũ,jũ,h !ũ/u,,Fast2008,,,^ j ũ $,AchuarShiwiar
+AchuarShiwiar-168_thou-1,,AchuarShiwiar,168_thou,ámẽ,ámẽ,!á/a m !ẽ/ɨ,,Fast2008,,,^ á m ẽ $,AchuarShiwiar
 AchuarShiwiar-169_three-1,,AchuarShiwiar,169_three,kampátam,kampátam,k a m p !á/a t a m,,Fast2008,,,^ k a m p á t a m $,AchuarShiwiar
 AchuarShiwiar-170_tothrow-1,,AchuarShiwiar,170_tothrow,jíiktin,jíiktin,h !íi/iː k t i n,,Fast2008,,,^ j íi k t i n $,AchuarShiwiar
 AchuarShiwiar-171_totie-1,,AchuarShiwiar,171_totie,jingkiátin,jingkiátin,h i ŋ kʲ a t i n,More restrictive form: jíniuktin,Fast2008,,,^ j i ng kiá t i n $,AchuarShiwiar
-AchuarShiwiar-172_tongue-1,,AchuarShiwiar,172_tongue,iná̃ĩ,iná̃ĩ,i n !á/a ∼ i ∼,Phonological alternation: inĩá̃ĩ,Fast2008,,,^ i n á̃ ĩ $,AchuarShiwiar
+AchuarShiwiar-172_tongue-1,,AchuarShiwiar,172_tongue,iná̃ĩ,iná̃ĩ,i n !á̃/a !ĩ/i,Phonological alternation: inĩá̃ĩ,Fast2008,,,^ i n á̃ ĩ $,AchuarShiwiar
 AchuarShiwiar-173_toothfrontratherthanmolar-1,,AchuarShiwiar,173_toothfrontratherthanmolar,nái,nái,n !ái/ɨi,,Fast2008,,,^ n ái $,AchuarShiwiar
 AchuarShiwiar-174_tree-1,,AchuarShiwiar,174_tree,númi,númi,n !ú/u m i,Phonological alternation: yúmi,Fast2008,,,^ n ú m i $,AchuarShiwiar
 AchuarShiwiar-175_toturnchangeonesdirection-1,,AchuarShiwiar,175_toturnchangeonesdirection,yántratin,yántratin,j !á/a n t r a t i n,"Phonological alternation: ayántratin,yántumratin",Fast2008,,,^ y á n t r a t i n $,AchuarShiwiar
@@ -1550,10 +1550,10 @@ AchuarShiwiar-187_white-1,,AchuarShiwiar,187_white,púju,púju,p !ú/u h u,Becau
 AchuarShiwiar-188_who-1,,AchuarShiwiar,188_who,ya,ya,j a,Because of order of the entries and examples: yáki,Fast2008,,,^ y a $,AchuarShiwiar
 AchuarShiwiar-189_wide-1,,AchuarShiwiar,189_wide,wangkáram,wangkáram,w a ŋ k !á/a r a m,,Fast2008,,,^ w a ng k á r a m $,AchuarShiwiar
 AchuarShiwiar-190_wife-1,,AchuarShiwiar,190_wife,nuwári,nuwári,n u w !á/a r i,Because of order of the entries and examples: nuwé̃,Fast2008,,,^ n u w á r i $,AchuarShiwiar
-AchuarShiwiar-191_wind-1,,AchuarShiwiar,191_wind,nasé̃,nasé̃,n a s !é/ɨ ∼,,Fast2008,,,^ n a s é̃ $,AchuarShiwiar
+AchuarShiwiar-191_wind-1,,AchuarShiwiar,191_wind,nasé̃,nasé̃,n a s !é̃/ɨ,,Fast2008,,,^ n a s é̃ $,AchuarShiwiar
 AchuarShiwiar-192_wing-1,,AchuarShiwiar,192_wing,nanáp,nanáp,n a n !á/a p,,Fast2008,,,^ n a n á p $,AchuarShiwiar
 AchuarShiwiar-193_towipe-1,,AchuarShiwiar,193_towipe,pakuíchau awajsatin,pakuíchau awajsatin,p a k !uí/ui tʃ au + a w a h s a t i n,Phonological alternation: pakuíchau awáasatin,Fast2008,,,^ p a k uí ch au + a w a j s a t i n $,AchuarShiwiar
-AchuarShiwiar-194_withaccompanying-1,,AchuarShiwiar,194_withaccompanying,-jaĩ,-jaĩ,h a i ∼,,Fast2008,,,^- j a ĩ $,AchuarShiwiar
+AchuarShiwiar-194_withaccompanying-1,,AchuarShiwiar,194_withaccompanying,-jaĩ,-jaĩ,h a !ĩ/i,,Fast2008,,,^- j a ĩ $,AchuarShiwiar
 AchuarShiwiar-195_woman-1,,AchuarShiwiar,195_woman,núwa,núwa,n !ú/u w a,,Fast2008,,,^ n ú w a $,AchuarShiwiar
 AchuarShiwiar-196_woods-1,,AchuarShiwiar,196_woods,íkiam,íkiam,!í/i kʲ a m,,Fast2008,,,^ í kia m $,AchuarShiwiar
 AchuarShiwiar-197_worm-1,,AchuarShiwiar,197_worm,áka,áka,!á/a k a,,Fast2008,,,^ á k a $,AchuarShiwiar
@@ -1869,10 +1869,10 @@ Shuar-4_ashes-1,,Shuar,4_ashes,yunkúnim,yunkúnim,j u ŋ k !ú/u n i m,,Pellizz
 Shuar-5_at-1,,Shuar,5_at,-nam,-nam,n a m,With consonant-ending nouns,Pellizzaro2005,,,^- n a m $,Shuar
 Shuar-5_at-2,,Shuar,5_at,-num,-num,n u m,With vowel-ending nouns,Pellizzaro2005,,,^- n u m $,Shuar
 Shuar-6_backpersons-1,,Shuar,6_backpersons,tuntupe,tuntupe,t u n t u p ɨ,,Pellizzaro2005,,,^ t u n t u p e $,Shuar
-Shuar-7_baddeleteriousorunsuitable-1,,Shuar,7_baddeleteriousorunsuitable,yajáuch’,yajáuch’,j a h !á/a u tʃ i,,Pellizzaro2005,,,^ y a j á u ch’ $,Shuar
+Shuar-7_baddeleteriousorunsuitable-1,,Shuar,7_baddeleteriousorunsuitable,yajáuch’,yajáuch’,j a h !áu/au tʃ i,,Pellizzaro2005,,,^ y a j áu ch’ $,Shuar
 Shuar-8_bark-1,,Shuar,8_bark,saep,saep,s a ɨ p,,Pellizzaro2005,,,^ s a e p $,Shuar
 Shuar-10_belly-1,,Shuar,10_belly,tantán,tantán,t a n t !á/a n,,Pellizzaro2005,,,^ t a n t á n $,Shuar
-Shuar-12_big-1,,Shuar,12_big,úunt,úunt,!ú/u u n t,,Pellizzaro2005,,,^ ú u n t $,Shuar
+Shuar-12_big-1,,Shuar,12_big,úunt,úunt,!úu/uː n t,,Pellizzaro2005,,,^ úu n t $,Shuar
 Shuar-13_bird-1,,Shuar,13_bird,nanamtin,nanamtin,n a n a m t i n,,Pellizzaro2005,,,^ n a n a m t i n $,Shuar
 Shuar-14_tobite-1,,Shuar,14_tobite,esá-i,esá-i,ɨ s !á/a + i,,Pellizzaro2005,,,^ e s á - i $,Shuar
 Shuar-15_black-1,,Shuar,15_black,mukusa,mukusa,m u k u s a,,Pellizzaro2005,,,^ m u k u s a $,Shuar
@@ -1880,13 +1880,13 @@ Shuar-16_blood-1,,Shuar,16_blood,numpa,numpa,n u m p a,,Pellizzaro2005,,,^ n u m
 Shuar-17_toblowofwind-1,,Shuar,17_toblowofwind,nasent-ka,nasent-ka,n a s ɨ n t + k a,,Pellizzaro2005,,,^ n a s e n t - k a $,Shuar
 Shuar-18_bone-1,,Shuar,18_bone,ukunch’,ukunch’,u k u n tʃ i,,Pellizzaro2005,,,^ u k u n ch’ $,Shuar
 Shuar-19_tobreathe-1,,Shuar,19_tobreathe,mayat-ka,mayat-ka,m a j a t + k a,,Pellizzaro2005,,,^ m a y a t - k a $,Shuar
-Shuar-20_toburnintrans-1,,Shuar,20_toburnintrans,kée-k,kée-k,k !é/ɨ ɨ + k,,Pellizzaro2005,,,^ k é e - k $,Shuar
+Shuar-20_toburnintrans-1,,Shuar,20_toburnintrans,kée-k,kée-k,k !ée/eː + k,,Pellizzaro2005,,,^ k ée - k $,Shuar
 Shuar-21_childyoungpersonratherthanasrelationshipterm-1,,Shuar,21_childyoungpersonratherthanasrelationshipterm,uchi,uchi,u tʃ i,,Pellizzaro2005,,,^ u ch i $,Shuar
 Shuar-22_cloud-1,,Shuar,22_cloud,yuránkim,yuránkim,j u ɾ !á/a ŋ k i m,,Pellizzaro2005,,,^ y u r á nk i m $,Shuar
 Shuar-24_tocome-1,,Shuar,24_tocome,winí-,winí-,w i n !í/i,,Pellizzaro2005,,,^ w i n í -$,Shuar
-Shuar-25_tocount-1,,Shuar,25_tocount,aújmat-sa,aújmat-sa,a !ú/u h m a t + s a,,Pellizzaro2005,,,^ a ú j m a t - s a $,Shuar
+Shuar-25_tocount-1,,Shuar,25_tocount,aújmat-sa,aújmat-sa,!aú/au h m a t + s a,,Pellizzaro2005,,,^ aú j m a t - s a $,Shuar
 Shuar-26_tocut-1,,Shuar,26_tocut,churút-ka,churút-ka,tʃ u ɾ !ú/u t + k a,,Pellizzaro2005,,,^ ch u r ú t - k a $,Shuar
-Shuar-27_dayoppositeofnightratherthantimemeasure-1,,Shuar,27_dayoppositeofnightratherthantimemeasure,tsawái,tsawái,ts a w !á/a i,,Pellizzaro2005,,,^ ts a w á i $,Shuar
+Shuar-27_dayoppositeofnightratherthantimemeasure-1,,Shuar,27_dayoppositeofnightratherthantimemeasure,tsawái,tsawái,ts a w !ái/ei,,Pellizzaro2005,,,^ ts a w ái $,Shuar
 Shuar-28_todie-1,,Shuar,28_todie,já-ka,já-ka,h !á/a + k a,,Pellizzaro2005,,,^ j á - k a $,Shuar
 Shuar-30_dirty-1,,Shuar,30_dirty,wapik,wapik,w a p i k,,Pellizzaro2005,,,^ w a p i k $,Shuar
 Shuar-31_dog-1,,Shuar,31_dog,tanku-yawá,tanku-yawá,t a ŋ k u + j a w !á/a,,Pellizzaro2005,,,^ t a nk u - y a w á $,Shuar
@@ -1897,10 +1897,10 @@ Shuar-36_ear-1,,Shuar,36_ear,kuish’,kuish’,k u i ʃ i,,Pellizzaro2005,,,^ k 
 Shuar-37_earthsoil-1,,Shuar,37_earthsoil,nunka,nunka,n u ŋ k a,,Pellizzaro2005,,,^ n u nk a $,Shuar
 Shuar-38_toeat-1,,Shuar,38_toeat,yu-a,yu-a,j u + a,,Pellizzaro2005,,,^ y u - a $,Shuar
 Shuar-39_egg-1,,Shuar,39_egg,nujint,nujint,n u h i n t,,Pellizzaro2005,,,^ n u j i n t $,Shuar
-Shuar-40_eye-1,,Shuar,40_eye,ji̠,ji̠,h i ∼,,Pellizzaro2005,,,^ j i̠ $,Shuar
+Shuar-40_eye-1,,Shuar,40_eye,ji̠,ji̠,h !i̠/i,,Pellizzaro2005,,,^ j i̠ $,Shuar
 Shuar-41_tofalldropratherthantopple-1,,Shuar,41_tofalldropratherthantopple,katu-ka,katu-ka,k a t u + k a,,Pellizzaro2005,,,^ k a t u - k a $,Shuar
 Shuar-42_far-1,,Shuar,42_far,yajá,yajá,j a h !á/a,,Pellizzaro2005,,,^ y a j á $,Shuar
-Shuar-44_father-1,,Shuar,44_father,apa̠,apa̠,a p a ∼,,Pellizzaro2005,,,^ a p a̠ $,Shuar
+Shuar-44_father-1,,Shuar,44_father,apa̠,apa̠,a p !a̠/a,,Pellizzaro2005,,,^ a p a̠ $,Shuar
 Shuar-45_tofear-1,,Shuar,45_tofear,ishám-ka,ishám-ka,i ʃ !á/a m + k a,,Pellizzaro2005,,,^ i sh á m - k a $,Shuar
 Shuar-48_tofight-1,,Shuar,48_tofight,máni-k,máni-k,m !á/a n i + k,,Pellizzaro2005,,,^ m á n i - k $,Shuar
 Shuar-49_fire-1,,Shuar,49_fire,ji,ji,h i,,Pellizzaro2005,,,^ j i $,Shuar
@@ -1915,21 +1915,21 @@ Shuar-58_four-1,,Shuar,58_four,aíntiuk,aíntiuk,a !í/i n t i u k,,Pellizzaro20
 Shuar-59_tofreeze-1,,Shuar,59_tofreeze,supík,supík,s u p !í/i k,,Pellizzaro2005,,,^ s u p í k $,Shuar
 Shuar-60_togive-1,,Shuar,60_togive,amá-s,amá-s,a m !á/a + s,,Pellizzaro2005,,,^ a m á - s $,Shuar
 Shuar-61_good-1,,Shuar,61_good,pénker,pénker,p !é/ɨ ŋ k ɨ ɾ,,Pellizzaro2005,,,^ p é nk e r $,Shuar
-Shuar-62_grass-1,,Shuar,62_grass,saák’,saák’,s a !á/a k i,,Pellizzaro2005,,,^ s a á k’ $,Shuar
+Shuar-62_grass-1,,Shuar,62_grass,saák’,saák’,s aː k i,,Pellizzaro2005,,,^ s aá k’ $,Shuar
 Shuar-63_green-1,,Shuar,63_green,sámek,sámek,s !á/a m ɨ k,,Pellizzaro2005,,,^ s á m e k $,Shuar
 Shuar-64_guts-1,,Shuar,64_guts,ámpuje,ámpuje,!á/a m p u h ɨ,,Pellizzaro2005,,,^ á m p u j e $,Shuar
 Shuar-65_hair-1,,Shuar,65_hair,intiash’,intiash’,i n t i a ʃ i,,Pellizzaro2005,,,^ i n t i a sh’ $,Shuar
 Shuar-66_hand-1,,Shuar,66_hand,eweje,eweje,ɨ w ɨ h ɨ,,Pellizzaro2005,,,^ e w e j e $,Shuar
 Shuar-67_he-1,,Shuar,67_he,au,au,au,"masculine, the feminine form is: nii",Pellizzaro2005,,,^ au $,Shuar
-Shuar-68_head-1,,Shuar,68_head,múuka,múuka,m !ú/u u k a,,Pellizzaro2005,,,^ m ú u k a $,Shuar
+Shuar-68_head-1,,Shuar,68_head,múuka,múuka,m !úu/uː k a,,Pellizzaro2005,,,^ m úu k a $,Shuar
 Shuar-69_tohear-1,,Shuar,69_tohear,ant-uk,ant-uk,a n t + u k,,Pellizzaro2005,,,^ a n t - u k $,Shuar
-Shuar-70_heart-1,,Shuar,70_heart,anentái,anentái,a n ɨ n t !á/a i,,Pellizzaro2005,,,^ a n e n t á i $,Shuar
+Shuar-70_heart-1,,Shuar,70_heart,anentái,anentái,a n ɨ n t !ái/ei,,Pellizzaro2005,,,^ a n e n t ái $,Shuar
 Shuar-71_heavy-1,,Shuar,71_heavy,eméram,eméram,ɨ m !é/ɨ ɾ a m,"Because of order of entries, here are the variant: kijín",Pellizzaro2005,,,^ e m é r a m $,Shuar
 Shuar-72_here-1,,Shuar,72_here,juí,juí,h u !í/i,,Pellizzaro2005,,,^ j u í $,Shuar
 Shuar-73_tohit-1,,Shuar,73_tohit,awat-’,awat-’,a w a t + i,,Pellizzaro2005,,,^ a w a t -’ $,Shuar
 Shuar-75_how-1,,Shuar,75_how,itiúr,itiúr,i t i !ú/u ɾ,,Pellizzaro2005,,,^ i t i ú r $,Shuar
 Shuar-76_tohuntgame-1,,Shuar,76_tohuntgame,eám-ka,eám-ka,ɨ !á/a m + k a,,Pellizzaro2005,,,^ e á m - k a $,Shuar
-Shuar-77_husband-1,,Shuar,77_husband,áish,áish,!á/a i ʃ,,Pellizzaro2005,,,^ á i sh $,Shuar
+Shuar-77_husband-1,,Shuar,77_husband,áish,áish,!ái/ei ʃ,,Pellizzaro2005,,,^ ái sh $,Shuar
 Shuar-78_i-1,,Shuar,78_i,wi,wi,w i,,Pellizzaro2005,,,^ w i $,Shuar
 Shuar-80_if-1,,Shuar,80_if,-ka,-ka,k a,,Pellizzaro2005,,,^- k a $,Shuar
 Shuar-81_in-1,,Shuar,81_in,-nam,-nam,n a m,With consonant-ending nouns,Pellizzaro2005,,,^- n a m $,Shuar
@@ -1942,19 +1942,19 @@ Shuar-88_leg-1,,Shuar,88_leg,maku,maku,m a k u,,Pellizzaro2005,,,^ m a k u $,Shu
 Shuar-89_tolie-1,,Shuar,89_tolie,tepesma,tepesma,t ɨ p ɨ s m a,,Pellizzaro2005,,,^ t e p e s m a $,Shuar
 Shuar-90_tolive-1,,Shuar,90_tolive,iwiák-,iwiák-,i w i !á/a k,,Pellizzaro2005,,,^ i w i á k -$,Shuar
 Shuar-91_liver-1,,Shuar,91_liver,akape,akape,a k a p ɨ,,Pellizzaro2005,,,^ a k a p e $,Shuar
-Shuar-92_long-1,,Shuar,92_long,táinkiasip,táinkiasip,t !á/a i ŋ k i a s i p,"Because of more semantic complexity, here is the variant: ésaram",Pellizzaro2005,,,^ t á i nk i a s i p $,Shuar
+Shuar-92_long-1,,Shuar,92_long,táinkiasip,táinkiasip,t !ái/ei ŋ k i a s i p,"Because of more semantic complexity, here is the variant: ésaram",Pellizzaro2005,,,^ t ái nk i a s i p $,Shuar
 Shuar-93_louse-1,,Shuar,93_louse,tema,tema,t ɨ m a,"This is the term for louse (in humans). Because of more morphological complexity, here is the variant for louse (in animals): temáish",Pellizzaro2005,,,^ t e m a $,Shuar
-Shuar-94_manmalehuman-1,,Shuar,94_manmalehuman,áishmank,áishmank,!á/a i ʃ m a ŋ k,,Pellizzaro2005,,,^ á i sh m a nk $,Shuar
+Shuar-94_manmalehuman-1,,Shuar,94_manmalehuman,áishmank,áishmank,!ái/ei ʃ m a ŋ k,,Pellizzaro2005,,,^ ái sh m a nk $,Shuar
 Shuar-95_many-1,,Shuar,95_many,untsurí,untsurí,u n ts u ɾ !í/i,,Pellizzaro2005,,,^ u n ts u r í $,Shuar
 Shuar-96_meatflesh-1,,Shuar,96_meatflesh,namanke,namanke,n a m a ŋ k ɨ,,Pellizzaro2005,,,^ n a m a nk e $,Shuar
 Shuar-97_mother-1,,Shuar,97_mother,nuku,nuku,n u k u,,Pellizzaro2005,,,^ n u k u $,Shuar
-Shuar-98_mountain-1,,Shuar,98_mountain,náint,náint,n !á/a i n t,,Pellizzaro2005,,,^ n á i n t $,Shuar
+Shuar-98_mountain-1,,Shuar,98_mountain,náint,náint,n !ái/ei n t,,Pellizzaro2005,,,^ n ái n t $,Shuar
 Shuar-99_mouth-1,,Shuar,99_mouth,wene,wene,w ɨ n ɨ,,Pellizzaro2005,,,^ w e n e $,Shuar
 Shuar-102_near-1,,Shuar,102_near,tíjiuch’,tíjiuch’,t !í/i h i u tʃ i,,Pellizzaro2005,,,^ t í j i u ch’ $,Shuar
 Shuar-103_neck-1,,Shuar,103_neck,kuntuj,kuntuj,k u n t u h,,Pellizzaro2005,,,^ k u n t u j $,Shuar
 Shuar-104_new-1,,Shuar,104_new,yamáram,yamáram,j a m !á/a ɾ a m,,Pellizzaro2005,,,^ y a m á r a m $,Shuar
 Shuar-105_night-1,,Shuar,105_night,kashi,kashi,k a ʃ i,,Pellizzaro2005,,,^ k a sh i $,Shuar
-Shuar-106_nose-1,,Shuar,106_nose,nuji̠,nuji̠,n u h i ∼,,Pellizzaro2005,,,^ n u j i̠ $,Shuar
+Shuar-106_nose-1,,Shuar,106_nose,nuji̠,nuji̠,n u h !i̠/i,,Pellizzaro2005,,,^ n u j i̠ $,Shuar
 Shuar-107_not-1,,Shuar,107_not,-ch,-ch,tʃ,"Because of order of entries, here are the variants: sh,ts",Pellizzaro2005,,,^- ch $,Shuar
 Shuar-108_old-1,,Shuar,108_old,arut,arut,a ɾ u t,"Because of more morphological complexity (and perhaps also semantic), here is the variant: úuntach’",Pellizzaro2005,,,^ a r u t $,Shuar
 Shuar-109_one-1,,Shuar,109_one,chikíchik,chikíchik,tʃ i k !í/i tʃ i k,,Pellizzaro2005,,,^ ch i k í ch i k $,Shuar
@@ -1970,55 +1970,55 @@ Shuar-119_river-1,,Shuar,119_river,entsa,entsa,ɨ n ts a,,Pellizzaro2005,,,^ e n
 Shuar-120_roadortrail-1,,Shuar,120_roadortrail,jíntia,jíntia,h !í/i n t i a,,Pellizzaro2005,,,^ j í n t i a $,Shuar
 Shuar-121_root-1,,Shuar,121_root,kankap,kankap,k a ŋ k a p,,Pellizzaro2005,,,^ k a nk a p $,Shuar
 Shuar-122_rope-1,,Shuar,122_rope,chápic,chápic,tʃ !á/a p i k,,Pellizzaro2005,,,^ ch á p i c $,Shuar
-Shuar-123_rottenespeciallylog-1,,Shuar,123_rottenespeciallylog,kaúrma,kaúrma,k a !ú/u ɾ m a,,Pellizzaro2005,,,^ k a ú r m a $,Shuar
+Shuar-123_rottenespeciallylog-1,,Shuar,123_rottenespeciallylog,kaúrma,kaúrma,k !aú/au ɾ m a,,Pellizzaro2005,,,^ k aú r m a $,Shuar
 Shuar-124_torub-1,,Shuar,124_torub,kue-r,kue-r,k u ɨ + ɾ,"Because of examples amd more semantic complexity, here is the variant: majú-r",Pellizzaro2005,,,^ k u e - r $,Shuar
 Shuar-125_salt-1,,Shuar,125_salt,wee,wee,w ɨ ɨ,This is the term for sa; (de vertiente Amazonica). Here is the name for sal (del mar): kachi,Pellizzaro2005,,,^ w e e $,Shuar
 Shuar-127_say-1,,Shuar,127_say,chichá-s,chichá-s,tʃ i tʃ !á/a + s,,Pellizzaro2005,,,^ ch i ch á - s $,Shuar
-Shuar-128_toscratchaswithfingernailstorelieveitch-1,,Shuar,128_toscratchaswithfingernailstorelieveitch,méek-ra,méek-ra,m !é/ɨ ɨ k + ɾ a,,Pellizzaro2005,,,^ m é e k - r a $,Shuar
+Shuar-128_toscratchaswithfingernailstorelieveitch-1,,Shuar,128_toscratchaswithfingernailstorelieveitch,méek-ra,méek-ra,m !ée/eː k + ɾ a,,Pellizzaro2005,,,^ m ée k - r a $,Shuar
 Shuar-129_seaocean-1,,Shuar,129_seaocean,nayants,nayants,n a j a n ts,,Pellizzaro2005,,,^ n a y a n ts $,Shuar
-Shuar-130_see-1,,Shuar,130_see,íim-sa,íim-sa,!í/i i m + s a,"Because or order of the entries, here is the variant: íi-s",Pellizzaro2005,,,^ í i m - s a $,Shuar
+Shuar-130_see-1,,Shuar,130_see,íim-sa,íim-sa,!íi/iː m + s a,"Because or order of the entries, here is the variant: íi-s",Pellizzaro2005,,,^ íi m - s a $,Shuar
 Shuar-132_tosew-1,,Shuar,132_tosew,apá-r,apá-r,a p !á/a + ɾ,,Pellizzaro2005,,,^ a p á - r $,Shuar
 Shuar-133_sharpasknife-1,,Shuar,133_sharpasknife,atsákamu,atsákamu,a ts !á/a k a m u,,Pellizzaro2005,,,^ a ts á k a m u $,Shuar
 Shuar-134_short-1,,Shuar,134_short,sútarach’,sútarach’,s !ú/u t a ɾ a tʃ i,"Because it is not the most general meaning, here is the variant: sumpit",Pellizzaro2005,,,^ s ú t a r a ch’ $,Shuar
 Shuar-135_tosing-1,,Shuar,135_tosing,nampés,nampés,n a m p !é/ɨ s,"Not sure about this form, the entry does not give much information: kantam-á",Pellizzaro2005,,,^ n a m p é s $,Shuar
 Shuar-136_sit-1,,Shuar,136_sit,pujú-s,pujú-s,p u h !ú/u + s,,Pellizzaro2005,,,^ p u j ú - s $,Shuar
 Shuar-137_skinpersons-1,,Shuar,137_skinpersons,nuápe,nuápe,n u !á/a p ɨ,,Pellizzaro2005,,,^ n u á p e $,Shuar
-Shuar-138_sky-1,,Shuar,138_sky,nayáimp’,nayáimp’,n a j !á/a i m p i,,Pellizzaro2005,,,^ n a y á i m p’ $,Shuar
+Shuar-138_sky-1,,Shuar,138_sky,nayáimp’,nayáimp’,n a j !ái/ei m p i,,Pellizzaro2005,,,^ n a y ái m p’ $,Shuar
 Shuar-139_sleep-1,,Shuar,139_sleep,kaná-r,kaná-r,k a n !á/a + ɾ,,Pellizzaro2005,,,^ k a n á - r $,Shuar
 Shuar-141_tosmellperceiveodor-1,,Shuar,141_tosmellperceiveodor,meje-ás,meje-ás,m ɨ h ɨ + !á/a s,,Pellizzaro2005,,,^ m e j e - á s $,Shuar
 Shuar-142_smokeoffire-1,,Shuar,142_smokeoffire,mukuíntiu,mukuíntiu,m u k u !í/i n t i u,,Pellizzaro2005,,,^ m u k u í n t i u $,Shuar
 Shuar-143_smooth-1,,Shuar,143_smooth,piniúkma,piniúkma,p i n i !ú/u k m a,,Pellizzaro2005,,,^ p i n i ú k m a $,Shuar
 Shuar-144_snake-1,,Shuar,144_snake,napi,napi,n a p i,,Pellizzaro2005,,,^ n a p i $,Shuar
-Shuar-145_snow-1,,Shuar,145_snow,etsétsentai,etsétsentai,ɨ ts !é/ɨ ts ɨ n t ai,,Pellizzaro2005,,,^ e ts é ts e n t ai $,Shuar
+Shuar-145_snow-1,,Shuar,145_snow,etsétsentai,etsétsentai,ɨ ts !é/ɨ ts ɨ n t ei,,Pellizzaro2005,,,^ e ts é ts e n t ai $,Shuar
 Shuar-147_tospit-1,,Shuar,147_tospit,usúk-ia,usúk-ia,u s !ú/u k + i a,,Pellizzaro2005,,,^ u s ú k - i a $,Shuar
 Shuar-148_tosplit-1,,Shuar,148_tosplit,yumpu-ár,yumpu-ár,j u m p u + !á/a ɾ,,Pellizzaro2005,,,^ y u m p u - á r $,Shuar
 Shuar-149_tosqueeze-1,,Shuar,149_tosqueeze,ijiur-á,ijiur-á,i h i u ɾ + !á/a,,Pellizzaro2005,,,^ i j i u r - á $,Shuar
 Shuar-150_tostaborstick-1,,Shuar,150_tostaborstick,akut-a,akut-a,a k u t + a,,Pellizzaro2005,,,^ a k u t - a $,Shuar
 Shuar-151_tostand-1,,Shuar,151_tostand,wájaku,wájaku,w !á/a h a k u,,Pellizzaro2005,,,^ w á j a k u $,Shuar
-Shuar-152_star-1,,Shuar,152_star,yáa,yáa,j !á/a a,,Pellizzaro2005,,,^ y á a $,Shuar
+Shuar-152_star-1,,Shuar,152_star,yáa,yáa,j !áa/aː,,Pellizzaro2005,,,^ y áa $,Shuar
 Shuar-153_stickofwood-1,,Shuar,153_stickofwood,numi,numi,n u m i,,Pellizzaro2005,,,^ n u m i $,Shuar
 Shuar-154_stone-1,,Shuar,154_stone,kaya,kaya,k a j a,,Pellizzaro2005,,,^ k a y a $,Shuar
 Shuar-155_straight-1,,Shuar,155_straight,naka,naka,n a k a,,Pellizzaro2005,,,^ n a k a $,Shuar
 Shuar-156_tosuck-1,,Shuar,156_tosuck,muku-n-a,muku-n-a,m u k u + n + a,,Pellizzaro2005,,,^ m u k u - n - a $,Shuar
-Shuar-157_sun-1,,Shuar,157_sun,tsawái-nantu,tsawái-nantu,ts a w !á/a i + n a n t u,,Pellizzaro2005,,,^ ts a w á i - n a n t u $,Shuar
+Shuar-157_sun-1,,Shuar,157_sun,tsawái-nantu,tsawái-nantu,ts a w !ái/ei + n a n t u,,Pellizzaro2005,,,^ ts a w ái - n a n t u $,Shuar
 Shuar-158_toswell-1,,Shuar,158_toswell,tanká-r,tanká-r,t a ŋ k !á/a + ɾ,,Pellizzaro2005,,,^ t a nk á - r $,Shuar
 Shuar-159_toswim-1,,Shuar,159_toswim,yukuá-k,yukuá-k,j u k u !á/a + k,,Pellizzaro2005,,,^ y u k u á - k $,Shuar
 Shuar-160_tail-1,,Shuar,160_tail,ujuke,ujuke,u h u k ɨ,,Pellizzaro2005,,,^ u j u k e $,Shuar
 Shuar-161_that-1,,Shuar,161_that,nu,nu,n u,,Pellizzaro2005,,,^ n u $,Shuar
 Shuar-162_there-1,,Shuar,162_there,nuí,nuí,n u !í/i,,Pellizzaro2005,,,^ n u í $,Shuar
 Shuar-163_they-1,,Shuar,163_they,au,au,au,masculine,Pellizzaro2005,,,^ au $,Shuar
-Shuar-163_they-2,,Shuar,163_they,nii,nii,n i i,feminine,Pellizzaro2005,,,^ n i i $,Shuar
+Shuar-163_they-2,,Shuar,163_they,nii,nii,n iː,feminine,Pellizzaro2005,,,^ n ii $,Shuar
 Shuar-164_thick-1,,Shuar,164_thick,kámpuram,kámpuram,k !á/a m p u ɾ a m,,Pellizzaro2005,,,^ k á m p u r a m $,Shuar
 Shuar-165_thin-1,,Shuar,165_thin,yayu,yayu,j a j u,,Pellizzaro2005,,,^ y a y u $,Shuar
-Shuar-166_tothink-1,,Shuar,166_tothink,enentáim-sa,enentáim-sa,ɨ n ɨ n t !á/a i m + s a,,Pellizzaro2005,,,^ e n e n t á i m - s a $,Shuar
+Shuar-166_tothink-1,,Shuar,166_tothink,enentáim-sa,enentáim-sa,ɨ n ɨ n t !ái/ei m + s a,,Pellizzaro2005,,,^ e n e n t ái m - s a $,Shuar
 Shuar-167_this-1,,Shuar,167_this,ju,ju,h u,,Pellizzaro2005,,,^ j u $,Shuar
 Shuar-168_thou-1,,Shuar,168_thou,ame,ame,a m ɨ,,Pellizzaro2005,,,^ a m e $,Shuar
-Shuar-169_three-1,,Shuar,169_three,menáintiu,menáintiu,m ɨ n !á/a i n t i u,,Pellizzaro2005,,,^ m e n á i n t i u $,Shuar
+Shuar-169_three-1,,Shuar,169_three,menáintiu,menáintiu,m ɨ n !ái/ei n t i u,,Pellizzaro2005,,,^ m e n ái n t i u $,Shuar
 Shuar-171_totie-1,,Shuar,171_totie,jinkiá-,jinkiá-,h i ŋ k i !á/a,,Pellizzaro2005,,,^ j i nk i á -$,Shuar
-Shuar-172_tongue-1,,Shuar,172_tongue,iniái,iniái,i n i !á/a i,,Pellizzaro2005,,,^ i n i á i $,Shuar
-Shuar-173_toothfrontratherthanmolar-1,,Shuar,173_toothfrontratherthanmolar,nai,nai,n ai,,Pellizzaro2005,,,^ n ai $,Shuar
+Shuar-172_tongue-1,,Shuar,172_tongue,iniái,iniái,i n i !ái/ei,,Pellizzaro2005,,,^ i n i ái $,Shuar
+Shuar-173_toothfrontratherthanmolar-1,,Shuar,173_toothfrontratherthanmolar,nai,nai,n ei,,Pellizzaro2005,,,^ n ai $,Shuar
 Shuar-174_tree-1,,Shuar,174_tree,numi,numi,n u m i,,Pellizzaro2005,,,^ n u m i $,Shuar
-Shuar-175_toturnchangeonesdirection-1,,Shuar,175_toturnchangeonesdirection,íik-ia,íik-ia,!í/i i k + i a,,Pellizzaro2005,,,^ í i k - i a $,Shuar
+Shuar-175_toturnchangeonesdirection-1,,Shuar,175_toturnchangeonesdirection,íik-ia,íik-ia,!íi/iː k + i a,,Pellizzaro2005,,,^ íi k - i a $,Shuar
 Shuar-176_two-1,,Shuar,176_two,jímiar,jímiar,h !í/i m i a ɾ,,Pellizzaro2005,,,^ j í m i a r $,Shuar
 Shuar-177_tovomit-1,,Shuar,177_tovomit,imia-k,imia-k,i m i a + k,,Pellizzaro2005,,,^ i m i a - k $,Shuar
 Shuar-178_towalk-1,,Shuar,178_towalk,weká-sa,weká-sa,w ɨ k !á/a + s a,,Pellizzaro2005,,,^ w e k á - s a $,Shuar
@@ -2027,14 +2027,14 @@ Shuar-181_water-1,,Shuar,181_water,entsa,entsa,ɨ n ts a,,Pellizzaro2005,,,^ e n
 Shuar-182_we-1,,Shuar,182_we,li,li,l i,,Pellizzaro2005,,,^ l i $,Shuar
 Shuar-183_wet-1,,Shuar,183_wet,jiniárma,jiniárma,h i n i !á/a ɾ m a,,Pellizzaro2005,,,^ j i n i á r m a $,Shuar
 Shuar-184_what-1,,Shuar,184_what,warí,warí,w a ɾ !í/i,,Pellizzaro2005,,,^ w a r í $,Shuar
-Shuar-185_when-1,,Shuar,185_when,urútai,urútai,u ɾ !ú/u t ai,,Pellizzaro2005,,,^ u r ú t ai $,Shuar
+Shuar-185_when-1,,Shuar,185_when,urútai,urútai,u ɾ !ú/u t ei,,Pellizzaro2005,,,^ u r ú t ai $,Shuar
 Shuar-187_white-1,,Shuar,187_white,puju,puju,p u h u,,Pellizzaro2005,,,^ p u j u $,Shuar
 Shuar-188_who-1,,Shuar,188_who,ya,ya,j a,,Pellizzaro2005,,,^ y a $,Shuar
-Shuar-189_wide-1,,Shuar,189_wide,wankáaram,wankáaram,w a ŋ k !á/a a ɾ a m,,Pellizzaro2005,,,^ w a nk á a r a m $,Shuar
+Shuar-189_wide-1,,Shuar,189_wide,wankáaram,wankáaram,w a ŋ k !áa/aː ɾ a m,,Pellizzaro2005,,,^ w a nk áa r a m $,Shuar
 Shuar-190_wife-1,,Shuar,190_wife,ashant,ashant,a ʃ a n t,,Pellizzaro2005,,,^ a sh a n t $,Shuar
 Shuar-191_wind-1,,Shuar,191_wind,nase,nase,n a s ɨ,,Pellizzaro2005,,,^ n a s e $,Shuar
 Shuar-192_wing-1,,Shuar,192_wing,nánape,nánape,n !á/a n a p ɨ,,Pellizzaro2005,,,^ n á n a p e $,Shuar
-Shuar-194_withaccompanying-1,,Shuar,194_withaccompanying,-ja̠i,-ja̠i,h a ∼ i,,Pellizzaro2005,,,^- j a̠ i $,Shuar
+Shuar-194_withaccompanying-1,,Shuar,194_withaccompanying,-ja̠i,-ja̠i,h !a̠/a i,,Pellizzaro2005,,,^- j a̠ i $,Shuar
 Shuar-195_woman-1,,Shuar,195_woman,nua,nua,n u a,,Pellizzaro2005,,,^ n u a $,Shuar
 Shuar-196_woods-1,,Shuar,196_woods,kampúntin,kampúntin,k a m p !ú/u n t i n,,Pellizzaro2005,,,^ k a m p ú n t i n $,Shuar
 Shuar-197_worm-1,,Shuar,197_worm,aka,aka,a k a,,Pellizzaro2005,,,^ a k a $,Shuar
