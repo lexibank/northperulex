@@ -1,25 +1,5 @@
 ID	Name	Glottocode	Source	Comment
-Canichana	Canichana	cani1243	Crevels2012
-AchuarShiwiar	Achuar	achu1248	Fast2008	https://repositorio.cultura.gob.pe/handle/CULTURA/425
-Urarina	Urarina	urar1246	Peña2023
-Wampis	Wampis	huam1247	Peña2023
-Andoa	Andoa	ando1255	Michael2009	http://www.cabeceras.org/anb_katsakati_jun2009.pdf
-Zaparo	Záparo	zapa1253	Beier2014	https://escholarship.org/uc/item/7s53t246
-Iquito	Iquito	iqui1243	Michael2022
-Shuar	Shuar	shua1257	Pellizzaro2005
-Yagua	Yagua	yagu1244	Gonzales2023
-Shiwilu	Jebero	jebe1250	Valenzuela2012
-Omurano	Omurano	omur1241	Tessmann1930	de Carvalho and O'Hagan for context
-Tequiraca	Tequiraca	abis1238	Tessmann1930	Beier & Michael for comments
-Chibito	Hibito-Cholon	hibi1242	Tessmann1930
-Yameo	Yameo	yame1242	Tessmann1930
-Aguaruna	Aguaruna	agua1253	List2022
-Waorani	Sabela	waor1240	List2022	link to Yaruro?
-Arabela	Arabela	arab1268	List2022	check tokenization
-Candoshi-Shapra	Candoshi-Shapra	cand1248	List2022	Jivaroan? Arawak?
-Muniche	Muniche	muni1258	List2022
-Taushiro	Taushiro	taus1253	List2022	read O'Hagan
-Chayahuita	Shawi	chay1248	List2022
-Bora	Bora	bora1263	Seifart2015
-Muinane	Muinane	muin1242	Seifart2015
-Proto-Bora-Muinane	Proto-Bora-Muinane		Seifart2015
+Sanuma	Sanúma	sanu1240	Dworecka2013	probably not all entries, but good orthography profile
+Ninam	Ninam	nina1238	Lexibank	Entries need verification, a sample of 10 entries that all mapping is done correctly from original source! And find out which is the original source
+Yaroame	Yaroame	yaro1235	PerriFerreira	Not a lot of entries, need to picked manually through portuguese glosses from sketch
+Yanomam	Yanomám	yano1262	Mattei2007	Don't have PDF yet
