@@ -1,0 +1,50 @@
+Grapheme	IPA
+a	a
+á	!á/a
+e	ɨ
+é	!é/ɨ
+i	i
+í	!í/i
+u	u
+ú	!ú/u
+a̠	!a̠/a
+e̠	!e̠/ɨ
+i̠	!i̠/i
+u̠	!u̠/u
+y	j
+w	w
+ai	ei
+ái	!ái/ei
+au	au
+áu	!áu/au
+aú	!aú/au
+aá	aː
+aa	aː
+ii	iː
+íi	!íi/iː
+áa	!áa/aː
+úu	!úu/uː
+ée	!ée/eː
+n	n
+nk	ŋ k
+c	k
+j	h
+l	l
+k	k
+m	m
+p	p
+r	ɾ
+s	s
+sh	ʃ
+ch	tʃ
+ts	ts
+t	t
+sh’	ʃ i
+ch’	tʃ i
+p’	p i
+j’	h i
+k’	k i
+-	+
+-$	NULL
+^-	NULL
+-’	+ i

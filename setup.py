@@ -5,14 +5,14 @@ with open("metadata.json", encoding="utf-8") as fp:
     metadata = json.load(fp)
 
 setup(
-    name='lexibank_blumyanomamic',
-    py_modules=['lexibank_blumyanomamic'],
+    name='lexibank_northernperu',
+    py_modules=['lexibank_northernperu'],
     include_package_data=True,
     url=metadata.get("url", ""),
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
-            'blumyanomamic=lexibank_blumyanomamic:Dataset',
+            'northernperu=lexibank_northernperu:Dataset',
         ]
     },
     install_requires=[
