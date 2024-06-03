@@ -18,9 +18,9 @@ WHERE
 		AND
 	f.cldf_parameterreference = p.cldf_id
 		AND
-	p.core_concept like "%Tadmor-2009-100%"
+	p.core_concept like "%Swadesh-1952-200%"
         AND
-    l.cldf_glottocode IN ("nina1238")
+    l.cldf_glottocode IN ("arab1268", "cand1248", "muni1258", "taus1253", "waor1240", "agua1253", "ocai1244", "mini1256", "muru1274", "nupo1240")
 ;
 """
 
@@ -83,6 +83,16 @@ for idx, doculect, gloss, form in tqdm.tqdm(db_lb.fetchall()):
         doculect, gloss, form
     ])
 
-with open('empty/imported_ninam.tsv', 'w', encoding="utf8", newline='') as f:
+db_boran = get_db('cldf-data/seifartecheverriboran/seifartecheverriboran.sqlite3')
+db_boran.execute(ATTACH_LB)
+db_boran.execute(SEB_QUERY)
+
+for idx, doculect, gloss, form in tqdm.tqdm(db_boran.fetchall()):
+    print(idx, doculect, gloss, form)
+    output_data.append([
+        doculect, gloss, form
+    ])
+
+with open('raw/prepared_data/lexibank.tsv', 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter="\t")
     writer.writerows(output_data)
