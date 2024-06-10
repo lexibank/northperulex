@@ -8,15 +8,15 @@
 | a | 2289 | ✓ | ✓ |
 | i | 1376 | ✓ | ✓ |
 | n | 1244 | ✓ | ✓ |
-| k | 848 | ✓ | ✓ |
+| k | 834 | ✓ | ✓ |
 | u | 772 | ✓ | ✓ |
 | t | 634 | ✓ | ✓ |
-| m | 592 | ✓ | ✓ |
+| m | 584 | ✓ | ✓ |
 | h | 525 | ✓ | ✓ |
 | ɨ | 457 | ✓ | ✓ |
 | o | 405 | ✓ | ✓ |
-| p | 381 | ✓ | ✓ |
 | + | 373 | ✓ | ✓ |
+| p | 373 | ✓ | ✓ |
 | e | 356 | ✓ | ✓ |
 | s | 352 | ✓ | ✓ |
 | ʔ | 343 | ✓ | ✓ |
@@ -42,11 +42,11 @@
 | ɲ | 78 | ✓ | ✓ |
 | !õ/o | 69 | ✓ | ✓ |
 | ʎ | 62 | ✓ | ✓ |
-| ŋ | 59 | ✓ | ✓ |
 | ɯ | 52 | ✓ | ✓ |
 | !ɯ́/ɯ | 51 | ✓ | ✓ |
 | β | 50 | ✓ | ✓ |
 | !h̃/h | 46 | ✓ | ✓ |
+| ŋ | 45 | ✓ | ✓ |
 | !ã/a | 44 | ✓ | ✓ |
 | !ĩ/i | 42 | ✓ | ✓ |
 | kʷ | 39 | ✓ | ✓ |
@@ -79,6 +79,7 @@
 | rʲ | 15 | ✓ | ✓ |
 | tˀ | 15 | ✓ | ✓ |
 | !úu/uː | 14 | ✓ | ✓ |
+| ŋ.k | 14 | ? | ? |
 | ɨː | 14 | ✓ | ✓ |
 | !aʰ/a | 13 | ✓ | ✓ |
 | !ì/i | 13 | ✓ | ✓ |
@@ -102,6 +103,7 @@
 | kʰʲ | 9 | ✓ | ✓ |
 | tʰʲ | 9 | ✓ | ✓ |
 | !̪ẽ́/e | 8 | ✓ | ✓ |
+| m.p | 8 | ? | ? |
 | !iʰ/i | 7 | ✓ | ✓ |
 | !ái/ɨi | 7 | ✓ | ✓ |
 | !ɨ́/i | 7 | ✓ | ✓ |
@@ -254,7 +256,7 @@
 | ɨi | 1 | ✓ | ✓ |
 | ∼ | 1 | ✓ | ✓ |
 
-(248 rows)
+(250 rows)
 
 
 
@@ -270,8 +272,28 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|------|------------|-----------|--------|------------|
+|:---------------------------------|:----------------|:---------------|:--------------|:------------------------------------------|
+| Candoshi-Shapra-118_righthand-1 | Candoshi-Shapra | 118_righthand | mpotsanoŋktʃi | <s> m.p </s> o ts a n o <s> ŋ.k </s> tʃ i |
+| Candoshi-Shapra-119_river-1 | Candoshi-Shapra | 119_river | koŋko | k o <s> ŋ.k </s> o |
+| Candoshi-Shapra-12_big-1 | Candoshi-Shapra | 12_big | kapoŋko | k a p o <s> ŋ.k </s> o |
+| Candoshi-Shapra-152_star-1 | Candoshi-Shapra | 152_star | tsaŋkatʃi | ts a <s> ŋ.k </s> a tʃ i |
+| Candoshi-Shapra-154_stone-1 | Candoshi-Shapra | 154_stone | patomptʃi | p a t o <s> m.p </s> tʃ i |
+| Candoshi-Shapra-159_toswim-1 | Candoshi-Shapra | 159_toswim | koɾiiŋkamaama | k o ɾ iː <s> ŋ.k </s> a m aː m a |
+| Candoshi-Shapra-165_thin-1 | Candoshi-Shapra | 165_thin | ʈʂaŋkitama | ʈʂ a <s> ŋ.k </s> i t a m a |
+| Candoshi-Shapra-176_two-1 | Candoshi-Shapra | 176_two | tsimpono | ts i <s> m.p </s> o n o |
+| Candoshi-Shapra-181_water-1 | Candoshi-Shapra | 181_water | koŋko | k o <s> ŋ.k </s> o |
+| Candoshi-Shapra-187_white-1 | Candoshi-Shapra | 187_white | mpooɾʃi | <s> m.p </s> oː ɾ ʃ i |
+| Candoshi-Shapra-191_wind-1 | Candoshi-Shapra | 191_wind | kamposoɾo | k a <s> m.p </s> o s o ɾ o |
+| Candoshi-Shapra-192_wing-1 | Candoshi-Shapra | 192_wing | waʂiitpoŋktʃi | w a ʂ iː t p o <s> ŋ.k </s> tʃ i |
+| Candoshi-Shapra-1_allofanumber-1 | Candoshi-Shapra | 1_allofanumber | itʃiŋkoɾo | i tʃ i <s> ŋ.k </s> o ɾ o |
+| Candoshi-Shapra-24_tocome-1 | Candoshi-Shapra | 24_tocome | nantaɾaŋkitʃ | n a n t a ɾ a <s> ŋ.k </s> i tʃ |
+| Candoshi-Shapra-35_dust-1 | Candoshi-Shapra | 35_dust | pojimpo | p o j i <s> m.p </s> o |
+| Candoshi-Shapra-38_toeat-1 | Candoshi-Shapra | 38_toeat | katoŋkomaama | k a t o <s> ŋ.k </s> o m aː m a |
+| Candoshi-Shapra-39_egg-1 | Candoshi-Shapra | 39_egg | wajaŋktʃi | w a j a <s> ŋ.k </s> tʃ i |
+| Candoshi-Shapra-63_green-1 | Candoshi-Shapra | 63_green | kawampana | k a w a <s> m.p </s> a n a |
+| Candoshi-Shapra-70_heart-1 | Candoshi-Shapra | 70_heart | maŋko | m a <s> ŋ.k </s> o |
+| Candoshi-Shapra-87_lefthand-1 | Candoshi-Shapra | 87_lefthand | mpaʂinoŋktʃi | <s> m.p </s> a ʂ i n o <s> ŋ.k </s> tʃ i |
 
-(0 rows)
+(20 rows)
 
 

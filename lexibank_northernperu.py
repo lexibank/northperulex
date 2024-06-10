@@ -1,9 +1,11 @@
 from collections import defaultdict
 import pathlib
+import attr
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import FormSpec
+from pylexibank import Language
 from pyedictor import fetch
 from lingpy import Wordlist
 
@@ -15,9 +17,15 @@ def unmerge(sequence):
     return out
 
 
+@attr.s
+class CustomLanguage(Language):
+    SubGroup = attr.ib(default=None)
+
+
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "northernperu"
+    language_class = CustomLanguage
 
     form_spec = FormSpec(replacements=[
         ("kamopʃfmaama", "kamopʃimaama"),
@@ -33,6 +41,7 @@ class Dataset(BaseDataset):
                     columns=[
                         "CONCEPT",
                         "DOCULECT",
+                        "SUBGROUP",
                         "FORM",
                         "VALUE",
                         "TOKENS",
@@ -72,7 +81,8 @@ class Dataset(BaseDataset):
             args.writer.add_language(
                     ID=language["ID"],
                     Name=language["Name"],
-                    Glottocode=language["Glottocode"]
+                    Glottocode=language["Glottocode"],
+                    SubGroup=language["SubGroup"]
                     )
             languages[language["ID"]] = language["Name"]
             sources[language["ID"]] = language["Source"]
