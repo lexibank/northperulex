@@ -3,6 +3,6 @@
     "title": "CLDF dataset derived from Barrientos et al.'s \"NorthPeruLex - A Lexical Dataset of Small Language Families and Isolates from Northern Peru (forthcoming).",
     "license": "CC-BY-4.0",
     "citation": "Barrientos, Carlos and Blum, Frederic and Ingunza, Adriano and Gonzales, Rosa and Peña, Jaime. Forthcoming. NorthPeruLex - A Lexical Dataset of Small Language Families and Isolates from Northern Peru.",
-	"description": "This dataset brings together lexidal data from isolates and small language families from northern Peru to investigate their historic relations.",
+	"description": "This dataset brings together lexical data from isolates and small language families from northern Peru to investigate their historic relations.",
 	"conceptlist": "Swadesh-1952-200"
 }
