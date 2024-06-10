@@ -2,6 +2,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 Canichana,Canichana,cani1243,Canichana,caz,South America,-14.3058,-64.944455,Canichana,Isolate
 AchuarShiwiar,Achuar,achu1248,Achuar-Shiwiar,acu,South America,-2.82646,-77.2641,Chicham,Chicham
 Urarina,Urarina,urar1246,Urarina,ura,South America,-4.44006,-75.4211,Urarina,Isolate
+Wampis,Huambisa,huam1247,Huambisa,hub,South America,-3.99109,-77.9797,Chicham,Chicham
 Andoa,Andoa,ando1255,Andoa,anb,South America,-3.29664,-76.6056,Zaparoan,Zaparoan
 Zaparo,Záparo,zapa1253,Záparo,zro,South America,-1.99871,-76.364,Zaparoan,Zaparoan
 Iquito,Iquito,iqui1243,Iquito,iqu,South America,-3.31233,-73.97046,Zaparoan,Zaparoan
@@ -18,6 +19,8 @@ Arabela,Arabela,arab1268,Arabela,arl,South America,-1.96126,-75.0612,Zaparoan,Za
 Candoshi-Shapra,Candoshi-Shapra,cand1248,Candoshi-Shapra,cbu,South America,-4.23835,-76.9347,Candoshi-Shapra,Isolate
 Muniche,Muniche,muni1258,Muniche,myr,South America,-5.7441796,-76.426712,Muniche,Isolate
 Taushiro,Taushiro,taus1253,Taushiro,trr,South America,-3.22497,-75.5603,Taushiro,Isolate
+Chayahuita,Shawi,chay1248,Shawi,cbt,South America,-5.63764,-76.8252,Cahuapanan,Cahuapanan
 Bora,Bora,bora1263,Bora,boa,South America,-2.000259,-72.257066,Boran,Boran
 Muinane,Muinane,muin1242,Muinane,bmr,South America,-0.8652,-72.4249,Boran,Boran
 Proto-Bora-Muinane,Proto-Bora-Muinane,,,,,,,,Boran
+Ocaina,Ocaina,ocai1244,Ocaina,oca,South America,-2.159,-72.1422,Huitotoan,Huitotoan

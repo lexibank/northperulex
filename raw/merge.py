@@ -11,10 +11,17 @@ data = list(sorted(glob("prepared_data/*.tsv")))
 # Load manually digitized data
 def add_wl(language):
     """Adds data from languages in folder."""
+    if "Iquito.tsv" in language:
+        return
+    
     with open(language, mode='r', encoding="utf8") as f:
         wl = csv.reader(f, delimiter="\t")
         header = next(wl)
         if "Spanish" in header:
+            for entry in wl:
+                if entry[2] != "":
+                    final_data.append(entry[:-1])
+        elif "Gloss" in header:
             for entry in wl:
                 if entry[2] != "":
                     final_data.append(entry[:-1])
@@ -25,7 +32,7 @@ def add_wl(language):
 
 
 # Load Iquito data
-with open("prepared_data/iquito.tsv", mode='r', encoding="utf8") as file:
+with open("prepared_data/Iquito.tsv", mode='r', encoding="utf8") as file:
     d = csv.reader(file, delimiter="\t")
     next(d)
     for lines in d:
@@ -34,7 +41,7 @@ with open("prepared_data/iquito.tsv", mode='r', encoding="utf8") as file:
             lines[2],  # Gloss
             lines[3],  # Form
             lines[5]   # Note --> SENSE in dictionary
-    ])
+        ])
 
 # Load Lexibank data
 with open("prepared_data/lexibank.tsv", mode='r', encoding="utf8") as file:
@@ -45,8 +52,8 @@ with open("prepared_data/lexibank.tsv", mode='r', encoding="utf8") as file:
             lines[0],
             lines[1],  # Gloss
             lines[2],  # Form
-            ""
-    ])
+            ""         # Note
+        ])
 
 
 # Check that everything is alright
