@@ -39,7 +39,7 @@ work in progress
 - **Invalid lexemes:** 0
 - **Tokens:** 15,871
 - **Segments:** 248 (0 BIPA errors, 0 CLTS sound class errors, 244 CLTS modified)
-- **Inventory size (avg):** 35.00
+- **Inventory size (avg):** 34.95
 
 # Contributors
 

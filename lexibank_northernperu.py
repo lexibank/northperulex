@@ -20,7 +20,8 @@ class Dataset(BaseDataset):
     id = "northernperu"
 
     form_spec = FormSpec(replacements=[
-        ("kamopʃfmaama", "kamopʃimaama")
+        ("kamopʃfmaama", "kamopʃimaama"),
+        ("aʔwltʃa", "aʔwitʃa")
     ])
 
     def cmd_download(self):
