@@ -3,6 +3,7 @@ import pathlib
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
+from pylexibank import FormSpec
 from pyedictor import fetch
 from lingpy import Wordlist
 
@@ -17,6 +18,11 @@ def unmerge(sequence):
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "northernperu"
+
+    form_spec = FormSpec(replacements=[
+        ("kamopʃfmaama", "kamopʃimaama"),
+        ("aʔwltʃa", "aʔwitʃa")
+    ])
 
     def cmd_download(self):
         print("updating ...")

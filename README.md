@@ -37,9 +37,9 @@ work in progress
 - **Sources:** 12
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
-- **Tokens:** 15,892
+- **Tokens:** 15,871
 - **Segments:** 248 (0 BIPA errors, 0 CLTS sound class errors, 244 CLTS modified)
-- **Inventory size (avg):** 35.23
+- **Inventory size (avg):** 34.95
 
 # Contributors
 
