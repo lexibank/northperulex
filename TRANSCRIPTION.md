@@ -5,83 +5,65 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 2780 | ✓ | ✓ |
-| i | 1585 | ✓ | ✓ |
-| n | 1491 | ✓ | ✓ |
-| k | 942 | ✓ | ✓ |
+| a | 2720 | ✓ | ✓ |
+| i | 1621 | ✓ | ✓ |
+| n | 1507 | ✓ | ✓ |
+| k | 959 | ✓ | ✓ |
 | u | 881 | ✓ | ✓ |
-| t | 768 | ✓ | ✓ |
-| m | 666 | ✓ | ✓ |
-| h | 556 | ✓ | ✓ |
+| t | 793 | ✓ | ✓ |
+| m | 699 | ✓ | ✓ |
+| h | 627 | ✓ | ✓ |
+| o | 563 | ✓ | ✓ |
 | ɨ | 524 | ✓ | ✓ |
-| o | 462 | ✓ | ✓ |
-| e | 409 | ✓ | ✓ |
-| p | 408 | ✓ | ✓ |
-| ʔ | 407 | ✓ | ✓ |
+| ʔ | 517 | ✓ | ✓ |
+| p | 444 | ✓ | ✓ |
+| e | 411 | ✓ | ✓ |
+| s | 381 | ✓ | ✓ |
 | + | 380 | ✓ | ✓ |
-| s | 373 | ✓ | ✓ |
-| !á/a | 303 | ✓ | ✓ |
+| !á/a | 316 | ✓ | ✓ |
 | w | 297 | ✓ | ✓ |
-| j | 269 | ✓ | ✓ |
-| tʃ | 265 | ✓ | ✓ |
-| r | 262 | ✓ | ✓ |
+| r | 283 | ✓ | ✓ |
+| j | 275 | ✓ | ✓ |
+| tʃ | 267 | ✓ | ✓ |
 | ɾ | 211 | ✓ | ✓ |
-| d | 186 | ✓ | ✓ |
-| !í/i | 164 | ✓ | ✓ |
-| b | 151 | ✓ | ✓ |
-| <<o>> | 147 | ? | ? |
+| d | 187 | ✓ | ✓ |
+| !í/i | 166 | ✓ | ✓ |
+| b | 166 | ✓ | ✓ |
+| aː | 151 | ✓ | ✓ |
+| ts | 143 | ✓ | ✓ |
 | l | 132 | ✓ | ✓ |
-| ts | 129 | ✓ | ✓ |
-| <<ɯ>> | 124 | ? | ? |
-| aː | 121 | ✓ | ✓ |
+| g | 118 | ✓ | ✓ |
 | ʃ | 114 | ✓ | ✓ |
-| <<ʔ>> | 110 | ? | ? |
 | !ú/u | 109 | ✓ | ✓ |
-| g | 105 | ✓ | ✓ |
+| ɯ | 97 | ✓ | ✓ |
+| !õ/o | 95 | ✓ | ✓ |
 | ə | 94 | ✓ | ✓ |
+| ɲ | 94 | ✓ | ✓ |
 | ʊ | 90 | ✓ | ✓ |
 | !é/e | 83 | ✓ | ✓ |
 | !ɨ́/ɨ | 80 | ✓ | ✓ |
-| ɲ | 78 | ✓ | ✓ |
-| <<h>> | 71 | ? | ? |
-| !õ/o | 69 | ✓ | ✓ |
-| <<õ>> | 66 | ? | ? |
-| <<t>> | 65 | ? | ? |
+| β | 67 | ✓ | ✓ |
+| x | 64 | ✓ | ✓ |
 | ʎ | 62 | ✓ | ✓ |
-| <<i>> | 56 | ? | ? |
-| <<x>> | 53 | ? | ? |
-| <<ã>> | 52 | ? | ? |
-| ɯ | 52 | ✓ | ✓ |
+| !ĩ/i | 60 | ✓ | ✓ |
 | !ɯ́/ɯ | 51 | ✓ | ✓ |
-| β | 50 | ✓ | ✓ |
-| <<́>> | 49 | ? | ? |
-| <<m>> | 47 | ? | ? |
+| !ã/a | 50 | ✓ | ✓ |
+| iː | 48 | ✓ | ✓ |
+| !ó/o | 47 | ✓ | ✓ |
 | !h̃/h | 46 | ✓ | ✓ |
-| <<ó>> | 45 | ? | ? |
+| ɸ | 46 | ✓ | ✓ |
 | ŋ | 45 | ✓ | ✓ |
-| !ã/a | 44 | ✓ | ✓ |
-| <<á>> | 43 | ? | ? |
-| !ĩ/i | 42 | ✓ | ✓ |
-| <<̥>> | 42 | ? | ? |
 | kʷ | 39 | ✓ | ✓ |
-| !ó/o | 38 | ✓ | ✓ |
-| <<ʲ>> | 38 | ? | ? |
-| iː | 38 | ✓ | ✓ |
+| oː | 38 | ✓ | ✓ |
+| tʲ | 38 | ✓ | ✓ |
 | !æ̃/æ | 37 | ✓ | ✓ |
-| <<p>> | 36 | ? | ? |
 | ð | 36 | ✓ | ✓ |
 | !áa/aː | 33 | ✓ | ✓ |
-| <<ɸ>> | 33 | ? | ? |
-| <<ĩ>> | 31 | ? | ? |
-| <<ɲ>> | 31 | ? | ? |
 | !̪ã/a | 29 | ✓ | ✓ |
 | !ẽ/e | 29 | ✓ | ✓ |
-| <<n>> | 29 | ? | ? |
-| <<̃>> | 29 | ? | ? |
 | ˀk | 29 | ✓ | ✓ |
-| <<d>> | 28 | ? | ? |
 | ʂ | 27 | ✓ | ✓ |
-| <<í>> | 26 | ? | ? |
+| !ã́/a | 26 | ✓ | ✓ |
 | kʰ | 26 | ✓ | ✓ |
 | !íi/iː | 25 | ✓ | ✓ |
 | !a̠/a | 24 | ✓ | ✓ |
@@ -89,43 +71,42 @@
 | au | 23 | ✓ | ✓ |
 | tsʰ | 23 | ✓ | ✓ |
 | uː | 23 | ✓ | ✓ |
-| !ã́/a | 22 | ✓ | ✓ |
-| <<s>> | 22 | ? | ? |
-| <<r>> | 21 | ? | ? |
-| dʒ | 19 | ✓ | ✓ |
+| dʒ | 22 | ✓ | ✓ |
+| !õõ/oː | 20 | ✓ | ✓ |
+| !ì/i | 19 | ✓ | ✓ |
+| !óó/oː | 18 | ✓ | ✓ |
+| ɯː | 18 | ✓ | ✓ |
 | !ɨ́ɨ/ɨː | 17 | ✓ | ✓ |
-| <<k>> | 17 | ? | ? |
-| <<β>> | 17 | ? | ? |
+| dz | 17 | ✓ | ✓ |
+| dʲ | 17 | ✓ | ✓ |
 | pʰ | 17 | ✓ | ✓ |
 | !n̊/n | 16 | ✓ | ✓ |
 | !é/ɨ | 16 | ✓ | ✓ |
 | !ï/i | 16 | ✓ | ✓ |
 | !ũ/u | 16 | ✓ | ✓ |
-| <<ṍ>> | 16 | ? | ? |
 | æ | 16 | ✓ | ✓ |
-| <<b>> | 15 | ? | ? |
-| <<z>> | 15 | ? | ? |
-| oː | 15 | ✓ | ✓ |
+| !áá/aː | 15 | ✓ | ✓ |
 | rʲ | 15 | ✓ | ✓ |
 | tˀ | 15 | ✓ | ✓ |
+| ɲ̥ | 15 | ✓ | ✓ |
+| !ãã/aː | 14 | ✓ | ✓ |
 | !úu/uː | 14 | ✓ | ✓ |
+| !ɯ̃/ɯ | 14 | ✓ | ✓ |
+| m̥ | 14 | ✓ | ✓ |
 | ŋ.k | 14 | ? | ? |
 | ɨː | 14 | ✓ | ✓ |
 | !aʰ/a | 13 | ✓ | ✓ |
-| !ì/i | 13 | ✓ | ✓ |
-| <<g>> | 13 | ? | ? |
+| !íí/iː | 13 | ✓ | ✓ |
+| n̥ | 13 | ✓ | ✓ |
 | tʰ | 13 | ✓ | ✓ |
-| ɸ | 13 | ✓ | ✓ |
 | !u̠/u | 12 | ✓ | ✓ |
 | !ē̠/e | 12 | ✓ | ✓ |
-| tʲ | 12 | ✓ | ✓ |
 | ua | 12 | ✓ | ✓ |
 | ç | 12 | ✓ | ✓ |
 | !i̠/i | 11 | ✓ | ✓ |
 | !ái/ei | 11 | ✓ | ✓ |
 | !ā́/a | 11 | ✓ | ✓ |
 | !ṛ/r | 11 | ✓ | ✓ |
-| x | 11 | ✓ | ✓ |
 | !ẽ́/e | 10 | ✓ | ✓ |
 | hʲ | 10 | ✓ | ✓ |
 | v | 10 | ✓ | ✓ |
@@ -137,7 +118,9 @@
 | m.p | 8 | ? | ? |
 | !iʰ/i | 7 | ✓ | ✓ |
 | !ái/ɨi | 7 | ✓ | ✓ |
+| !ĩ́/i | 7 | ✓ | ✓ |
 | !ɨ́/i | 7 | ✓ | ✓ |
+| !ɯ́ɯ́/ɯː | 7 | ✓ | ✓ |
 | !̪í/i | 7 | ✓ | ✓ |
 | !̪ĩ/i | 7 | ✓ | ✓ |
 | !̪ɨ̃/ɨ | 7 | ✓ | ✓ |
@@ -151,11 +134,11 @@
 | !aá/aː | 6 | ✓ | ✓ |
 | !à/a | 6 | ✓ | ✓ |
 | !áu/au | 6 | ✓ | ✓ |
-| !ĩ́/i | 6 | ✓ | ✓ |
+| !ã́ã́/aː | 6 | ✓ | ✓ |
+| !ĩ́ĩ́/iː | 6 | ✓ | ✓ |
 | !̪ũ/u | 6 | ✓ | ✓ |
+| !ṍṍ/oː | 6 | ✓ | ✓ |
 | !ṓ/o | 6 | ✓ | ✓ |
-| <<j>> | 6 | ? | ? |
-| <<ì>> | 6 | ? | ? |
 | eː | 6 | ✓ | ✓ |
 | hʷ | 6 | ✓ | ✓ |
 | tʃʰ | 6 | ✓ | ✓ |
@@ -168,10 +151,12 @@
 | !ĕ/e | 5 | ✓ | ✓ |
 | !ū́/u | 5 | ✓ | ✓ |
 | !ɨʰ/ɨ | 5 | ✓ | ✓ |
+| !ɯ̃ɯ̃/ɯɯ | 5 | ✓ | ✓ |
+| !ɯ̃́/ɯ | 5 | ✓ | ✓ |
 | !̪ẽ/e | 5 | ✓ | ✓ |
+| !ṍ/o | 5 | ✓ | ✓ |
 | !ṹ/u | 5 | ✓ | ✓ |
 | !ắ/a | 5 | ✓ | ✓ |
-| dʲ | 5 | ✓ | ✓ |
 | mʲ | 5 | ✓ | ✓ |
 | oʊ | 5 | ✓ | ✓ |
 | pʲ | 5 | ✓ | ✓ |
@@ -205,7 +190,6 @@
 | !̺á/a | 3 | ✓ | ✓ |
 | !ṓ̠/o | 3 | ✓ | ✓ |
 | !ẽ/ɨ | 3 | ✓ | ✓ |
-| <<ʤ>> | 3 | ? | ? |
 | ai | 3 | ✓ | ✓ |
 | c | 3 | ✓ | ✓ |
 | ei | 3 | ✓ | ✓ |
@@ -234,9 +218,6 @@
 | !̪uʰ/u | 2 | ✓ | ✓ |
 | !̪ĩ́/i | 2 | ✓ | ✓ |
 | !̺ú/u | 2 | ✓ | ✓ |
-| <<e>> | 2 | ? | ? |
-| <<ʧ>> | 2 | ? | ? |
-| dz | 2 | ✓ | ✓ |
 | əɨ | 2 | ✓ | ✓ |
 | ʔʲ | 2 | ✓ | ✓ |
 | !aʲ/a | 1 | ✓ | ✓ |
@@ -246,8 +227,8 @@
 | !àà/aː | 1 | ✓ | ✓ |
 | !á̃/a | 1 | ✓ | ✓ |
 | !á̠/a | 1 | ✓ | ✓ |
+| !ãã́/aː | 1 | ✓ | ✓ |
 | !ìì/iː | 1 | ✓ | ✓ |
-| !íí/iː | 1 | ✓ | ✓ |
 | !í̃ĩ/iː | 1 | ✓ | ✓ |
 | !ó̄/o | 1 | ✓ | ✓ |
 | !ö̆́/o | 1 | ✓ | ✓ |
@@ -284,7 +265,6 @@
 | !̺ɨ́ᶭ/ɨ | 1 | ✓ | ✓ |
 | !̺ẽ/e | 1 | ✓ | ✓ |
 | !ṇ/n | 1 | ✓ | ✓ |
-| !ṍ/o | 1 | ✓ | ✓ |
 | !ṍ̠/o | 1 | ✓ | ✓ |
 | dʷ | 1 | ✓ | ✓ |
 | ui | 1 | ✓ | ✓ |
@@ -292,7 +272,7 @@
 | ɨi | 1 | ✓ | ✓ |
 | ∼ | 1 | ✓ | ✓ |
 
-(286 rows)
+(266 rows)
 
 
 
@@ -308,108 +288,28 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:----------------------------------------------------|:-----------|:-------------------------------------------|:---------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ocaina-103_neck-1 | Ocaina | 103_neck | ɲõmã́ã́ʔõ | <s> <<ɲ>> </s> <s> <<õ>> </s> <s> <<m>> </s> <s> <<ã>> </s> <s> <<́>> </s> <s> <<ã>> </s> <s> <<́>> </s> <s> <<ʔ>> </s> <s> <<õ>> </s> |
-| Ocaina-105_night-1 | Ocaina | 105_night | natʲṍ | <s> <<n>> </s> a <s> <<t>> </s> <s> <<ʲ>> </s> <s> <<ṍ>> </s> |
-| Ocaina-106_nose-1 | Ocaina | 106_nose | tʲooɸo | <s> <<t>> </s> <s> <<ʲ>> </s> <s> <<o>> </s> <s> <<o>> </s> <s> <<ɸ>> </s> <s> <<o>> </s> |
-| Ocaina-108_old-1 | Ocaina | 108_old | haʔĩ́ĩ́m̥a | <s> <<h>> </s> a <s> <<ʔ>> </s> <s> <<ĩ>> </s> <s> <<́>> </s> <s> <<ĩ>> </s> <s> <<́>> </s> <s> <<m>> </s> <s> <<̥>> </s> a |
-| Ocaina-109_one-1 | Ocaina | 109_one | tʲa | <s> <<t>> </s> <s> <<ʲ>> </s> a |
-| Ocaina-109_one-2 | Ocaina | 109_one | maʔ | <s> <<m>> </s> a <s> <<ʔ>> </s> |
-| Ocaina-10_belly-1 | Ocaina | 10_belly | gáɸotʲo | <s> <<g>> </s> <s> <<á>> </s> <s> <<ɸ>> </s> <s> <<o>> </s> <s> <<t>> </s> <s> <<ʲ>> </s> <s> <<o>> </s> |
-| Ocaina-119_river-1 | Ocaina | 119_river | maan̥ɯ | <s> <<m>> </s> a a <s> <<n>> </s> <s> <<̥>> </s> <s> <<ɯ>> </s> |
-| Ocaina-119_river-2 | Ocaina | 119_river | tʲaaɯ | <s> <<t>> </s> <s> <<ʲ>> </s> a a <s> <<ɯ>> </s> |
-| Ocaina-121_root-1 | Ocaina | 121_root | tsiɲĩ́ĩ́ʔõɸe | <s> <<t>> </s> <s> <<s>> </s> <s> <<i>> </s> <s> <<ɲ>> </s> <s> <<ĩ>> </s> <s> <<́>> </s> <s> <<ĩ>> </s> <s> <<́>> </s> <s> <<ʔ>> </s> <s> <<õ>> </s> <s> <<ɸ>> </s> <s> <<e>> </s> |
-| Ocaina-121_root-2 | Ocaina | 121_root | tsiɲ̥ĩ́ĩ́ʔõʔko | <s> <<t>> </s> <s> <<s>> </s> <s> <<i>> </s> <s> <<ɲ>> </s> <s> <<̥>> </s> <s> <<ĩ>> </s> <s> <<́>> </s> <s> <<ĩ>> </s> <s> <<́>> </s> <s> <<ʔ>> </s> <s> <<õ>> </s> <s> <<ʔ>> </s> <s> <<k>> </s> <s> <<o>> </s> |
-| Ocaina-124_torub-1 | Ocaina | 124_torub | dʲããhɯ̃ | <s> <<d>> </s> <s> <<ʲ>> </s> <s> <<ã>> </s> <s> <<ã>> </s> <s> <<h>> </s> <s> <<ɯ>> </s> <s> <<̃>> </s> |
-| Ocaina-124_torub-2 | Ocaina | 124_torub | hɯxãã | <s> <<h>> </s> <s> <<ɯ>> </s> <s> <<x>> </s> <s> <<ã>> </s> <s> <<ã>> </s> |
-| Ocaina-125_salt-1 | Ocaina | 125_salt | hááidʲa | <s> <<h>> </s> <s> <<á>> </s> <s> <<á>> </s> <s> <<i>> </s> <s> <<d>> </s> <s> <<ʲ>> </s> a |
-| Ocaina-126_sand-1 | Ocaina | 126_sand | ʤíõõʔĩ | <s> <<ʤ>> </s> <s> <<í>> </s> <s> <<õ>> </s> <s> <<õ>> </s> <s> <<ʔ>> </s> <s> <<ĩ>> </s> |
-| Ocaina-127_say-1 | Ocaina | 127_say | ɯ̃ɯ̃ | <s> <<ɯ>> </s> <s> <<̃>> </s> <s> <<ɯ>> </s> <s> <<̃>> </s> |
-| Ocaina-127_say-2 | Ocaina | 127_say | ãã | <s> <<ã>> </s> <s> <<ã>> </s> |
-| Ocaina-131_seed-1 | Ocaina | 131_seed | naβiiɲ̥i | <s> <<n>> </s> a <s> <<β>> </s> <s> <<i>> </s> <s> <<i>> </s> <s> <<ɲ>> </s> <s> <<̥>> </s> <s> <<i>> </s> |
-| Ocaina-138_sky-1 | Ocaina | 138_sky | bɯm̥õɲ̥á | <s> <<b>> </s> <s> <<ɯ>> </s> <s> <<m>> </s> <s> <<̥>> </s> <s> <<õ>> </s> <s> <<ɲ>> </s> <s> <<̥>> </s> <s> <<á>> </s> |
-| Ocaina-138_sky-2 | Ocaina | 138_sky | xɯtʲamóóɲ̥a | <s> <<x>> </s> <s> <<ɯ>> </s> <s> <<t>> </s> <s> <<ʲ>> </s> a <s> <<m>> </s> <s> <<ó>> </s> <s> <<ó>> </s> <s> <<ɲ>> </s> <s> <<̥>> </s> a |
-| Ocaina-138_sky-3 | Ocaina | 138_sky | aam̥i | a a <s> <<m>> </s> <s> <<̥>> </s> <s> <<i>> </s> |
-| Ocaina-13_bird-1 | Ocaina | 13_bird | tʲaɸon̥õhɯ̃́ʔ ããʔtsi | <s> <<t>> </s> <s> <<ʲ>> </s> a <s> <<ɸ>> </s> <s> <<o>> </s> <s> <<n>> </s> <s> <<̥>> </s> <s> <<õ>> </s> <s> <<h>> </s> <s> <<ɯ>> </s> <s> <<̃>> </s> <s> <<́>> </s> <s> <<ʔ>> </s> + <s> <<ã>> </s> <s> <<ã>> </s> <s> <<ʔ>> </s> <s> <<t>> </s> <s> <<s>> </s> <s> <<i>> </s> |
-| Ocaina-13_bird-2 | Ocaina | 13_bird | aɸótsoji | a <s> <<ɸ>> </s> <s> <<ó>> </s> <s> <<t>> </s> <s> <<s>> </s> <s> <<o>> </s> <s> <<j>> </s> <s> <<i>> </s> |
-| Ocaina-13_bird-3 | Ocaina | 13_bird | dʲáʔiiʔta | <s> <<d>> </s> <s> <<ʲ>> </s> <s> <<á>> </s> <s> <<ʔ>> </s> <s> <<i>> </s> <s> <<i>> </s> <s> <<ʔ>> </s> <s> <<t>> </s> a |
-| Ocaina-140_small-1 | Ocaina | 140_small | síítiʔ | <s> <<s>> </s> <s> <<í>> </s> <s> <<í>> </s> <s> <<t>> </s> <s> <<i>> </s> <s> <<ʔ>> </s> |
-| Ocaina-140_small-2 | Ocaina | 140_small | sóógo | <s> <<s>> </s> <s> <<ó>> </s> <s> <<ó>> </s> <s> <<g>> </s> <s> <<o>> </s> |
-| Ocaina-140_small-3 | Ocaina | 140_small | tóógo | <s> <<t>> </s> <s> <<ó>> </s> <s> <<ó>> </s> <s> <<g>> </s> <s> <<o>> </s> |
-| Ocaina-140_small-4 | Ocaina | 140_small | xaβi | <s> <<x>> </s> a <s> <<β>> </s> <s> <<i>> </s> |
-| Ocaina-142_smokeoffire-1 | Ocaina | 142_smokeoffire | haʔɸííʔo | <s> <<h>> </s> a <s> <<ʔ>> </s> <s> <<ɸ>> </s> <s> <<í>> </s> <s> <<í>> </s> <s> <<ʔ>> </s> <s> <<o>> </s> |
-| Ocaina-144_snake-1 | Ocaina | 144_snake | anɯ̃ʔtʲṍko | a <s> <<n>> </s> <s> <<ɯ>> </s> <s> <<̃>> </s> <s> <<ʔ>> </s> <s> <<t>> </s> <s> <<ʲ>> </s> <s> <<ṍ>> </s> <s> <<k>> </s> <s> <<o>> </s> |
-| Ocaina-144_snake-2 | Ocaina | 144_snake | gõhṍṍʔĩʔtsi | <s> <<g>> </s> <s> <<õ>> </s> <s> <<h>> </s> <s> <<ṍ>> </s> <s> <<ṍ>> </s> <s> <<ʔ>> </s> <s> <<ĩ>> </s> <s> <<ʔ>> </s> <s> <<t>> </s> <s> <<s>> </s> <s> <<i>> </s> |
-| Ocaina-144_snake-3 | Ocaina | 144_snake | tʲorooʔo | <s> <<t>> </s> <s> <<ʲ>> </s> <s> <<o>> </s> <s> <<r>> </s> <s> <<o>> </s> <s> <<o>> </s> <s> <<ʔ>> </s> <s> <<o>> </s> |
-| Ocaina-152_star-1 | Ocaina | 152_star | oʔxóóʔtʲo | <s> <<o>> </s> <s> <<ʔ>> </s> <s> <<x>> </s> <s> <<ó>> </s> <s> <<ó>> </s> <s> <<ʔ>> </s> <s> <<t>> </s> <s> <<ʲ>> </s> <s> <<o>> </s> |
-| Ocaina-153_stickofwood-1 | Ocaina | 153_stickofwood | diáátʲa | <s> <<d>> </s> <s> <<i>> </s> <s> <<á>> </s> <s> <<á>> </s> <s> <<t>> </s> <s> <<ʲ>> </s> a |
-| Ocaina-153_stickofwood-2 | Ocaina | 153_stickofwood | dʲatʲooɸo | <s> <<d>> </s> <s> <<ʲ>> </s> a <s> <<t>> </s> <s> <<ʲ>> </s> <s> <<o>> </s> <s> <<o>> </s> <s> <<ɸ>> </s> <s> <<o>> </s> |
-| Ocaina-153_stickofwood-3 | Ocaina | 153_stickofwood | am̥ɯ̃ɯ̃ɲ̥a | a <s> <<m>> </s> <s> <<̥>> </s> <s> <<ɯ>> </s> <s> <<̃>> </s> <s> <<ɯ>> </s> <s> <<̃>> </s> <s> <<ɲ>> </s> <s> <<̥>> </s> a |
-| Ocaina-154_stone-1 | Ocaina | 154_stone | gotɯ́ɯ́ʔxo | <s> <<g>> </s> <s> <<o>> </s> <s> <<t>> </s> <s> <<ɯ>> </s> <s> <<́>> </s> <s> <<ɯ>> </s> <s> <<́>> </s> <s> <<ʔ>> </s> <s> <<x>> </s> <s> <<o>> </s> |
-| Ocaina-157_sun-1 | Ocaina | 157_sun | nɯ́ɯ́na | <s> <<n>> </s> <s> <<ɯ>> </s> <s> <<́>> </s> <s> <<ɯ>> </s> <s> <<́>> </s> <s> <<n>> </s> a |
-| Ocaina-160_tail-1 | Ocaina | 160_tail | oʔoo | <s> <<o>> </s> <s> <<ʔ>> </s> <s> <<o>> </s> <s> <<o>> </s> |
-| Ocaina-168_thou-1 | Ocaina | 168_thou | õ | <s> <<õ>> </s> |
-| Ocaina-168_thou-2 | Ocaina | 168_thou | õɯ̃ | <s> <<õ>> </s> <s> <<ɯ>> </s> <s> <<̃>> </s> |
-| Ocaina-168_thou-3 | Ocaina | 168_thou | o | <s> <<o>> </s> |
-| Ocaina-169_three-1 | Ocaina | 169_three | han̥ããmaʔtʲáámaʔ | <s> <<h>> </s> a <s> <<n>> </s> <s> <<̥>> </s> <s> <<ã>> </s> <s> <<ã>> </s> <s> <<m>> </s> a <s> <<ʔ>> </s> <s> <<t>> </s> <s> <<ʲ>> </s> <s> <<á>> </s> <s> <<á>> </s> <s> <<m>> </s> a <s> <<ʔ>> </s> |
-| Ocaina-16_blood-1 | Ocaina | 16_blood | tsihĩ́ĩ́ | <s> <<t>> </s> <s> <<s>> </s> <s> <<i>> </s> <s> <<h>> </s> <s> <<ĩ>> </s> <s> <<́>> </s> <s> <<ĩ>> </s> <s> <<́>> </s> |
-| Ocaina-172_tongue-1 | Ocaina | 172_tongue | hĩɲṍṍʔɸɯ | <s> <<h>> </s> <s> <<ĩ>> </s> <s> <<ɲ>> </s> <s> <<ṍ>> </s> <s> <<ṍ>> </s> <s> <<ʔ>> </s> <s> <<ɸ>> </s> <s> <<ɯ>> </s> |
-| Ocaina-173_toothfrontratherthanmolar-1 | Ocaina | 173_toothfrontratherthanmolar | aʔtiiʔtʲo | a <s> <<ʔ>> </s> <s> <<t>> </s> <s> <<i>> </s> <s> <<i>> </s> <s> <<ʔ>> </s> <s> <<t>> </s> <s> <<ʲ>> </s> <s> <<o>> </s> |
-| Ocaina-174_tree-1 | Ocaina | 174_tree | am̥ɯ̃ɯ̃ɲ̥a | a <s> <<m>> </s> <s> <<̥>> </s> <s> <<ɯ>> </s> <s> <<̃>> </s> <s> <<ɯ>> </s> <s> <<̃>> </s> <s> <<ɲ>> </s> <s> <<̥>> </s> a |
-| Ocaina-176_two-1 | Ocaina | 176_two | han̥aa | <s> <<h>> </s> a <s> <<n>> </s> <s> <<̥>> </s> a a |
-| Ocaina-176_two-2 | Ocaina | 176_two | han̥aamaʔ | <s> <<h>> </s> a <s> <<n>> </s> <s> <<̥>> </s> a a <s> <<m>> </s> a <s> <<ʔ>> </s> |
-| Ocaina-182_we-1 | Ocaina | 182_we | xa | <s> <<x>> </s> a |
-| Ocaina-182_we-2 | Ocaina | 182_we | xaho | <s> <<x>> </s> a <s> <<h>> </s> <s> <<o>> </s> |
-| Ocaina-182_we-3 | Ocaina | 182_we | xo | <s> <<x>> </s> <s> <<o>> </s> |
-| Ocaina-18_bone-1 | Ocaina | 18_bone | ɲõʔṍṍʔkoβo | <s> <<ɲ>> </s> <s> <<õ>> </s> <s> <<ʔ>> </s> <s> <<ṍ>> </s> <s> <<ṍ>> </s> <s> <<ʔ>> </s> <s> <<k>> </s> <s> <<o>> </s> <s> <<β>> </s> <s> <<o>> </s> |
-| Ocaina-191_wind-1 | Ocaina | 191_wind | hɯβóódʲo | <s> <<h>> </s> <s> <<ɯ>> </s> <s> <<β>> </s> <s> <<ó>> </s> <s> <<ó>> </s> <s> <<d>> </s> <s> <<ʲ>> </s> <s> <<o>> </s> |
-| Ocaina-191_wind-2 | Ocaina | 191_wind | hɯβṍṍ | <s> <<h>> </s> <s> <<ɯ>> </s> <s> <<β>> </s> <s> <<ṍ>> </s> <s> <<ṍ>> </s> |
-| Ocaina-195_woman-1 | Ocaina | 195_woman | maami | <s> <<m>> </s> a a <s> <<m>> </s> <s> <<i>> </s> |
-| Ocaina-22_cloud-1 | Ocaina | 22_cloud | haʔɸííʔo | <s> <<h>> </s> a <s> <<ʔ>> </s> <s> <<ɸ>> </s> <s> <<í>> </s> <s> <<í>> </s> <s> <<ʔ>> </s> <s> <<o>> </s> |
-| Ocaina-22_cloud-2 | Ocaina | 22_cloud | haʔɸiʔojíína | <s> <<h>> </s> a <s> <<ʔ>> </s> <s> <<ɸ>> </s> <s> <<i>> </s> <s> <<ʔ>> </s> <s> <<o>> </s> <s> <<j>> </s> <s> <<í>> </s> <s> <<í>> </s> <s> <<n>> </s> a |
-| Ocaina-22_cloud-3 | Ocaina | 22_cloud | tsohóʔɯʔxa | <s> <<t>> </s> <s> <<s>> </s> <s> <<o>> </s> <s> <<h>> </s> <s> <<ó>> </s> <s> <<ʔ>> </s> <s> <<ɯ>> </s> <s> <<ʔ>> </s> <s> <<x>> </s> a |
-| Ocaina-27_dayoppositeofnightratherthantimemeasure-1 | Ocaina | 27_dayoppositeofnightratherthantimemeasure | mooɲ̥a | <s> <<m>> </s> <s> <<o>> </s> <s> <<o>> </s> <s> <<ɲ>> </s> <s> <<̥>> </s> a |
-| Ocaina-27_dayoppositeofnightratherthantimemeasure-2 | Ocaina | 27_dayoppositeofnightratherthantimemeasure | moɲ̥amó | <s> <<m>> </s> <s> <<o>> </s> <s> <<ɲ>> </s> <s> <<̥>> </s> a <s> <<m>> </s> <s> <<ó>> </s> |
-| Ocaina-31_dog-1 | Ocaina | 31_dog | hõʔxo | <s> <<h>> </s> <s> <<õ>> </s> <s> <<ʔ>> </s> <s> <<x>> </s> <s> <<o>> </s> |
-| Ocaina-36_ear-1 | Ocaina | 36_ear | xoɲõõ | <s> <<x>> </s> <s> <<o>> </s> <s> <<ɲ>> </s> <s> <<õ>> </s> <s> <<õ>> </s> |
-| Ocaina-37_earthsoil-1 | Ocaina | 37_earthsoil | aɲ̥õõʔɯ̃ | a <s> <<ɲ>> </s> <s> <<̥>> </s> <s> <<õ>> </s> <s> <<õ>> </s> <s> <<ʔ>> </s> <s> <<ɯ>> </s> <s> <<̃>> </s> |
-| Ocaina-40_eye-1 | Ocaina | 40_eye | ohɯ́ɯ́ | <s> <<o>> </s> <s> <<h>> </s> <s> <<ɯ>> </s> <s> <<́>> </s> <s> <<ɯ>> </s> <s> <<́>> </s> |
-| Ocaina-44_father-1 | Ocaina | 44_father | mõõ | <s> <<m>> </s> <s> <<õ>> </s> <s> <<õ>> </s> |
-| Ocaina-44_father-2 | Ocaina | 44_father | mõõhõ | <s> <<m>> </s> <s> <<õ>> </s> <s> <<õ>> </s> <s> <<h>> </s> <s> <<õ>> </s> |
-| Ocaina-46_featherlargerfeathersratherthandown-1 | Ocaina | 46_featherlargerfeathersratherthandown | hɯxaaro | <s> <<h>> </s> <s> <<ɯ>> </s> <s> <<x>> </s> a a <s> <<r>> </s> <s> <<o>> </s> |
-| Ocaina-49_fire-1 | Ocaina | 49_fire | tʲaaro | <s> <<t>> </s> <s> <<ʲ>> </s> a a <s> <<r>> </s> <s> <<o>> </s> |
-| Ocaina-4_ashes-1 | Ocaina | 4_ashes | oʔtiiʔi | <s> <<o>> </s> <s> <<ʔ>> </s> <s> <<t>> </s> <s> <<i>> </s> <s> <<i>> </s> <s> <<ʔ>> </s> <s> <<i>> </s> |
-| Ocaina-50_fish-1 | Ocaina | 50_fish | ĩhããm̥a | <s> <<ĩ>> </s> <s> <<h>> </s> <s> <<ã>> </s> <s> <<ã>> </s> <s> <<m>> </s> <s> <<̥>> </s> a |
-| Ocaina-51_five-1 | Ocaina | 51_five | tʲaʔɸɯ́ɯ́ɸoroʔ | <s> <<t>> </s> <s> <<ʲ>> </s> a <s> <<ʔ>> </s> <s> <<ɸ>> </s> <s> <<ɯ>> </s> <s> <<́>> </s> <s> <<ɯ>> </s> <s> <<́>> </s> <s> <<ɸ>> </s> <s> <<o>> </s> <s> <<r>> </s> <s> <<o>> </s> <s> <<ʔ>> </s> |
-| Ocaina-54_flower-1 | Ocaina | 54_flower | tsĩ́ĩ́ | <s> <<t>> </s> <s> <<s>> </s> <s> <<ĩ>> </s> <s> <<́>> </s> <s> <<ĩ>> </s> <s> <<́>> </s> |
-| Ocaina-57_foot-1 | Ocaina | 57_foot | ɯʔjóó | <s> <<ɯ>> </s> <s> <<ʔ>> </s> <s> <<j>> </s> <s> <<ó>> </s> <s> <<ó>> </s> |
-| Ocaina-57_foot-2 | Ocaina | 57_foot | ɯʔjóóga | <s> <<ɯ>> </s> <s> <<ʔ>> </s> <s> <<j>> </s> <s> <<ó>> </s> <s> <<ó>> </s> <s> <<g>> </s> a |
-| Ocaina-58_four-1 | Ocaina | 58_four | nahɯ̃ʔxanó | <s> <<n>> </s> a <s> <<h>> </s> <s> <<ɯ>> </s> <s> <<̃>> </s> <s> <<ʔ>> </s> <s> <<x>> </s> a <s> <<n>> </s> <s> <<ó>> </s> |
-| Ocaina-61_good-1 | Ocaina | 61_good | ɸṍhɯ̃ | <s> <<ɸ>> </s> <s> <<ṍ>> </s> <s> <<h>> </s> <s> <<ɯ>> </s> <s> <<̃>> </s> |
-| Ocaina-62_grass-1 | Ocaina | 62_grass | tʲohã́ã́ | <s> <<t>> </s> <s> <<ʲ>> </s> <s> <<o>> </s> <s> <<h>> </s> <s> <<ã>> </s> <s> <<́>> </s> <s> <<ã>> </s> <s> <<́>> </s> |
-| Ocaina-62_grass-2 | Ocaina | 62_grass | tʲohã́ã́hã | <s> <<t>> </s> <s> <<ʲ>> </s> <s> <<o>> </s> <s> <<h>> </s> <s> <<ã>> </s> <s> <<́>> </s> <s> <<ã>> </s> <s> <<́>> </s> <s> <<h>> </s> <s> <<ã>> </s> |
-| Ocaina-66_hand-1 | Ocaina | 66_hand | on̥õõ | <s> <<o>> </s> <s> <<n>> </s> <s> <<̥>> </s> <s> <<õ>> </s> <s> <<õ>> </s> |
-| Ocaina-66_hand-2 | Ocaina | 66_hand | on̥õõpo | <s> <<o>> </s> <s> <<n>> </s> <s> <<̥>> </s> <s> <<õ>> </s> <s> <<õ>> </s> <s> <<p>> </s> <s> <<o>> </s> |
-| Ocaina-67_he-1 | Ocaina | 67_he | aʔiim̥a | a <s> <<ʔ>> </s> <s> <<i>> </s> <s> <<i>> </s> <s> <<m>> </s> <s> <<̥>> </s> a |
-| Ocaina-67_he-2 | Ocaina | 67_he | ɯɯm̥a | <s> <<ɯ>> </s> <s> <<ɯ>> </s> <s> <<m>> </s> <s> <<̥>> </s> a |
-| Ocaina-67_he-3 | Ocaina | 67_he | ĩĩbã | <s> <<ĩ>> </s> <s> <<ĩ>> </s> <s> <<b>> </s> <s> <<ã>> </s> |
-| Ocaina-67_he-4 | Ocaina | 67_he | ha | <s> <<h>> </s> a |
-| Ocaina-68_head-1 | Ocaina | 68_head | ooʔɸo | <s> <<o>> </s> <s> <<o>> </s> <s> <<ʔ>> </s> <s> <<ɸ>> </s> <s> <<o>> </s> |
-| Ocaina-6_backpersons-1 | Ocaina | 6_backpersons | hɯɯʔxo | <s> <<h>> </s> <s> <<ɯ>> </s> <s> <<ɯ>> </s> <s> <<ʔ>> </s> <s> <<x>> </s> <s> <<o>> </s> |
-| Ocaina-6_backpersons-2 | Ocaina | 6_backpersons | hɯɯʔxomó | <s> <<h>> </s> <s> <<ɯ>> </s> <s> <<ɯ>> </s> <s> <<ʔ>> </s> <s> <<x>> </s> <s> <<o>> </s> <s> <<m>> </s> <s> <<ó>> </s> |
-| Ocaina-70_heart-1 | Ocaina | 70_heart | xomɯ́ɯ́m̥õti | <s> <<x>> </s> <s> <<o>> </s> <s> <<m>> </s> <s> <<ɯ>> </s> <s> <<́>> </s> <s> <<ɯ>> </s> <s> <<́>> </s> <s> <<m>> </s> <s> <<̥>> </s> <s> <<õ>> </s> <s> <<t>> </s> <s> <<i>> </s> |
-| Ocaina-77_husband-1 | Ocaina | 77_husband | õõna | <s> <<õ>> </s> <s> <<õ>> </s> <s> <<n>> </s> a |
-| Ocaina-78_i-1 | Ocaina | 78_i | xõ | <s> <<x>> </s> <s> <<õ>> </s> |
-| Ocaina-78_i-2 | Ocaina | 78_i | xõɯ̃ | <s> <<x>> </s> <s> <<õ>> </s> <s> <<ɯ>> </s> <s> <<̃>> </s> |
-| Ocaina-84_lake-1 | Ocaina | 84_lake | hõʔã́ã́hĩ | <s> <<h>> </s> <s> <<õ>> </s> <s> <<ʔ>> </s> <s> <<ã>> </s> <s> <<́>> </s> <s> <<ã>> </s> <s> <<́>> </s> <s> <<h>> </s> <s> <<ĩ>> </s> |
-| Ocaina-86_leaf-1 | Ocaina | 86_leaf | opaaβi | <s> <<o>> </s> <s> <<p>> </s> a a <s> <<β>> </s> <s> <<i>> </s> |
-| Ocaina-88_leg-1 | Ocaina | 88_leg | odzákona | <s> <<o>> </s> <s> <<d>> </s> <s> <<z>> </s> <s> <<á>> </s> <s> <<k>> </s> <s> <<o>> </s> <s> <<n>> </s> a |
-| Ocaina-88_leg-2 | Ocaina | 88_leg | odzááβɯna | <s> <<o>> </s> <s> <<d>> </s> <s> <<z>> </s> <s> <<á>> </s> <s> <<á>> </s> <s> <<β>> </s> <s> <<ɯ>> </s> <s> <<n>> </s> a |
-| Ocaina-93_louse-1 | Ocaina | 93_louse | oʔɸóóxako | <s> <<o>> </s> <s> <<ʔ>> </s> <s> <<ɸ>> </s> <s> <<ó>> </s> <s> <<ó>> </s> <s> <<x>> </s> a <s> <<k>> </s> <s> <<o>> </s> |
-| Ocaina-97_mother-1 | Ocaina | 97_mother | ɯìɯìdzaʔ | <s> <<ɯ>> </s> <s> <<ì>> </s> <s> <<ɯ>> </s> <s> <<ì>> </s> <s> <<d>> </s> <s> <<z>> </s> a <s> <<ʔ>> </s> |
-| Ocaina-97_mother-2 | Ocaina | 97_mother | ã́ʔĩʔ | <s> <<ã>> </s> <s> <<́>> </s> <s> <<ʔ>> </s> <s> <<ĩ>> </s> <s> <<ʔ>> </s> |
-| Ocaina-99_mouth-1 | Ocaina | 99_mouth | ɸooɯ | <s> <<ɸ>> </s> <s> <<o>> </s> <s> <<o>> </s> <s> <<ɯ>> </s> |
+|:---------------------------------|:----------------|:---------------|:--------------|:------------------------------------------|
+| Candoshi-Shapra-118_righthand-1 | Candoshi-Shapra | 118_righthand | mpotsanoŋktʃi | <s> m.p </s> o ts a n o <s> ŋ.k </s> tʃ i |
+| Candoshi-Shapra-119_river-1 | Candoshi-Shapra | 119_river | koŋko | k o <s> ŋ.k </s> o |
+| Candoshi-Shapra-12_big-1 | Candoshi-Shapra | 12_big | kapoŋko | k a p o <s> ŋ.k </s> o |
+| Candoshi-Shapra-152_star-1 | Candoshi-Shapra | 152_star | tsaŋkatʃi | ts a <s> ŋ.k </s> a tʃ i |
+| Candoshi-Shapra-154_stone-1 | Candoshi-Shapra | 154_stone | patomptʃi | p a t o <s> m.p </s> tʃ i |
+| Candoshi-Shapra-159_toswim-1 | Candoshi-Shapra | 159_toswim | koɾiiŋkamaama | k o ɾ iː <s> ŋ.k </s> a m aː m a |
+| Candoshi-Shapra-165_thin-1 | Candoshi-Shapra | 165_thin | ʈʂaŋkitama | ʈʂ a <s> ŋ.k </s> i t a m a |
+| Candoshi-Shapra-176_two-1 | Candoshi-Shapra | 176_two | tsimpono | ts i <s> m.p </s> o n o |
+| Candoshi-Shapra-181_water-1 | Candoshi-Shapra | 181_water | koŋko | k o <s> ŋ.k </s> o |
+| Candoshi-Shapra-187_white-1 | Candoshi-Shapra | 187_white | mpooɾʃi | <s> m.p </s> oː ɾ ʃ i |
+| Candoshi-Shapra-191_wind-1 | Candoshi-Shapra | 191_wind | kamposoɾo | k a <s> m.p </s> o s o ɾ o |
+| Candoshi-Shapra-192_wing-1 | Candoshi-Shapra | 192_wing | waʂiitpoŋktʃi | w a ʂ iː t p o <s> ŋ.k </s> tʃ i |
+| Candoshi-Shapra-1_allofanumber-1 | Candoshi-Shapra | 1_allofanumber | itʃiŋkoɾo | i tʃ i <s> ŋ.k </s> o ɾ o |
+| Candoshi-Shapra-24_tocome-1 | Candoshi-Shapra | 24_tocome | nantaɾaŋkitʃ | n a n t a ɾ a <s> ŋ.k </s> i tʃ |
+| Candoshi-Shapra-35_dust-1 | Candoshi-Shapra | 35_dust | pojimpo | p o j i <s> m.p </s> o |
+| Candoshi-Shapra-38_toeat-1 | Candoshi-Shapra | 38_toeat | katoŋkomaama | k a t o <s> ŋ.k </s> o m aː m a |
+| Candoshi-Shapra-39_egg-1 | Candoshi-Shapra | 39_egg | wajaŋktʃi | w a j a <s> ŋ.k </s> tʃ i |
+| Candoshi-Shapra-63_green-1 | Candoshi-Shapra | 63_green | kawampana | k a w a <s> m.p </s> a n a |
+| Candoshi-Shapra-70_heart-1 | Candoshi-Shapra | 70_heart | maŋko | m a <s> ŋ.k </s> o |
+| Candoshi-Shapra-87_lefthand-1 | Candoshi-Shapra | 87_lefthand | mpaʂinoŋktʃi | <s> m.p </s> a ʂ i n o <s> ŋ.k </s> tʃ i |
 
-(100 rows)
+(20 rows)
 
 
