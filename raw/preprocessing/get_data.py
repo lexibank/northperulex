@@ -20,7 +20,7 @@ WHERE
 		AND
 	p.core_concept like "%Swadesh-1952-200%"
         AND
-    l.cldf_glottocode IN ("arab1268", "cand1248", "muni1258", "taus1253", "waor1240", "agua1253", "ocai1244", "mini1256", "muru1274", "nupo1240", "chay1248")
+    l.cldf_glottocode IN ("arab1268", "cand1248", "muni1258", "taus1253", "waor1240", "agua1253", "ocai1244", "mini1256", "muru1274", "nupo1240", "chay1248", "resi1247")
 ;
 """
 
@@ -93,6 +93,6 @@ for idx, doculect, gloss, form in tqdm.tqdm(db_boran.fetchall()):
         doculect, gloss, form
     ])
 
-with open('../prepared_data/lexibank.tsv', 'w', encoding="utf8", newline='') as f:
+with open('raw/prepared_data/lexibank.tsv', 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter="\t")
     writer.writerows(output_data)
