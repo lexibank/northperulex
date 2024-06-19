@@ -93,6 +93,6 @@ for idx, doculect, gloss, form in tqdm.tqdm(db_boran.fetchall()):
         doculect, gloss, form
     ])
 
-with open('raw/prepared_data/lexibank.tsv', 'w', encoding="utf8", newline='') as f:
+with open('../prepared_data/lexibank.tsv', 'w', encoding="utf8", newline='') as f:
     writer = csv.writer(f, delimiter="\t")
     writer.writerows(output_data)
