@@ -445,6 +445,814 @@ Ocaina-74_toholdinhand-1,,Ocaina,74_toholdinhand,an̥aaβɯta,an̥aaβɯta,a n̥
 Ocaina-35_dust-1,,Ocaina,35_dust,ahooʔɯβóra,ahooʔɯβóra,a h oː ʔ ɯ β !ó/o r a,,List2022,,,^ a h oo ʔ ɯ β ó r a $,Ocaina
 Ocaina-90_tolive-1,,Ocaina,90_tolive,hiitʲóra ĩĩ,hiitʲóra ĩĩ,h iː tʲ !ó/o r a + !ĩ/i !ĩ/i,,List2022,,,^ h ii tʲ ó r a + ĩ ĩ $,Ocaina
 Ocaina-122_rope-1,,Ocaina,122_rope,ɲííʔoɸe,ɲííʔoɸe,ɲ !íí/iː ʔ o ɸ e,,List2022,,,^ ɲ íí ʔ o ɸ e $,Ocaina
+Resigaro-172_tongue-1,,Resigaro,172_tongue,eʔhéepé,eʔhéepé,e ʔ h !ée/eː p !é/e,,List2022,,,^ e ʔ h ée p é $,Resigaro
+Resigaro-99_mouth-1,,Resigaro,99_mouth,nó,nó,n !ó/o,,List2022,,,^ n ó $,Resigaro
+Resigaro-173_toothfrontratherthanmolar-1,,Resigaro,173_toothfrontratherthanmolar,oné,oné,o n !é/e,,List2022,,,^ o n é $,Resigaro
+Resigaro-106_nose-1,,Resigaro,106_nose,hitákó,hitákó,h i t !á/a k !ó/o,,List2022,,,^ h i t á k ó $,Resigaro
+Resigaro-40_eye-1,,Resigaro,40_eye,ín̥iú,ín̥iú,!í/i n̥ i !ú/u,,List2022,,,^ í n̥ i ú $,Resigaro
+Resigaro-36_ear-1,,Resigaro,36_ear,henákó,henákó,h e n !á/a k !ó/o,,List2022,,,^ h e n á k ó $,Resigaro
+Resigaro-68_head-1,,Resigaro,68_head,híβeú,híβeú,h !í/i β e !ú/u,,List2022,,,^ h í β e ú $,Resigaro
+Resigaro-103_neck-1,,Resigaro,103_neck,iɲoʧʰí,iɲoʧʰí,i ɲ o tʃʰ !í/i,,List2022,,,^ i ɲ o ʧʰ í $,Resigaro
+Resigaro-10_belly-1,,Resigaro,10_belly,atʰéʔeemú,atʰéʔeemú,a tʰ !é/e ʔ eː m !ú/u,,List2022,,,^ a tʰ é ʔ ee m ú $,Resigaro
+Resigaro-6_backpersons-1,,Resigaro,6_backpersons,βán̥í,βán̥í,β !á/a n̥ !í/i,,List2022,,,^ β á n̥ í $,Resigaro
+Resigaro-66_hand-1,,Resigaro,66_hand,ké,ké,k !é/e,,List2022,,,^ k é $,Resigaro
+Resigaro-88_leg-1,,Resigaro,88_leg,ípʰíkuba,ípʰíkuba,!í/i pʰ !í/i k u b a,,List2022,,,^ í pʰ í k u b a $,Resigaro
+Resigaro-57_foot-1,,Resigaro,57_foot,hiiʔpú,hiiʔpú,h iː ʔ p !ú/u,,List2022,,,^ h ii ʔ p ú $,Resigaro
+Resigaro-18_bone-1,,Resigaro,18_bone,aápí,aápí,!aá/aː p !í/i,,List2022,,,^ aá p í $,Resigaro
+Resigaro-16_blood-1,,Resigaro,16_blood,iídú,iídú,!ií/iː d !ú/u,,List2022,,,^ ií d ú $,Resigaro
+Resigaro-70_heart-1,,Resigaro,70_heart,βáɸoú,βáɸoú,β !á/a ɸ o !ú/u,,List2022,,,^ β á ɸ o ú $,Resigaro
+Resigaro-195_woman-1,,Resigaro,195_woman,ináadó,ináadó,i n !áa/aː d !ó/o,,List2022,,,^ i n áa d ó $,Resigaro
+Resigaro-77_husband-1,,Resigaro,77_husband,ʤíigí,ʤíigí,dʒ !íi/iː g !í/i,,List2022,,,^ ʤ íi g í $,Resigaro
+Resigaro-190_wife-1,,Resigaro,190_wife,íní,íní,!í/i n !í/i,,List2022,,,^ í n í $,Resigaro
+Resigaro-44_father-1,,Resigaro,44_father,aáʔpe,aáʔpe,!aá/aː ʔ p e,,List2022,,,^ aá ʔ p e $,Resigaro
+Resigaro-97_mother-1,,Resigaro,97_mother,aáme,aáme,!aá/aː m e,,List2022,,,^ aá m e $,Resigaro
+Resigaro-108_old-1,,Resigaro,108_old,pʰaigí,pʰaigí,pʰ a i g !í/i,,List2022,,,^ pʰ a i g í $,Resigaro
+Resigaro-181_water-1,,Resigaro,181_water,hooní,hooní,h oː n !í/i,,List2022,,,^ h oo n í $,Resigaro
+Resigaro-119_river-1,,Resigaro,119_river,teéʔí,teéʔí,t !eé/eː ʔ !í/i,,List2022,,,^ t eé ʔ í $,Resigaro
+Resigaro-84_lake-1,,Resigaro,84_lake,húneú,húneú,h !ú/u n e !ú/u,,List2022,,,^ h ú n e ú $,Resigaro
+Resigaro-49_fire-1,,Resigaro,49_fire,ókóniigí,ókóniigí,!ó/o k !ó/o n iː g !í/i,,List2022,,,^ ó k ó n ii g í $,Resigaro
+Resigaro-4_ashes-1,,Resigaro,4_ashes,ókóniigiʤíhú,ókóniigiʤíhú,!ó/o k !ó/o n iː g i dʒ !í/i h !ú/u,,List2022,,,^ ó k ó n ii g i ʤ í h ú $,Resigaro
+Resigaro-7_baddeleteriousorunsuitable-1,,Resigaro,7_baddeleteriousorunsuitable,matsʰíβaʔnúʔ,matsʰíβaʔnúʔ,m a tsʰ !í/i β a ʔ n !ú/u ʔ,,List2022,,,^ m a tsʰ í β a ʔ n ú ʔ $,Resigaro
+Resigaro-142_smokeoffire-1,,Resigaro,142_smokeoffire,iítsʰú,iítsʰú,!ií/iː tsʰ !ú/u,,List2022,,,^ ií tsʰ ú $,Resigaro
+Resigaro-138_sky-1,,Resigaro,138_sky,háʔihí,háʔihí,h !á/a ʔ i h !í/i,,List2022,,,^ h á ʔ i h í $,Resigaro
+Resigaro-191_wind-1,,Resigaro,191_wind,koʧʰíiβú,koʧʰíiβú,k o tʃʰ !íi/iː β !ú/u,,List2022,,,^ k o ʧʰ íi β ú $,Resigaro
+Resigaro-157_sun-1,,Resigaro,157_sun,háʔí,háʔí,h !á/a ʔ !í/i,,List2022,,,^ h á ʔ í $,Resigaro
+Resigaro-152_star-1,,Resigaro,152_star,hiβíigí,hiβíigí,h i β !íi/iː g !í/i,,List2022,,,^ h i β íi g í $,Resigaro
+Resigaro-27_dayoppositeofnightratherthantimemeasure-1,,Resigaro,27_dayoppositeofnightratherthantimemeasure,heeʔkó,heeʔkó,h eː ʔ k !ó/o,,List2022,,,^ h ee ʔ k ó $,Resigaro
+Resigaro-105_night-1,,Resigaro,105_night,naapí,naapí,n aː p !í/i,,List2022,,,^ n aa p í $,Resigaro
+Resigaro-37_earthsoil-1,,Resigaro,37_earthsoil,hípohí,hípohí,h !í/i p o h !í/i,,List2022,,,^ h í p o h í $,Resigaro
+Resigaro-154_stone-1,,Resigaro,154_stone,βííʃiʔóú,βííʃiʔóú,β !íí/iː ʃ i ʔ !ó/o !ú/u,,List2022,,,^ β íí ʃ i ʔ ó ú $,Resigaro
+Resigaro-126_sand-1,,Resigaro,126_sand,koβééʔkoβéʔʤíhú,koβééʔkoβéʔʤíhú,k o β !éé/eː ʔ k o β !é/e ʔ dʒ !í/i h !ú/u,,List2022,,,^ k o β éé ʔ k o β é ʔ ʤ í h ú $,Resigaro
+Resigaro-31_dog-1,,Resigaro,31_dog,íiní,íiní,!íi/iː n !í/i,,List2022,,,^ íi n í $,Resigaro
+Resigaro-160_tail-1,,Resigaro,160_tail,tsʰíipí,tsʰíipí,tsʰ !íi/iː p !í/i,,List2022,,,^ tsʰ íi p í $,Resigaro
+Resigaro-144_snake-1,,Resigaro,144_snake,onáʔkó,onáʔkó,o n !á/a ʔ k !ó/o,,List2022,,,^ o n á ʔ k ó $,Resigaro
+Resigaro-13_bird-1,,Resigaro,13_bird,koʔpíidú,koʔpíidú,k o ʔ p !íi/iː d !ú/u,,List2022,,,^ k o ʔ p íi d ú $,Resigaro
+Resigaro-50_fish-1,,Resigaro,50_fish,ámoogí,ámoogí,!á/a m oː g !í/i,,List2022,,,^ á m oo g í $,Resigaro
+Resigaro-93_louse-1,,Resigaro,93_louse,netetsʰíʔó,netetsʰíʔó,n e t e tsʰ !í/i ʔ !ó/o,,List2022,,,^ n e t e tsʰ í ʔ ó $,Resigaro
+Resigaro-174_tree-1,,Resigaro,174_tree,aβáanaʔé,aβáanaʔé,a β !áa/aː n a ʔ !é/e,,List2022,,,^ a β áa n a ʔ é $,Resigaro
+Resigaro-86_leaf-1,,Resigaro,86_leaf,apánáʔaamí,apánáʔaamí,a p !á/a n !á/a ʔ aː m !í/i,,List2022,,,^ a p á n á ʔ aa m í $,Resigaro
+Resigaro-54_flower-1,,Resigaro,54_flower,giiβí,giiβí,g iː β !í/i,,List2022,,,^ g ii β í $,Resigaro
+Resigaro-124_torub-1,,Resigaro,124_torub,niíkú,niíkú,n !ií/iː k !ú/u,,List2022,,,^ n ií k ú $,Resigaro
+Resigaro-121_root-1,,Resigaro,121_root,tébaké,tébaké,t !é/e b a k !é/e,,List2022,,,^ t é b a k é $,Resigaro
+Resigaro-131_seed-1,,Resigaro,131_seed,hímiú,hímiú,h !í/i m i !ú/u,,List2022,,,^ h í m i ú $,Resigaro
+Resigaro-153_stickofwood-1,,Resigaro,153_stickofwood,aβáanaí,aβáanaí,a β !áa/aː n a !í/i,,List2022,,,^ a β áa n a í $,Resigaro
+Resigaro-62_grass-1,,Resigaro,62_grass,himiítsí,himiítsí,h i m !ií/iː td !í/i,,List2022,,,^ h i m ií ts í $,Resigaro
+Resigaro-46_featherlargerfeathersratherthandown-1,,Resigaro,46_featherlargerfeathersratherthandown,ʃakooʔgíʔó,ʃakooʔgíʔó,ʃ a k oː ʔ g !í/i ʔ !ó/o,,List2022,,,^ ʃ a k oo ʔ g í ʔ ó $,Resigaro
+Resigaro-125_salt-1,,Resigaro,125_salt,kanaamáʔo,kanaamáʔo,k a n aː m !á/a ʔ o,,List2022,,,^ k a n aa m á ʔ o $,Resigaro
+Resigaro-125_salt-2,,Resigaro,125_salt,iíβí,iíβí,!ií/iː β !í/i,,List2022,,,^ ií β í $,Resigaro
+Resigaro-109_one-1,,Resigaro,109_one,sagú,sagú,s a g !ú/u,,List2022,,,^ s a g ú $,Resigaro
+Resigaro-176_two-1,,Resigaro,176_two,migaakú,migaakú,m i g aː k !ú/u,,List2022,,,^ m i g aa k ú $,Resigaro
+Resigaro-169_three-1,,Resigaro,169_three,migaakúʔ sagúʔ,migaakúʔ sagúʔ,m i g aː k !ú/u ʔ + s a g !ú/u ʔ,,List2022,,,^ m i g aa k ú ʔ + s a g ú ʔ $,Resigaro
+Resigaro-58_four-1,,Resigaro,58_four,poʔtsááβágaahí,poʔtsááβágaahí,p o ʔ td !áá/aː β !á/a g aː h !í/i,,List2022,,,^ p o ʔ ts áá β á g aa h í $,Resigaro
+Resigaro-51_five-1,,Resigaro,51_five,sáʔosí,sáʔosí,s !á/a ʔ o s !í/i,,List2022,,,^ s á ʔ o s í $,Resigaro
+Resigaro-78_i-1,,Resigaro,78_i,n̥ó,n̥ó,n̥ !ó/o,,List2022,,,^ n̥ ó $,Resigaro
+Resigaro-168_thou-1,,Resigaro,168_thou,pʰú,pʰú,pʰ !ú/u,,List2022,,,^ pʰ ú $,Resigaro
+Resigaro-67_he-1,,Resigaro,67_he,tsú,tsú,td !ú/u,,List2022,,,^ ts ú $,Resigaro
+Resigaro-182_we-1,,Resigaro,182_we,ɸaʔá,ɸaʔá,ɸ a ʔ !á/a,,List2022,,,^ ɸ a ʔ á $,Resigaro
+Resigaro-182_we-2,,Resigaro,182_we,muuʔá,muuʔá,m uː ʔ !á/a,,List2022,,,^ m uu ʔ á $,Resigaro
+Resigaro-198_ye-1,,Resigaro,198_ye,haʔá,haʔá,h a ʔ !á/a,,List2022,,,^ h a ʔ á $,Resigaro
+Resigaro-163_they-1,,Resigaro,163_they,naʔá,naʔá,n a ʔ !á/a,,List2022,,,^ n a ʔ á $,Resigaro
+Resigaro-12_big-1,,Resigaro,12_big,ʤiʤa,ʤiʤa,dʒ i dʒ a,,List2022,,,^ ʤ i ʤ a $,Resigaro
+Resigaro-12_big-2,,Resigaro,12_big,kobú,kobú,k o b !ú/u,,List2022,,,^ k o b ú $,Resigaro
+Resigaro-140_small-1,,Resigaro,140_small,ooʤaʤáʔ,ooʤaʤáʔ,oː dʒ a dʒ !á/a ʔ,,List2022,,,^ oo ʤ a ʤ á ʔ $,Resigaro
+Resigaro-61_good-1,,Resigaro,61_good,kaʃóʔ,kaʃóʔ,k a ʃ !ó/o ʔ,,List2022,,,^ k a ʃ ó ʔ $,Resigaro
+Resigaro-187_white-1,,Resigaro,187_white,heɸííʔ,heɸííʔ,h e ɸ !íí/iː ʔ,,List2022,,,^ h e ɸ íí ʔ $,Resigaro
+Resigaro-15_black-1,,Resigaro,15_black,tsapʰóʔ,tsapʰóʔ,td a pʰ !ó/o ʔ,,List2022,,,^ ts a pʰ ó ʔ $,Resigaro
+Resigaro-22_cloud-1,,Resigaro,22_cloud,iítsʰú,iítsʰú,!ií/iː tsʰ !ú/u,,List2022,,,^ ií tsʰ ú $,Resigaro
+Resigaro-167_this-1,,Resigaro,167_this,giʔí,giʔí,g i ʔ !í/i,,List2022,,,^ g i ʔ í $,Resigaro
+Resigaro-167_this-2,,Resigaro,167_this,hí,hí,h !í/i,,List2022,,,^ h í $,Resigaro
+Resigaro-161_that-1,,Resigaro,161_that,giʔitʰé,giʔitʰé,g i ʔ i tʰ !é/e,,List2022,,,^ g i ʔ i tʰ é $,Resigaro
+Resigaro-161_that-2,,Resigaro,161_that,héʔe,héʔe,h !é/e ʔ e,,List2022,,,^ h é ʔ e $,Resigaro
+Resigaro-188_who-1,,Resigaro,188_who,kéení,kéení,k !ée/eː n !í/i,,List2022,,,^ k ée n í $,Resigaro
+Resigaro-184_what-1,,Resigaro,184_what,kóoní,kóoní,k !óo/oː n !í/i,,List2022,,,^ k óo n í $,Resigaro
+Resigaro-107_not-1,,Resigaro,107_not,nií,nií,n !ií/iː,,List2022,,,^ n ií $,Resigaro
+Resigaro-1_allofanumber-1,,Resigaro,1_allofanumber,pʰéʔtóʔ,pʰéʔtóʔ,pʰ !é/e ʔ t !ó/o ʔ,,List2022,,,^ pʰ é ʔ t ó ʔ $,Resigaro
+Resigaro-95_many-1,,Resigaro,95_many,an̥epúúʔ,an̥epúúʔ,a n̥ e p !úú/uː ʔ,,List2022,,,^ a n̥ e p úú ʔ $,Resigaro
+Resigaro-92_long-1,,Resigaro,92_long,tseinóʔ,tseinóʔ,td e i n !ó/o ʔ,,List2022,,,^ ts e i n ó ʔ $,Resigaro
+Resigaro-8_bark-1,,Resigaro,8_bark,daʔmí,daʔmí,d a ʔ m !í/i,,List2022,,,^ d a ʔ m í $,Resigaro
+Resigaro-96_meatflesh-1,,Resigaro,96_meatflesh,gíʔí,gíʔí,g !í/i ʔ !í/i,,List2022,,,^ g í ʔ í $,Resigaro
+Resigaro-39_egg-1,,Resigaro,39_egg,eéβeú,eéβeú,!eé/eː β e !ú/u,,List2022,,,^ eé β e ú $,Resigaro
+Resigaro-10_belly-2,,Resigaro,10_belly,iiʔʃaú,iiʔʃaú,iː ʔ ʃ a !ú/u,,List2022,,,^ ii ʔ ʃ a ú $,Resigaro
+Resigaro-91_liver-1,,Resigaro,91_liver,opáanú,opáanú,o p !áa/aː n !ú/u,,List2022,,,^ o p áa n ú $,Resigaro
+Resigaro-32_todrink-1,,Resigaro,32_todrink,iʔdú,iʔdú,i ʔ d !ú/u,,List2022,,,^ i ʔ d ú $,Resigaro
+Resigaro-38_toeat-1,,Resigaro,38_toeat,aʔmitú,aʔmitú,a ʔ m i t !ú/u,,List2022,,,^ a ʔ m i t ú $,Resigaro
+Resigaro-14_tobite-1,,Resigaro,14_tobite,em̥ú,em̥ú,e m̥ !ú/u,,List2022,,,^ e m̥ ú $,Resigaro
+Resigaro-130_see-1,,Resigaro,130_see,tsʰéní,tsʰéní,tsʰ !é/e n !í/i,,List2022,,,^ tsʰ é n í $,Resigaro
+Resigaro-69_tohear-1,,Resigaro,69_tohear,héʔmú,héʔmú,h !é/e ʔ m !ú/u,,List2022,,,^ h é ʔ m ú $,Resigaro
+Resigaro-83_toknowfacts-1,,Resigaro,83_toknowfacts,manaá tóʔ,manaá tóʔ,m a n !aá/aː + t !ó/o ʔ,,List2022,,,^ m a n aá + t ó ʔ $,Resigaro
+Resigaro-139_sleep-1,,Resigaro,139_sleep,ímú,ímú,!í/i m !ú/u,,List2022,,,^ í m ú $,Resigaro
+Resigaro-28_todie-1,,Resigaro,28_todie,kainée ʤú,kainée ʤú,k a i n !ée/eː + dʒ !ú/u,,List2022,,,^ k a i n ée + ʤ ú $,Resigaro
+Resigaro-82_tokill-1,,Resigaro,82_tokill,kainée kʰú,kainée kʰú,k a i n !ée/eː + kʰ !ú/u,,List2022,,,^ k a i n ée + kʰ ú $,Resigaro
+Resigaro-159_toswim-1,,Resigaro,159_toswim,oʔβápú,oʔβápú,o ʔ β !á/a p !ú/u,,List2022,,,^ o ʔ β á p ú $,Resigaro
+Resigaro-55_tofly-1,,Resigaro,55_tofly,adú,adú,a d !ú/u,,List2022,,,^ a d ú $,Resigaro
+Resigaro-178_towalk-1,,Resigaro,178_towalk,híʔβu,híʔβu,h !í/i ʔ β u,,List2022,,,^ h í ʔ β u $,Resigaro
+Resigaro-24_tocome-1,,Resigaro,24_tocome,tsaʔnú,tsaʔnú,td a ʔ n !ú/u,,List2022,,,^ ts a ʔ n ú $,Resigaro
+Resigaro-60_togive-1,,Resigaro,60_togive,aaʔní,aaʔní,aː ʔ n !í/i,,List2022,,,^ aa ʔ n í $,Resigaro
+Resigaro-127_say-1,,Resigaro,127_say,kemú,kemú,k e m !ú/u,,List2022,,,^ k e m ú $,Resigaro
+Resigaro-116_red-1,,Resigaro,116_red,kedáβííʔ,kedáβííʔ,k e d !á/a β !íí/iː ʔ,,List2022,,,^ k e d á β íí ʔ $,Resigaro
+Resigaro-63_green-1,,Resigaro,63_green,ipogíʔ,ipogíʔ,i p o g !í/i ʔ,,List2022,,,^ i p o g í ʔ $,Resigaro
+Resigaro-104_new-1,,Resigaro,104_new,beʔé,beʔé,b e ʔ !é/e,,List2022,,,^ b e ʔ é $,Resigaro
+Resigaro-33_drysubstance-1,,Resigaro,33_drysubstance,makádú,makádú,m a k !á/a d !ú/u,,List2022,,,^ m a k á d ú $,Resigaro
+Resigaro-100_name-1,,Resigaro,100_name,iiβú,iiβú,iː β !ú/u,,List2022,,,^ ii β ú $,Resigaro
+Resigaro-75_how-1,,Resigaro,75_how,hidéʔhee,hidéʔhee,h i d !é/e ʔ h eː,,List2022,,,^ h i d é ʔ h ee $,Resigaro
+Resigaro-185_when-1,,Resigaro,185_when,hideeʔtsí,hideeʔtsí,h i d eː ʔ td !í/i,,List2022,,,^ h i d ee ʔ ts í $,Resigaro
+Resigaro-186_where-1,,Resigaro,186_where,henéé,henéé,h e n !éé/eː,,List2022,,,^ h e n éé $,Resigaro
+Resigaro-72_here-1,,Resigaro,72_here,βeʔi,βeʔi,β e ʔ i,,List2022,,,^ β e ʔ i $,Resigaro
+Resigaro-162_there-1,,Resigaro,162_there,neé,neé,n !eé/eː,,List2022,,,^ n eé $,Resigaro
+Resigaro-110_other-1,,Resigaro,110_other,apáapí,apáapí,a p !áa/aː p !í/i,,List2022,,,^ a p áa p í $,Resigaro
+Resigaro-47_few-1,,Resigaro,47_few,ooʤaʤáʔ,ooʤaʤáʔ,oː dʒ a dʒ !á/a ʔ,,List2022,,,^ oo ʤ a ʤ á ʔ $,Resigaro
+Resigaro-56_fog-1,,Resigaro,56_fog,iítsʰú,iítsʰú,!ií/iː tsʰ !ú/u,,List2022,,,^ ií tsʰ ú $,Resigaro
+Resigaro-53_toflow-1,,Resigaro,53_toflow,oʔkón̥ó,oʔkón̥ó,o ʔ k !ó/o n̥ !ó/o,,List2022,,,^ o ʔ k ó n̥ ó $,Resigaro
+Resigaro-129_seaocean-1,,Resigaro,129_seaocean,témooú,témooú,t !é/e m oː !ú/u,,List2022,,,^ t é m oo ú $,Resigaro
+Resigaro-183_wet-1,,Resigaro,183_wet,patsʰánuʔ,patsʰánuʔ,p a tsʰ !á/a n u ʔ,,List2022,,,^ p a tsʰ á n u ʔ $,Resigaro
+Resigaro-180_towash-1,,Resigaro,180_towash,hipu,hipu,h i p u,,List2022,,,^ h i p u $,Resigaro
+Resigaro-197_worm-1,,Resigaro,197_worm,naʔí,naʔí,n a ʔ !í/i,,List2022,,,^ n a ʔ í $,Resigaro
+Resigaro-197_worm-2,,Resigaro,197_worm,omáapí,omáapí,o m !áa/aː p !í/i,,List2022,,,^ o m áa p í $,Resigaro
+Resigaro-192_wing-1,,Resigaro,192_wing,aʔnáapí,aʔnáapí,a ʔ n !áa/aː p !í/i,,List2022,,,^ a ʔ n áa p í $,Resigaro
+Resigaro-194_withaccompanying-1,,Resigaro,194_withaccompanying,neé,neé,n !eé/eː,,List2022,,,^ n eé $,Resigaro
+Resigaro-81_in-1,,Resigaro,81_in,gikó,gikó,g i k !ó/o,,List2022,,,^ g i k ó $,Resigaro
+Resigaro-5_at-1,,Resigaro,5_at,ná,ná,n !á/a,,List2022,,,^ n á $,Resigaro
+Resigaro-80_if-1,,Resigaro,80_if,tsíá,tsíá,td !í/i !á/a,,List2022,,,^ ts í á $,Resigaro
+Resigaro-79_ice-1,,Resigaro,79_ice,hooníʔiʔβotʰoonú,hooníʔiʔβotʰoonú,h oː n !í/i ʔ i ʔ β o tʰ oː n !ú/u,,List2022,,,^ h oo n í ʔ i ʔ β o tʰ oo n ú $,Resigaro
+Resigaro-59_tofreeze-1,,Resigaro,59_tofreeze,taa ʤú,taa ʤú,t aː + dʒ !ú/u,,List2022,,,^ t aa + ʤ ú $,Resigaro
+Resigaro-21_childyoungpersonratherthanasrelationshipterm-1,,Resigaro,21_childyoungpersonratherthanasrelationshipterm,ʤaánú,ʤaánú,dʒ !aá/aː n !ú/u,,List2022,,,^ ʤ aá n ú $,Resigaro
+Resigaro-26_tocut-1,,Resigaro,26_tocut,tuu kʰú,tuu kʰú,t uː + kʰ !ú/u,,List2022,,,^ t uu + kʰ ú $,Resigaro
+Resigaro-189_wide-1,,Resigaro,189_wide,ʤíʤaagú,ʤíʤaagú,dʒ !í/i dʒ aː g !ú/u,,List2022,,,^ ʤ í ʤ aa g ú $,Resigaro
+Resigaro-101_narrow-1,,Resigaro,101_narrow,ooʤaʤáʔ,ooʤaʤáʔ,oː dʒ a dʒ !á/a ʔ,,List2022,,,^ oo ʤ a ʤ á ʔ $,Resigaro
+Resigaro-42_far-1,,Resigaro,42_far,ʤaβákúʔ,ʤaβákúʔ,dʒ a β !á/a k !ú/u ʔ,,List2022,,,^ ʤ a β á k ú ʔ $,Resigaro
+Resigaro-102_near-1,,Resigaro,102_near,aiʤán̥úʔ,aiʤán̥úʔ,a i dʒ !á/a n̥ !ú/u ʔ,,List2022,,,^ a i ʤ á n̥ ú ʔ $,Resigaro
+Resigaro-164_thick-1,,Resigaro,164_thick,ʤíʤaagí,ʤíʤaagí,dʒ !í/i dʒ aː g !í/i,,List2022,,,^ ʤ í ʤ aa g í $,Resigaro
+Resigaro-165_thin-1,,Resigaro,165_thin,ooʤa,ooʤa,oː dʒ a,,List2022,,,^ oo ʤ a $,Resigaro
+Resigaro-134_short-1,,Resigaro,134_short,matsʰóʔ,matsʰóʔ,m a tsʰ !ó/o ʔ,,List2022,,,^ m a tsʰ ó ʔ $,Resigaro
+Resigaro-71_heavy-1,,Resigaro,71_heavy,hiʒan̥iiʔ,hiʒan̥iiʔ,h i ʒ a n̥ iː ʔ,,List2022,,,^ h i ʒ a n̥ ii ʔ $,Resigaro
+Resigaro-34_dullknife-1,,Resigaro,34_dullknife,nií tsóʔβiiʔ,nií tsóʔβiiʔ,n !ií/iː + td !ó/o ʔ β iː ʔ,,List2022,,,^ n ií + ts ó ʔ β ii ʔ $,Resigaro
+Resigaro-133_sharpasknife-1,,Resigaro,133_sharpasknife,tsóʔβiiʔ tsú,tsóʔβiiʔ tsú,td !ó/o ʔ β iː ʔ + td !ú/u,,List2022,,,^ ts ó ʔ β ii ʔ + ts ú $,Resigaro
+Resigaro-30_dirty-1,,Resigaro,30_dirty,tsoʔkóʔ,tsoʔkóʔ,td o ʔ k !ó/o ʔ,,List2022,,,^ ts o ʔ k ó ʔ $,Resigaro
+Resigaro-123_rottenespeciallylog-1,,Resigaro,123_rottenespeciallylog,amaaʔkátsʰí,amaaʔkátsʰí,a m aː ʔ k !á/a tsʰ !í/i,,List2022,,,^ a m aa ʔ k á tsʰ í $,Resigaro
+Resigaro-143_smooth-1,,Resigaro,143_smooth,heʔníʔ,heʔníʔ,h e ʔ n !í/i ʔ,,List2022,,,^ h e ʔ n í ʔ $,Resigaro
+Resigaro-155_straight-1,,Resigaro,155_straight,tsíʔkíʔ,tsíʔkíʔ,td !í/i ʔ k !í/i ʔ,,List2022,,,^ ts í ʔ k í ʔ $,Resigaro
+Resigaro-117_rightcorrect-1,,Resigaro,117_rightcorrect,hameeʔn̥áʔoo,hameeʔn̥áʔoo,h a m eː ʔ n̥ !á/a ʔ oː,,List2022,,,^ h a m ee ʔ n̥ á ʔ oo $,Resigaro
+Resigaro-87_lefthand-1,,Resigaro,87_lefthand,apáʔmíʔosí,apáʔmíʔosí,a p !á/a ʔ m !í/i ʔ o s !í/i,,List2022,,,^ a p á ʔ m í ʔ o s í $,Resigaro
+Resigaro-118_righthand-1,,Resigaro,118_righthand,kaáʃoʔosí,kaáʃoʔosí,k !aá/aː ʃ o ʔ o s !í/i,,List2022,,,^ k aá ʃ o ʔ o s í $,Resigaro
+Resigaro-113_topull-1,,Resigaro,113_topull,kʰaʔ kʰú,kʰaʔ kʰú,kʰ a ʔ + kʰ !ú/u,,List2022,,,^ kʰ a ʔ + kʰ ú $,Resigaro
+Resigaro-114_topush-1,,Resigaro,114_topush,ɸíi kʰú,ɸíi kʰú,ɸ !íi/iː + kʰ !ú/u,,List2022,,,^ ɸ íi + kʰ ú $,Resigaro
+Resigaro-170_tothrow-1,,Resigaro,170_tothrow,píʔko,píʔko,p !í/i ʔ k o,,List2022,,,^ p í ʔ k o $,Resigaro
+Resigaro-148_tosplit-1,,Resigaro,148_tosplit,kʰoβáʔ kʰú,kʰoβáʔ kʰú,kʰ o β !á/a ʔ + kʰ !ú/u,,List2022,,,^ kʰ o β á ʔ + kʰ ú $,Resigaro
+Resigaro-29_todig-1,,Resigaro,29_todig,híʔʒo,híʔʒo,h !í/i ʔ ʒ o,,List2022,,,^ h í ʔ ʒ o $,Resigaro
+Resigaro-171_totie-1,,Resigaro,171_totie,hipon̥ú,hipon̥ú,h i p o n̥ !ú/u,,List2022,,,^ h i p o n̥ ú $,Resigaro
+Resigaro-132_tosew-1,,Resigaro,132_tosew,tsanin̥ú,tsanin̥ú,td a n i n̥ !ú/u,,List2022,,,^ ts a n i n̥ ú $,Resigaro
+Resigaro-41_tofalldropratherthantopple-1,,Resigaro,41_tofalldropratherthantopple,haʔβanú,haʔβanú,h a ʔ β a n !ú/u,,List2022,,,^ h a ʔ β a n ú $,Resigaro
+Resigaro-158_toswell-1,,Resigaro,158_toswell,fóo kʰú,fóo kʰú,f !óo/oː + kʰ !ú/u,,List2022,,,^ f óo + kʰ ú $,Resigaro
+Resigaro-166_tothink-1,,Resigaro,166_tothink,βáfó hénotú,βáfó hénotú,β !á/a f !ó/o + h !é/e n o t !ú/u,,List2022,,,^ β á f ó + h é n o t ú $,Resigaro
+Resigaro-135_tosing-1,,Resigaro,135_tosing,hadáʔpú,hadáʔpú,h a d !á/a ʔ p !ú/u,,List2022,,,^ h a d á ʔ p ú $,Resigaro
+Resigaro-141_tosmellperceiveodor-1,,Resigaro,141_tosmellperceiveodor,siiʔ kʰú,siiʔ kʰú,s iː ʔ + kʰ !ú/u,,List2022,,,^ s ii ʔ + kʰ ú $,Resigaro
+Resigaro-177_tovomit-1,,Resigaro,177_tovomit,iʔkan̥ú,iʔkan̥ú,i ʔ k a n̥ !ú/u,,List2022,,,^ i ʔ k a n̥ ú $,Resigaro
+Resigaro-156_tosuck-1,,Resigaro,156_tosuck,sooʔ kʰú,sooʔ kʰú,s oː ʔ + kʰ !ú/u,,List2022,,,^ s oo ʔ + kʰ ú $,Resigaro
+Resigaro-17_toblowofwind-1,,Resigaro,17_toblowofwind,ɸóo kʰú,ɸóo kʰú,ɸ !óo/oː + kʰ !ú/u,,List2022,,,^ ɸ óo + kʰ ú $,Resigaro
+Resigaro-45_tofear-1,,Resigaro,45_tofear,íɸú,íɸú,!í/i ɸ !ú/u,,List2022,,,^ í ɸ ú $,Resigaro
+Resigaro-149_tosqueeze-1,,Resigaro,149_tosqueeze,ɲ̥eʔ kʰú,ɲ̥eʔ kʰú,ɲ̥ e ʔ + kʰ !ú/u,,List2022,,,^ ɲ̥ e ʔ + kʰ ú $,Resigaro
+Resigaro-74_toholdinhand-1,,Resigaro,74_toholdinhand,eke kʰú,eke kʰú,e k e + kʰ !ú/u,,List2022,,,^ e k e + kʰ ú $,Resigaro
+Resigaro-35_dust-1,,Resigaro,35_dust,hípoʤíhú,hípoʤíhú,h !í/i p o dʒ !í/i h !ú/u,,List2022,,,^ h í p o ʤ í h ú $,Resigaro
+Resigaro-90_tolive-1,,Resigaro,90_tolive,an̥iigí,an̥iigí,a n̥ iː g !í/i,,List2022,,,^ a n̥ ii g í $,Resigaro
+Resigaro-122_rope-1,,Resigaro,122_rope,hipon̥áuuʔó,hipon̥áuuʔó,h i p o n̥ !á/a uː ʔ !ó/o,,List2022,,,^ h i p o n̥ á uu ʔ ó $,Resigaro
+WitotoMinica-172_tongue-1,,WitotoMinica,172_tongue,iɯ́ɸe,iɯ́ɸe,i !ɯ́/ɯ ɸ e,,List2022,,,^ i ɯ́ ɸ e $,WitotoMinica
+WitotoMinica-99_mouth-1,,WitotoMinica,99_mouth,ɸúe,ɸúe,ɸ !ú/u e,,List2022,,,^ ɸ ú e $,WitotoMinica
+WitotoMinica-173_toothfrontratherthanmolar-1,,WitotoMinica,173_toothfrontratherthanmolar,íθido,íθido,!í/i θ i d o,,List2022,,,^ í θ i d o $,WitotoMinica
+WitotoMinica-106_nose-1,,WitotoMinica,106_nose,dóɸo,dóɸo,d !ó/o ɸ o,,List2022,,,^ d ó ɸ o $,WitotoMinica
+WitotoMinica-40_eye-1,,WitotoMinica,40_eye,uíhɯ,uíhɯ,u !í/i h ɯ,,List2022,,,^ u í h ɯ $,WitotoMinica
+WitotoMinica-36_ear-1,,WitotoMinica,36_ear,héɸo,héɸo,h !é/e ɸ o,,List2022,,,^ h é ɸ o $,WitotoMinica
+WitotoMinica-68_head-1,,WitotoMinica,68_head,ɯɸókɯ,ɯɸókɯ,ɯ ɸ !ó/o k ɯ,,List2022,,,^ ɯ ɸ ó k ɯ $,WitotoMinica
+WitotoMinica-103_neck-1,,WitotoMinica,103_neck,kɯmóhɯ,kɯmóhɯ,k ɯ m !ó/o h ɯ,,List2022,,,^ k ɯ m ó h ɯ $,WitotoMinica
+WitotoMinica-103_neck-2,,WitotoMinica,103_neck,kɯ́maɯ,kɯ́maɯ,k !ɯ́/ɯ m a ɯ,,List2022,,,^ k ɯ́ m a ɯ $,WitotoMinica
+WitotoMinica-103_neck-3,,WitotoMinica,103_neck,kɯ́moɯ,kɯ́moɯ,k !ɯ́/ɯ m o ɯ,,List2022,,,^ k ɯ́ m o ɯ $,WitotoMinica
+WitotoMinica-103_neck-4,,WitotoMinica,103_neck,kɯmókairo,kɯmókairo,k ɯ m !ó/o k a i !r/ɾ o,,List2022,,,^ k ɯ m ó k a i r o $,WitotoMinica
+WitotoMinica-10_belly-1,,WitotoMinica,10_belly,hébe,hébe,h !é/e b e,,List2022,,,^ h é b e $,WitotoMinica
+WitotoMinica-10_belly-2,,WitotoMinica,10_belly,hébekɯ,hébekɯ,h !é/e b e k ɯ,,List2022,,,^ h é b e k ɯ $,WitotoMinica
+WitotoMinica-10_belly-3,,WitotoMinica,10_belly,moi idu,moi idu,m o i + i d u,,List2022,,,^ m o i + i d u $,WitotoMinica
+WitotoMinica-6_backpersons-1,,WitotoMinica,6_backpersons,emódo,emódo,e m !ó/o d o,,List2022,,,^ e m ó d o $,WitotoMinica
+WitotoMinica-6_backpersons-2,,WitotoMinica,6_backpersons,heráɯkɯ,heráɯkɯ,h e !r/ɾ !á/a ɯ k ɯ,,List2022,,,^ h e r á ɯ k ɯ $,WitotoMinica
+WitotoMinica-6_backpersons-3,,WitotoMinica,6_backpersons,ɸekániko,ɸekániko,ɸ e k !á/a n i k o,,List2022,,,^ ɸ e k á n i k o $,WitotoMinica
+WitotoMinica-66_hand-1,,WitotoMinica,66_hand,ónoɯ,ónoɯ,!ó/o n o ɯ,,List2022,,,^ ó n o ɯ $,WitotoMinica
+WitotoMinica-88_leg-1,,WitotoMinica,88_leg,ɯdá kairo,ɯdá kairo,ɯ d !á/a + k a i !r/ɾ o,,List2022,,,^ ɯ d á + k a i r o $,WitotoMinica
+WitotoMinica-57_foot-1,,WitotoMinica,57_foot,éɯba,éɯba,!é/e ɯ b a,,List2022,,,^ é ɯ b a $,WitotoMinica
+WitotoMinica-18_bone-1,,WitotoMinica,18_bone,íkuru,íkuru,!í/i k u !r/ɾ u,,List2022,,,^ í k u r u $,WitotoMinica
+WitotoMinica-16_blood-1,,WitotoMinica,16_blood,dɯ́e,dɯ́e,d !ɯ́/ɯ e,,List2022,,,^ d ɯ́ e $,WitotoMinica
+WitotoMinica-70_heart-1,,WitotoMinica,70_heart,komékɯ,komékɯ,k o m !é/e k ɯ,,List2022,,,^ k o m é k ɯ $,WitotoMinica
+WitotoMinica-195_woman-1,,WitotoMinica,195_woman,rɯìŋo,rɯìŋo,!r/ɾ ɯ !ì/i ŋ o,,List2022,,,^ r ɯ ì ŋ o $,WitotoMinica
+WitotoMinica-77_husband-1,,WitotoMinica,77_husband,ɯìni,ɯìni,ɯ !ì/i n i,,List2022,,,^ ɯ ì n i $,WitotoMinica
+WitotoMinica-190_wife-1,,WitotoMinica,190_wife,áɯ,áɯ,!á/a ɯ,,List2022,,,^ á ɯ $,WitotoMinica
+WitotoMinica-44_father-1,,WitotoMinica,44_father,móo,móo,m !óo/oː,,List2022,,,^ m óo $,WitotoMinica
+WitotoMinica-97_mother-1,,WitotoMinica,97_mother,éi,éi,!é/e i,,List2022,,,^ é i $,WitotoMinica
+WitotoMinica-97_mother-2,,WitotoMinica,97_mother,éiɲo,éiɲo,!é/e i ɲ o,,List2022,,,^ é i ɲ o $,WitotoMinica
+WitotoMinica-108_old-1,,WitotoMinica,108_old,éiroma,éiroma,!é/e i !r/ɾ o m a,,List2022,,,^ é i r o m a $,WitotoMinica
+WitotoMinica-108_old-2,,WitotoMinica,108_old,éikome,éikome,!é/e i k o m e,,List2022,,,^ é i k o m e $,WitotoMinica
+WitotoMinica-181_water-1,,WitotoMinica,181_water,háɯnoi,háɯnoi,h !á/a ɯ n o i,,List2022,,,^ h á ɯ n o i $,WitotoMinica
+WitotoMinica-119_river-1,,WitotoMinica,119_river,imáni,imáni,i m !á/a n i,,List2022,,,^ i m á n i $,WitotoMinica
+WitotoMinica-119_river-2,,WitotoMinica,119_river,íʤe,íʤe,!í/i dʒ e,,List2022,,,^ í ʤ e $,WitotoMinica
+WitotoMinica-84_lake-1,,WitotoMinica,84_lake,hórai,hórai,h !ó/o !r/ɾ a i,,List2022,,,^ h ó r a i $,WitotoMinica
+WitotoMinica-49_fire-1,,WitotoMinica,49_fire,irai,irai,i !r/ɾ a i,,List2022,,,^ i r a i $,WitotoMinica
+WitotoMinica-4_ashes-1,,WitotoMinica,4_ashes,híθeɸo,híθeɸo,h !í/i θ e ɸ o,,List2022,,,^ h í θ e ɸ o $,WitotoMinica
+WitotoMinica-142_smokeoffire-1,,WitotoMinica,142_smokeoffire,úiʤɯe,úiʤɯe,!ú/u i dʒ ɯ e,,List2022,,,^ ú i ʤ ɯ e $,WitotoMinica
+WitotoMinica-138_sky-1,,WitotoMinica,138_sky,móna,móna,m !ó/o n a,,List2022,,,^ m ó n a $,WitotoMinica
+WitotoMinica-191_wind-1,,WitotoMinica,191_wind,hairíɸo,hairíɸo,h a i !r/ɾ !í/i ɸ o,,List2022,,,^ h a i r í ɸ o $,WitotoMinica
+WitotoMinica-157_sun-1,,WitotoMinica,157_sun,hitóma,hitóma,h i t !ó/o m a,,List2022,,,^ h i t ó m a $,WitotoMinica
+WitotoMinica-152_star-1,,WitotoMinica,152_star,ukúdu,ukúdu,u k !ú/u d u,,List2022,,,^ u k ú d u $,WitotoMinica
+WitotoMinica-27_dayoppositeofnightratherthantimemeasure-1,,WitotoMinica,27_dayoppositeofnightratherthantimemeasure,móna,móna,m !ó/o n a,,List2022,,,^ m ó n a $,WitotoMinica
+WitotoMinica-105_night-1,,WitotoMinica,105_night,náɯɯo,náɯɯo,n !á/a ɯː o,,List2022,,,^ n á ɯɯ o $,WitotoMinica
+WitotoMinica-105_night-2,,WitotoMinica,105_night,náɯo,náɯo,n !á/a ɯ o,,List2022,,,^ n á ɯ o $,WitotoMinica
+WitotoMinica-37_earthsoil-1,,WitotoMinica,37_earthsoil,énɯe,énɯe,!é/e n ɯ e,,List2022,,,^ é n ɯ e $,WitotoMinica
+WitotoMinica-154_stone-1,,WitotoMinica,154_stone,noɸɯkɯ,noɸɯkɯ,n o ɸ ɯ k ɯ,,List2022,,,^ n o ɸ ɯ k ɯ $,WitotoMinica
+WitotoMinica-126_sand-1,,WitotoMinica,126_sand,gúamae,gúamae,g !ú/u a m a e,,List2022,,,^ g ú a m a e $,WitotoMinica
+WitotoMinica-31_dog-1,,WitotoMinica,31_dog,hɯ́ko,hɯ́ko,h !ɯ́/ɯ k o,,List2022,,,^ h ɯ́ k o $,WitotoMinica
+WitotoMinica-160_tail-1,,WitotoMinica,160_tail,óda,óda,!ó/o d a,,List2022,,,^ ó d a $,WitotoMinica
+WitotoMinica-144_snake-1,,WitotoMinica,144_snake,háio,háio,h !á/a i o,,List2022,,,^ h á i o $,WitotoMinica
+WitotoMinica-13_bird-1,,WitotoMinica,13_bird,óɸokuiɲo,óɸokuiɲo,!ó/o ɸ o k u i ɲ o,,List2022,,,^ ó ɸ o k u i ɲ o $,WitotoMinica
+WitotoMinica-13_bird-2,,WitotoMinica,13_bird,ʤámaikuiɲo,ʤámaikuiɲo,dʒ !á/a m a i k u i ɲ o,,List2022,,,^ ʤ á m a i k u i ɲ o $,WitotoMinica
+WitotoMinica-50_fish-1,,WitotoMinica,50_fish,ʤɯ́kɯaɯ,ʤɯ́kɯaɯ,dʒ !ɯ́/ɯ k ɯ a ɯ,,List2022,,,^ ʤ ɯ́ k ɯ a ɯ $,WitotoMinica
+WitotoMinica-93_louse-1,,WitotoMinica,93_louse,ɯbóma,ɯbóma,ɯ b !ó/o m a,,List2022,,,^ ɯ b ó m a $,WitotoMinica
+WitotoMinica-174_tree-1,,WitotoMinica,174_tree,aména,aména,a m !é/e n a,,List2022,,,^ a m é n a $,WitotoMinica
+WitotoMinica-86_leaf-1,,WitotoMinica,86_leaf,íibe,íibe,!íi/iː b e,,List2022,,,^ íi b e $,WitotoMinica
+WitotoMinica-54_flower-1,,WitotoMinica,54_flower,θáɸia,θáɸia,θ !á/a ɸ i a,,List2022,,,^ θ á ɸ i a $,WitotoMinica
+WitotoMinica-124_torub-1,,WitotoMinica,124_torub,ría,ría,!r/ɾ !í/i a,,List2022,,,^ r í a $,WitotoMinica
+WitotoMinica-121_root-1,,WitotoMinica,121_root,háinao,háinao,h !á/a i n a o,,List2022,,,^ h á i n a o $,WitotoMinica
+WitotoMinica-131_seed-1,,WitotoMinica,131_seed,íhɯ,íhɯ,!í/i h ɯ,,List2022,,,^ í h ɯ $,WitotoMinica
+WitotoMinica-153_stickofwood-1,,WitotoMinica,153_stickofwood,ráda,ráda,!r/ɾ !á/a d a,,List2022,,,^ r á d a $,WitotoMinica
+WitotoMinica-153_stickofwood-2,,WitotoMinica,153_stickofwood,radóθi,radóθi,!r/ɾ a d !ó/o θ i,,List2022,,,^ r a d ó θ i $,WitotoMinica
+WitotoMinica-153_stickofwood-3,,WitotoMinica,153_stickofwood,aména,aména,a m !é/e n a,,List2022,,,^ a m é n a $,WitotoMinica
+WitotoMinica-62_grass-1,,WitotoMinica,62_grass,ráitɯaɯ,ráitɯaɯ,!r/ɾ !á/a i t ɯ a ɯ,,List2022,,,^ r á i t ɯ a ɯ $,WitotoMinica
+WitotoMinica-46_featherlargerfeathersratherthandown-1,,WitotoMinica,46_featherlargerfeathersratherthandown,óogodo,óogodo,!óo/oː g o d o,,List2022,,,^ óo g o d o $,WitotoMinica
+WitotoMinica-125_salt-1,,WitotoMinica,125_salt,ɯ́aiθaɯ,ɯ́aiθaɯ,!ɯ́/ɯ a i θ a ɯ,,List2022,,,^ ɯ́ a i θ a ɯ $,WitotoMinica
+WitotoMinica-109_one-1,,WitotoMinica,109_one,da,da,d a,,List2022,,,^ d a $,WitotoMinica
+WitotoMinica-109_one-2,,WitotoMinica,109_one,dáa,dáa,d !áa/aː,,List2022,,,^ d áa $,WitotoMinica
+WitotoMinica-176_two-1,,WitotoMinica,176_two,ména,ména,m !é/e n a,,List2022,,,^ m é n a $,WitotoMinica
+WitotoMinica-169_three-1,,WitotoMinica,169_three,daámani,daámani,d !aá/aː m a n i,,List2022,,,^ d aá m a n i $,WitotoMinica
+WitotoMinica-58_four-1,,WitotoMinica,58_four,naga ámade,naga ámade,n a g a + !á/a m a d e,,List2022,,,^ n a g a + á m a d e $,WitotoMinica
+WitotoMinica-58_four-2,,WitotoMinica,58_four,ɸɯ́goménariede,ɸɯ́goménariede,ɸ !ɯ́/ɯ g o m !é/e n a !r/ɾ i e d e,,List2022,,,^ ɸ ɯ́ g o m é n a r i e d e $,WitotoMinica
+WitotoMinica-51_five-1,,WitotoMinica,51_five,hubekuiro,hubekuiro,h u b e k u i !r/ɾ o,,List2022,,,^ h u b e k u i r o $,WitotoMinica
+WitotoMinica-78_i-1,,WitotoMinica,78_i,kúe,kúe,k !ú/u e,,List2022,,,^ k ú e $,WitotoMinica
+WitotoMinica-168_thou-1,,WitotoMinica,168_thou,o,o,o,,List2022,,,^ o $,WitotoMinica
+WitotoMinica-67_he-1,,WitotoMinica,67_he,aɸémɯe,aɸémɯe,a ɸ !é/e m ɯ e,,List2022,,,^ a ɸ é m ɯ e $,WitotoMinica
+WitotoMinica-182_we-1,,WitotoMinica,182_we,kaɯ,kaɯ,k a ɯ,,List2022,,,^ k a ɯ $,WitotoMinica
+WitotoMinica-182_we-2,,WitotoMinica,182_we,kóko,kóko,k !ó/o k o,,List2022,,,^ k ó k o $,WitotoMinica
+WitotoMinica-182_we-3,,WitotoMinica,182_we,káɯŋaɯ,káɯŋaɯ,k !á/a ɯ ŋ a ɯ,,List2022,,,^ k á ɯ ŋ a ɯ $,WitotoMinica
+WitotoMinica-198_ye-1,,WitotoMinica,198_ye,ómoɯ,ómoɯ,!ó/o m o ɯ,,List2022,,,^ ó m o ɯ $,WitotoMinica
+WitotoMinica-198_ye-2,,WitotoMinica,198_ye,ómɯkoɯ,ómɯkoɯ,!ó/o m ɯ k o ɯ,,List2022,,,^ ó m ɯ k o ɯ $,WitotoMinica
+WitotoMinica-163_they-1,,WitotoMinica,163_they,aɸémakɯ,aɸémakɯ,a ɸ !é/e m a k ɯ,,List2022,,,^ a ɸ é m a k ɯ $,WitotoMinica
+WitotoMinica-163_they-2,,WitotoMinica,163_they,íaiʤɯnoɯ,íaiʤɯnoɯ,!í/i a i dʒ ɯ n o ɯ,,List2022,,,^ í a i ʤ ɯ n o ɯ $,WitotoMinica
+WitotoMinica-163_they-3,,WitotoMinica,163_they,íaɯŋuaɯ,íaɯŋuaɯ,!í/i a ɯ ŋ u a ɯ,,List2022,,,^ í a ɯ ŋ u a ɯ $,WitotoMinica
+WitotoMinica-12_big-1,,WitotoMinica,12_big,áiʤue,áiʤue,!á/a i dʒ u e,,List2022,,,^ á i ʤ u e $,WitotoMinica
+WitotoMinica-140_small-1,,WitotoMinica,140_small,dúerede,dúerede,d !ú/u e !r/ɾ e d e,,List2022,,,^ d ú e r e d e $,WitotoMinica
+WitotoMinica-140_small-2,,WitotoMinica,140_small,híɯrede,híɯrede,h !í/i ɯ !r/ɾ e d e,,List2022,,,^ h í ɯ r e d e $,WitotoMinica
+WitotoMinica-61_good-1,,WitotoMinica,61_good,ɲúera,ɲúera,ɲ !ú/u e !r/ɾ a,,List2022,,,^ ɲ ú e r a $,WitotoMinica
+WitotoMinica-7_baddeleteriousorunsuitable-1,,WitotoMinica,7_baddeleteriousorunsuitable,ɸɯénìde,ɸɯénìde,ɸ ɯ !é/e n !ì/i d e,,List2022,,,^ ɸ ɯ é n ì d e $,WitotoMinica
+WitotoMinica-187_white-1,,WitotoMinica,187_white,úθerede,úθerede,!ú/u θ e !r/ɾ e d e,,List2022,,,^ ú θ e r e d e $,WitotoMinica
+WitotoMinica-15_black-1,,WitotoMinica,15_black,hítɯrede,hítɯrede,h !í/i t ɯ !r/ɾ e d e,,List2022,,,^ h í t ɯ r e d e $,WitotoMinica
+WitotoMinica-22_cloud-1,,WitotoMinica,22_cloud,úiʤɯe,úiʤɯe,!ú/u i dʒ ɯ e,,List2022,,,^ ú i ʤ ɯ e $,WitotoMinica
+WitotoMinica-167_this-1,,WitotoMinica,167_this,bíe,bíe,b !í/i e,,List2022,,,^ b í e $,WitotoMinica
+WitotoMinica-161_that-1,,WitotoMinica,161_that,baie,baie,b a i e,,List2022,,,^ b a i e $,WitotoMinica
+WitotoMinica-188_who-1,,WitotoMinica,188_who,bu,bu,b u,,List2022,,,^ b u $,WitotoMinica
+WitotoMinica-184_what-1,,WitotoMinica,184_what,mɯnɯ́ka,mɯnɯ́ka,m ɯ n !ɯ́/ɯ k a,,List2022,,,^ m ɯ n ɯ́ k a $,WitotoMinica
+WitotoMinica-107_not-1,,WitotoMinica,107_not,dáma íte,dáma íte,d !á/a m a + !í/i t e,,List2022,,,^ d á m a + í t e $,WitotoMinica
+WitotoMinica-107_not-2,,WitotoMinica,107_not,ɲe,ɲe,ɲ e,,List2022,,,^ ɲ e $,WitotoMinica
+WitotoMinica-1_allofanumber-1,,WitotoMinica,1_allofanumber,nána,nána,n !á/a n a,,List2022,,,^ n á n a $,WitotoMinica
+WitotoMinica-95_many-1,,WitotoMinica,95_many,áiʤo,áiʤo,!á/a i dʒ o,,List2022,,,^ á i ʤ o $,WitotoMinica
+WitotoMinica-95_many-2,,WitotoMinica,95_many,áiʤoráa,áiʤoráa,!á/a i dʒ o !r/ɾ !áa/aː,,List2022,,,^ á i ʤ o r áa $,WitotoMinica
+WitotoMinica-92_long-1,,WitotoMinica,92_long,áre,áre,!á/a !r/ɾ e,,List2022,,,^ á r e $,WitotoMinica
+WitotoMinica-8_bark-1,,WitotoMinica,8_bark,igóraɯ,igóraɯ,i g !ó/o !r/ɾ a ɯ,,List2022,,,^ i g ó r a ɯ $,WitotoMinica
+WitotoMinica-96_meatflesh-1,,WitotoMinica,96_meatflesh,ʤɯ́kɯai,ʤɯ́kɯai,dʒ !ɯ́/ɯ k ɯ a i,,List2022,,,^ ʤ ɯ́ k ɯ a i $,WitotoMinica
+WitotoMinica-96_meatflesh-2,,WitotoMinica,96_meatflesh,ɯeθɯ,ɯeθɯ,ɯ e θ ɯ,,List2022,,,^ ɯ e θ ɯ $,WitotoMinica
+WitotoMinica-39_egg-1,,WitotoMinica,39_egg,hɯ́gɯ,hɯ́gɯ,h !ɯ́/ɯ g ɯ,,List2022,,,^ h ɯ́ g ɯ $,WitotoMinica
+WitotoMinica-10_belly-4,,WitotoMinica,10_belly,hébe,hébe,h !é/e b e,,List2022,,,^ h é b e $,WitotoMinica
+WitotoMinica-10_belly-5,,WitotoMinica,10_belly,hébekɯ,hébekɯ,h !é/e b e k ɯ,,List2022,,,^ h é b e k ɯ $,WitotoMinica
+WitotoMinica-91_liver-1,,WitotoMinica,91_liver,bánoi,bánoi,b !á/a n o i,,List2022,,,^ b á n o i $,WitotoMinica
+WitotoMinica-32_todrink-1,,WitotoMinica,32_todrink,hiróde,hiróde,h i !r/ɾ !ó/o d e,,List2022,,,^ h i r ó d e $,WitotoMinica
+WitotoMinica-38_toeat-1,,WitotoMinica,38_toeat,rɯ́te,rɯ́te,!r/ɾ !ɯ́/ɯ t e,,List2022,,,^ r ɯ́ t e $,WitotoMinica
+WitotoMinica-38_toeat-2,,WitotoMinica,38_toeat,rɯéde,rɯéde,!r/ɾ ɯ !é/e d e,,List2022,,,^ r ɯ é d e $,WitotoMinica
+WitotoMinica-38_toeat-3,,WitotoMinica,38_toeat,ʧiʧóde,ʧiʧóde,tʃ i tʃ !ó/o d e,,List2022,,,^ ʧ i ʧ ó d e $,WitotoMinica
+WitotoMinica-38_toeat-4,,WitotoMinica,38_toeat,ʤibáde,ʤibáde,dʒ i b !á/a d e,,List2022,,,^ ʤ i b á d e $,WitotoMinica
+WitotoMinica-38_toeat-5,,WitotoMinica,38_toeat,guíte,guíte,g u !í/i t e,,List2022,,,^ g u í t e $,WitotoMinica
+WitotoMinica-14_tobite-1,,WitotoMinica,14_tobite,aɯníde,aɯníde,a ɯ n !í/i d e,,List2022,,,^ a ɯ n í d e $,WitotoMinica
+WitotoMinica-130_see-1,,WitotoMinica,130_see,eróide,eróide,e !r/ɾ !ó/o i d e,,List2022,,,^ e r ó i d e $,WitotoMinica
+WitotoMinica-130_see-2,,WitotoMinica,130_see,kɯóde,kɯóde,k ɯ !ó/o d e,,List2022,,,^ k ɯ ó d e $,WitotoMinica
+WitotoMinica-69_tohear-1,,WitotoMinica,69_tohear,kakáde,kakáde,k a k !á/a d e,,List2022,,,^ k a k á d e $,WitotoMinica
+WitotoMinica-83_toknowfacts-1,,WitotoMinica,83_toknowfacts,onóde,onóde,o n !ó/o d e,,List2022,,,^ o n ó d e $,WitotoMinica
+WitotoMinica-139_sleep-1,,WitotoMinica,139_sleep,ɯnɯ́de,ɯnɯ́de,ɯ n !ɯ́/ɯ d e,,List2022,,,^ ɯ n ɯ́ d e $,WitotoMinica
+WitotoMinica-28_todie-1,,WitotoMinica,28_todie,tɯíde,tɯíde,t ɯ !í/i d e,,List2022,,,^ t ɯ í d e $,WitotoMinica
+WitotoMinica-82_tokill-1,,WitotoMinica,82_tokill,méinete,méinete,m !é/e i n e t e,,List2022,,,^ m é i n e t e $,WitotoMinica
+WitotoMinica-159_toswim-1,,WitotoMinica,159_toswim,ɯ́ɯde,ɯ́ɯde,!ɯ́ɯ/ɯː d e,,List2022,,,^ ɯ́ɯ d e $,WitotoMinica
+WitotoMinica-55_tofly-1,,WitotoMinica,55_tofly,ɸéede,ɸéede,ɸ !ée/eː d e,,List2022,,,^ ɸ ée d e $,WitotoMinica
+WitotoMinica-178_towalk-1,,WitotoMinica,178_towalk,makáde,makáde,m a k !á/a d e,,List2022,,,^ m a k á d e $,WitotoMinica
+WitotoMinica-24_tocome-1,,WitotoMinica,24_tocome,bíte,bíte,b !í/i t e,,List2022,,,^ b í t e $,WitotoMinica
+WitotoMinica-60_togive-1,,WitotoMinica,60_togive,ɸekáde,ɸekáde,ɸ e k !á/a d e,,List2022,,,^ ɸ e k á d e $,WitotoMinica
+WitotoMinica-127_say-1,,WitotoMinica,127_say,dáɯde,dáɯde,d !á/a ɯ d e,,List2022,,,^ d á ɯ d e $,WitotoMinica
+WitotoMinica-98_mountain-1,,WitotoMinica,98_mountain,kaiɸónedu,kaiɸónedu,k a i ɸ !ó/o n e d u,,List2022,,,^ k a i ɸ ó n e d u $,WitotoMinica
+WitotoMinica-98_mountain-2,,WitotoMinica,98_mountain,iɸerɯ,iɸerɯ,i ɸ e !r/ɾ ɯ,,List2022,,,^ i ɸ e r ɯ $,WitotoMinica
+WitotoMinica-116_red-1,,WitotoMinica,116_red,híaɯrede,híaɯrede,h !í/i a ɯ !r/ɾ e d e,,List2022,,,^ h í a ɯ r e d e $,WitotoMinica
+WitotoMinica-63_green-1,,WitotoMinica,63_green,mókorede,mókorede,m !ó/o k o !r/ɾ e d e,,List2022,,,^ m ó k o r e d e $,WitotoMinica
+WitotoMinica-200_yellow-1,,WitotoMinica,200_yellow,borárede,borárede,b o !r/ɾ !á/a !r/ɾ e d e,,List2022,,,^ b o r á r e d e $,WitotoMinica
+WitotoMinica-104_new-1,,WitotoMinica,104_new,kómue,kómue,k !ó/o m u e,,List2022,,,^ k ó m u e $,WitotoMinica
+WitotoMinica-33_drysubstance-1,,WitotoMinica,33_drysubstance,θaɸérede,θaɸérede,θ a ɸ !é/e !r/ɾ e d e,,List2022,,,^ θ a ɸ é r e d e $,WitotoMinica
+WitotoMinica-100_name-1,,WitotoMinica,100_name,mámekɯ,mámekɯ,m !á/a m e k ɯ,,List2022,,,^ m á m e k ɯ $,WitotoMinica
+WitotoMinica-75_how-1,,WitotoMinica,75_how,nɯ́eθe,nɯ́eθe,n !ɯ́/ɯ e θ e,,List2022,,,^ n ɯ́ e θ e $,WitotoMinica
+WitotoMinica-75_how-2,,WitotoMinica,75_how,nédi,nédi,n !é/e d i,,List2022,,,^ n é d i $,WitotoMinica
+WitotoMinica-185_when-1,,WitotoMinica,185_when,nɯrúido,nɯrúido,n ɯ !r/ɾ !ú/u i d o,,List2022,,,^ n ɯ r ú i d o $,WitotoMinica
+WitotoMinica-186_where-1,,WitotoMinica,186_where,nɯnó,nɯnó,n ɯ n !ó/o,,List2022,,,^ n ɯ n ó $,WitotoMinica
+WitotoMinica-186_where-2,,WitotoMinica,186_where,nɯné,nɯné,n ɯ n !é/e,,List2022,,,^ n ɯ n é $,WitotoMinica
+WitotoMinica-72_here-1,,WitotoMinica,72_here,bené,bené,b e n !é/e,,List2022,,,^ b e n é $,WitotoMinica
+WitotoMinica-72_here-2,,WitotoMinica,72_here,benó,benó,b e n !ó/o,,List2022,,,^ b e n ó $,WitotoMinica
+WitotoMinica-162_there-1,,WitotoMinica,162_there,batɯ́ne,batɯ́ne,b a t !ɯ́/ɯ n e,,List2022,,,^ b a t ɯ́ n e $,WitotoMinica
+WitotoMinica-162_there-2,,WitotoMinica,162_there,hadɯ́,hadɯ́,h a d !ɯ́/ɯ,,List2022,,,^ h a d ɯ́ $,WitotoMinica
+WitotoMinica-110_other-1,,WitotoMinica,110_other,hɯáɯ,hɯáɯ,h ɯ !á/a ɯ,,List2022,,,^ h ɯ á ɯ $,WitotoMinica
+WitotoMinica-110_other-2,,WitotoMinica,110_other,hɯáɯe,hɯáɯe,h ɯ !á/a ɯ e,,List2022,,,^ h ɯ á ɯ e $,WitotoMinica
+WitotoMinica-47_few-1,,WitotoMinica,47_few,dúera,dúera,d !ú/u e !r/ɾ a,,List2022,,,^ d ú e r a $,WitotoMinica
+WitotoMinica-56_fog-1,,WitotoMinica,56_fog,róʤi,róʤi,!r/ɾ !ó/o dʒ i,,List2022,,,^ r ó ʤ i $,WitotoMinica
+WitotoMinica-56_fog-2,,WitotoMinica,56_fog,róθi,róθi,!r/ɾ !ó/o θ i,,List2022,,,^ r ó θ i $,WitotoMinica
+WitotoMinica-56_fog-3,,WitotoMinica,56_fog,úiʤɯe,úiʤɯe,!ú/u i dʒ ɯ e,,List2022,,,^ ú i ʤ ɯ e $,WitotoMinica
+WitotoMinica-53_toflow-1,,WitotoMinica,53_toflow,tóte,tóte,t !ó/o t e,,List2022,,,^ t ó t e $,WitotoMinica
+WitotoMinica-129_seaocean-1,,WitotoMinica,129_seaocean,monáiʤahi,monáiʤahi,m o n !á/a i dʒ a h i,,List2022,,,^ m o n á i ʤ a h i $,WitotoMinica
+WitotoMinica-183_wet-1,,WitotoMinica,183_wet,rɯáide,rɯáide,!r/ɾ ɯ !á/a i d e,,List2022,,,^ r ɯ á i d e $,WitotoMinica
+WitotoMinica-180_towash-1,,WitotoMinica,180_towash,hokóde,hokóde,h o k !ó/o d e,,List2022,,,^ h o k ó d e $,WitotoMinica
+WitotoMinica-197_worm-1,,WitotoMinica,197_worm,ìgɯ́roɯ,ìgɯ́roɯ,!ì/i g !ɯ́/ɯ !r/ɾ o ɯ,,List2022,,,^ ì g ɯ́ r o ɯ $,WitotoMinica
+WitotoMinica-197_worm-2,,WitotoMinica,197_worm,aìgɯ́roɯ,aìgɯ́roɯ,a !ì/i g !ɯ́/ɯ !r/ɾ o ɯ,,List2022,,,^ a ì g ɯ́ r o ɯ $,WitotoMinica
+WitotoMinica-197_worm-3,,WitotoMinica,197_worm,áɯkɯ,áɯkɯ,!á/a ɯ k ɯ,,List2022,,,^ á ɯ k ɯ $,WitotoMinica
+WitotoMinica-192_wing-1,,WitotoMinica,192_wing,iáiko,iáiko,i !á/a i k o,,List2022,,,^ i á i k o $,WitotoMinica
+WitotoMinica-194_withaccompanying-1,,WitotoMinica,194_withaccompanying,dɯ́ga,dɯ́ga,d !ɯ́/ɯ g a,,List2022,,,^ d ɯ́ g a $,WitotoMinica
+WitotoMinica-81_in-1,,WitotoMinica,81_in,mo,mo,m o,,List2022,,,^ m o $,WitotoMinica
+WitotoMinica-81_in-2,,WitotoMinica,81_in,éro,éro,!é/e !r/ɾ o,,List2022,,,^ é r o $,WitotoMinica
+WitotoMinica-81_in-3,,WitotoMinica,81_in,hóɸo,hóɸo,h !ó/o ɸ o,,List2022,,,^ h ó ɸ o $,WitotoMinica
+WitotoMinica-5_at-1,,WitotoMinica,5_at,mo,mo,m o,,List2022,,,^ m o $,WitotoMinica
+WitotoMinica-80_if-1,,WitotoMinica,80_if,íadɯ,íadɯ,!í/i a d ɯ,,List2022,,,^ í a d ɯ $,WitotoMinica
+WitotoMinica-80_if-2,,WitotoMinica,80_if,níadɯ,níadɯ,n !í/i a d ɯ,,List2022,,,^ n í a d ɯ $,WitotoMinica
+WitotoMinica-21_childyoungpersonratherthanasrelationshipterm-1,,WitotoMinica,21_childyoungpersonratherthanasrelationshipterm,úrue,úrue,!ú/u !r/ɾ u e,,List2022,,,^ ú r u e $,WitotoMinica
+WitotoMinica-26_tocut-1,,WitotoMinica,26_tocut,haitáde,haitáde,h a i t !á/a d e,,List2022,,,^ h a i t á d e $,WitotoMinica
+WitotoMinica-26_tocut-2,,WitotoMinica,26_tocut,kotáde,kotáde,k o t !á/a d e,,List2022,,,^ k o t á d e $,WitotoMinica
+WitotoMinica-189_wide-1,,WitotoMinica,189_wide,áiʤue,áiʤue,!á/a i dʒ u e,,List2022,,,^ á i ʤ u e $,WitotoMinica
+WitotoMinica-189_wide-2,,WitotoMinica,189_wide,íairorede,íairorede,!í/i a i !r/ɾ o !r/ɾ e d e,,List2022,,,^ í a i r o r e d e $,WitotoMinica
+WitotoMinica-101_narrow-1,,WitotoMinica,101_narrow,rɯʤírede,rɯʤírede,!r/ɾ ɯ dʒ !í/i !r/ɾ e d e,,List2022,,,^ r ɯ ʤ í r e d e $,WitotoMinica
+WitotoMinica-42_far-1,,WitotoMinica,42_far,are,are,a !r/ɾ e,,List2022,,,^ a r e $,WitotoMinica
+WitotoMinica-42_far-2,,WitotoMinica,42_far,hɯ́ka,hɯ́ka,h !ɯ́/ɯ k a,,List2022,,,^ h ɯ́ k a $,WitotoMinica
+WitotoMinica-102_near-1,,WitotoMinica,102_near,áɯnori,áɯnori,!á/a ɯ n o !r/ɾ i,,List2022,,,^ á ɯ n o r i $,WitotoMinica
+WitotoMinica-102_near-2,,WitotoMinica,102_near,íanori,íanori,!í/i a n o !r/ɾ i,,List2022,,,^ í a n o r i $,WitotoMinica
+WitotoMinica-164_thick-1,,WitotoMinica,164_thick,hédakɯede,hédakɯede,h !é/e d a k ɯ e d e,,List2022,,,^ h é d a k ɯ e d e $,WitotoMinica
+WitotoMinica-165_thin-1,,WitotoMinica,165_thin,ʤɯ́aɯde,ʤɯ́aɯde,dʒ !ɯ́/ɯ a ɯ d e,,List2022,,,^ ʤ ɯ́ a ɯ d e $,WitotoMinica
+WitotoMinica-134_short-1,,WitotoMinica,134_short,íanori,íanori,!í/i a n o !r/ɾ i,,List2022,,,^ í a n o r i $,WitotoMinica
+WitotoMinica-71_heavy-1,,WitotoMinica,71_heavy,mérede,mérede,m !é/e !r/ɾ e d e,,List2022,,,^ m é r e d e $,WitotoMinica
+WitotoMinica-34_dullknife-1,,WitotoMinica,34_dullknife,háinide,háinide,h !á/a i n i d e,,List2022,,,^ h á i n i d e $,WitotoMinica
+WitotoMinica-133_sharpasknife-1,,WitotoMinica,133_sharpasknife,háirede,háirede,h !á/a i !r/ɾ e d e,,List2022,,,^ h á i r e d e $,WitotoMinica
+WitotoMinica-30_dirty-1,,WitotoMinica,30_dirty,ɯáɯrede,ɯáɯrede,ɯ !á/a ɯ !r/ɾ e d e,,List2022,,,^ ɯ á ɯ r e d e $,WitotoMinica
+WitotoMinica-123_rottenespeciallylog-1,,WitotoMinica,123_rottenespeciallylog,rɯɸáide,rɯɸáide,!r/ɾ ɯ ɸ !á/a i d e,,List2022,,,^ r ɯ ɸ á i d e $,WitotoMinica
+WitotoMinica-123_rottenespeciallylog-2,,WitotoMinica,123_rottenespeciallylog,θabíde,θabíde,θ a b !í/i d e,,List2022,,,^ θ a b í d e $,WitotoMinica
+WitotoMinica-143_smooth-1,,WitotoMinica,143_smooth,rɯ́ɯrede,rɯ́ɯrede,!r/ɾ !ɯ́ɯ/ɯː !r/ɾ e d e,,List2022,,,^ r ɯ́ɯ r e d e $,WitotoMinica
+WitotoMinica-155_straight-1,,WitotoMinica,155_straight,haɯ́kɯna,haɯ́kɯna,h a !ɯ́/ɯ k ɯ n a,,List2022,,,^ h a ɯ́ k ɯ n a $,WitotoMinica
+WitotoMinica-117_rightcorrect-1,,WitotoMinica,117_rightcorrect,ɲuéra,ɲuéra,ɲ u !é/e !r/ɾ a,,List2022,,,^ ɲ u é r a $,WitotoMinica
+WitotoMinica-87_lefthand-1,,WitotoMinica,87_lefthand,harɯ́ɸene,harɯ́ɸene,h a !r/ɾ !ɯ́/ɯ ɸ e n e,,List2022,,,^ h a r ɯ́ ɸ e n e $,WitotoMinica
+WitotoMinica-118_righthand-1,,WitotoMinica,118_righthand,nabéɸene,nabéɸene,n a b !é/e ɸ e n e,,List2022,,,^ n a b é ɸ e n e $,WitotoMinica
+WitotoMinica-113_topull-1,,WitotoMinica,113_topull,θonóde,θonóde,θ o n !ó/o d e,,List2022,,,^ θ o n ó d e $,WitotoMinica
+WitotoMinica-114_topush-1,,WitotoMinica,114_topush,ɲuitáde,ɲuitáde,ɲ u i t !á/a d e,,List2022,,,^ ɲ u i t á d e $,WitotoMinica
+WitotoMinica-170_tothrow-1,,WitotoMinica,170_tothrow,bɯtáde,bɯtáde,b ɯ t !á/a d e,,List2022,,,^ b ɯ t á d e $,WitotoMinica
+WitotoMinica-170_tothrow-2,,WitotoMinica,170_tothrow,batáde,batáde,b a t !á/a d e,,List2022,,,^ b a t á d e $,WitotoMinica
+WitotoMinica-170_tothrow-3,,WitotoMinica,170_tothrow,ɲáɯte,ɲáɯte,ɲ !á/a ɯ t e,,List2022,,,^ ɲ á ɯ t e $,WitotoMinica
+WitotoMinica-148_tosplit-1,,WitotoMinica,148_tosplit,botáde,botáde,b o t !á/a d e,,List2022,,,^ b o t á d e $,WitotoMinica
+WitotoMinica-29_todig-1,,WitotoMinica,29_todig,ráɯte,ráɯte,!r/ɾ !á/a ɯ t e,,List2022,,,^ r á ɯ t e $,WitotoMinica
+WitotoMinica-171_totie-1,,WitotoMinica,171_totie,kuináde,kuináde,k u i n !á/a d e,,List2022,,,^ k u i n á d e $,WitotoMinica
+WitotoMinica-132_tosew-1,,WitotoMinica,132_tosew,tɯɸóde,tɯɸóde,t ɯ ɸ !ó/o d e,,List2022,,,^ t ɯ ɸ ó d e $,WitotoMinica
+WitotoMinica-41_tofalldropratherthantopple-1,,WitotoMinica,41_tofalldropratherthantopple,baəíde,baəíde,b a ə !í/i d e,,List2022,,,^ b a ə í d e $,WitotoMinica
+WitotoMinica-41_tofalldropratherthantopple-2,,WitotoMinica,41_tofalldropratherthantopple,uáide,uáide,u !á/a i d e,,List2022,,,^ u á i d e $,WitotoMinica
+WitotoMinica-158_toswell-1,,WitotoMinica,158_toswell,ɸáide,ɸáide,ɸ !á/a i d e,,List2022,,,^ ɸ á i d e $,WitotoMinica
+WitotoMinica-158_toswell-2,,WitotoMinica,158_toswell,ɸíipukude,ɸíipukude,ɸ !íi/iː p u k u d e,,List2022,,,^ ɸ íi p u k u d e $,WitotoMinica
+WitotoMinica-166_tothink-1,,WitotoMinica,166_tothink,komekɯ ɸakáde,komekɯ ɸakáde,k o m e k ɯ + ɸ a k !á/a d e,,List2022,,,^ k o m e k ɯ + ɸ a k á d e $,WitotoMinica
+WitotoMinica-135_tosing-1,,WitotoMinica,135_tosing,róte,róte,!r/ɾ !ó/o t e,,List2022,,,^ r ó t e $,WitotoMinica
+WitotoMinica-141_tosmellperceiveodor-1,,WitotoMinica,141_tosmellperceiveodor,haʤéde,haʤéde,h a dʒ !é/e d e,,List2022,,,^ h a ʤ é d e $,WitotoMinica
+WitotoMinica-177_tovomit-1,,WitotoMinica,177_tovomit,kɯkúede,kɯkúede,k ɯ k !ú/u e d e,,List2022,,,^ k ɯ k ú e d e $,WitotoMinica
+WitotoMinica-156_tosuck-1,,WitotoMinica,156_tosuck,hanóde,hanóde,h a n !ó/o d e,,List2022,,,^ h a n ó d e $,WitotoMinica
+WitotoMinica-156_tosuck-2,,WitotoMinica,156_tosuck,ʧiʧóde,ʧiʧóde,tʃ i tʃ !ó/o d e,,List2022,,,^ ʧ i ʧ ó d e $,WitotoMinica
+WitotoMinica-156_tosuck-3,,WitotoMinica,156_tosuck,ʤibáde,ʤibáde,dʒ i b !á/a d e,,List2022,,,^ ʤ i b á d e $,WitotoMinica
+WitotoMinica-17_toblowofwind-1,,WitotoMinica,17_toblowofwind,haiɲóde,haiɲóde,h a i ɲ !ó/o d e,,List2022,,,^ h a i ɲ ó d e $,WitotoMinica
+WitotoMinica-17_toblowofwind-2,,WitotoMinica,17_toblowofwind,ɸúude,ɸúude,ɸ !úu/uː d e,,List2022,,,^ ɸ úu d e $,WitotoMinica
+WitotoMinica-45_tofear-1,,WitotoMinica,45_tofear,hakɯ́ruite,hakɯ́ruite,h a k !ɯ́/ɯ !r/ɾ u i t e,,List2022,,,^ h a k ɯ́ r u i t e $,WitotoMinica
+WitotoMinica-149_tosqueeze-1,,WitotoMinica,149_tosqueeze,omɯ́de,omɯ́de,o m !ɯ́/ɯ d e,,List2022,,,^ o m ɯ́ d e $,WitotoMinica
+WitotoMinica-149_tosqueeze-2,,WitotoMinica,149_tosqueeze,ɯdúide,ɯdúide,ɯ d !ú/u i d e,,List2022,,,^ ɯ d ú i d e $,WitotoMinica
+WitotoMinica-74_toholdinhand-1,,WitotoMinica,74_toholdinhand,moθíɲote,moθíɲote,m o θ !í/i ɲ o t e,,List2022,,,^ m o θ í ɲ o t e $,WitotoMinica
+WitotoMinica-35_dust-1,,WitotoMinica,35_dust,enɯ́ʧoma,enɯ́ʧoma,e n !ɯ́/ɯ tʃ o m a,,List2022,,,^ e n ɯ́ ʧ o m a $,WitotoMinica
+WitotoMinica-90_tolive-1,,WitotoMinica,90_tolive,káade,káade,k !áa/aː d e,,List2022,,,^ k áa d e $,WitotoMinica
+WitotoMinica-122_rope-1,,WitotoMinica,122_rope,ígaɯ,ígaɯ,!í/i g a ɯ,,List2022,,,^ í g a ɯ $,WitotoMinica
+WitotoMinica-122_rope-2,,WitotoMinica,122_rope,rao,rao,!r/ɾ a o,,List2022,,,^ r a o $,WitotoMinica
+WitotoMurui-172_tongue-1,,WitotoMurui,172_tongue,iɯɸe,iɯɸe,i ɯ ɸ e,,List2022,,,^ i ɯ ɸ e $,WitotoMurui
+WitotoMurui-99_mouth-1,,WitotoMurui,99_mouth,ɸue,ɸue,ɸ u e,,List2022,,,^ ɸ u e $,WitotoMurui
+WitotoMurui-173_toothfrontratherthanmolar-1,,WitotoMurui,173_toothfrontratherthanmolar,iθido,iθido,i θ i d o,,List2022,,,^ i θ i d o $,WitotoMurui
+WitotoMurui-106_nose-1,,WitotoMurui,106_nose,doɸo,doɸo,d o ɸ o,,List2022,,,^ d o ɸ o $,WitotoMurui
+WitotoMurui-40_eye-1,,WitotoMurui,40_eye,uiθɯ,uiθɯ,ui θ ɯ,,List2022,,,^ ui θ ɯ $,WitotoMurui
+WitotoMurui-36_ear-1,,WitotoMurui,36_ear,heɸo,heɸo,h e ɸ o,,List2022,,,^ h e ɸ o $,WitotoMurui
+WitotoMurui-68_head-1,,WitotoMurui,68_head,ɯɸogɯ,ɯɸogɯ,ɯ ɸ o g ɯ,,List2022,,,^ ɯ ɸ o g ɯ $,WitotoMurui
+WitotoMurui-103_neck-1,,WitotoMurui,103_neck,kɯmagoɯ,kɯmagoɯ,k ɯ m a g oɯ,,List2022,,,^ k ɯ m a g oɯ $,WitotoMurui
+WitotoMurui-10_belly-1,,WitotoMurui,10_belly,hébe,hébe,h !é/e b e,,List2022,,,^ h é b e $,WitotoMurui
+WitotoMurui-10_belly-2,,WitotoMurui,10_belly,ɸenaɯ hiʤakɯ,ɸenaɯ hiʤakɯ,ɸ e n aɯ + h i dʒ a k ɯ,,List2022,,,^ ɸ e n aɯ + h i ʤ a k ɯ $,WitotoMurui
+WitotoMurui-6_backpersons-1,,WitotoMurui,6_backpersons,emodo,emodo,e m o d o,,List2022,,,^ e m o d o $,WitotoMurui
+WitotoMurui-66_hand-1,,WitotoMurui,66_hand,onoʤɯ,onoʤɯ,o n o dʒ ɯ,,List2022,,,^ o n o ʤ ɯ $,WitotoMurui
+WitotoMurui-66_hand-2,,WitotoMurui,66_hand,onoɯ,onoɯ,o n oɯ,,List2022,,,^ o n oɯ $,WitotoMurui
+WitotoMurui-88_leg-1,,WitotoMurui,88_leg,ɯda kairo,ɯda kairo,ɯ d a + k ai r o,,List2022,,,^ ɯ d a + k ai r o $,WitotoMurui
+WitotoMurui-57_foot-1,,WitotoMurui,57_foot,eɯʤɯ,eɯʤɯ,e ɯ dʒ ɯ,,List2022,,,^ e ɯ ʤ ɯ $,WitotoMurui
+WitotoMurui-18_bone-1,,WitotoMurui,18_bone,iʤaikɯ,iʤaikɯ,i dʒ ai k ɯ,,List2022,,,^ i ʤ ai k ɯ $,WitotoMurui
+WitotoMurui-16_blood-1,,WitotoMurui,16_blood,dɯe,dɯe,d ɯ e,,List2022,,,^ d ɯ e $,WitotoMurui
+WitotoMurui-16_blood-2,,WitotoMurui,16_blood,dɯrue,dɯrue,d ɯ r u e,,List2022,,,^ d ɯ r u e $,WitotoMurui
+WitotoMurui-70_heart-1,,WitotoMurui,70_heart,komekɯ,komekɯ,k o m e k ɯ,,List2022,,,^ k o m e k ɯ $,WitotoMurui
+WitotoMurui-195_woman-1,,WitotoMurui,195_woman,rɯɲo,rɯɲo,r ɯ ɲ o,,List2022,,,^ r ɯ ɲ o $,WitotoMurui
+WitotoMurui-77_husband-1,,WitotoMurui,77_husband,ɯni,ɯni,ɯ n i,,List2022,,,^ ɯ n i $,WitotoMurui
+WitotoMurui-190_wife-1,,WitotoMurui,190_wife,aɯ,aɯ,aɯ,,List2022,,,^ aɯ $,WitotoMurui
+WitotoMurui-44_father-1,,WitotoMurui,44_father,moo,moo,m oː,,List2022,,,^ m oo $,WitotoMurui
+WitotoMurui-97_mother-1,,WitotoMurui,97_mother,ei,ei,ei,,List2022,,,^ ei $,WitotoMurui
+WitotoMurui-108_old-1,,WitotoMurui,108_old,eiroma,eiroma,ei r o m a,,List2022,,,^ ei r o m a $,WitotoMurui
+WitotoMurui-108_old-2,,WitotoMurui,108_old,uaɯkɯma,uaɯkɯma,u aɯ k ɯ m a,,List2022,,,^ u aɯ k ɯ m a $,WitotoMurui
+WitotoMurui-181_water-1,,WitotoMurui,181_water,hɯnui,hɯnui,h ɯ n ui,,List2022,,,^ h ɯ n ui $,WitotoMurui
+WitotoMurui-119_river-1,,WitotoMurui,119_river,imani,imani,i m a n i,,List2022,,,^ i m a n i $,WitotoMurui
+WitotoMurui-119_river-2,,WitotoMurui,119_river,iʤe,iʤe,i dʒ e,,List2022,,,^ i ʤ e $,WitotoMurui
+WitotoMurui-84_lake-1,,WitotoMurui,84_lake,horai,horai,h o r ai,,List2022,,,^ h o r ai $,WitotoMurui
+WitotoMurui-49_fire-1,,WitotoMurui,49_fire,irai,irai,i r ai,,List2022,,,^ i r ai $,WitotoMurui
+WitotoMurui-4_ashes-1,,WitotoMurui,4_ashes,huθeɸo,huθeɸo,h u θ e ɸ o,,List2022,,,^ h u θ e ɸ o $,WitotoMurui
+WitotoMurui-142_smokeoffire-1,,WitotoMurui,142_smokeoffire,uiʤɯe,uiʤɯe,ui dʒ ɯ e,,List2022,,,^ ui ʤ ɯ e $,WitotoMurui
+WitotoMurui-138_sky-1,,WitotoMurui,138_sky,mona,mona,m o n a,,List2022,,,^ m o n a $,WitotoMurui
+WitotoMurui-191_wind-1,,WitotoMurui,191_wind,hairiɸo,hairiɸo,h ai r i ɸ o,,List2022,,,^ h ai r i ɸ o $,WitotoMurui
+WitotoMurui-191_wind-2,,WitotoMurui,191_wind,aɯɸɯ,aɯɸɯ,aɯ ɸ ɯ,,List2022,,,^ aɯ ɸ ɯ $,WitotoMurui
+WitotoMurui-157_sun-1,,WitotoMurui,157_sun,hitoma,hitoma,h i t o m a,,List2022,,,^ h i t o m a $,WitotoMurui
+WitotoMurui-152_star-1,,WitotoMurui,152_star,ukudu,ukudu,u k u d u,,List2022,,,^ u k u d u $,WitotoMurui
+WitotoMurui-27_dayoppositeofnightratherthantimemeasure-1,,WitotoMurui,27_dayoppositeofnightratherthantimemeasure,aremona,aremona,a r e m o n a,,List2022,,,^ a r e m o n a $,WitotoMurui
+WitotoMurui-105_night-1,,WitotoMurui,105_night,naɯo,naɯo,n aɯ o,,List2022,,,^ n aɯ o $,WitotoMurui
+WitotoMurui-105_night-2,,WitotoMurui,105_night,naɯona,naɯona,n aɯ o n a,,List2022,,,^ n aɯ o n a $,WitotoMurui
+WitotoMurui-37_earthsoil-1,,WitotoMurui,37_earthsoil,enɯrue,enɯrue,e n ɯ r u e,,List2022,,,^ e n ɯ r u e $,WitotoMurui
+WitotoMurui-154_stone-1,,WitotoMurui,154_stone,noɸɯkɯ,noɸɯkɯ,n o ɸ ɯ k ɯ,,List2022,,,^ n o ɸ ɯ k ɯ $,WitotoMurui
+WitotoMurui-126_sand-1,,WitotoMurui,126_sand,koniʤɯe,koniʤɯe,k o n i dʒ ɯ e,,List2022,,,^ k o n i ʤ ɯ e $,WitotoMurui
+WitotoMurui-31_dog-1,,WitotoMurui,31_dog,hɯko,hɯko,h ɯ k o,,List2022,,,^ h ɯ k o $,WitotoMurui
+WitotoMurui-160_tail-1,,WitotoMurui,160_tail,omakaɯ,omakaɯ,o m a k aɯ,,List2022,,,^ o m a k aɯ $,WitotoMurui
+WitotoMurui-144_snake-1,,WitotoMurui,144_snake,haio,haio,h ai o,,List2022,,,^ h ai o $,WitotoMurui
+WitotoMurui-13_bird-1,,WitotoMurui,13_bird,oɸokuiɲo,oɸokuiɲo,o ɸ o k ui ɲ o,,List2022,,,^ o ɸ o k ui ɲ o $,WitotoMurui
+WitotoMurui-13_bird-2,,WitotoMurui,13_bird,θiʤi,θiʤi,θ i dʒ i,,List2022,,,^ θ i ʤ i $,WitotoMurui
+WitotoMurui-50_fish-1,,WitotoMurui,50_fish,ʤɯkɯaɯ,ʤɯkɯaɯ,dʒ ɯ k ɯ aɯ,,List2022,,,^ ʤ ɯ k ɯ aɯ $,WitotoMurui
+WitotoMurui-93_louse-1,,WitotoMurui,93_louse,ɯboma,ɯboma,ɯ b o m a,,List2022,,,^ ɯ b o m a $,WitotoMurui
+WitotoMurui-174_tree-1,,WitotoMurui,174_tree,amena,amena,a m e n a,,List2022,,,^ a m e n a $,WitotoMurui
+WitotoMurui-86_leaf-1,,WitotoMurui,86_leaf,ibe,ibe,i b e,,List2022,,,^ i b e $,WitotoMurui
+WitotoMurui-54_flower-1,,WitotoMurui,54_flower,θaɸia,θaɸia,θ a ɸ i a,,List2022,,,^ θ a ɸ i a $,WitotoMurui
+WitotoMurui-124_torub-1,,WitotoMurui,124_torub,riara,riara,r i a r a,,List2022,,,^ r i a r a $,WitotoMurui
+WitotoMurui-121_root-1,,WitotoMurui,121_root,hainao,hainao,h ai n a o,,List2022,,,^ h ai n a o $,WitotoMurui
+WitotoMurui-131_seed-1,,WitotoMurui,131_seed,ido,ido,i d o,,List2022,,,^ i d o $,WitotoMurui
+WitotoMurui-153_stickofwood-1,,WitotoMurui,153_stickofwood,rada,rada,r a d a,,List2022,,,^ r a d a $,WitotoMurui
+WitotoMurui-153_stickofwood-2,,WitotoMurui,153_stickofwood,radoθi,radoθi,r a d o θ i,,List2022,,,^ r a d o θ i $,WitotoMurui
+WitotoMurui-153_stickofwood-3,,WitotoMurui,153_stickofwood,amena,amena,a m e n a,,List2022,,,^ a m e n a $,WitotoMurui
+WitotoMurui-62_grass-1,,WitotoMurui,62_grass,raitɯkɯɲo,raitɯkɯɲo,r ai t ɯ k ɯ ɲ o,,List2022,,,^ r ai t ɯ k ɯ ɲ o $,WitotoMurui
+WitotoMurui-46_featherlargerfeathersratherthandown-1,,WitotoMurui,46_featherlargerfeathersratherthandown,oogodo,oogodo,oː g o d o,,List2022,,,^ oo g o d o $,WitotoMurui
+WitotoMurui-125_salt-1,,WitotoMurui,125_salt,ɯaiθaɯ,ɯaiθaɯ,ɯ ai θ aɯ,,List2022,,,^ ɯ ai θ aɯ $,WitotoMurui
+WitotoMurui-109_one-1,,WitotoMurui,109_one,dahe,dahe,d a h e,,List2022,,,^ d a h e $,WitotoMurui
+WitotoMurui-109_one-2,,WitotoMurui,109_one,dae,dae,d a e,,List2022,,,^ d a e $,WitotoMurui
+WitotoMurui-176_two-1,,WitotoMurui,176_two,mena,mena,m e n a,,List2022,,,^ m e n a $,WitotoMurui
+WitotoMurui-169_three-1,,WitotoMurui,169_three,dahe amani,dahe amani,d a h e + a m a n i,,List2022,,,^ d a h e + a m a n i $,WitotoMurui
+WitotoMurui-58_four-1,,WitotoMurui,58_four,naga amaga,naga amaga,n a g a + a m a g a,,List2022,,,^ n a g a + a m a g a $,WitotoMurui
+WitotoMurui-51_five-1,,WitotoMurui,51_five,dabekuiro,dabekuiro,d a b e k ui r o,,List2022,,,^ d a b e k ui r o $,WitotoMurui
+WitotoMurui-78_i-1,,WitotoMurui,78_i,kue,kue,k u e,,List2022,,,^ k u e $,WitotoMurui
+WitotoMurui-168_thou-1,,WitotoMurui,168_thou,o,o,o,,List2022,,,^ o $,WitotoMurui
+WitotoMurui-67_he-1,,WitotoMurui,67_he,imɯe,imɯe,i m ɯ e,,List2022,,,^ i m ɯ e $,WitotoMurui
+WitotoMurui-182_we-1,,WitotoMurui,182_we,kaɯ,kaɯ,k aɯ,,List2022,,,^ k aɯ $,WitotoMurui
+WitotoMurui-182_we-2,,WitotoMurui,182_we,koko,koko,k o k o,,List2022,,,^ k o k o $,WitotoMurui
+WitotoMurui-182_we-3,,WitotoMurui,182_we,kaiɲaɯ,kaiɲaɯ,k ai ɲ aɯ,,List2022,,,^ k ai ɲ aɯ $,WitotoMurui
+WitotoMurui-198_ye-1,,WitotoMurui,198_ye,omoɯ,omoɯ,o m oɯ,,List2022,,,^ o m oɯ $,WitotoMurui
+WitotoMurui-198_ye-2,,WitotoMurui,198_ye,omɯko,omɯko,o m ɯ k o,,List2022,,,^ o m ɯ k o $,WitotoMurui
+WitotoMurui-163_they-1,,WitotoMurui,163_they,imakɯ,imakɯ,i m a k ɯ,,List2022,,,^ i m a k ɯ $,WitotoMurui
+WitotoMurui-163_they-2,,WitotoMurui,163_they,iaɯmaiaɯ,iaɯmaiaɯ,i aɯ m ai aɯ,,List2022,,,^ i aɯ m ai aɯ $,WitotoMurui
+WitotoMurui-163_they-3,,WitotoMurui,163_they,iaɯɲuaɯ,iaɯɲuaɯ,i aɯ ɲ u aɯ,,List2022,,,^ i aɯ ɲ u aɯ $,WitotoMurui
+WitotoMurui-12_big-1,,WitotoMurui,12_big,aiʤue,aiʤue,ai dʒ u e,,List2022,,,^ ai ʤ u e $,WitotoMurui
+WitotoMurui-140_small-1,,WitotoMurui,140_small,hanorede,hanorede,h a n o r e d e,,List2022,,,^ h a n o r e d e $,WitotoMurui
+WitotoMurui-61_good-1,,WitotoMurui,61_good,mare,mare,m a r e,,List2022,,,^ m a r e $,WitotoMurui
+WitotoMurui-7_baddeleteriousorunsuitable-1,,WitotoMurui,7_baddeleteriousorunsuitable,maraiɲede,maraiɲede,m a r ai ɲ e d e,,List2022,,,^ m a r ai ɲ e d e $,WitotoMurui
+WitotoMurui-187_white-1,,WitotoMurui,187_white,uθerede,uθerede,u θ e r e d e,,List2022,,,^ u θ e r e d e $,WitotoMurui
+WitotoMurui-15_black-1,,WitotoMurui,15_black,hitɯrede,hitɯrede,h i t ɯ r e d e,,List2022,,,^ h i t ɯ r e d e $,WitotoMurui
+WitotoMurui-22_cloud-1,,WitotoMurui,22_cloud,uiʤɯe,uiʤɯe,ui dʒ ɯ e,,List2022,,,^ ui ʤ ɯ e $,WitotoMurui
+WitotoMurui-167_this-1,,WitotoMurui,167_this,bie,bie,b i e,,List2022,,,^ b i e $,WitotoMurui
+WitotoMurui-161_that-1,,WitotoMurui,161_that,baie,baie,b ai e,,List2022,,,^ b ai e $,WitotoMurui
+WitotoMurui-188_who-1,,WitotoMurui,188_who,bu,bu,b u,,List2022,,,^ b u $,WitotoMurui
+WitotoMurui-184_what-1,,WitotoMurui,184_what,bue,bue,b u e,,List2022,,,^ b u e $,WitotoMurui
+WitotoMurui-107_not-1,,WitotoMurui,107_not,dama ite,dama ite,d a m a + i t e,,List2022,,,^ d a m a + i t e $,WitotoMurui
+WitotoMurui-107_not-2,,WitotoMurui,107_not,ɲe,ɲe,ɲ e,,List2022,,,^ ɲ e $,WitotoMurui
+WitotoMurui-1_allofanumber-1,,WitotoMurui,1_allofanumber,nana,nana,n a n a,,List2022,,,^ n a n a $,WitotoMurui
+WitotoMurui-95_many-1,,WitotoMurui,95_many,aiʤuena,aiʤuena,ai dʒ u e n a,,List2022,,,^ ai ʤ u e n a $,WitotoMurui
+WitotoMurui-92_long-1,,WitotoMurui,92_long,are,are,a r e,,List2022,,,^ a r e $,WitotoMurui
+WitotoMurui-8_bark-1,,WitotoMurui,8_bark,igoraɯ,igoraɯ,i g o r aɯ,,List2022,,,^ i g o r aɯ $,WitotoMurui
+WitotoMurui-96_meatflesh-1,,WitotoMurui,96_meatflesh,ʤɯkɯθi,ʤɯkɯθi,dʒ ɯ k ɯ θ i,,List2022,,,^ ʤ ɯ k ɯ θ i $,WitotoMurui
+WitotoMurui-96_meatflesh-2,,WitotoMurui,96_meatflesh,ɯeθɯ,ɯeθɯ,ɯ e θ ɯ,,List2022,,,^ ɯ e θ ɯ $,WitotoMurui
+WitotoMurui-39_egg-1,,WitotoMurui,39_egg,hɯgɯ,hɯgɯ,h ɯ g ɯ,,List2022,,,^ h ɯ g ɯ $,WitotoMurui
+WitotoMurui-10_belly-3,,WitotoMurui,10_belly,hebe,hebe,h e b e,,List2022,,,^ h e b e $,WitotoMurui
+WitotoMurui-10_belly-4,,WitotoMurui,10_belly,ɸenaɯ,ɸenaɯ,ɸ e n aɯ,,List2022,,,^ ɸ e n aɯ $,WitotoMurui
+WitotoMurui-91_liver-1,,WitotoMurui,91_liver,banoi,banoi,b a n o i,,List2022,,,^ b a n o i $,WitotoMurui
+WitotoMurui-32_todrink-1,,WitotoMurui,32_todrink,hirode,hirode,h i r o d e,,List2022,,,^ h i r o d e $,WitotoMurui
+WitotoMurui-38_toeat-1,,WitotoMurui,38_toeat,rɯte,rɯte,r ɯ t e,,List2022,,,^ r ɯ t e $,WitotoMurui
+WitotoMurui-38_toeat-2,,WitotoMurui,38_toeat,ʤite,ʤite,dʒ i t e,,List2022,,,^ ʤ i t e $,WitotoMurui
+WitotoMurui-38_toeat-3,,WitotoMurui,38_toeat,guite,guite,g ui t e,,List2022,,,^ g ui t e $,WitotoMurui
+WitotoMurui-14_tobite-1,,WitotoMurui,14_tobite,aɯnide,aɯnide,aɯ n i d e,,List2022,,,^ aɯ n i d e $,WitotoMurui
+WitotoMurui-130_see-1,,WitotoMurui,130_see,kɯode,kɯode,k ɯ o d e,,List2022,,,^ k ɯ o d e $,WitotoMurui
+WitotoMurui-141_tosmellperceiveodor-1,,WitotoMurui,141_tosmellperceiveodor,haʤede,haʤede,h a dʒ e d e,,List2022,,,^ h a ʤ e d e $,WitotoMurui
+WitotoMurui-141_tosmellperceiveodor-2,,WitotoMurui,141_tosmellperceiveodor,ɲɯtade,ɲɯtade,ɲ ɯ t a d e,,List2022,,,^ ɲ ɯ t a d e $,WitotoMurui
+WitotoMurui-69_tohear-1,,WitotoMurui,69_tohear,kakade,kakade,k a k a d e,,List2022,,,^ k a k a d e $,WitotoMurui
+WitotoMurui-83_toknowfacts-1,,WitotoMurui,83_toknowfacts,uiɲote,uiɲote,ui ɲ o t e,,List2022,,,^ ui ɲ o t e $,WitotoMurui
+WitotoMurui-139_sleep-1,,WitotoMurui,139_sleep,ɯnɯde,ɯnɯde,ɯ n ɯ d e,,List2022,,,^ ɯ n ɯ d e $,WitotoMurui
+WitotoMurui-28_todie-1,,WitotoMurui,28_todie,ɸiodaite,ɸiodaite,ɸ i o d ai t e,,List2022,,,^ ɸ i o d ai t e $,WitotoMurui
+WitotoMurui-82_tokill-1,,WitotoMurui,82_tokill,meinete,meinete,m ei n e t e,,List2022,,,^ m ei n e t e $,WitotoMurui
+WitotoMurui-159_toswim-1,,WitotoMurui,159_toswim,ɯɯde,ɯɯde,ɯː d e,,List2022,,,^ ɯɯ d e $,WitotoMurui
+WitotoMurui-55_tofly-1,,WitotoMurui,55_tofly,ɸeede,ɸeede,ɸ eː d e,,List2022,,,^ ɸ ee d e $,WitotoMurui
+WitotoMurui-178_towalk-1,,WitotoMurui,178_towalk,makarite,makarite,m a k a r i t e,,List2022,,,^ m a k a r i t e $,WitotoMurui
+WitotoMurui-24_tocome-1,,WitotoMurui,24_tocome,bite,bite,b i t e,,List2022,,,^ b i t e $,WitotoMurui
+WitotoMurui-60_togive-1,,WitotoMurui,60_togive,ɸekade,ɸekade,ɸ e k a d e,,List2022,,,^ ɸ e k a d e $,WitotoMurui
+WitotoMurui-127_say-1,,WitotoMurui,127_say,raite,raite,r ai t e,,List2022,,,^ r ai t e $,WitotoMurui
+WitotoMurui-98_mountain-1,,WitotoMurui,98_mountain,anedu,anedu,a n e d u,,List2022,,,^ a n e d u $,WitotoMurui
+WitotoMurui-116_red-1,,WitotoMurui,116_red,hiaɯrede,hiaɯrede,h i aɯ r e d e,,List2022,,,^ h i aɯ r e d e $,WitotoMurui
+WitotoMurui-63_green-1,,WitotoMurui,63_green,mokorede,mokorede,m o k o r e d e,,List2022,,,^ m o k o r e d e $,WitotoMurui
+WitotoMurui-200_yellow-1,,WitotoMurui,200_yellow,borarede,borarede,b o r a r e d e,,List2022,,,^ b o r a r e d e $,WitotoMurui
+WitotoMurui-104_new-1,,WitotoMurui,104_new,komue,komue,k o m u e,,List2022,,,^ k o m u e $,WitotoMurui
+WitotoMurui-33_drysubstance-1,,WitotoMurui,33_drysubstance,θaɸerede,θaɸerede,θ a ɸ e r e d e,,List2022,,,^ θ a ɸ e r e d e $,WitotoMurui
+WitotoMurui-100_name-1,,WitotoMurui,100_name,mamekɯ,mamekɯ,m a m e k ɯ,,List2022,,,^ m a m e k ɯ $,WitotoMurui
+WitotoMurui-75_how-1,,WitotoMurui,75_how,nɯeθe,nɯeθe,n ɯ e θ e,,List2022,,,^ n ɯ e θ e $,WitotoMurui
+WitotoMurui-185_when-1,,WitotoMurui,185_when,nɯruido,nɯruido,n ɯ r ui d o,,List2022,,,^ n ɯ r ui d o $,WitotoMurui
+WitotoMurui-186_where-1,,WitotoMurui,186_where,nɯno,nɯno,n ɯ n o,,List2022,,,^ n ɯ n o $,WitotoMurui
+WitotoMurui-186_where-2,,WitotoMurui,186_where,nɯne,nɯne,n ɯ n e,,List2022,,,^ n ɯ n e $,WitotoMurui
+WitotoMurui-72_here-1,,WitotoMurui,72_here,benomo,benomo,b e n o m o,,List2022,,,^ b e n o m o $,WitotoMurui
+WitotoMurui-162_there-1,,WitotoMurui,162_there,batɯne,batɯne,b a t ɯ n e,,List2022,,,^ b a t ɯ n e $,WitotoMurui
+WitotoMurui-162_there-2,,WitotoMurui,162_there,hadɯ,hadɯ,h a d ɯ,,List2022,,,^ h a d ɯ $,WitotoMurui
+WitotoMurui-110_other-1,,WitotoMurui,110_other,hɯaɯe,hɯaɯe,h ɯ aɯ e,,List2022,,,^ h ɯ aɯ e $,WitotoMurui
+WitotoMurui-47_few-1,,WitotoMurui,47_few,hanore,hanore,h a n o r e,,List2022,,,^ h a n o r e $,WitotoMurui
+WitotoMurui-56_fog-1,,WitotoMurui,56_fog,hɯʤerue,hɯʤerue,h ɯ dʒ e r u e,,List2022,,,^ h ɯ ʤ e r u e $,WitotoMurui
+WitotoMurui-56_fog-2,,WitotoMurui,56_fog,uiʤɯe,uiʤɯe,ui dʒ ɯ e,,List2022,,,^ ui ʤ ɯ e $,WitotoMurui
+WitotoMurui-53_toflow-1,,WitotoMurui,53_toflow,tote,tote,t o t e,,List2022,,,^ t o t e $,WitotoMurui
+WitotoMurui-129_seaocean-1,,WitotoMurui,129_seaocean,monaiʤai,monaiʤai,m o n ai dʒ ai,,List2022,,,^ m o n ai ʤ ai $,WitotoMurui
+WitotoMurui-183_wet-1,,WitotoMurui,183_wet,ɯnorede,ɯnorede,ɯ n o r e d e,,List2022,,,^ ɯ n o r e d e $,WitotoMurui
+WitotoMurui-180_towash-1,,WitotoMurui,180_towash,hokode,hokode,h o k o d e,,List2022,,,^ h o k o d e $,WitotoMurui
+WitotoMurui-197_worm-1,,WitotoMurui,197_worm,aɯgɯro,aɯgɯro,aɯ g ɯ r o,,List2022,,,^ aɯ g ɯ r o $,WitotoMurui
+WitotoMurui-197_worm-2,,WitotoMurui,197_worm,aɯkɯ,aɯkɯ,aɯ k ɯ,,List2022,,,^ aɯ k ɯ $,WitotoMurui
+WitotoMurui-192_wing-1,,WitotoMurui,192_wing,iaiko,iaiko,i ai k o,,List2022,,,^ i ai k o $,WitotoMurui
+WitotoMurui-194_withaccompanying-1,,WitotoMurui,194_withaccompanying,dɯga,dɯga,d ɯ g a,,List2022,,,^ d ɯ g a $,WitotoMurui
+WitotoMurui-81_in-1,,WitotoMurui,81_in,mo,mo,m o,,List2022,,,^ m o $,WitotoMurui
+WitotoMurui-81_in-2,,WitotoMurui,81_in,ero,ero,e r o,,List2022,,,^ e r o $,WitotoMurui
+WitotoMurui-81_in-3,,WitotoMurui,81_in,hoɸo,hoɸo,h o ɸ o,,List2022,,,^ h o ɸ o $,WitotoMurui
+WitotoMurui-5_at-1,,WitotoMurui,5_at,mo,mo,m o,,List2022,,,^ m o $,WitotoMurui
+WitotoMurui-80_if-1,,WitotoMurui,80_if,dena,dena,d e n a,,List2022,,,^ d e n a $,WitotoMurui
+WitotoMurui-80_if-2,,WitotoMurui,80_if,na,na,n a,,List2022,,,^ n a $,WitotoMurui
+WitotoMurui-21_childyoungpersonratherthanasrelationshipterm-1,,WitotoMurui,21_childyoungpersonratherthanasrelationshipterm,urue,urue,u r u e,,List2022,,,^ u r u e $,WitotoMurui
+WitotoMurui-26_tocut-1,,WitotoMurui,26_tocut,haitade,haitade,h ai t a d e,,List2022,,,^ h ai t a d e $,WitotoMurui
+WitotoMurui-26_tocut-2,,WitotoMurui,26_tocut,kotade,kotade,k o t a d e,,List2022,,,^ k o t a d e $,WitotoMurui
+WitotoMurui-189_wide-1,,WitotoMurui,189_wide,aiʤue,aiʤue,ai dʒ u e,,List2022,,,^ ai ʤ u e $,WitotoMurui
+WitotoMurui-189_wide-2,,WitotoMurui,189_wide,dɯaroθe,dɯaroθe,d ɯ a r o θ e,,List2022,,,^ d ɯ a r o θ e $,WitotoMurui
+WitotoMurui-101_narrow-1,,WitotoMurui,101_narrow,hanorede,hanorede,h a n o r e d e,,List2022,,,^ h a n o r e d e $,WitotoMurui
+WitotoMurui-42_far-1,,WitotoMurui,42_far,are,are,a r e,,List2022,,,^ a r e $,WitotoMurui
+WitotoMurui-102_near-1,,WitotoMurui,102_near,iaɯrei,iaɯrei,i aɯ r ei,,List2022,,,^ i aɯ r ei $,WitotoMurui
+WitotoMurui-102_near-2,,WitotoMurui,102_near,ianori,ianori,i a n o r i,,List2022,,,^ i a n o r i $,WitotoMurui
+WitotoMurui-164_thick-1,,WitotoMurui,164_thick,hedakɯede,hedakɯede,h e d a k ɯ e d e,,List2022,,,^ h e d a k ɯ e d e $,WitotoMurui
+WitotoMurui-165_thin-1,,WitotoMurui,165_thin,ʤɯaɯde,ʤɯaɯde,dʒ ɯ aɯ d e,,List2022,,,^ ʤ ɯ aɯ d e $,WitotoMurui
+WitotoMurui-134_short-1,,WitotoMurui,134_short,ianoride,ianoride,i a n o r i d e,,List2022,,,^ i a n o r i d e $,WitotoMurui
+WitotoMurui-71_heavy-1,,WitotoMurui,71_heavy,merede,merede,m e r e d e,,List2022,,,^ m e r e d e $,WitotoMurui
+WitotoMurui-34_dullknife-1,,WitotoMurui,34_dullknife,hainide,hainide,h ai n i d e,,List2022,,,^ h ai n i d e $,WitotoMurui
+WitotoMurui-133_sharpasknife-1,,WitotoMurui,133_sharpasknife,hairede,hairede,h ai r e d e,,List2022,,,^ h ai r e d e $,WitotoMurui
+WitotoMurui-30_dirty-1,,WitotoMurui,30_dirty,hearede,hearede,h e a r e d e,,List2022,,,^ h e a r e d e $,WitotoMurui
+WitotoMurui-123_rottenespeciallylog-1,,WitotoMurui,123_rottenespeciallylog,rɯɸaide,rɯɸaide,r ɯ ɸ ai d e,,List2022,,,^ r ɯ ɸ ai d e $,WitotoMurui
+WitotoMurui-123_rottenespeciallylog-2,,WitotoMurui,123_rottenespeciallylog,θabide,θabide,θ a b i d e,,List2022,,,^ θ a b i d e $,WitotoMurui
+WitotoMurui-143_smooth-1,,WitotoMurui,143_smooth,rɯhɯrede,rɯhɯrede,r ɯ h ɯ r e d e,,List2022,,,^ r ɯ h ɯ r e d e $,WitotoMurui
+WitotoMurui-155_straight-1,,WitotoMurui,155_straight,atona,atona,a t o n a,,List2022,,,^ a t o n a $,WitotoMurui
+WitotoMurui-117_rightcorrect-1,,WitotoMurui,117_rightcorrect,mare,mare,m a r e,,List2022,,,^ m a r e $,WitotoMurui
+WitotoMurui-87_lefthand-1,,WitotoMurui,87_lefthand,harɯɸebehɯ,harɯɸebehɯ,h a r ɯ ɸ e b e h ɯ,,List2022,,,^ h a r ɯ ɸ e b e h ɯ $,WitotoMurui
+WitotoMurui-118_righthand-1,,WitotoMurui,118_righthand,nabehi,nabehi,n a b e h i,,List2022,,,^ n a b e h i $,WitotoMurui
+WitotoMurui-113_topull-1,,WitotoMurui,113_topull,θonode,θonode,θ o n o d e,,List2022,,,^ θ o n o d e $,WitotoMurui
+WitotoMurui-114_topush-1,,WitotoMurui,114_topush,ɲuitade,ɲuitade,ɲ ui t a d e,,List2022,,,^ ɲ ui t a d e $,WitotoMurui
+WitotoMurui-170_tothrow-1,,WitotoMurui,170_tothrow,bɯtade,bɯtade,b ɯ t a d e,,List2022,,,^ b ɯ t a d e $,WitotoMurui
+WitotoMurui-170_tothrow-2,,WitotoMurui,170_tothrow,nitade,nitade,n i t a d e,,List2022,,,^ n i t a d e $,WitotoMurui
+WitotoMurui-170_tothrow-3,,WitotoMurui,170_tothrow,kuaɯtade,kuaɯtade,k u aɯ t a d e,,List2022,,,^ k u aɯ t a d e $,WitotoMurui
+WitotoMurui-148_tosplit-1,,WitotoMurui,148_tosplit,botade,botade,b o t a d e,,List2022,,,^ b o t a d e $,WitotoMurui
+WitotoMurui-29_todig-1,,WitotoMurui,29_todig,raɯte,raɯte,r aɯ t e,,List2022,,,^ r aɯ t e $,WitotoMurui
+WitotoMurui-171_totie-1,,WitotoMurui,171_totie,kuinade,kuinade,k ui n a d e,,List2022,,,^ k ui n a d e $,WitotoMurui
+WitotoMurui-132_tosew-1,,WitotoMurui,132_tosew,tɯɸode,tɯɸode,t ɯ ɸ o d e,,List2022,,,^ t ɯ ɸ o d e $,WitotoMurui
+WitotoMurui-41_tofalldropratherthantopple-1,,WitotoMurui,41_tofalldropratherthantopple,uaide,uaide,u ai d e,,List2022,,,^ u ai d e $,WitotoMurui
+WitotoMurui-41_tofalldropratherthantopple-2,,WitotoMurui,41_tofalldropratherthantopple,kaide,kaide,k ai d e,,List2022,,,^ k ai d e $,WitotoMurui
+WitotoMurui-158_toswell-1,,WitotoMurui,158_toswell,θɯɾide,θɯɾide,θ ɯ ɾ i d e,,List2022,,,^ θ ɯ ɾ i d e $,WitotoMurui
+WitotoMurui-166_tothink-1,,WitotoMurui,166_tothink,komekɯ ɸakade,komekɯ ɸakade,k o m e k ɯ + ɸ a k a d e,,List2022,,,^ k o m e k ɯ + ɸ a k a d e $,WitotoMurui
+WitotoMurui-135_tosing-1,,WitotoMurui,135_tosing,rote,rote,r o t e,,List2022,,,^ r o t e $,WitotoMurui
+WitotoMurui-177_tovomit-1,,WitotoMurui,177_tovomit,kɯkuede,kɯkuede,k ɯ k u e d e,,List2022,,,^ k ɯ k u e d e $,WitotoMurui
+WitotoMurui-156_tosuck-1,,WitotoMurui,156_tosuck,harode,harode,h a r o d e,,List2022,,,^ h a r o d e $,WitotoMurui
+WitotoMurui-156_tosuck-2,,WitotoMurui,156_tosuck,hakonote,hakonote,h a k o n o t e,,List2022,,,^ h a k o n o t e $,WitotoMurui
+WitotoMurui-156_tosuck-3,,WitotoMurui,156_tosuck,ʤibade,ʤibade,dʒ i b a d e,,List2022,,,^ ʤ i b a d e $,WitotoMurui
+WitotoMurui-17_toblowofwind-1,,WitotoMurui,17_toblowofwind,ɸuride,ɸuride,ɸ u r i d e,,List2022,,,^ ɸ u r i d e $,WitotoMurui
+WitotoMurui-17_toblowofwind-2,,WitotoMurui,17_toblowofwind,hɯɯde,hɯɯde,h ɯː d e,,List2022,,,^ h ɯɯ d e $,WitotoMurui
+WitotoMurui-17_toblowofwind-3,,WitotoMurui,17_toblowofwind,ɸiraide,ɸiraide,ɸ i r ai d e,,List2022,,,^ ɸ i r ai d e $,WitotoMurui
+WitotoMurui-17_toblowofwind-4,,WitotoMurui,17_toblowofwind,θaɯrɯride,θaɯrɯride,θ aɯ r ɯ r i d e,,List2022,,,^ θ aɯ r ɯ r i d e $,WitotoMurui
+WitotoMurui-17_toblowofwind-5,,WitotoMurui,17_toblowofwind,betaride,betaride,b e t a r i d e,,List2022,,,^ b e t a r i d e $,WitotoMurui
+WitotoMurui-45_tofear-1,,WitotoMurui,45_tofear,hakɯnaite,hakɯnaite,h a k ɯ n ai t e,,List2022,,,^ h a k ɯ n ai t e $,WitotoMurui
+WitotoMurui-149_tosqueeze-1,,WitotoMurui,149_tosqueeze,omɯde,omɯde,o m ɯ d e,,List2022,,,^ o m ɯ d e $,WitotoMurui
+WitotoMurui-149_tosqueeze-2,,WitotoMurui,149_tosqueeze,ɯduide,ɯduide,ɯ d ui d e,,List2022,,,^ ɯ d ui d e $,WitotoMurui
+WitotoMurui-74_toholdinhand-1,,WitotoMurui,74_toholdinhand,moθide,moθide,m o θ i d e,,List2022,,,^ m o θ i d e $,WitotoMurui
+WitotoMurui-74_toholdinhand-2,,WitotoMurui,74_toholdinhand,dubade,dubade,d u b a d e,,List2022,,,^ d u b a d e $,WitotoMurui
+WitotoMurui-35_dust-1,,WitotoMurui,35_dust,hiora,hiora,h i o r a,,List2022,,,^ h i o r a $,WitotoMurui
+WitotoMurui-35_dust-2,,WitotoMurui,35_dust,imuikɯ,imuikɯ,i m ui k ɯ,,List2022,,,^ i m ui k ɯ $,WitotoMurui
+WitotoMurui-90_tolive-1,,WitotoMurui,90_tolive,kahede,kahede,k a h e d e,,List2022,,,^ k a h e d e $,WitotoMurui
+WitotoMurui-122_rope-1,,WitotoMurui,122_rope,igaɯ,igaɯ,i g aɯ,,List2022,,,^ i g aɯ $,WitotoMurui
+WitotoMurui-122_rope-2,,WitotoMurui,122_rope,rao,rao,r a o,,List2022,,,^ r a o $,WitotoMurui
+WitotoNipode-172_tongue-1,,WitotoNipode,172_tongue,iɯ́pe,iɯ́pe,i !ɯ́/ɯ p e,,List2022,,,^ i ɯ́ p e $,WitotoNipode
+WitotoNipode-99_mouth-1,,WitotoNipode,99_mouth,púe,púe,p !ú/u e,,List2022,,,^ p ú e $,WitotoNipode
+WitotoNipode-173_toothfrontratherthanmolar-1,,WitotoNipode,173_toothfrontratherthanmolar,ítido,ítido,!í/i t i d o,,List2022,,,^ í t i d o $,WitotoNipode
+WitotoNipode-106_nose-1,,WitotoNipode,106_nose,dópo,dópo,d !ó/o p o,,List2022,,,^ d ó p o $,WitotoNipode
+WitotoNipode-40_eye-1,,WitotoNipode,40_eye,uíhɯ,uíhɯ,u !í/i h ɯ,,List2022,,,^ u í h ɯ $,WitotoNipode
+WitotoNipode-36_ear-1,,WitotoNipode,36_ear,hépo,hépo,h !é/e p o,,List2022,,,^ h é p o $,WitotoNipode
+WitotoNipode-68_head-1,,WitotoNipode,68_head,ɯ́po,ɯ́po,!ɯ́/ɯ p o,,List2022,,,^ ɯ́ p o $,WitotoNipode
+WitotoNipode-103_neck-1,,WitotoNipode,103_neck,kɯmókairo,kɯmókairo,k ɯ m !ó/o k a i !r/ɾ o,,List2022,,,^ k ɯ m ó k a i r o $,WitotoNipode
+WitotoNipode-10_belly-1,,WitotoNipode,10_belly,hébe,hébe,h !é/e b e,,List2022,,,^ h é b e $,WitotoNipode
+WitotoNipode-10_belly-2,,WitotoNipode,10_belly,nemúigɯ,nemúigɯ,n e m !ú/u i g ɯ,,List2022,,,^ n e m ú i g ɯ $,WitotoNipode
+WitotoNipode-6_backpersons-1,,WitotoNipode,6_backpersons,heráɯkɯ,heráɯkɯ,h e !r/ɾ !á/a ɯ k ɯ,,List2022,,,^ h e r á ɯ k ɯ $,WitotoNipode
+WitotoNipode-66_hand-1,,WitotoNipode,66_hand,ónoɯ,ónoɯ,!ó/o n o ɯ,,List2022,,,^ ó n o ɯ $,WitotoNipode
+WitotoNipode-88_leg-1,,WitotoNipode,88_leg,ɯdá kairo,ɯdá kairo,ɯ d !á/a + k a i !r/ɾ o,,List2022,,,^ ɯ d á + k a i r o $,WitotoNipode
+WitotoNipode-57_foot-1,,WitotoNipode,57_foot,eɯ́ba,eɯ́ba,e !ɯ́/ɯ b a,,List2022,,,^ e ɯ́ b a $,WitotoNipode
+WitotoNipode-18_bone-1,,WitotoNipode,18_bone,íkuru,íkuru,!í/i k u !r/ɾ u,,List2022,,,^ í k u r u $,WitotoNipode
+WitotoNipode-16_blood-1,,WitotoNipode,16_blood,dɯ́e,dɯ́e,d !ɯ́/ɯ e,,List2022,,,^ d ɯ́ e $,WitotoNipode
+WitotoNipode-70_heart-1,,WitotoNipode,70_heart,komékɯ,komékɯ,k o m !é/e k ɯ,,List2022,,,^ k o m é k ɯ $,WitotoNipode
+WitotoNipode-195_woman-1,,WitotoNipode,195_woman,rɯìŋo,rɯìŋo,!r/ɾ ɯ !ì/i ŋ o,,List2022,,,^ r ɯ ì ŋ o $,WitotoNipode
+WitotoNipode-77_husband-1,,WitotoNipode,77_husband,ɯìni,ɯìni,ɯ !ì/i n i,,List2022,,,^ ɯ ì n i $,WitotoNipode
+WitotoNipode-190_wife-1,,WitotoNipode,190_wife,áɯ,áɯ,!á/a ɯ,,List2022,,,^ á ɯ $,WitotoNipode
+WitotoNipode-44_father-1,,WitotoNipode,44_father,móo,móo,m !óo/oː,,List2022,,,^ m óo $,WitotoNipode
+WitotoNipode-97_mother-1,,WitotoNipode,97_mother,áɲo,áɲo,!á/a ɲ o,,List2022,,,^ á ɲ o $,WitotoNipode
+WitotoNipode-108_old-1,,WitotoNipode,108_old,eíroma,eíroma,e !í/i !r/ɾ o m a,,List2022,,,^ e í r o m a $,WitotoNipode
+WitotoNipode-181_water-1,,WitotoNipode,181_water,háɯnoi,háɯnoi,h !á/a ɯ n o i,,List2022,,,^ h á ɯ n o i $,WitotoNipode
+WitotoNipode-119_river-1,,WitotoNipode,119_river,imáni,imáni,i m !á/a n i,,List2022,,,^ i m á n i $,WitotoNipode
+WitotoNipode-84_lake-1,,WitotoNipode,84_lake,hórai,hórai,h !ó/o !r/ɾ a i,,List2022,,,^ h ó r a i $,WitotoNipode
+WitotoNipode-49_fire-1,,WitotoNipode,49_fire,iráikɯ,iráikɯ,i !r/ɾ !á/a i k ɯ,,List2022,,,^ i r á i k ɯ $,WitotoNipode
+WitotoNipode-4_ashes-1,,WitotoNipode,4_ashes,hítuegɯ,hítuegɯ,h !í/i t u e g ɯ,,List2022,,,^ h í t u e g ɯ $,WitotoNipode
+WitotoNipode-142_smokeoffire-1,,WitotoNipode,142_smokeoffire,úiʤɯe,úiʤɯe,!ú/u i dʒ ɯ e,,List2022,,,^ ú i ʤ ɯ e $,WitotoNipode
+WitotoNipode-138_sky-1,,WitotoNipode,138_sky,móna,móna,m !ó/o n a,,List2022,,,^ m ó n a $,WitotoNipode
+WitotoNipode-191_wind-1,,WitotoNipode,191_wind,hairípoɯ,hairípoɯ,h a i !r/ɾ !í/i p o ɯ,,List2022,,,^ h a i r í p o ɯ $,WitotoNipode
+WitotoNipode-157_sun-1,,WitotoNipode,157_sun,hiɗóma,hiɗóma,h i ɗ !ó/o m a,,List2022,,,^ h i ɗ ó m a $,WitotoNipode
+WitotoNipode-152_star-1,,WitotoNipode,152_star,ukúdo,ukúdo,u k !ú/u d o,,List2022,,,^ u k ú d o $,WitotoNipode
+WitotoNipode-27_dayoppositeofnightratherthantimemeasure-1,,WitotoNipode,27_dayoppositeofnightratherthantimemeasure,móna,móna,m !ó/o n a,,List2022,,,^ m ó n a $,WitotoNipode
+WitotoNipode-105_night-1,,WitotoNipode,105_night,náɯɯo,náɯɯo,n !á/a ɯː o,,List2022,,,^ n á ɯɯ o $,WitotoNipode
+WitotoNipode-37_earthsoil-1,,WitotoNipode,37_earthsoil,énɯe,énɯe,!é/e n ɯ e,,List2022,,,^ é n ɯ e $,WitotoNipode
+WitotoNipode-154_stone-1,,WitotoNipode,154_stone,nopɯkɯ,nopɯkɯ,n o p ɯ k ɯ,,List2022,,,^ n o p ɯ k ɯ $,WitotoNipode
+WitotoNipode-126_sand-1,,WitotoNipode,126_sand,kóniʤɯe,kóniʤɯe,k !ó/o n i dʒ ɯ e,,List2022,,,^ k ó n i ʤ ɯ e $,WitotoNipode
+WitotoNipode-31_dog-1,,WitotoNipode,31_dog,hɯ́ko,hɯ́ko,h !ɯ́/ɯ k o,,List2022,,,^ h ɯ́ k o $,WitotoNipode
+WitotoNipode-160_tail-1,,WitotoNipode,160_tail,óda,óda,!ó/o d a,,List2022,,,^ ó d a $,WitotoNipode
+WitotoNipode-144_snake-1,,WitotoNipode,144_snake,iβána,iβána,i β !á/a n a,,List2022,,,^ i β á n a $,WitotoNipode
+WitotoNipode-144_snake-2,,WitotoNipode,144_snake,háio,háio,h !á/a i o,,List2022,,,^ h á i o $,WitotoNipode
+WitotoNipode-13_bird-1,,WitotoNipode,13_bird,íguiʤɯkoɯ,íguiʤɯkoɯ,!í/i g u i dʒ ɯ k o ɯ,,List2022,,,^ í g u i ʤ ɯ k o ɯ $,WitotoNipode
+WitotoNipode-110_other-1,,WitotoNipode,110_other,hɯáɯ,hɯáɯ,h ɯ !á/a ɯ,,List2022,,,^ h ɯ á ɯ $,WitotoNipode
+WitotoNipode-110_other-2,,WitotoNipode,110_other,hɯáɯɯe,hɯáɯɯe,h ɯ !á/a ɯː e,,List2022,,,^ h ɯ á ɯɯ e $,WitotoNipode
+WitotoNipode-50_fish-1,,WitotoNipode,50_fish,ahumado,ahumado,a h u m a d o,,List2022,,,^ a h u m a d o $,WitotoNipode
+WitotoNipode-50_fish-2,,WitotoNipode,50_fish,ʧámu,ʧámu,tʃ !á/a m u,,List2022,,,^ ʧ á m u $,WitotoNipode
+WitotoNipode-93_louse-1,,WitotoNipode,93_louse,ɯbóma,ɯbóma,ɯ b !ó/o m a,,List2022,,,^ ɯ b ó m a $,WitotoNipode
+WitotoNipode-174_tree-1,,WitotoNipode,174_tree,aména,aména,a m !é/e n a,,List2022,,,^ a m é n a $,WitotoNipode
+WitotoNipode-86_leaf-1,,WitotoNipode,86_leaf,rábe,rábe,!r/ɾ !á/a b e,,List2022,,,^ r á b e $,WitotoNipode
+WitotoNipode-54_flower-1,,WitotoNipode,54_flower,tápia,tápia,t !á/a p i a,,List2022,,,^ t á p i a $,WitotoNipode
+WitotoNipode-54_flower-2,,WitotoNipode,54_flower,múʤiaʤeba,múʤiaʤeba,m !ú/u dʒ i a dʒ e b a,,List2022,,,^ m ú ʤ i a ʤ e b a $,WitotoNipode
+WitotoNipode-124_torub-1,,WitotoNipode,124_torub,ría,ría,!r/ɾ !í/i a,,List2022,,,^ r í a $,WitotoNipode
+WitotoNipode-121_root-1,,WitotoNipode,121_root,háinao,háinao,h !á/a i n a o,,List2022,,,^ h á i n a o $,WitotoNipode
+WitotoNipode-131_seed-1,,WitotoNipode,131_seed,íhɯ,íhɯ,!í/i h ɯ,,List2022,,,^ í h ɯ $,WitotoNipode
+WitotoNipode-153_stickofwood-1,,WitotoNipode,153_stickofwood,ráda,ráda,!r/ɾ !á/a d a,,List2022,,,^ r á d a $,WitotoNipode
+WitotoNipode-153_stickofwood-2,,WitotoNipode,153_stickofwood,radóti,radóti,!r/ɾ a d !ó/o t i,,List2022,,,^ r a d ó t i $,WitotoNipode
+WitotoNipode-62_grass-1,,WitotoNipode,62_grass,ráiɗɯaɯ,ráiɗɯaɯ,!r/ɾ !á/a i ɗ ɯ a ɯ,,List2022,,,^ r á i ɗ ɯ a ɯ $,WitotoNipode
+WitotoNipode-46_featherlargerfeathersratherthandown-1,,WitotoNipode,46_featherlargerfeathersratherthandown,óogodo,óogodo,!óo/oː g o d o,,List2022,,,^ óo g o d o $,WitotoNipode
+WitotoNipode-125_salt-1,,WitotoNipode,125_salt,ɯ́aitaɯ,ɯ́aitaɯ,!ɯ́/ɯ a i t a ɯ,,List2022,,,^ ɯ́ a i t a ɯ $,WitotoNipode
+WitotoNipode-109_one-1,,WitotoNipode,109_one,da,da,d a,,List2022,,,^ d a $,WitotoNipode
+WitotoNipode-176_two-1,,WitotoNipode,176_two,ména,ména,m !é/e n a,,List2022,,,^ m é n a $,WitotoNipode
+WitotoNipode-169_three-1,,WitotoNipode,169_three,da ámani,da ámani,d a + !á/a m a n i,,List2022,,,^ d a + á m a n i $,WitotoNipode
+WitotoNipode-58_four-1,,WitotoNipode,58_four,pɯgoménarie,pɯgoménarie,p ɯ g o m !é/e n a !r/ɾ i e,,List2022,,,^ p ɯ g o m é n a r i e $,WitotoNipode
+WitotoNipode-51_five-1,,WitotoNipode,51_five,hubéba,hubéba,h u b !é/e b a,,List2022,,,^ h u b é b a $,WitotoNipode
+WitotoNipode-78_i-1,,WitotoNipode,78_i,kúe,kúe,k !ú/u e,,List2022,,,^ k ú e $,WitotoNipode
+WitotoNipode-168_thou-1,,WitotoNipode,168_thou,o,o,o,,List2022,,,^ o $,WitotoNipode
+WitotoNipode-67_he-1,,WitotoNipode,67_he,apéma,apéma,a p !é/e m a,,List2022,,,^ a p é m a $,WitotoNipode
+WitotoNipode-67_he-2,,WitotoNipode,67_he,da,da,d a,,List2022,,,^ d a $,WitotoNipode
+WitotoNipode-182_we-1,,WitotoNipode,182_we,kaɯ,kaɯ,k a ɯ,,List2022,,,^ k a ɯ $,WitotoNipode
+WitotoNipode-182_we-2,,WitotoNipode,182_we,kóko,kóko,k !ó/o k o,,List2022,,,^ k ó k o $,WitotoNipode
+WitotoNipode-198_ye-1,,WitotoNipode,198_ye,ómaɯ,ómaɯ,!ó/o m a ɯ,,List2022,,,^ ó m a ɯ $,WitotoNipode
+WitotoNipode-198_ye-2,,WitotoNipode,198_ye,ómaɯko,ómaɯko,!ó/o m a ɯ k o,,List2022,,,^ ó m a ɯ k o $,WitotoNipode
+WitotoNipode-163_they-1,,WitotoNipode,163_they,apémakɯ,apémakɯ,a p !é/e m a k ɯ,,List2022,,,^ a p é m a k ɯ $,WitotoNipode
+WitotoNipode-163_they-2,,WitotoNipode,163_they,apémaɯʤɯnoɯ,apémaɯʤɯnoɯ,a p !é/e m a ɯ dʒ ɯ n o ɯ,,List2022,,,^ a p é m a ɯ ʤ ɯ n o ɯ $,WitotoNipode
+WitotoNipode-163_they-3,,WitotoNipode,163_they,dáɯʤɯnoɯ,dáɯʤɯnoɯ,d !á/a ɯ dʒ ɯ n o ɯ,,List2022,,,^ d á ɯ ʤ ɯ n o ɯ $,WitotoNipode
+WitotoNipode-12_big-1,,WitotoNipode,12_big,áiʤue,áiʤue,!á/a i dʒ u e,,List2022,,,^ á i ʤ u e $,WitotoNipode
+WitotoNipode-140_small-1,,WitotoNipode,140_small,híɯrede,híɯrede,h !í/i ɯ !r/ɾ e d e,,List2022,,,^ h í ɯ r e d e $,WitotoNipode
+WitotoNipode-61_good-1,,WitotoNipode,61_good,ɲúera,ɲúera,ɲ !ú/u e !r/ɾ a,,List2022,,,^ ɲ ú e r a $,WitotoNipode
+WitotoNipode-7_baddeleteriousorunsuitable-1,,WitotoNipode,7_baddeleteriousorunsuitable,puénìde,puénìde,p u !é/e n !ì/i d e,,List2022,,,^ p u é n ì d e $,WitotoNipode
+WitotoNipode-187_white-1,,WitotoNipode,187_white,úterede,úterede,!ú/u t e !r/ɾ e d e,,List2022,,,^ ú t e r e d e $,WitotoNipode
+WitotoNipode-15_black-1,,WitotoNipode,15_black,híɗɯrede,híɗɯrede,h !í/i ɗ ɯ !r/ɾ e d e,,List2022,,,^ h í ɗ ɯ r e d e $,WitotoNipode
+WitotoNipode-22_cloud-1,,WitotoNipode,22_cloud,úiʤɯe,úiʤɯe,!ú/u i dʒ ɯ e,,List2022,,,^ ú i ʤ ɯ e $,WitotoNipode
+WitotoNipode-167_this-1,,WitotoNipode,167_this,bedá,bedá,b e d !á/a,,List2022,,,^ b e d á $,WitotoNipode
+WitotoNipode-161_that-1,,WitotoNipode,161_that,badá,badá,b a d !á/a,,List2022,,,^ b a d á $,WitotoNipode
+WitotoNipode-188_who-1,,WitotoNipode,188_who,bu,bu,b u,,List2022,,,^ b u $,WitotoNipode
+WitotoNipode-184_what-1,,WitotoNipode,184_what,nɯpóde,nɯpóde,n ɯ p !ó/o d e,,List2022,,,^ n ɯ p ó d e $,WitotoNipode
+WitotoNipode-107_not-1,,WitotoNipode,107_not,damíɗe,damíɗe,d a m !í/i ɗ e,,List2022,,,^ d a m í ɗ e $,WitotoNipode
+WitotoNipode-107_not-2,,WitotoNipode,107_not,ɲe,ɲe,ɲ e,,List2022,,,^ ɲ e $,WitotoNipode
+WitotoNipode-1_allofanumber-1,,WitotoNipode,1_allofanumber,nána,nána,n !á/a n a,,List2022,,,^ n á n a $,WitotoNipode
+WitotoNipode-95_many-1,,WitotoNipode,95_many,áiʤo,áiʤo,!á/a i dʒ o,,List2022,,,^ á i ʤ o $,WitotoNipode
+WitotoNipode-92_long-1,,WitotoNipode,92_long,áre,áre,!á/a !r/ɾ e,,List2022,,,^ á r e $,WitotoNipode
+WitotoNipode-8_bark-1,,WitotoNipode,8_bark,igóraɯ,igóraɯ,i g !ó/o !r/ɾ a ɯ,,List2022,,,^ i g ó r a ɯ $,WitotoNipode
+WitotoNipode-96_meatflesh-1,,WitotoNipode,96_meatflesh,úatɯ,úatɯ,!ú/u a t ɯ,,List2022,,,^ ú a t ɯ $,WitotoNipode
+WitotoNipode-96_meatflesh-2,,WitotoNipode,96_meatflesh,rɯʤe,rɯʤe,!r/ɾ ɯ dʒ e,,List2022,,,^ r ɯ ʤ e $,WitotoNipode
+WitotoNipode-39_egg-1,,WitotoNipode,39_egg,hɯ́gɯ,hɯ́gɯ,h !ɯ́/ɯ g ɯ,,List2022,,,^ h ɯ́ g ɯ $,WitotoNipode
+WitotoNipode-10_belly-3,,WitotoNipode,10_belly,hébe,hébe,h !é/e b e,,List2022,,,^ h é b e $,WitotoNipode
+WitotoNipode-91_liver-1,,WitotoNipode,91_liver,banóhɯ,banóhɯ,b a n !ó/o h ɯ,,List2022,,,^ b a n ó h ɯ $,WitotoNipode
+WitotoNipode-32_todrink-1,,WitotoNipode,32_todrink,hiróde,hiróde,h i !r/ɾ !ó/o d e,,List2022,,,^ h i r ó d e $,WitotoNipode
+WitotoNipode-38_toeat-1,,WitotoNipode,38_toeat,rɯ́ɗe,rɯ́ɗe,!r/ɾ !ɯ́/ɯ ɗ e,,List2022,,,^ r ɯ́ ɗ e $,WitotoNipode
+WitotoNipode-38_toeat-2,,WitotoNipode,38_toeat,rɯéde,rɯéde,!r/ɾ ɯ !é/e d e,,List2022,,,^ r ɯ é d e $,WitotoNipode
+WitotoNipode-38_toeat-3,,WitotoNipode,38_toeat,ʤiʤóde,ʤiʤóde,dʒ i dʒ !ó/o d e,,List2022,,,^ ʤ i ʤ ó d e $,WitotoNipode
+WitotoNipode-38_toeat-4,,WitotoNipode,38_toeat,okóde,okóde,o k !ó/o d e,,List2022,,,^ o k ó d e $,WitotoNipode
+WitotoNipode-14_tobite-1,,WitotoNipode,14_tobite,aɯníde,aɯníde,a ɯ n !í/i d e,,List2022,,,^ a ɯ n í d e $,WitotoNipode
+WitotoNipode-130_see-1,,WitotoNipode,130_see,eróide,eróide,e !r/ɾ !ó/o i d e,,List2022,,,^ e r ó i d e $,WitotoNipode
+WitotoNipode-130_see-2,,WitotoNipode,130_see,kɯóde,kɯóde,k ɯ !ó/o d e,,List2022,,,^ k ɯ ó d e $,WitotoNipode
+WitotoNipode-69_tohear-1,,WitotoNipode,69_tohear,kakáde,kakáde,k a k !á/a d e,,List2022,,,^ k a k á d e $,WitotoNipode
+WitotoNipode-83_toknowfacts-1,,WitotoNipode,83_toknowfacts,onóde,onóde,o n !ó/o d e,,List2022,,,^ o n ó d e $,WitotoNipode
+WitotoNipode-139_sleep-1,,WitotoNipode,139_sleep,ɯnɯ́de,ɯnɯ́de,ɯ n !ɯ́/ɯ d e,,List2022,,,^ ɯ n ɯ́ d e $,WitotoNipode
+WitotoNipode-28_todie-1,,WitotoNipode,28_todie,ɗɯíde,ɗɯíde,ɗ ɯ !í/i d e,,List2022,,,^ ɗ ɯ í d e $,WitotoNipode
+WitotoNipode-82_tokill-1,,WitotoNipode,82_tokill,méineɗe,méineɗe,m !é/e i n e ɗ e,,List2022,,,^ m é i n e ɗ e $,WitotoNipode
+WitotoNipode-159_toswim-1,,WitotoNipode,159_toswim,ɯ́ɯde,ɯ́ɯde,!ɯ́ɯ/ɯː d e,,List2022,,,^ ɯ́ɯ d e $,WitotoNipode
+WitotoNipode-55_tofly-1,,WitotoNipode,55_tofly,péede,péede,p !ée/eː d e,,List2022,,,^ p ée d e $,WitotoNipode
+WitotoNipode-178_towalk-1,,WitotoNipode,178_towalk,makáde,makáde,m a k !á/a d e,,List2022,,,^ m a k á d e $,WitotoNipode
+WitotoNipode-24_tocome-1,,WitotoNipode,24_tocome,bíɗe,bíɗe,b !í/i ɗ e,,List2022,,,^ b í ɗ e $,WitotoNipode
+WitotoNipode-60_togive-1,,WitotoNipode,60_togive,íɗe,íɗe,!í/i ɗ e,,List2022,,,^ í ɗ e $,WitotoNipode
+WitotoNipode-127_say-1,,WitotoNipode,127_say,dáɯde,dáɯde,d !á/a ɯ d e,,List2022,,,^ d á ɯ d e $,WitotoNipode
+WitotoNipode-98_mountain-1,,WitotoNipode,98_mountain,kaìpónedu,kaìpónedu,k a !ì/i p !ó/o n e d u,,List2022,,,^ k a ì p ó n e d u $,WitotoNipode
+WitotoNipode-98_mountain-2,,WitotoNipode,98_mountain,íperɯ,íperɯ,!í/i p e !r/ɾ ɯ,,List2022,,,^ í p e r ɯ $,WitotoNipode
+WitotoNipode-116_red-1,,WitotoNipode,116_red,híaɯrede,híaɯrede,h !í/i a ɯ !r/ɾ e d e,,List2022,,,^ h í a ɯ r e d e $,WitotoNipode
+WitotoNipode-63_green-1,,WitotoNipode,63_green,mókorede,mókorede,m !ó/o k o !r/ɾ e d e,,List2022,,,^ m ó k o r e d e $,WitotoNipode
+WitotoNipode-200_yellow-1,,WitotoNipode,200_yellow,borárede,borárede,b o !r/ɾ !á/a !r/ɾ e d e,,List2022,,,^ b o r á r e d e $,WitotoNipode
+WitotoNipode-104_new-1,,WitotoNipode,104_new,kómue,kómue,k !ó/o m u e,,List2022,,,^ k ó m u e $,WitotoNipode
+WitotoNipode-33_drysubstance-1,,WitotoNipode,33_drysubstance,tapérede,tapérede,t a p !é/e !r/ɾ e d e,,List2022,,,^ t a p é r e d e $,WitotoNipode
+WitotoNipode-100_name-1,,WitotoNipode,100_name,mámekɯ,mámekɯ,m !á/a m e k ɯ,,List2022,,,^ m á m e k ɯ $,WitotoNipode
+WitotoNipode-75_how-1,,WitotoNipode,75_how,naitó,naitó,n a i t !ó/o,,List2022,,,^ n a i t ó $,WitotoNipode
+WitotoNipode-185_when-1,,WitotoNipode,185_when,nɯrúido,nɯrúido,n ɯ !r/ɾ !ú/u i d o,,List2022,,,^ n ɯ r ú i d o $,WitotoNipode
+WitotoNipode-186_where-1,,WitotoNipode,186_where,nɯnó,nɯnó,n ɯ n !ó/o,,List2022,,,^ n ɯ n ó $,WitotoNipode
+WitotoNipode-186_where-2,,WitotoNipode,186_where,nɯné,nɯné,n ɯ n !é/e,,List2022,,,^ n ɯ n é $,WitotoNipode
+WitotoNipode-72_here-1,,WitotoNipode,72_here,benó,benó,b e n !ó/o,,List2022,,,^ b e n ó $,WitotoNipode
+WitotoNipode-162_there-1,,WitotoNipode,162_there,baɗɯ́,baɗɯ́,b a ɗ !ɯ́/ɯ,,List2022,,,^ b a ɗ ɯ́ $,WitotoNipode
+WitotoNipode-162_there-2,,WitotoNipode,162_there,hadɯ́,hadɯ́,h a d !ɯ́/ɯ,,List2022,,,^ h a d ɯ́ $,WitotoNipode
+WitotoNipode-47_few-1,,WitotoNipode,47_few,híɯre,híɯre,h !í/i ɯ !r/ɾ e,,List2022,,,^ h í ɯ r e $,WitotoNipode
+WitotoNipode-56_fog-1,,WitotoNipode,56_fog,úɯʤɯe,úɯʤɯe,!ú/u ɯ dʒ ɯ e,,List2022,,,^ ú ɯ ʤ ɯ e $,WitotoNipode
+WitotoNipode-53_toflow-1,,WitotoNipode,53_toflow,ɗóɗe,ɗóɗe,ɗ !ó/o ɗ e,,List2022,,,^ ɗ ó ɗ e $,WitotoNipode
+WitotoNipode-129_seaocean-1,,WitotoNipode,129_seaocean,monáiʤai,monáiʤai,m o n !á/a i dʒ a i,,List2022,,,^ m o n á i ʤ a i $,WitotoNipode
+WitotoNipode-183_wet-1,,WitotoNipode,183_wet,ɯnórede,ɯnórede,ɯ n !ó/o !r/ɾ e d e,,List2022,,,^ ɯ n ó r e d e $,WitotoNipode
+WitotoNipode-180_towash-1,,WitotoNipode,180_towash,hokóde,hokóde,h o k !ó/o d e,,List2022,,,^ h o k ó d e $,WitotoNipode
+WitotoNipode-197_worm-1,,WitotoNipode,197_worm,igɯ́roɯ,igɯ́roɯ,i g !ɯ́/ɯ !r/ɾ o ɯ,,List2022,,,^ i g ɯ́ r o ɯ $,WitotoNipode
+WitotoNipode-197_worm-2,,WitotoNipode,197_worm,áɯkɯ,áɯkɯ,!á/a ɯ k ɯ,,List2022,,,^ á ɯ k ɯ $,WitotoNipode
+WitotoNipode-192_wing-1,,WitotoNipode,192_wing,iáiko,iáiko,i !á/a i k o,,List2022,,,^ i á i k o $,WitotoNipode
+WitotoNipode-194_withaccompanying-1,,WitotoNipode,194_withaccompanying,dɯ́ga,dɯ́ga,d !ɯ́/ɯ g a,,List2022,,,^ d ɯ́ g a $,WitotoNipode
+WitotoNipode-81_in-1,,WitotoNipode,81_in,mo,mo,m o,,List2022,,,^ m o $,WitotoNipode
+WitotoNipode-81_in-2,,WitotoNipode,81_in,éro,éro,!é/e !r/ɾ o,,List2022,,,^ é r o $,WitotoNipode
+WitotoNipode-81_in-3,,WitotoNipode,81_in,hópo,hópo,h !ó/o p o,,List2022,,,^ h ó p o $,WitotoNipode
+WitotoNipode-5_at-1,,WitotoNipode,5_at,mo,mo,m o,,List2022,,,^ m o $,WitotoNipode
+WitotoNipode-80_if-1,,WitotoNipode,80_if,ia,ia,i a,,List2022,,,^ i a $,WitotoNipode
+WitotoNipode-79_ice-1,,WitotoNipode,79_ice,háɯnoihɯ,háɯnoihɯ,h !á/a ɯ n o i h ɯ,,List2022,,,^ h á ɯ n o i h ɯ $,WitotoNipode
+WitotoNipode-21_childyoungpersonratherthanasrelationshipterm-1,,WitotoNipode,21_childyoungpersonratherthanasrelationshipterm,kɯníma,kɯníma,k ɯ n !í/i m a,,List2022,,,^ k ɯ n í m a $,WitotoNipode
+WitotoNipode-21_childyoungpersonratherthanasrelationshipterm-2,,WitotoNipode,21_childyoungpersonratherthanasrelationshipterm,hítaru,hítaru,h !í/i t a !r/ɾ u,,List2022,,,^ h í t a r u $,WitotoNipode
+WitotoNipode-26_tocut-1,,WitotoNipode,26_tocut,haiɗáde,haiɗáde,h a i ɗ !á/a d e,,List2022,,,^ h a i ɗ á d e $,WitotoNipode
+WitotoNipode-189_wide-1,,WitotoNipode,189_wide,áiʤue,áiʤue,!á/a i dʒ u e,,List2022,,,^ á i ʤ u e $,WitotoNipode
+WitotoNipode-189_wide-2,,WitotoNipode,189_wide,íairorede,íairorede,!í/i a i !r/ɾ o !r/ɾ e d e,,List2022,,,^ í a i r o r e d e $,WitotoNipode
+WitotoNipode-101_narrow-1,,WitotoNipode,101_narrow,rɯʤírede,rɯʤírede,!r/ɾ ɯ dʒ !í/i !r/ɾ e d e,,List2022,,,^ r ɯ ʤ í r e d e $,WitotoNipode
+WitotoNipode-42_far-1,,WitotoNipode,42_far,are,are,a !r/ɾ e,,List2022,,,^ a r e $,WitotoNipode
+WitotoNipode-42_far-2,,WitotoNipode,42_far,hɯ́ka,hɯ́ka,h !ɯ́/ɯ k a,,List2022,,,^ h ɯ́ k a $,WitotoNipode
+WitotoNipode-102_near-1,,WitotoNipode,102_near,aɯ́nomo,aɯ́nomo,a !ɯ́/ɯ n o m o,,List2022,,,^ a ɯ́ n o m o $,WitotoNipode
+WitotoNipode-102_near-2,,WitotoNipode,102_near,iánori,iánori,i !á/a n o !r/ɾ i,,List2022,,,^ i á n o r i $,WitotoNipode
+WitotoNipode-164_thick-1,,WitotoNipode,164_thick,hédakɯede,hédakɯede,h !é/e d a k ɯ e d e,,List2022,,,^ h é d a k ɯ e d e $,WitotoNipode
+WitotoNipode-165_thin-1,,WitotoNipode,165_thin,ʤɯ́aɯde,ʤɯ́aɯde,dʒ !ɯ́/ɯ a ɯ d e,,List2022,,,^ ʤ ɯ́ a ɯ d e $,WitotoNipode
+WitotoNipode-134_short-1,,WitotoNipode,134_short,iánoride,iánoride,i !á/a n o !r/ɾ i d e,,List2022,,,^ i á n o r i d e $,WitotoNipode
+WitotoNipode-71_heavy-1,,WitotoNipode,71_heavy,mérede,mérede,m !é/e !r/ɾ e d e,,List2022,,,^ m é r e d e $,WitotoNipode
+WitotoNipode-34_dullknife-1,,WitotoNipode,34_dullknife,háinide,háinide,h !á/a i n i d e,,List2022,,,^ h á i n i d e $,WitotoNipode
+WitotoNipode-133_sharpasknife-1,,WitotoNipode,133_sharpasknife,haírede,haírede,h a !í/i !r/ɾ e d e,,List2022,,,^ h a í r e d e $,WitotoNipode
+WitotoNipode-30_dirty-1,,WitotoNipode,30_dirty,ɯáɯrede,ɯáɯrede,ɯ !á/a ɯ !r/ɾ e d e,,List2022,,,^ ɯ á ɯ r e d e $,WitotoNipode
+WitotoNipode-123_rottenespeciallylog-1,,WitotoNipode,123_rottenespeciallylog,rɯ́paide,rɯ́paide,!r/ɾ !ɯ́/ɯ p a i d e,,List2022,,,^ r ɯ́ p a i d e $,WitotoNipode
+WitotoNipode-123_rottenespeciallylog-2,,WitotoNipode,123_rottenespeciallylog,tabíde,tabíde,t a b !í/i d e,,List2022,,,^ t a b í d e $,WitotoNipode
+WitotoNipode-143_smooth-1,,WitotoNipode,143_smooth,rɯ́ɯrede,rɯ́ɯrede,!r/ɾ !ɯ́ɯ/ɯː !r/ɾ e d e,,List2022,,,^ r ɯ́ɯ r e d e $,WitotoNipode
+WitotoNipode-155_straight-1,,WitotoNipode,155_straight,haɯ́kɯnade,haɯ́kɯnade,h a !ɯ́/ɯ k ɯ n a d e,,List2022,,,^ h a ɯ́ k ɯ n a d e $,WitotoNipode
+WitotoNipode-117_rightcorrect-1,,WitotoNipode,117_rightcorrect,ɲúera,ɲúera,ɲ !ú/u e !r/ɾ a,,List2022,,,^ ɲ ú e r a $,WitotoNipode
+WitotoNipode-117_rightcorrect-2,,WitotoNipode,117_rightcorrect,haɯ́kɯgobe,haɯ́kɯgobe,h a !ɯ́/ɯ k ɯ g o b e,,List2022,,,^ h a ɯ́ k ɯ g o b e $,WitotoNipode
+WitotoNipode-87_lefthand-1,,WitotoNipode,87_lefthand,harɯ́pene,harɯ́pene,h a !r/ɾ !ɯ́/ɯ p e n e,,List2022,,,^ h a r ɯ́ p e n e $,WitotoNipode
+WitotoNipode-118_righthand-1,,WitotoNipode,118_righthand,nabéne,nabéne,n a b !é/e n e,,List2022,,,^ n a b é n e $,WitotoNipode
+WitotoNipode-113_topull-1,,WitotoNipode,113_topull,tonóde,tonóde,t o n !ó/o d e,,List2022,,,^ t o n ó d e $,WitotoNipode
+WitotoNipode-114_topush-1,,WitotoNipode,114_topush,ɲuiɗáde,ɲuiɗáde,ɲ u i ɗ !á/a d e,,List2022,,,^ ɲ u i ɗ á d e $,WitotoNipode
+WitotoNipode-170_tothrow-1,,WitotoNipode,170_tothrow,bɯɗáde,bɯɗáde,b ɯ ɗ !á/a d e,,List2022,,,^ b ɯ ɗ á d e $,WitotoNipode
+WitotoNipode-170_tothrow-2,,WitotoNipode,170_tothrow,daiɗáde,daiɗáde,d a i ɗ !á/a d e,,List2022,,,^ d a i ɗ á d e $,WitotoNipode
+WitotoNipode-170_tothrow-3,,WitotoNipode,170_tothrow,paɯɗe,paɯɗe,p a ɯ ɗ e,,List2022,,,^ p a ɯ ɗ e $,WitotoNipode
+WitotoNipode-148_tosplit-1,,WitotoNipode,148_tosplit,boɗáde,boɗáde,b o ɗ !á/a d e,,List2022,,,^ b o ɗ á d e $,WitotoNipode
+WitotoNipode-29_todig-1,,WitotoNipode,29_todig,ráɯɗe,ráɯɗe,!r/ɾ !á/a ɯ ɗ e,,List2022,,,^ r á ɯ ɗ e $,WitotoNipode
+WitotoNipode-171_totie-1,,WitotoNipode,171_totie,kuináde,kuináde,k u i n !á/a d e,,List2022,,,^ k u i n á d e $,WitotoNipode
+WitotoNipode-132_tosew-1,,WitotoNipode,132_tosew,tɯpóde,tɯpóde,t ɯ p !ó/o d e,,List2022,,,^ t ɯ p ó d e $,WitotoNipode
+WitotoNipode-41_tofalldropratherthantopple-1,,WitotoNipode,41_tofalldropratherthantopple,baɯíde,baɯíde,b a ɯ !í/i d e,,List2022,,,^ b a ɯ í d e $,WitotoNipode
+WitotoNipode-158_toswell-1,,WitotoNipode,158_toswell,uahátide,uahátide,u a h !á/a t i d e,,List2022,,,^ u a h á t i d e $,WitotoNipode
+WitotoNipode-166_tothink-1,,WitotoNipode,166_tothink,komekɯ pakáde,komekɯ pakáde,k o m e k ɯ + p a k !á/a d e,,List2022,,,^ k o m e k ɯ + p a k á d e $,WitotoNipode
+WitotoNipode-166_tothink-2,,WitotoNipode,166_tothink,duénaiɗe,duénaiɗe,d u !é/e n a i ɗ e,,List2022,,,^ d u é n a i ɗ e $,WitotoNipode
+WitotoNipode-166_tothink-3,,WitotoNipode,166_tothink,merɯ́daiɗɯde,merɯ́daiɗɯde,m e !r/ɾ !ɯ́/ɯ d a i ɗ ɯ d e,,List2022,,,^ m e r ɯ́ d a i ɗ ɯ d e $,WitotoNipode
+WitotoNipode-135_tosing-1,,WitotoNipode,135_tosing,róɗe,róɗe,!r/ɾ !ó/o ɗ e,,List2022,,,^ r ó ɗ e $,WitotoNipode
+WitotoNipode-141_tosmellperceiveodor-1,,WitotoNipode,141_tosmellperceiveodor,haʤéde,haʤéde,h a dʒ !é/e d e,,List2022,,,^ h a ʤ é d e $,WitotoNipode
+WitotoNipode-177_tovomit-1,,WitotoNipode,177_tovomit,kɯkúede,kɯkúede,k ɯ k !ú/u e d e,,List2022,,,^ k ɯ k ú e d e $,WitotoNipode
+WitotoNipode-156_tosuck-1,,WitotoNipode,156_tosuck,ʤiʤóde,ʤiʤóde,dʒ i dʒ !ó/o d e,,List2022,,,^ ʤ i ʤ ó d e $,WitotoNipode
+WitotoNipode-156_tosuck-2,,WitotoNipode,156_tosuck,moníde,moníde,m o n !í/i d e,,List2022,,,^ m o n í d e $,WitotoNipode
+WitotoNipode-156_tosuck-3,,WitotoNipode,156_tosuck,mugúde,mugúde,m u g !ú/u d e,,List2022,,,^ m u g ú d e $,WitotoNipode
+WitotoNipode-17_toblowofwind-1,,WitotoNipode,17_toblowofwind,haiɲóde,haiɲóde,h a i ɲ !ó/o d e,,List2022,,,^ h a i ɲ ó d e $,WitotoNipode
+WitotoNipode-17_toblowofwind-2,,WitotoNipode,17_toblowofwind,púunoɗe,púunoɗe,p !úu/uː n o ɗ e,,List2022,,,^ p úu n o ɗ e $,WitotoNipode
+WitotoNipode-45_tofear-1,,WitotoNipode,45_tofear,hakɯ́ruiɗe,hakɯ́ruiɗe,h a k !ɯ́/ɯ !r/ɾ u i ɗ e,,List2022,,,^ h a k ɯ́ r u i ɗ e $,WitotoNipode
+WitotoNipode-45_tofear-2,,WitotoNipode,45_tofear,ʤɯide,ʤɯide,dʒ ɯ i d e,,List2022,,,^ ʤ ɯ i d e $,WitotoNipode
+WitotoNipode-149_tosqueeze-1,,WitotoNipode,149_tosqueeze,omɯ́de,omɯ́de,o m !ɯ́/ɯ d e,,List2022,,,^ o m ɯ́ d e $,WitotoNipode
+WitotoNipode-149_tosqueeze-2,,WitotoNipode,149_tosqueeze,ɯdúide,ɯdúide,ɯ d !ú/u i d e,,List2022,,,^ ɯ d ú i d e $,WitotoNipode
+WitotoNipode-74_toholdinhand-1,,WitotoNipode,74_toholdinhand,motíde,motíde,m o t !í/i d e,,List2022,,,^ m o t í d e $,WitotoNipode
+WitotoNipode-35_dust-1,,WitotoNipode,35_dust,enɯ́ʧoma,enɯ́ʧoma,e n !ɯ́/ɯ tʃ o m a,,List2022,,,^ e n ɯ́ ʧ o m a $,WitotoNipode
+WitotoNipode-35_dust-2,,WitotoNipode,35_dust,ɯmúitaɯ,ɯmúitaɯ,ɯ m !ú/u i t a ɯ,,List2022,,,^ ɯ m ú i t a ɯ $,WitotoNipode
+WitotoNipode-90_tolive-1,,WitotoNipode,90_tolive,káade,káade,k !áa/aː d e,,List2022,,,^ k áa d e $,WitotoNipode
+WitotoNipode-90_tolive-2,,WitotoNipode,90_tolive,híerede,híerede,h !í/i e !r/ɾ e d e,,List2022,,,^ h í e r e d e $,WitotoNipode
+WitotoNipode-122_rope-1,,WitotoNipode,122_rope,ígaɯ,ígaɯ,!í/i g a ɯ,,List2022,,,^ í g a ɯ $,WitotoNipode
+WitotoNipode-122_rope-2,,WitotoNipode,122_rope,rao,rao,!r/ɾ a o,,List2022,,,^ r a o $,WitotoNipode
 Aguaruna-1_allofanumber-1,,Aguaruna,1_allofanumber,aʃi,aʃi,a ʃ i,,List2022,,,^ a ʃ i $,Aguaruna
 Aguaruna-3_animal-1,,Aguaruna,3_animal,kuntin,kuntin,k ʊ n t i n,,List2022,,,^ k u n t i n $,Aguaruna
 Aguaruna-4_ashes-1,,Aguaruna,4_ashes,juku,juku,j ʊ k ʊ,,List2022,,,^ j u k u $,Aguaruna
@@ -2936,7 +3744,7 @@ Wampis-23_coldofweather-1,,Wampis,23_coldofweather,tsetsek,tsetsek,ts e ts e k,,
 Wampis-104_new-1,,Wampis,104_new,yama,yama,j a m a,,Peña2023,,,^ y a m a $,Wampis
 Wampis-108_old-1,,Wampis,108_old,uun,uun,u u n,,Peña2023,,,^ u u n $,Wampis
 Wampis-61_good-1,,Wampis,61_good,penker,penker,p e n k e r,,Peña2023,,,^ p e n k e r $,Wampis
-Wampis-7_baddeleteriousorunsuitable-1,,Wampis,7_baddeleteriousorunsuitable,pnkerchau,pnkerchau,p n k e r tʃ a u,,Peña2023,,,^ p n k e r ch a u $,Wampis
+Wampis-7_baddeleteriousorunsuitable-1,,Wampis,7_baddeleteriousorunsuitable,penkerchau,penkerchau,p e n k e r tʃ a u,,Peña2023,,,^ p e n k e r ch a u $,Wampis
 Wampis-123_rottenespeciallylog-1,,Wampis,123_rottenespeciallylog,kauru,kauru,k a u r u,,Peña2023,,,^ k a u r u $,Wampis
 Wampis-30_dirty-1,,Wampis,30_dirty,wapik,wapik,w a p i k,,Peña2023,,,^ w a p i k $,Wampis
 Wampis-155_straight-1,,Wampis,155_straight,tutupin,tutupin,t u t u p i n,,Peña2023,,,^ t u t u p i n $,Wampis

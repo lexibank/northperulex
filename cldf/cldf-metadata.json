@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/northernperu",
             "rdf:type": "prov:Entity",
-            "dc:created": "31cd66b",
+            "dc:created": "d90f2dc",
             "dc:title": "Repository"
         },
         {
@@ -59,7 +59,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 3281,
+            "dc:extent": 4089,
             "tableSchema": {
                 "columns": [
                     {
@@ -162,7 +162,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 25,
+            "dc:extent": 29,
             "tableSchema": {
                 "columns": [
                     {
