@@ -8,10 +8,20 @@ final_data = [[
 
 data = list(sorted(glob("prepared_data/*.tsv")))
 
+replacements = {
+    "Resígaro": "Resigaro",
+    "Witoto Mi̵ni̵ca": "WitotoMinica",
+    "Witoto Murui" : "WitotoMurui",
+    "Witoto Ni̵pode": "WitotoNipode"
+}
+
 # Load manually digitized data
 def add_wl(language):
     """Adds data from languages in folder."""
     if "Iquito.tsv" in language:
+        return
+
+    if "lexibank.tsv" in language:
         return
     
     with open(language, mode='r', encoding="utf8") as f:
@@ -48,8 +58,11 @@ with open("prepared_data/lexibank.tsv", mode='r', encoding="utf8") as file:
     d = csv.reader(file, delimiter="\t")
     next(d)
     for lines in d:
+        doculect = lines[0]
+        if doculect in replacements:
+            doculect = replacements[doculect]
         final_data.append([
-            lines[0],
+            doculect,
             lines[1],  # Gloss
             lines[2],  # Form
             ""         # Note
