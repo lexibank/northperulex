@@ -26,7 +26,7 @@ class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "northernperu"
     language_class = CustomLanguage
-
+    writer_options = dict(keep_languages=False, keep_parameters=False)
     form_spec = FormSpec(replacements=[
         ("kamopʃfmaama", "kamopʃimaama"),
         ("aʔwltʃa", "aʔwitʃa")
