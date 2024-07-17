@@ -4308,11 +4308,8 @@
             }
         },
         "Candoshi-Shapra": {
-            "bipa_errors": [
-                "\u014b.k",
-                "m.p"
-            ],
-            "general_errors": 22,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "!aa\u0301/a\u02d0": [
                     "a\u02d0"
@@ -5134,29 +5131,25 @@
                     "\u223c"
                 ]
             },
-            "sclass_errors": [
-                "\u014b.k",
-                "m.p"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "a": 136,
                 "a\u02d0": 39,
                 "i": 86,
                 "i\u02d0": 8,
                 "j": 13,
-                "k": 33,
-                "m": 68,
-                "m.p": 8,
+                "k": 47,
+                "m": 76,
                 "n": 39,
                 "o": 61,
                 "o\u02d0": 12,
-                "p": 32,
+                "p": 40,
                 "s": 18,
                 "t": 26,
                 "ts": 14,
                 "t\u0283": 40,
                 "w": 12,
-                "\u014b.k": 14,
+                "\u014b": 14,
                 "\u027e": 29,
                 "\u0282": 14,
                 "\u0283": 10,
@@ -25043,157 +25036,13 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Candoshi-Shapra-118_righthand-1",
-                "Candoshi-Shapra",
-                "118_righthand",
-                "mpotsano\u014bkt\u0283i",
-                "<s> m.p </s> o ts a n o <s> \u014b.k </s> t\u0283 i"
-            ],
-            [
-                "Candoshi-Shapra-119_river-1",
-                "Candoshi-Shapra",
-                "119_river",
-                "ko\u014bko",
-                "k o <s> \u014b.k </s> o"
-            ],
-            [
-                "Candoshi-Shapra-12_big-1",
-                "Candoshi-Shapra",
-                "12_big",
-                "kapo\u014bko",
-                "k a p o <s> \u014b.k </s> o"
-            ],
-            [
-                "Candoshi-Shapra-152_star-1",
-                "Candoshi-Shapra",
-                "152_star",
-                "tsa\u014bkat\u0283i",
-                "ts a <s> \u014b.k </s> a t\u0283 i"
-            ],
-            [
-                "Candoshi-Shapra-154_stone-1",
-                "Candoshi-Shapra",
-                "154_stone",
-                "patompt\u0283i",
-                "p a t o <s> m.p </s> t\u0283 i"
-            ],
-            [
-                "Candoshi-Shapra-159_toswim-1",
-                "Candoshi-Shapra",
-                "159_toswim",
-                "ko\u027eii\u014bkamaama",
-                "k o \u027e i\u02d0 <s> \u014b.k </s> a m a\u02d0 m a"
-            ],
-            [
-                "Candoshi-Shapra-165_thin-1",
-                "Candoshi-Shapra",
-                "165_thin",
-                "\u0288\u0282a\u014bkitama",
-                "\u0288\u0282 a <s> \u014b.k </s> i t a m a"
-            ],
-            [
-                "Candoshi-Shapra-176_two-1",
-                "Candoshi-Shapra",
-                "176_two",
-                "tsimpono",
-                "ts i <s> m.p </s> o n o"
-            ],
-            [
-                "Candoshi-Shapra-181_water-1",
-                "Candoshi-Shapra",
-                "181_water",
-                "ko\u014bko",
-                "k o <s> \u014b.k </s> o"
-            ],
-            [
-                "Candoshi-Shapra-187_white-1",
-                "Candoshi-Shapra",
-                "187_white",
-                "mpoo\u027e\u0283i",
-                "<s> m.p </s> o\u02d0 \u027e \u0283 i"
-            ],
-            [
-                "Candoshi-Shapra-191_wind-1",
-                "Candoshi-Shapra",
-                "191_wind",
-                "kamposo\u027eo",
-                "k a <s> m.p </s> o s o \u027e o"
-            ],
-            [
-                "Candoshi-Shapra-192_wing-1",
-                "Candoshi-Shapra",
-                "192_wing",
-                "wa\u0282iitpo\u014bkt\u0283i",
-                "w a \u0282 i\u02d0 t p o <s> \u014b.k </s> t\u0283 i"
-            ],
-            [
-                "Candoshi-Shapra-1_allofanumber-1",
-                "Candoshi-Shapra",
-                "1_allofanumber",
-                "it\u0283i\u014bko\u027eo",
-                "i t\u0283 i <s> \u014b.k </s> o \u027e o"
-            ],
-            [
-                "Candoshi-Shapra-24_tocome-1",
-                "Candoshi-Shapra",
-                "24_tocome",
-                "nanta\u027ea\u014bkit\u0283",
-                "n a n t a \u027e a <s> \u014b.k </s> i t\u0283"
-            ],
-            [
-                "Candoshi-Shapra-35_dust-1",
-                "Candoshi-Shapra",
-                "35_dust",
-                "pojimpo",
-                "p o j i <s> m.p </s> o"
-            ],
-            [
-                "Candoshi-Shapra-38_toeat-1",
-                "Candoshi-Shapra",
-                "38_toeat",
-                "kato\u014bkomaama",
-                "k a t o <s> \u014b.k </s> o m a\u02d0 m a"
-            ],
-            [
-                "Candoshi-Shapra-39_egg-1",
-                "Candoshi-Shapra",
-                "39_egg",
-                "waja\u014bkt\u0283i",
-                "w a j a <s> \u014b.k </s> t\u0283 i"
-            ],
-            [
-                "Candoshi-Shapra-63_green-1",
-                "Candoshi-Shapra",
-                "63_green",
-                "kawampana",
-                "k a w a <s> m.p </s> a n a"
-            ],
-            [
-                "Candoshi-Shapra-70_heart-1",
-                "Candoshi-Shapra",
-                "70_heart",
-                "ma\u014bko",
-                "m a <s> \u014b.k </s> o"
-            ],
-            [
-                "Candoshi-Shapra-87_lefthand-1",
-                "Candoshi-Shapra",
-                "87_lefthand",
-                "mpa\u0282ino\u014bkt\u0283i",
-                "<s> m.p </s> a \u0282 i n o <s> \u014b.k </s> t\u0283 i"
-            ]
-        ],
-        "bad_words_count": 20,
-        "bipa_errors": [
-            "\u014b.k",
-            "m.p"
-        ],
-        "general_errors": 22,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 35.275862068965516,
+        "inventory_size": 35.241379310344826,
         "replacements": {
             "!aa\u0301/a\u02d0": [
                 "a\u02d0"
@@ -26015,10 +25864,7 @@
                 "\u223c"
             ]
         },
-        "sclass_errors": [
-            "\u014b.k",
-            "m.p"
-        ],
+        "sclass_errors": [],
         "segments": {
             "!a\u00e1/a\u02d0": 13,
             "!a\u00fa/au": 2,
@@ -26220,15 +26066,14 @@
             "i": 1858,
             "i\u02d0": 59,
             "j": 275,
-            "k": 1146,
+            "k": 1160,
             "k\u02b0": 39,
             "k\u02b0\u02b2": 9,
             "k\u02b2": 7,
             "k\u02b7": 39,
             "k\u02c0": 7,
             "l": 132,
-            "m": 850,
-            "m.p": 8,
+            "m": 858,
             "m\u02b2": 5,
             "m\u0325": 15,
             "n": 1714,
@@ -26237,7 +26082,7 @@
             "o\u026f": 3,
             "o\u028a": 5,
             "o\u02d0": 52,
-            "p": 496,
+            "p": 504,
             "p\u02b0": 22,
             "p\u02b2": 5,
             "p\u02c0": 7,
@@ -26265,8 +26110,7 @@
             "\u00e6": 16,
             "\u00e7": 12,
             "\u00f0": 36,
-            "\u014b": 49,
-            "\u014b.k": 14,
+            "\u014b": 63,
             "\u0257": 24,
             "\u0259": 95,
             "\u0259\u0268": 2,
