@@ -5,7 +5,7 @@ from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import FormSpec
-from pylexibank import Language
+from pylexibank import Language, Lexeme
 from pyedictor import fetch
 from lingpy import Wordlist
 
@@ -22,10 +22,16 @@ class CustomLanguage(Language):
     SubGroup = attr.ib(default=None)
 
 
+@attr.s
+class CustomLexeme(Lexeme):
+    GroupedSounds = attr.ib(default=None)
+
+
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "northernperu"
     language_class = CustomLanguage
+    lexeme_class = CustomLexeme
     writer_options = dict(keep_languages=False, keep_parameters=False)
     form_spec = FormSpec(replacements=[
         ("kamopʃfmaama", "kamopʃimaama"),
@@ -116,7 +122,7 @@ class Dataset(BaseDataset):
             idx,
             language,
             concept,
-            value,
+            form,
             # value,
             # tokens,
             # cogid,
@@ -141,7 +147,7 @@ class Dataset(BaseDataset):
             ),
             desc="cldfify"
         ):
-            if value and '_' not in value:
+            if form and '_' not in form:
                 if language not in languages:
                     errors.add(("language", language))
                     print(f"Missing language: {language} - Row: {idx}")
@@ -153,7 +159,9 @@ class Dataset(BaseDataset):
                     args.writer.add_forms_from_value(
                         Parameter_ID=concepts[concept],
                         Language_ID=language,
-                        Value=value.strip(),
+                        Value=form.strip(),
+                        Segments=unmerge(form),
+                        GroupedSounds=form,
                         # Cognacy=cogid,
                         # Partial_Cognacy=" ".join([str(x) for x in cogids]),
                         # Alignment=" ".join(alignment),
