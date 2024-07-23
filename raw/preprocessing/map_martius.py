@@ -68,6 +68,12 @@ for i, entry in enumerate(data):
             "",
             ""
         ]]
+        
+# Print unmapped entries
+print("Unmapped entries:")
+for entry in data:
+    if entry[1] not in mappings['la']:
+        print(f"Doculect: {entry[0]}, Form: {entry[1]}, Notes: Not Mapped")
 
 
 with open('Martius_mapped.tsv', 'w', encoding="utf8") as f_out:

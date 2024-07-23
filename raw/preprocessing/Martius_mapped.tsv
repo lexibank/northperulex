@@ -4,7 +4,7 @@ ID	WORD	CONCEPTICON_ID	CONCEPTICON_GLOSS	MATCH
 3	aegroto			
 4	aër	27	AIR	1
 5	albus	1335	WHITE	2
-8	altus	1265	HIGH	1
+8	altus	1593	DEEP	1
 9	amita			
 649	anima			
 12	annus (unus)			
@@ -77,7 +77,7 @@ ID	WORD	CONCEPTICON_ID	CONCEPTICON_GLOSS	MATCH
 119	frigidus, a, um			
 120	frons	123	FOREHEAD	2
 122	fulgur	1654	LIGHTNING	3
-124	gramen	606	GRASS	2
+588	herba	606	GRASS	1
 126	gusto			
 127	hallux			
 128	hebdomas una			
@@ -215,7 +215,7 @@ ID	WORD	CONCEPTICON_ID	CONCEPTICON_GLOSS	MATCH
 345	9	1483	NINE	1
 346	10	1515	TEN	1
 809	tapirus americanus			
-350	bos	1008	BULL	1
+350	bos	1169	OX	1
 352	cervus	1936	DEER	1
 812	felis onça			
 356	felis pardalis (maracaja)			
@@ -304,7 +304,7 @@ ID	WORD	CONCEPTICON_ID	CONCEPTICON_GLOSS	MATCH
 521	sibilo, are			
 786	venor, ari			
 541	viridis, e			
-542	volo	1784	WANT	2
+542	volo	1441	FLY (MOVE THROUGH AIR)	2
 546	felix onça			
 818	crocodilus			
 557	deus pronobis facit fluvium, sylvam, omnem aquam, omne!			
@@ -316,7 +316,6 @@ ID	WORD	CONCEPTICON_ID	CONCEPTICON_GLOSS	MATCH
 574	cymba			
 583	folia			
 587	hasta			
-588	herba	2542	HERB	1
 591	lacus	624	LAKE	1
 592	lignum	1803	WOOD	1
 593	lumen			
