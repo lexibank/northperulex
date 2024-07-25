@@ -2,6 +2,7 @@ Doculect	Concept	Form	Notes
 Juri	WHITE	háre	Martius: albus
 Juri	WHITE	ahré	Martius: albus
 Juri	WHITE	aâre	Martius: albus
+Juri	YEAR	(ghomea) yuráa	Martius: annus (unus)
 Juri	WATER	o(a)ra	Martius: aqua
 Juri	WATER	coörá	Martius: aqua
 Juri	WATER	ghoaraq	Martius: aqua
@@ -23,6 +24,9 @@ Juri	HAIR	tikiriú	Martius: capillus
 Juri	HEAD	tschu-gerühó	Martius: caput
 Juri	HEAD	su-kiriu	Martius: caput
 Juri	HEAD	(tcho) kireú	Martius: caput
+Juri	FLESH OR MEAT	naí	Martius: caro
+Juri	FLESH OR MEAT	tuóieh	Martius: caro
+Juri	ROPE	nepenöoli	Martius: chorda
 Juri	NECK	tschu0púnoho	Martius: collum
 Juri	NECK	suponou	Martius: collum
 Juri	HEART	su-mêniko	Martius: cor
@@ -57,7 +61,11 @@ Juri	LONG	maêe	Martius: longus
 Juri	LONG	meyé	Martius: longus
 Juri	BIG	tihi	Martius: magnus
 Juri	BIG	tiy	Martius: magnus
+Juri	HAND	tschu-enóo	Martius: manus
+Juri	HAND	su-unóo	Martius: manus
+Juri	HAND	(tcho) upumáu	Martius: manus
 Juri	SEA	nada-tii	Martius: mare
+Juri	HUSBAND	wesokoy	Martius: maritus (conjux)
 Juri	MOTHER	ijoho	Martius: mater
 Juri	MOTHER	suay	Martius: mater
 Juri	MOTHER	iyuhó	Martius: mater
@@ -76,14 +84,25 @@ Juri	WE	too	Martius: nos
 Juri	NIGHT	taiaeboi	Martius: nox
 Juri	NIGHT	toipuy	Martius: nox
 Juri	NIGHT	epóri	Martius: nox
+Juri	KILL	tschanutsché	Martius: occido
 Juri	EYE	tschu-äti	Martius: oculus
 Juri	EYE	su-itty	Martius: oculus
 Juri	EYE	(tcho) ití	Martius: oculus
+Juri	SMELL (PERCEIVE)	tschu-nämä	Martius: olfacio
+Juri	SMELL (PERCEIVE)	schanême	Martius: olfacio
+Juri	MOUTH	tschu-ijägh	Martius: os, oris
+Juri	MOUTH	suya	Martius: os, oris
+Juri	MOUTH	(tcho) iá	Martius: os, oris
+Juri	BONE	niano	Martius: os, ossis
+Juri	BONE	(tcho) uinó	Martius: os, ossis
 Juri	EGG	eaté	Martius: ovum
 Juri	FATHER	hato	Martius: pater
 Juri	FATHER	suâtu	Martius: pater
 Juri	FATHER	háto	Martius: pater
-Juri	SMALL	ihi	Martius: paucus
+Juri	FEW	ihi	Martius: paucus
+Juri	FOOT	tschu-óti	Martius: pes
+Juri	FOOT	su-uty	Martius: pes
+Juri	FOOT	(tscho) u-óti	Martius: pes
 Juri	FISH	oöó	Martius: piscis
 Juri	FEATHER	naini	Martius: pluma
 Juri	ROOT	näti	Martius: radix
@@ -101,6 +120,8 @@ Juri	SUN	iyé	Martius: sol
 Juri	STAR	ohngo	Martius: stella
 Juri	STAR	ukoo	Martius: stella
 Juri	STAR	oúco	Martius: stella
+Juri	FOREST	noijú	Martius: sylva
+Juri	FOREST	noiyú	Martius: sylva
 Juri	YOU	wikú	Martius: tu
 Juri	YOU	wiù	Martius: tu
 Juri	HUNT	tschuinaihnió	Martius: venor
@@ -111,6 +132,12 @@ Juri	SEE	schau-wiraku	Martius: video
 Juri	HUSBAND	tchoucú	Martius: vir
 Juri	GREEN	tschúhmŏ	Martius: viridis
 Juri	BE ALIVE	nihcó	Martius: vivo
+Juri	ONE	ghoméa	Martius: 1
+Juri	ONE	comäa	Martius: 1
+Juri	ONE	coméeh	Martius: 1
+Juri	TWO	panga	Martius: 2
+Juri	TWO	peiá	Martius: 2
+Juri	TWO	paoó	Martius: 2
 Juri	THREE	umüea	Martius: 3
 Juri	THREE	gojogóba	Martius: 3
 Juri	THREE	keuyecopáh	Martius: 3
@@ -122,47 +149,71 @@ Juri	FIVE	ticomenáueba	Martius: 5
 Juri	FIVE	wenóri	Martius: 5
 Juri	DOG	wéri	Martius: canis
 Juri	SNAKE	göohti	Martius: serpens
+Coëruna	WHITE	hacoámö	Martius: albus, a, um
 Coëruna	ANIMAL	tschoaimá	Martius: animal
 Coëruna	WATER	nühó	Martius: aqua
 Coëruna	TREE	taina	Martius: arbor
+Coëruna	HEAR	ojagotjötschá	Martius: audire
 Coëruna	BIRD	öhockgömö	Martius: avis
 Coëruna	EAR	comätoré	Martius: auris
+Coëruna	DRINK	erecocó	Martius: bibo, ere
+Coëruna	SHORT	aonamö	Martius: brevis, e
 Coëruna	HAIR	covaungeté	Martius: capillus
 Coëruna	HEAD	copia	Martius: caput
+Coëruna	FLESH OR MEAT	goiá	Martius: caro
 Coëruna	NECK	conämoó	Martius: collum
 Coëruna	LEG	oemoná	Martius: crus
 Coëruna	SKIN (HUMAN)	cunnühpehú	Martius: cutis
 Coëruna	TOOTH	cuirí	Martius: dens
+Coëruna	SLEEP	coiná	Martius: dormio, ire
 Coëruna	BACK	coamoho	Martius: dorsum
+Coëruna	EAT	ucumá	Martius: edo, ere
 Coëruna	I	coáe	Martius: ego
+Coëruna	YELLOW	oassaimö	Martius: flavus, a, um
 Coëruna	FLOWER	aeeäé	Martius: flos
 Coëruna	RIVER	ráasĕ	Martius: fluvius
 Coëruna	LEAF	nĕhōphthó	Martius: folium
 Coëruna	FIRE	aeithá	Martius: ignis
+Coëruna	LONG	aeneimöh	Martius: longus, a, u
+Coëruna	BIG	vaamö	Martius: magnus, a, um
+Coëruna	HAND	cunia	Martius: manus
 Coëruna	SEA	páasĕ	Martius: mare
 Coëruna	MOTHER	coí	Martius: mater
 Coëruna	MOUNTAIN	mucōăhugh	Martius: mons
 Coëruna	DIE	giackopái	Martius: morior
 Coëruna	WOMAN	inoni	Martius: mulier
 Coëruna	NOSE	cuihottai	Martius: nasus
+Coëruna	BLACK	coghohomö	Martius: niger, a, um
 Coëruna	NOT	öqué	Martius: non
 Coëruna	NIGHT	cannatozümá	Martius: nox
 Coëruna	EYE	coiaassá	Martius: oculus
+Coëruna	SMELL (PERCEIVE)	nequaani	Martius: olfacio, ere
+Coëruna	MOUTH	coä	Martius: os, oris
+Coëruna	BONE	gottövúna	Martius: os, ossis
+Coëruna	SMALL	anoëtzü	Martius: parvus, a, um
 Coëruna	FATHER	comú	Martius: pater
+Coëruna	FEW	anuaécki	Martius: paucus, a, um
+Coëruna	FOOT	coëráhe	Martius: pes, pedis
 Coëruna	FEATHER	ihóato	Martius: pluma
 Coëruna	ROOT	ahonauó	Martius: radix
+Coëruna	RED	ríumö	Martius: ruber, a, um
 Coëruna	BLOOD	gorüŭnă	Martius: sanguis
 Coëruna	OLD	jáme	Martius: senex
 Coëruna	SNAKE	átziú	Martius: serpens
 Coëruna	SUN	äócke	Martius: sol
 Coëruna	STAR	ighkeahaí	Martius: stella
+Coëruna	FOREST	aeaittó	Martius: sylva
 Coëruna	YOU	oaë	Martius: tu
+Coëruna	HUNT	coquaăĭ-mackia	Martius: venor, ari
 Coëruna	SEE	jarecotiá	Martius: video
 Coëruna	HUSBAND	ûaimé	Martius: vir
+Coëruna	GREEN	mockomö	Martius: viridis, e
+Coëruna	FLY (MOVE THROUGH AIR)	oenagóa	Martius: volo
 Pebas	WHITE	papasey	Martius: albus
 Pebas	WATER	ain	Martius: aqua
 Pebas	TREE	tapasey	Martius: arbor
 Pebas	EAR	mitiwa	Martius: auris
+Pebas	HAIR	raino-say	Martius: capilli
 Pebas	HEAD	raino	Martius: caput
 Pebas	NECK	mipiisé	Martius: collum
 Pebas	HEART	caïshi	Martius: cor
@@ -170,19 +221,27 @@ Pebas	TOOTH	viala	Martius: dens
 Pebas	YELLOW	wayou	Martius: flavus
 Pebas	FLOWER	susaman	Martius: flos
 Pebas	RIVER	nowa	Martius: fluvius
+Pebas	LEAF	semay-nemey	Martius: folia
+Pebas	GRASS	vashi	Martius: herba
 Pebas	FIRE	feula	Martius: ignis
 Pebas	CHILD (YOUNG HUMAN)	laira	Martius: infans
 Pebas	LAKE	mettao	Martius: lacus
+Pebas	HAND	vinitaily	Martius: manus
 Pebas	MOUNTAIN	meussoy	Martius: mons
 Pebas	NOSE	vinerro	Martius: nasus
 Pebas	BLACK	michalay	Martius: niger
 Pebas	CLOUD	euré-euré	Martius: nubes
 Pebas	NOT	aanoy	Martius: non
 Pebas	EYE	vinimichi	Martius: oculus
+Pebas	MOUTH	rito	Martius: os, oris
+Pebas	FOOT	vinimotay	Martius: pes
 Pebas	ROOT	natay	Martius: radix
 Pebas	RED	selourey	Martius: ruber
+Pebas	SAND	tencha	Martius: sabulum
 Pebas	SUN	wana	Martius: sol
 Pebas	HUSBAND	comoley	Martius: vir
+Pebas	ONE	tomeu-lay	Martius: 1
+Pebas	TWO	nomoira	Martius: 2
 Pebas	THREE	tamoimansa	Martius: 3
 Pebas	FOUR	namerayo	Martius: 4
 Pebas	FIVE	taonella	Martius: 5
@@ -194,19 +253,26 @@ MiranhaCarapana-Tapuya	TREE	amühi	Martius: arbor
 MiranhaCarapana-Tapuya	HEAR	gakaikaná	Martius: audio
 MiranhaCarapana-Tapuya	BIRD	thohóa	Martius: avis
 MiranhaCarapana-Tapuya	EAR	găgünorá	Martius: auris
+MiranhaCarapana-Tapuya	DRINK	gacköíne	Martius: bibo, ere
+MiranhaCarapana-Tapuya	SHORT	retóbbi	Martius: brevis, e
 MiranhaCarapana-Tapuya	HAIR	göhossöhú	Martius: capillus
 MiranhaCarapana-Tapuya	HEAD	göhóckö	Martius: caput
+MiranhaCarapana-Tapuya	FLESH OR MEAT	ganatzúckü	Martius: caro
 MiranhaCarapana-Tapuya	NECK	ganömóga	Martius: collum
 MiranhaCarapana-Tapuya	LEG	cotzátzo	Martius: crus
 MiranhaCarapana-Tapuya	SKIN (HUMAN)	ganütú	Martius: cutis
 MiranhaCarapana-Tapuya	TOOTH	gesühi	Martius: dens
 MiranhaCarapana-Tapuya	BACK	göthzatüná	Martius: dorsum
+MiranhaCarapana-Tapuya	EAT	giratüró	Martius: edo, ere
 MiranhaCarapana-Tapuya	I	cui	Martius: ego
 MiranhaCarapana-Tapuya	YELLOW	nohóckea	Martius: flavus
 MiranhaCarapana-Tapuya	FLOWER	nahiúma	Martius: flos
 MiranhaCarapana-Tapuya	RIVER	nai	Martius: fluvius
 MiranhaCarapana-Tapuya	LEAF	nahiihi	Martius: folium
 MiranhaCarapana-Tapuya	FIRE	thiíhtzĕhŏ	Martius: ignis
+MiranhaCarapana-Tapuya	LONG	aínime	Martius: longus, a, um
+MiranhaCarapana-Tapuya	BIG	nánzümĕ	Martius: magnus, a, um
+MiranhaCarapana-Tapuya	HAND	ganoagá	Martius: manus
 MiranhaCarapana-Tapuya	SEA	nanzúmănĭ	Martius: mare
 MiranhaCarapana-Tapuya	MOTHER	jatüh	Martius: mater
 MiranhaCarapana-Tapuya	MOUNTAIN	nihae	Martius: mons
@@ -216,8 +282,15 @@ MiranhaCarapana-Tapuya	NOSE	gatzohórĕ	Martius: nasus
 MiranhaCarapana-Tapuya	BLACK	seckumé	Martius: niger
 MiranhaCarapana-Tapuya	NOT	náni	Martius: non
 MiranhaCarapana-Tapuya	NIGHT	dohtzen	Martius: nox
+MiranhaCarapana-Tapuya	KILL	catíbuna	Martius: occido
 MiranhaCarapana-Tapuya	EYE	gaussö	Martius: oculus
+MiranhaCarapana-Tapuya	SMELL (PERCEIVE)	gabáhíne	Martius: olfacio
+MiranhaCarapana-Tapuya	MOUTH	gahauoí	Martius: os, oris
+MiranhaCarapana-Tapuya	BONE	nackóo	Martius: os, ossis
+MiranhaCarapana-Tapuya	SMALL	nánzügä	Martius: parvus, a, um
 MiranhaCarapana-Tapuya	FATHER	ámba	Martius: pater
+MiranhaCarapana-Tapuya	FEW	honigáka	Martius: paucus, a, um
+MiranhaCarapana-Tapuya	FOOT	coitébo	Martius: pes, pedis
 MiranhaCarapana-Tapuya	FEATHER	gannó	Martius: pluma
 MiranhaCarapana-Tapuya	ROOT	nahqui	Martius: radix
 MiranhaCarapana-Tapuya	RED	comomá	Martius: ruber
@@ -226,11 +299,15 @@ MiranhaCarapana-Tapuya	OLD	ruimáe	Martius: senex
 MiranhaCarapana-Tapuya	SNAKE	mahtzó	Martius: serpens
 MiranhaCarapana-Tapuya	SUN	máhwarĭ	Martius: sol
 MiranhaCarapana-Tapuya	STAR	ickótzŏ	Martius: stella
+MiranhaCarapana-Tapuya	FOREST	ócŏwĭ	Martius: sylva
 MiranhaCarapana-Tapuya	YOU	úh	Martius: tu
+MiranhaCarapana-Tapuya	HUNT	umághantu	Martius: venor, ari
 MiranhaCarapana-Tapuya	SEE	gihganá	Martius: video
 MiranhaCarapana-Tapuya	HUSBAND	thimae	Martius: vir
 MiranhaCarapana-Tapuya	GREEN	miringa	Martius: viridis
 MiranhaCarapana-Tapuya	BE ALIVE	nöhcatzú	Martius: vivo
+MiranhaCarapana-Tapuya	ONE	zähzāma	Martius: 1
+MiranhaCarapana-Tapuya	TWO	inahma	Martius: 2
 MiranhaCarapana-Tapuya	THREE	söckössí	Martius: 3
 MiranhaCarapana-Tapuya	FOUR	zahihnwá	Martius: 4
 MiranhaCarapana-Tapuya	FIVE	jantzücka	Martius: 5
