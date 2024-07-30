@@ -27,7 +27,37 @@ filtered_data = [[
 ]]
 unmatched_glosses = []
 gloss_mapping = {
-    "person (humano)": "",
+    "person (humano)": "PERSON",
+    "tooth (front)": "TOOTH",
+    "feather (large)": "FEATHER",
+    "fruit (berry)": "BERRY",
+    "woods (forest)": "FOREST",
+    "rope (cord)": "ROPE",
+    "thou (you)": "THOU",
+    "ye (you all)": "YOU",
+    "who (interrog)": "WHO",
+    "what (interrog.)": "WHAT",
+    "fall (drop)": "FALL",
+    "lie (be lying down)": "LIE (REST)",
+    "fly (verb)": "FLY (MOVE THROUGH AIR)",
+    "turn (intr. v.)": "TURN AROUND",
+    "smell (tr. v.)": "SMELL (PERCEIVE)",
+    "fear (verb)": "FEAR (BE AFRAID)",
+    "count (verb)": "COUNT",
+    "spit (verb)": "SPIT",
+    "vomit (verb)": "VOMIT",
+    "scracth (itch)": "SCRATCH",
+    "burn (tr. v.)": "BURNING",
+    "tie (verb)": "TIE",
+    "cut (verb)": "CUT",
+    "stab (or pierce)": "STAB",
+    "warm (hot weather)": "WARM (OF WEATHER)",
+    "dry (adj./v.)": "DRY",
+    "old (adj)": "OLD",
+    "where (interrog.)": "WHERE",
+    "when (interrog)": "WHEN",
+    "how (interrog)": "HOW",
+    "with (accompaniment)": "WITH"
 }
 
 with open('Yanesha.csv', mode='r', encoding="utf-8") as f:
@@ -43,7 +73,7 @@ with open('Yanesha.csv', mode='r', encoding="utf-8") as f:
                     filtered_data.append([
                         "Yanesha",
                         concepts[concept_id],
-                        row[3],
+                        row[4],
                         "",
                         yane_gloss
                     ])
@@ -55,7 +85,7 @@ with open('Yanesha.csv', mode='r', encoding="utf-8") as f:
                 filtered_data.append([
                     "Wampis",
                     concepticon_gloss,
-                    row[3],
+                    row[4],
                     "",
                     yane_gloss
                 ])
