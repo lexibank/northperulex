@@ -83,7 +83,7 @@ with open('Yanesha.csv', mode='r', encoding="utf-8") as f:
             concepticon_gloss = gloss_mapping.get(yane_gloss)
             if concepticon_gloss:
                 filtered_data.append([
-                    "Wampis",
+                    "Yanesha",
                     concepticon_gloss,
                     row[4],
                     "",
