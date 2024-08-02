@@ -30,7 +30,8 @@ class Dataset(BaseDataset):
     form_spec = FormSpec(replacements=[
         ("kamopʃfmaama", "kamopʃimaama"),
         ("aʔwltʃa", "aʔwitʃa")
-    ])
+    ],
+    separators="/,;")
 
     def cmd_download(self):
         print("updating ...")

@@ -2,67 +2,64 @@ Grapheme	IPA
 a	a
 á	!á/a
 à	!à/a
-ă
-â
-ä
+ă	!ă/a
+â	!â/a
+ä	!ä/a
 i	i
 í	!í/i
-ĭ
-î
+ĭ	!ĭ
+î	!î/i
 e	e
 é	!é/e
 è	!è/e
-ê
-e'
+ê	!ê/e
+e'	!e'/e
 o	o
 ó	!ó/o
-ô
-ö
-ō
-ŏ
+ô	!ô/o
+ö	!ö/o
+ō	!ō/o
+ŏ	!ŏ/o
 u	u
 ù	!ù/u
 ú	!ú/u
-ü
+ü	ɨ
 k	k
 g	g
-q
 l	l
-h
-j
+h	ʔ
+j	h
 m	m
 p	p
 b	b
-r	r
-rh
+r	ɾ
+rh  ɾ
 s	s
 t	t
-th
+th	t
 n	n
 c	c
-ç
+ç	ç
 w	w
 θ	θ
-y
-ỳ
-gh
-jh
-tsch
-$ytsch
-sh
-tch
-sch
-tsh
-ch
-ck
-by
-ty
-tj
-py
-ry
-wy
-ny
-nya
-nyo
-hhly
-hnj
+0	θ
+y	j
+ỳ	j
+gh	g
+jh	h
+tsch	dʒ
+sh	ʃ
+tch	dʒ
+sch	ʒ
+tsh	ts
+ch	tʃ
+ck	k
+by	b
+ty	tʲ
+py	pʲ
+ry	ɾʲ
+wy	wʲ
+ny	ɲ
+d	d
+q	q
+-	+
