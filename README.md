@@ -34,7 +34,7 @@ work in progress
 - **Varieties:** 34
 - **Concepts:** 200
 - **Lexemes:** 4,621
-- **Sources:** 14
+- **Sources:** 15
 - **Synonymy:** 1.10
 - **Invalid lexemes:** 0
 - **Tokens:** 26,294
