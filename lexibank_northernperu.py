@@ -26,11 +26,12 @@ class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "northernperu"
     language_class = CustomLanguage
-
+    writer_options = dict(keep_languages=False, keep_parameters=False)
     form_spec = FormSpec(replacements=[
         ("kamopʃfmaama", "kamopʃimaama"),
         ("aʔwltʃa", "aʔwitʃa")
-    ])
+    ],
+    separators="/,;")
 
     def cmd_download(self):
         print("updating ...")
@@ -144,10 +145,10 @@ class Dataset(BaseDataset):
             if value and '_' not in value:
                 if language not in languages:
                     errors.add(("language", language))
-                    #print(f"Missing language: {language} - Row: {idx}")
+                    print(f"Missing language: {language} - Row: {idx}")
                 elif concept not in concepts:
                     errors.add(("concept", concept))
-                    #print(f"Missing concept: {concept} for language: {language} - Row: {idx}")
+                    print(f"Missing concept: {concept} for language: {language} - Row: {idx}")
                 else:
                     # lexeme = args.writer.add_form_with_segments(
                     args.writer.add_forms_from_value(

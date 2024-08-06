@@ -10,7 +10,7 @@ If you use these data please cite
 ## Description
 
 
-This dataset brings together lexidal data from isolates and small language families from northern Peru to investigate their historic relations.
+This dataset brings together lexical data from isolates and small language families from northern Peru to investigate their historic relations.
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -25,21 +25,21 @@ work in progress
 ## Statistics
 
 
-![Glottolog: 94%](https://img.shields.io/badge/Glottolog-94%25-green.svg "Glottolog: 94%")
+![Glottolog: 97%](https://img.shields.io/badge/Glottolog-97%25-green.svg "Glottolog: 97%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
-![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 22
-- **Concepts:** 199
-- **Lexemes:** 2,698
-- **Sources:** 12
-- **Synonymy:** 1.03
+- **Varieties:** 34
+- **Concepts:** 200
+- **Lexemes:** 4,621
+- **Sources:** 15
+- **Synonymy:** 1.10
 - **Invalid lexemes:** 0
-- **Tokens:** 15,849
-- **Segments:** 250 (2 BIPA errors, 2 CLTS sound class errors, 244 CLTS modified)
-- **Inventory size (avg):** 35.00
+- **Tokens:** 26,294
+- **Segments:** 295 (0 BIPA errors, 0 CLTS sound class errors, 293 CLTS modified)
+- **Inventory size (avg):** 35.44
 
 # Contributors
 
