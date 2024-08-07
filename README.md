@@ -1,5 +1,7 @@
 # CLDF dataset derived from Barrientos et al.'s "NorthPeruLex - A Lexical Dataset of Small Language Families and Isolates from Northern Peru (forthcoming).
 
+[![CLDF validation](https://github.com/lexibank/northernperu/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/northernperu/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -25,6 +27,7 @@ work in progress
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/northernperu/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/northernperu/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 97%](https://img.shields.io/badge/Glottolog-97%25-green.svg "Glottolog: 97%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -45,8 +48,8 @@ work in progress
 
 Name | GitHub user    | Description                                     | Role |
 --- |----------------|-------------------------------------------------| --- |
-Carlos Barrientos | @MuffinLinwist | Data collector, CLDF conversion and annotation  | Author
-Frederic Blum | @FredericBlum  | Data collectior, CLDF conversion and annotation | Author
+Carlos Barrientos | @MuffinLinwist | Data collector, CLDF conversion and annotation  | Author, Editor
+Frederic Blum | @FredericBlum  | Data collectior, CLDF conversion and annotation | Author, Editor
 Adriano Ingunza | @BadBatched    | Data collector and annotation                   | Author
 Rosa Gonzales |                | Data collector and annotation                   | Author
 Jaime Peña | @JaimePenat    | Data collector and annotation                   | Author

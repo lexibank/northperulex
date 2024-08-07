@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 import json
 
 with open("metadata.json", encoding="utf-8") as fp:
@@ -9,6 +9,7 @@ setup(
     py_modules=['lexibank_northernperu'],
     include_package_data=True,
     url=metadata.get("url", ""),
+    packages=find_packages(where="."),
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
