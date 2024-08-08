@@ -22,7 +22,16 @@
             "name": "Jaime Pe\u00f1a"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Carlos Barrientos",
+            "type": "Editor"
+        },
+        {
+            "name": "Frederic Blum",
+            "type": "Editor"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
