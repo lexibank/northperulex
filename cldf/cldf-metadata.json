@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/northernperu",
             "rdf:type": "prov:Entity",
-            "dc:created": "b999ead",
+            "dc:created": "v0.1",
             "dc:title": "Repository"
         },
         {
@@ -53,7 +53,7 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "northernperu",
+    "rdf:ID": "northperulex",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "tables": [
         {
