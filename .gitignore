@@ -105,4 +105,5 @@ ENV/
 
 # Database
 *sqlite3
-*raw/preprocessing/cldf-data/
+raw/preprocessing/cldf-data/
+raw/preprocessing/ticuna/archive/
