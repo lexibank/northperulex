@@ -24,7 +24,7 @@ class CustomLanguage(Language):
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
-    id = "northernperu"
+    id = "northperulex"
     language_class = CustomLanguage
     writer_options = dict(keep_languages=False, keep_parameters=False)
     form_spec = FormSpec(replacements=[
@@ -38,7 +38,7 @@ class Dataset(BaseDataset):
         with open(self.raw_dir.joinpath("preprocessing/imported/loaded_data.csv"), "w", encoding="utf-8") as f:
             f.write(
                 fetch(
-                    "northernperu",
+                    "northperulex",
                     columns=[
                         "CONCEPT",
                         "DOCULECT",
