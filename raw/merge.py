@@ -23,6 +23,9 @@ def add_wl(language):
 
     if "lexibank.tsv" in language:
         return
+
+    if "Ticuna.tsv" in language:
+        return
     
     with open(language, mode='r', encoding="utf8") as f:
         wl = csv.reader(f, delimiter="\t")
@@ -49,6 +52,18 @@ with open("prepared_data/Iquito.tsv", mode='r', encoding="utf8") as file:
         final_data.append([
             "Iquito",
             lines[2],  # Gloss
+            lines[3],  # Form
+            lines[5]   # Note --> SENSE in dictionary
+        ])
+
+# Load Ticuna data
+with open("prepared_data/Ticuna.tsv", mode='r', encoding="utf8") as file:
+    d = csv.reader(file, delimiter="\t")
+    next(d)
+    for lines in d:
+        final_data.append([
+            "Ticuna",
+            lines[2], # Gloss
             lines[3],  # Form
             lines[5]   # Note --> SENSE in dictionary
         ])
