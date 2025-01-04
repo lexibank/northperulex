@@ -1,6 +1,6 @@
 # CLDF dataset derived from Barrientos et al.'s "NorthPeruLex - A Lexical Dataset of Small Language Families and Isolates from Northern Peru (forthcoming).
 
-[![CLDF validation](https://github.com/lexibank/northernperu/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/northernperu/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lexibank/northperulex/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/northperulex/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -27,22 +27,22 @@ work in progress
 ## Statistics
 
 
-[![CLDF validation](https://github.com/lexibank/northernperu/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/northernperu/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lexibank/northperulex/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/northperulex/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 97%](https://img.shields.io/badge/Glottolog-97%25-green.svg "Glottolog: 97%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-green.svg "BIPA: 99%")
+![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-green.svg "CLTS SoundClass: 99%")
 
-- **Varieties:** 34
-- **Concepts:** 200
-- **Lexemes:** 4,621
-- **Sources:** 15
+- **Varieties:** 35 (linked to 34 different Glottocodes)
+- **Concepts:** 200 (linked to 200 different Concepticon concept sets)
+- **Lexemes:** 4,743
+- **Sources:** 16
 - **Synonymy:** 1.10
 - **Invalid lexemes:** 0
-- **Tokens:** 26,294
-- **Segments:** 295 (0 BIPA errors, 0 CLTS sound class errors, 293 CLTS modified)
-- **Inventory size (avg):** 35.44
+- **Tokens:** 26,752
+- **Segments:** 343 (4 BIPA errors, 4 CLTS sound class errors, 332 CLTS modified)
+- **Inventory size (avg):** 36.91
 
 # Contributors
 
