@@ -2,9 +2,10 @@ from lingpy import Alignments, Wordlist, LexStat
 from lexibase.lexibase import LexiBase
 
 
-cols = ['concept_id', 'concept_name', 'language_id', 'language_name', 'value',
-        'form', 'segments', 'glottocode', 'concept_concepticon_id',
-        'comment']
+cols = [
+    'concept_id', 'concept_name', 'language_id', 'language_name', 'value', 'form', 'segments',
+    'glottocode', 'concept_concepticon_id', 'comment', 'language_family', 'language_subgroup'
+    ]
 
 # Load dataset
 wl = Wordlist.from_cldf(
@@ -12,6 +13,8 @@ wl = Wordlist.from_cldf(
     columns=cols,
     namespace=(
         ("language_id", "doculect"),
+        ("language_family", "family"),
+        ("language_subgroup", "subgroup"),
         ("concept_name", "concept"),
         ("segments", "tokens"),
         ("cognacy", "cogid")
@@ -32,8 +35,10 @@ alms.add_entries("morphemes", "tokens", lambda x: "")
 alms.add_entries("note", "comment", lambda x: x if x else "")
 
 # Output data
-D = {0: ["doculect", "value", "form","concept",
-    "tokens", "cogid", "morphemes", "alignment", "note"]}
+D = {0: [
+    "doculect", "family", "subgroup", "value", "form", "concept", "tokens", "cogid",
+    "morphemes", "alignment", "note"
+    ]}
 for idx in alms:
     D[idx] = [alms[idx, h] for h in D[0]]
 
