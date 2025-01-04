@@ -12,12 +12,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Barrientos et al.'s \"NorthPeruLex - A Lexical Dataset of Small Language Families and Isolates from Northern Peru (forthcoming).",
-    "dcat:accessURL": "https://github.com/lexibank/northernperu",
+    "dcat:accessURL": "https://github.com/lexibank/northperulex",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/lexibank/northernperu",
+            "rdf:about": "https://github.com/lexibank/northperulex",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-2-ga1eff39",
+            "dc:created": "v0.1-10-g032c25b",
             "dc:title": "Repository"
         },
         {
@@ -59,7 +59,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 4621,
+            "dc:extent": 4743,
             "tableSchema": {
                 "columns": [
                     {
@@ -162,7 +162,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 34,
+            "dc:extent": 35,
             "tableSchema": {
                 "columns": [
                     {
