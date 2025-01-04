@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/northperulex",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-11-g4028f2d",
+            "dc:created": "v0.1-12-gb62dcf3",
             "dc:title": "Repository"
         },
         {
