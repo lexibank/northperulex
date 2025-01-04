@@ -106,3 +106,9 @@ ENV/
 # Database
 *sqlite3
 *raw/preprocessing/cldf-data/
+cldf-data/concepticon-data/
+cldf-data/lexibank-analysed/
+cldf-data/seifartecheverriboran/
+cldf-data/concepticon-data/
+cldf-data/lexibank-analysed/
+cldf-data/seifartecheverriboran/
