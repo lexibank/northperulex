@@ -29,7 +29,11 @@ class Dataset(BaseDataset):
     writer_options = dict(keep_languages=False, keep_parameters=False)
     form_spec = FormSpec(replacements=[
         ("kamopʃfmaama", "kamopʃimaama"),
-        ("aʔwltʃa", "aʔwitʃa")
+        ("aʔwltʃa", "aʔwitʃa"),
+        ("wiȳ aē ̄", "wij ae"),
+        ("-ʼpac̄ hiʼ̰i", "-pachiʼḭ"),
+        ("-ʼmḛʼe ∼ -mḛ", "-ʼmḛʼe mḛ"),
+        ("bûʼi̋ ∼ biʼ̂i̋", "bûʼi̋ biʼ̂i̋")
     ],
     separators="/,;")
 

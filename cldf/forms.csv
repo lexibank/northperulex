@@ -230,7 +230,7 @@ Ticuna-57_foot-1,,Ticuna,57_foot,-ku̽tǖ,-ku̽tǖ,k !u̽/u t !ǖ/ɯ,foot,Bertet
 Ticuna-61_good-1,,Ticuna,61_good,mé,mé,m !é/e,be good,Bertet2020,,,^ m é $,Ticuna
 Ticuna-63_green-1,,Ticuna,63_green,ya̰u,ya̰u,dʑ !a̰/a u,be blue or green,Bertet2020,,,^ y a̰ u $,Ticuna
 Ticuna-65_hair-1,,Ticuna,65_hair,-ya̋ē,-ya̋ē,dʑ !a̋/a !ē/e,hair,Bertet2020,,,^- y a̋ ē $,Ticuna
-Ticuna-66_hand-1,,Ticuna,66_hand,-ʼmḛʼe ∼ -mḛ,-ʼmḛʼe ∼ -mḛ,ʔ m !ḛ/e ʔ e + + <<->> m !ḛ/e,[-tr.] hand,Bertet2020,,,^- ʼ m ḛ ʼ e + ∼ + <-> m ḛ $,Ticuna
+Ticuna-66_hand-1,,Ticuna,66_hand,-ʼmḛʼe ∼ -mḛ,-ʼmḛʼe mḛ,ʔ m !ḛ/e ʔ e + m !ḛ/e,[-tr.] hand,Bertet2020,,,^- ʼ m ḛ ʼ e + m ḛ $,Ticuna
 Ticuna-68_head-1,,Ticuna,68_head,-e̽rú,-e̽rú,!e̽/e ɾ !ú/u,head,Bertet2020,,,^- e̽ r ú $,Ticuna
 Ticuna-69_tohear-1,,Ticuna,69_tohear,iñ̄ ǖ,iñ̄ ǖ,i ɲ + !ǖ/ɯ,hear,Bertet2020,,,^ i ñ̄ + ǖ $,Ticuna
 Ticuna-74_toholdinhand-1,,Ticuna,74_toholdinhand,ngî,ngî,ŋ !î/i,hold,Bertet2020,,,^ ng î $,Ticuna
@@ -247,7 +247,7 @@ Ticuna-87_lefthand-1,,Ticuna,87_lefthand,tʼŏʼwe̋,tʼŏʼwe̋,t ʔ !ŏ/o ʔ w
 Ticuna-88_leg-1,,Ticuna,88_leg,-pārà,-pārà,p !ā/a ɾ !à/a,[-tr.] leg,Bertet2020,,,^- p ā r à $,Ticuna
 Ticuna-89_tolie-1,,Ticuna,89_tolie,kā,kā,k !ā/a,lie,Bertet2020,,,^ k ā $,Ticuna
 Ticuna-92_long-1,,Ticuna,92_long,ma̰,ma̰,m !a̰/a,be long,Bertet2020,,,^ m a̰ $,Ticuna
-Ticuna-97_mother-1,,Ticuna,97_mother,bûʼi̋ ∼ biʼ̂i̋,bûʼi̋ ∼ biʼ̂i̋,b !û/u ʔ !i̋/i + + b i ʔ !i̋/i,mother,Bertet2020,,,^ b û ʼ i̋ + ∼ + b i ʼ̂ i̋ $,Ticuna
+Ticuna-97_mother-1,,Ticuna,97_mother,bûʼi̋ ∼ biʼ̂i̋,bûʼi̋ biʼ̂i̋,b !û/u ʔ !i̋/i + b i ʔ !i̋/i,mother,Bertet2020,,,^ b û ʼ i̋ + b i ʼ̂ i̋ $,Ticuna
 Ticuna-97_mother-2,,Ticuna,97_mother,õ̀ʼe̋,õ̀ʼe̋,!õ̀/o ʔ !e̋/e,mother,Bertet2020,,,^ õ̀ ʼ e̋ $,Ticuna
 Ticuna-97_mother-3,,Ticuna,97_mother,-é,-é,!é/e,[-tr.] mother,Bertet2020,,,^- é $,Ticuna
 Ticuna-99_mouth-1,,Ticuna,99_mouth,-a̰,-a̰,!a̰/a,[-tr.] mouth,Bertet2020,,,^- a̰ $,Ticuna
@@ -272,7 +272,7 @@ Ticuna-128_toscratchaswithfingernailstorelieveitch-2,,Ticuna,128_toscratchaswith
 Ticuna-130_see-1,,Ticuna,130_see,dău,dău,d !ău/aʊ,see,Bertet2020,,,^ d ău $,Ticuna
 Ticuna-134_short-1,,Ticuna,134_short,nûʼu,nûʼu,n !û/u ʔ u,be short,Bertet2020,,,^ n û ʼ u $,Ticuna
 Ticuna-135_tosing-1,,Ticuna,135_tosing,ă,ă,!ă/a,sing,Bertet2020,,,^ ă $,Ticuna
-Ticuna-135_tosing-2,,Ticuna,135_tosing,wiȳ aē ̄,wiȳ aē ̄,w i dʑ + a !ē/e + <<̄>>,sing,Bertet2020,,,^ w i ȳ + a ē + <̄> $,Ticuna
+Ticuna-135_tosing-2,,Ticuna,135_tosing,wiȳ aē ̄,wij ae,w i ɦ + a e,sing,Bertet2020,,,^ w i j + a e $,Ticuna
 Ticuna-136_sit-1,,Ticuna,136_sit,tŏ,tŏ,t !ŏ/o,sit,Bertet2020,,,^ t ŏ $,Ticuna
 Ticuna-139_sleep-1,,Ticuna,139_sleep,pé,pé,p !é/e,sleep,Bertet2020,,,^ p é $,Ticuna
 Ticuna-140_small-1,,Ticuna,140_small,ḭ,ḭ,!ḭ/i,be small,Bertet2020,,,^ ḭ $,Ticuna
@@ -310,7 +310,7 @@ Ticuna-186_where-2,,Ticuna,186_where,g̃èʼtà,g̃èʼtà,ŋ !è/e ʔ t !à/a,w
 Ticuna-187_white-1,,Ticuna,187_white,cho̰,cho̰,tɕ !o̰/o,be white,Bertet2020,,,^ ch o̰ $,Ticuna
 Ticuna-187_white-2,,Ticuna,187_white,pŭʼu,pŭʼu,p !ŭ/u ʔ u,be white,Bertet2020,,,^ p ŭ ʼ u $,Ticuna
 Ticuna-190_wife-1,,Ticuna,190_wife,-ʼma̰(∼ -ma̰(?) ∼ -ma̽(?)),-ʼma̰,ʔ m !a̰/a,[-tr.]? wife,Bertet2020,,,^- ʼ m a̰ $,Ticuna
-Ticuna-192_wing-1,,Ticuna,192_wing,-ʼpac̄ hiʼ̰i,-ʼpac̄ hiʼ̰i,ʔ p a <<c>> <<̄>> + <<h>> i ʔ i,[?] wing,Bertet2020,,,^- ʼ p a <c> <̄> + <h> i ʼ̰ i $,Ticuna
+Ticuna-192_wing-1,,Ticuna,192_wing,-ʼpac̄ hiʼ̰i,-pachiʼḭ,p a tɕ i ʔ !ḭ/i,[?] wing,Bertet2020,,,^- p a ch i ʼ ḭ $,Ticuna
 Ticuna-193_towipe-1,,Ticuna,193_towipe,pi̊,pi̊,p !i̊/i,wipe,Bertet2020,,,^ p i̊ $,Ticuna
 Ticuna-197_worm-1,,Ticuna,197_worm,ʼõ̆ʼmi̋,ʼõ̆ʼmi̋,ʔ !õ̆/o ʔ m !i̋/i,worm,Bertet2020,,,^ ʼ õ̆ ʼ m i̋ $,Ticuna
 Ticuna-199_year-1,,Ticuna,199_year,tàunēkǖ,tàunēkǖ,t !à/a u n !ē/e k !ǖ/ɯ,year,Bertet2020,,,^ t à u n ē k ǖ $,Ticuna
