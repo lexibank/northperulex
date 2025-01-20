@@ -1,5 +1,5 @@
 from lingpy import Wordlist, LexStat, Alignments
-from lingpy.compare.strings import ldn_swap
+from lingpy.compare.strings import ldn_swap, bidist2, tridist2
 import csv
 
 # Data preprocessing
@@ -68,7 +68,16 @@ for idx in lex:
 				# Calculate Levenshtein distance with swap included
 				levenshtein_similarity = ldn_swap(form, borrowed_form, normalized=True)
 				
-				combined_similarity = 0.5 * identity_score + 0.5 * levenshtein_similarity
+				# Calculate Bigram and Trigram Distances
+				bigram_distance = bidist2(form, borrowed_form, normalized=True)
+				trigram_distance = tridist2(form, borrowed_form, normalized=True)
+				
+				# Combined Distances
+				combined_similarity = (
+						0.4 * identity_score +
+						0.5 * levenshtein_similarity +
+						0.4 * (bigram_distance + trigram_distance)
+				) / 4
 				
 				borrowing_info = {
 					"source_doculect": source_doculect,
@@ -79,6 +88,8 @@ for idx in lex:
 					"cogid": cluster_id,
 					"identity_score": identity_score,
 					"levenshtein_similarity": levenshtein_similarity,
+                    "bigram_distance": bigram_distance,
+                    "trigram_distance": trigram_distance,
 					"combined_similarity": combined_similarity,
 					"same_family": "yes" if source_family == target_family else "no"
 				}
@@ -90,12 +101,14 @@ with open("borrowings.tsv", mode="w", encoding="utf8") as file:
 	writer = csv.writer(file, delimiter="\t")
 	writer.writerow([
 		"Source Doculect", "Target Doculect", "Concept", "Form", "Borrowed Form", "Cogid",
-		"Identity Score", "Levenshtein Similarity", "Combined Similarity", "Same Family?"
+		"Identity Score", "Levenshtein Similarity", "Bigram Distance", "Trigram Distance",
+		"Combined Similarity", "Same Family?"
 	])
 	for borrowing in borrowings:
 		writer.writerow([
 			borrowing["source_doculect"], borrowing["target_doculect"], borrowing["concept"],
 			borrowing["form"], borrowing["borrowed_form"], borrowing["cogid"],
 			borrowing["identity_score"], borrowing["levenshtein_similarity"],
+			borrowing["bigram_distance"], borrowing["trigram_distance"],
 			borrowing["combined_similarity"], borrowing["same_family"]
 		])
