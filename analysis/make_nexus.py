@@ -10,24 +10,21 @@ cols = [
 	'glottocode', 'concept_concepticon_id', 'comment', 'language_family', 'language_subgroup'
 ]
 
-
 def run(args):
 	"""Function runs the creation of a Nexus file."""
 	dataset = NPL()
+	print(dataset)
 	wl = Wordlist.from_cldf(
-		str(dataset.cldf_dir.joinpath("cldf-metadata.json").as_posix()),
-		# columns to be loaded from CLDF set
-		columns=cols,
-		# a list of tuples of source and target
-		namespace=(
-			("language_id", "doculect"),
-			("language_family", "family"),
-			("concept_name", "concept"),
-			("segments", "tokens"),
-			("language_subgroup", "subgroup"),
-			("cognacy", "cogid")
-		)
-	)
+			str(dataset.cldf_dir.joinpath("cldf-metadata.json").as_posix()),
+			columns=cols,
+			namespace=(
+					("language_id", "doculect"),
+					("language_family", "family"),
+					("concept_name", "concept"),
+					("segments", "tokens"),
+					("language_subgroup", "subgroup"),
+					("cognacy", "cogid")
+			))
 	
 	for idx in wl:
 		wl[idx, "tokens"] = [x for x in wl[idx, "tokens"] if x != "+"]
@@ -43,24 +40,24 @@ def run(args):
 	alms.add_entries("morphemes", "tokens", lambda x: "")  # Add aligned morphemes
 	alms.add_entries("note", "comment", lambda x: x if x else "")  # Add notes
 	
-	D = {0: [c for c in wl.columns]}  # defines the header
+	D = {0: [c for c in lex.columns]}  # defines the header
 	wlnew = Wordlist(D)
 	etd = wlnew.get_etymdict(ref="cogid")
 	args.log.info(
 		f"Created wordlist with {wlnew.width} languages, {len(etd)} "
 		"concepts, and {wlnew.height} cognatesets"
-	)
+		)
 	
 	write_nexus(
 		wlnew,
 		ref="cogid",
 		mode="BEAST",
-		filename=str(dataset.dir.joinpath('outputs', 'northperulex.nex'))
-	)
-	args.log.info("wrote data to file 'outputs/northperulex-beast.nex'")
+		filename=str(dataset.dir.joinpath('../outputs', 'northperulex.nex'))
+		)
+	args.log.info("wrote data to file '../outputs/northperulex-beast.nex'")
 	wlnew.output(
 		"tsv",
-		filename=str(dataset.dir.joinpath("outputs", "northperulex")),
+		filename=str(dataset.dir.joinpath("../outputs", "northperulex")),
 		prettify=False,
 		ignore="all")
 	args.log.info("wrote wordlist data to file")
