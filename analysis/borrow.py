@@ -1,6 +1,7 @@
 from lingpy import Wordlist, LexStat, Alignments
 from lingpy.compare.strings import ldn_swap, bidist2, tridist2
 import csv
+from collections import defaultdict
 
 # Data preprocessing
 cols = [
@@ -113,3 +114,26 @@ with open("borrowings.tsv", mode="w", encoding="utf8") as file:
 			borrowing["bigram_distance"], borrowing["trigram_distance"],
 			borrowing["combined_similarity"], borrowing["same_family"]
 		])
+		
+# Calculating distances between doculects
+doculect_distances = defaultdict(list)
+
+for borrowing in borrowings:
+	source_doculect = borrowing["source_doculect"]
+	target_doculect = borrowing["target_doculect"]
+	combined_similarity = borrowing["combined_similarity"]
+	
+	doculect_pair = tuple(sorted([source_doculect, target_doculect]))
+	doculect_distances[doculect_pair].append(combined_similarity)
+	
+average_distances = {
+    pair: 1 - (sum(similarities) / len(similarities))
+    for pair, similarities in doculect_distances.items()
+}
+	
+# Export to TSV
+with open("doculect_distances.tsv", mode="w", encoding="utf8") as file:
+	writer = csv.writer(file, delimiter="\t")
+	writer.writerow(["Doculect A", "Doculect B", "Doculects Distance"])
+	for (doculect_a, doculect_b), distance in average_distances.items():
+		writer.writerow([doculect_a, doculect_b, distance])
