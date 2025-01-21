@@ -36,7 +36,7 @@ alms.align()
 alms.add_entries("morphemes", "tokens", lambda x: "")  # Add aligned morphemes
 alms.add_entries("note", "comment", lambda x: x if x else "")  # Add notes
 
-# Borrowing detection with Levenshtein distance and swap check
+# Borrowing detection with identity score and distances
 borrowings = []
 for idx in lex:
 	source_doculect = lex[idx, 'doculect']
@@ -74,10 +74,11 @@ for idx in lex:
 				
 				# Combined Distances
 				combined_similarity = (
-						0.4 * identity_score +
-						0.5 * levenshtein_similarity +
-						0.4 * (bigram_distance + trigram_distance)
-				) / 4
+						0.25 * identity_score +
+						0.25 * levenshtein_similarity +
+						0.25 * bigram_distance +
+						0.25 * trigram_distance
+				)
 				
 				borrowing_info = {
 					"source_doculect": source_doculect,
