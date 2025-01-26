@@ -56,13 +56,12 @@ skipped_trees = 0
 # Build phylogenetic tree
 for cognate_id, labels, matrix in cognate_sets:
     if not labels or not matrix:
-        #print(f"Skipping Cognate Set {cognate_id} due to missing data.")
         skipped_trees += 1
-        continue  # Skip this cognate set if no labels or matrix data
+        continue
         
     matrix = [[str(cell) for cell in row] for row in matrix]
     
-    output_filename = os.path.join(output_directory, f'phylogenetic_tree_{cognate_id}.nwk')
+    output_filename = os.path.join(output_directory, f'tree_{cognate_id}.nex')
    
    # Convert to NEXUS format
     multistate2nex(labels, matrix, filename=output_filename, missing='?')
@@ -70,7 +69,10 @@ for cognate_id, labels, matrix in cognate_sets:
     #print(f"Saved tree for Cognate Set {cognate_id} to {output_filename}")
     saved_trees += 1
     
-print(f"Total Cognate Sets Processed: {len(cognate_sets)}")
-print(f"Total Trees Saved: {saved_trees}")
-print(f"Total Trees Skipped: {skipped_trees}")
-print(f"Total number of lines containing 'Cogid:': {cogid_count}")
+# Write simple summary to a markdown file
+with open(os.path.join(output_directory, 'summary.md'), 'w') as md_file:
+    md_file.write("## Summary\n\n")
+    md_file.write(f"- **Total Cognate Sets Processed:** {len(cognate_sets)}\n\n")
+    md_file.write(f"- **Total Trees Saved:** {saved_trees}\n")
+    md_file.write(f"- **Total Trees Skipped:** {skipped_trees}\n\n")
+    md_file.write(f"- **Total number of lines containing 'Cogid:':** {cogid_count}\n")
