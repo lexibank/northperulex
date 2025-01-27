@@ -1,14 +1,15 @@
 #NEXUS
 
 BEGIN DATA;
-DIMENSIONS ntax=2 NCHAR=3;
+DIMENSIONS ntax=3 NCHAR=17;
 FORMAT RESPECTCASE DATATYPE=STANDARD symbols="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOP0123456789" GAP=? MISSING=? interleave=yes;
 OPTIONS MSTAXA = POLYMORPH;
 
 MATRIX
 
-aakʰítʰʲe  0.00.37470.3747
-áákétte-ʔi 0.3830.00.383
+aako-      0.0 0.3747 0.3747
+aakʰítʰʲe  0.383 0.0 0.383
+áákétte-ʔi 0.3289 0.3289 0.0
 
 
 END;

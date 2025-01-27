@@ -17,6 +17,7 @@ matrix = []
 labels = []
 current_cognate_id = None
 
+
 for line in lines:
     line = line.strip()
     
@@ -27,28 +28,33 @@ for line in lines:
             matrix = []
             labels = []
             
+            
         current_cognate_id = line.split(':')[1].strip()
     
     elif line and not line.startswith('=') and not labels:
-        labels = line.split('\t')[1:]
+        labels = line.split('\t')[0:]
         labels = ['_'.join(label.split()) for label in labels]  # This is for multi-word labels
-        #print(labels)
+        print(labels)
     
     elif line and line[0] != '=':
         parts = line.split('\t')
         parts = ['_'.join(part.split()) for part in parts]
         #print(parts)
         
-        distances = []
-        for val in parts[1:]:
-            try:
-                distances.append(float(val))
-            except ValueError:
-                distances.append(0.0)
-        matrix.append(distances)
+        taxon = parts[0]
+        if taxon not in labels:
+            labels.append(taxon)
         
-if matrix:
+        try:
+            distances = [float(val) for val in parts[1:]]
+        except ValueError:
+            distances = [0.0 for _ in parts[1:]]
+        matrix.append(distances)
+        #print(distances)
+        
+if matrix and labels:
     cognate_sets.append((current_cognate_id, labels, matrix))
+    #print(matrix)
 
 saved_trees = 0
 skipped_trees = 0
@@ -59,7 +65,7 @@ for cognate_id, labels, matrix in cognate_sets:
         skipped_trees += 1
         continue
         
-    matrix = [[str(cell) for cell in row] for row in matrix]
+    matrix = [' '.join(map(str, row)) for row in matrix]
     
     output_filename = os.path.join(output_directory, f'tree_{cognate_id}.nex')
    
