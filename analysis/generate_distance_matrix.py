@@ -16,22 +16,25 @@ for row in data:
         grouped_data[cogid] = []
     grouped_data[cogid].append(row)
 
-# Step 3: Write distance matrices for each Cogid
+# Write distance matrices for each Cogid
 with open("distance_matrix.tsv", 'w', encoding='utf-8') as file:
     writer = csv.writer(file, delimiter='\t')
     
     for cogid, entries in grouped_data.items():
         writer.writerow([f"Cogid: {cogid}"])
-        unique_forms = list(set(entry['Form'] for entry in entries))
-        writer.writerow([''] + unique_forms)
+        forms = [entry['Form'] for entry in entries]
+        forms = list(dict.fromkeys(forms))
+        writer.writerow([''] + forms)
         
-        for i in range(len(unique_forms)):
-            row = [unique_forms[i]]
-            for j in range(len(unique_forms)):
-                form_i = unique_forms[i]
-                form_j = unique_forms[j]
+        for i in range(len(forms)):
+            row = [forms[i]]
+            for j in range(len(forms)):
+                form_i = forms[i]
+                form_j = forms[j]
                 
-                if form_i == form_j:  # If the forms are identical, set distance to 0
+                # If the forms are identical, set distance to 0.
+                # This needs to be change later
+                if form_i == form_j:
                     distance = 0.0
                 else:
                     form_i_entries = [entry for entry in entries if entry['Form'] == form_i]
@@ -41,7 +44,8 @@ with open("distance_matrix.tsv", 'w', encoding='utf-8') as file:
                         float(entry_i['Combined Similarity'])
                         for entry_i in form_i_entries
                         for entry_j in form_j_entries
-                        if entry_i['Cogid'] == entry_j['Cogid']
+                        if entry_i['Target Doculect'] == entry_j['Source Doculect'] or
+                           entry_i['Source Doculect'] == entry_j['Target Doculect']
                     ]
                     
                     if similarities:
@@ -53,5 +57,3 @@ with open("distance_matrix.tsv", 'w', encoding='utf-8') as file:
                 row.append(round(distance, 4))
             writer.writerow(row)
         writer.writerow([])
-        
-print(f'Distance matrices saved to "distance_matrix.tsv"')
