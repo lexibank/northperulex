@@ -32,27 +32,59 @@ lex.get_scorer(runs=10000)
 lex.cluster(threshold=0.55, method="lexstat", cluster_method="infomap", ref="cogid")
 
 # Align data
-alms = Alignments(lex, ref="cogid")
+alms = Alignments(lex, ref="cogid", transcription='tokens', min_refs=2)
 alms.align()
-alms.add_entries("morphemes", "tokens", lambda x: "")  # Add aligned morphemes
-alms.add_entries("note", "comment", lambda x: x if x else "")  # Add notes
+
+dct = {}
+for idx, msa in alms.msa["cogid"].items():
+	msa_reduced = []
+	for site in msa["alignment"]:
+		reduced = reduce_alignment([site])[0]
+		reduced = clean_slash(reduced)
+		msa_reduced.append(reduced)
+	for i, row in enumerate(msa_reduced):
+		dct[msa["ID"][i]] = row
+
+alms.add_entries("tokens", dct,
+				 lambda x: " ".join([y for y in x if y != "-"]),
+				 override=True)
+alms.add_entries("alignment", dct,
+				 lambda x: " ".join([y for y in x]),
+				 override=True)
+alms.add_entries("structure", "tokens",
+				 lambda x: tokens2class(x.split(" "), "cv"))
+
+alms.output("tsv", filename="npl")
+
+# Infer sound correspondances
+cop = CoPaR("npl.tsv", transcription="tokens", ref="cogid", min_refs=2)
+cop.get_sites()
+cop.cluster_sites()
+cop.sites_to_pattern()
+cop.calculate("tree")
+TREE = str(cop.tree)
+
+# Run AutoCogid
+cop_wl = LexStat(cop)
+cop_wl.get_scorer(runs=10000)
+cop_wl.cluster(threshold=0.55, method="lexstat", cluster_method="infomap", ref="cogid")
 
 # Borrowing detection with identity score and distances
 borrowings = []
-for idx in lex:
-	source_doculect = lex[idx, 'doculect']
-	form = lex[idx, 'form']
-	source_family = lex[idx, 'family']
-	concept = lex[idx, 'concept']
-	cluster_id = lex[idx, 'cogid']
+for idx in cop_wl:
+	source_doculect = cop_wl[idx, 'doculect']
+	form = cop_wl[idx, 'form']
+	source_family = cop_wl[idx, 'family']
+	concept = cop_wl[idx, 'concept']
+	cluster_id = cop_wl[idx, 'cogid']
 	
-	for other_idx in lex:
-		if other_idx != idx and lex[other_idx, 'cogid'] == cluster_id:
-			target_doculect = lex[other_idx, 'doculect']
-			target_family = lex[other_idx, 'family']
+	for other_idx in cop_wl:
+		if other_idx != idx and cop_wl[other_idx, 'cogid'] == cluster_id:
+			target_doculect = cop_wl[other_idx, 'doculect']
+			target_family = cop_wl[other_idx, 'family']
 			
 			if source_doculect != target_doculect:
-				borrowed_form = lex[other_idx, 'form']
+				borrowed_form = cop_wl[other_idx, 'form']
 				source_alignment = alms[idx]
 				target_alignment = alms[other_idx]
 				
@@ -65,18 +97,20 @@ for idx in lex:
 						if seg1 == seg2:
 							identical_columns += 1
 				identity_score = (identical_columns / aligned_columns) if aligned_columns > 0 else 0
+				# Convert identity score into distance
+				distance_from_identity = 1 - identity_score
 				
 				# Calculate Levenshtein distance with swap included
-				levenshtein_similarity = ldn_swap(form, borrowed_form, normalized=True)
+				levenshtein_distance = ldn_swap(form, borrowed_form, normalized=True)
 				
 				# Calculate Bigram and Trigram Distances
 				bigram_distance = bidist2(form, borrowed_form, normalized=True)
 				trigram_distance = tridist2(form, borrowed_form, normalized=True)
 				
 				# Combined Distances
-				combined_similarity = (
-						0.25 * identity_score +
-						0.25 * levenshtein_similarity +
+				combined_distance = (
+						0.25 * distance_from_identity +
+						0.25 * levenshtein_distance +
 						0.25 * bigram_distance +
 						0.25 * trigram_distance
 				)
@@ -88,33 +122,33 @@ for idx in lex:
 					"form": form,
 					"borrowed_form": borrowed_form,
 					"cogid": cluster_id,
-					"identity_score": identity_score,
-					"levenshtein_similarity": levenshtein_similarity,
-                    "bigram_distance": bigram_distance,
-                    "trigram_distance": trigram_distance,
-					"combined_similarity": combined_similarity,
+					"distance_from_identity": distance_from_identity,
+					"levenshtein_distance": levenshtein_distance,
+					"bigram_distance": bigram_distance,
+					"trigram_distance": trigram_distance,
+					"combined_distance": combined_distance,
 					"same_family": "yes" if source_family == target_family else "no"
 				}
 				
 				borrowings.append(borrowing_info)
-			
+
 # Exporting combined borrowings and cognacy validation to TSV
 with open("borrowings.tsv", mode="w", encoding="utf8") as file:
 	writer = csv.writer(file, delimiter="\t")
 	writer.writerow([
 		"Source Doculect", "Target Doculect", "Concept", "Form", "Borrowed Form", "Cogid",
-		"Identity Score", "Levenshtein Similarity", "Bigram Distance", "Trigram Distance",
-		"Combined Similarity", "Same Family?"
+		"Distance from Identity Score", "Levenshtein Distance", "Bigram Distance", "Trigram Distance",
+		"Combined Distance", "Same Family?"
 	])
 	for borrowing in borrowings:
 		writer.writerow([
 			borrowing["source_doculect"], borrowing["target_doculect"], borrowing["concept"],
 			borrowing["form"], borrowing["borrowed_form"], borrowing["cogid"],
-			borrowing["identity_score"], borrowing["levenshtein_similarity"],
+			borrowing["distance_from_identity"], borrowing["levenshtein_distance"],
 			borrowing["bigram_distance"], borrowing["trigram_distance"],
-			borrowing["combined_similarity"], borrowing["same_family"]
+			borrowing["combined_distance"], borrowing["same_family"]
 		])
-		
+
 # Calculating distances between doculects
 doculect_distances = defaultdict(list)
 
@@ -125,15 +159,17 @@ for borrowing in borrowings:
 	
 	doculect_pair = tuple(sorted([source_doculect, target_doculect]))
 	doculect_distances[doculect_pair].append(combined_similarity)
-	
+
 average_distances = {
-    pair: 1 - (sum(similarities) / len(similarities))
-    for pair, similarities in doculect_distances.items()
+	pair: 1 - (sum(distances) / len(distances))
+	for pair, distances in doculect_distances.items()
 }
-	
+
 # Export to TSV
 with open("doculect_distances.tsv", mode="w", encoding="utf8") as file:
 	writer = csv.writer(file, delimiter="\t")
 	writer.writerow(["Doculect A", "Doculect B", "Doculects Distance"])
 	for (doculect_a, doculect_b), distance in average_distances.items():
 		writer.writerow([doculect_a, doculect_b, distance])
+
+
