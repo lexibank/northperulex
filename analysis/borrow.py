@@ -1,7 +1,24 @@
 from lingpy import Wordlist, LexStat, Alignments
 from lingpy.compare.strings import ldn_swap, bidist2, tridist2
 import csv
+import re
 from collections import defaultdict
+from lingrex.copar import CoPaR
+from lingpy.read.qlc import reduce_alignment
+from lingpy.sequence.sound_classes import tokens2class
+
+
+def clean_slash(x):
+	"""Cleans slash annotation from EDICTOR."""
+	cleaned = []
+	for segment in x:
+		if "/" in segment:
+			after_slash = re.split("/", segment)[1]
+			cleaned.append(after_slash)
+		else:
+			cleaned.append(segment)
+
+	return cleaned
 
 # Data preprocessing
 cols = [
