@@ -4,7 +4,6 @@ import csv
 import re
 from collections import defaultdict
 from lingrex.copar import CoPaR
-from lingpy.read.qlc import reduce_alignment
 from lingpy.sequence.sound_classes import tokens2class
 
 
@@ -42,25 +41,23 @@ wl = Wordlist.from_cldf(
 # Deleting unnecessary tokens
 for idx in wl:
 	wl[idx, "tokens"] = [x for x in wl[idx, "tokens"] if x != "+"]
-
+	
 # Run AutoCogid
 lex = LexStat(wl)
 lex.get_scorer(runs=10000)
 lex.cluster(threshold=0.55, method="lexstat", cluster_method="infomap", ref="cogid")
 
 # Align data
-alms = Alignments(lex, ref="cogid", transcription='tokens', min_refs=2)
+alms = Alignments(lex, ref="cogid", transcription="tokens")
 alms.align()
 
 dct = {}
 for idx, msa in alms.msa["cogid"].items():
 	msa_reduced = []
 	for site in msa["alignment"]:
-		reduced = reduce_alignment([site])[0]
-		reduced = clean_slash(reduced)
+		reduced = clean_slash(site)
 		msa_reduced.append(reduced)
-	for i, row in enumerate(msa_reduced):
-		dct[msa["ID"][i]] = row
+	dct[idx] = ["".join(segment) for segment in msa_reduced]
 
 alms.add_entries("tokens", dct,
 				 lambda x: " ".join([y for y in x if y != "-"]),
@@ -69,17 +66,18 @@ alms.add_entries("alignment", dct,
 				 lambda x: " ".join([y for y in x]),
 				 override=True)
 alms.add_entries("structure", "tokens",
-				 lambda x: tokens2class(x.split(" "), "cv"))
+                 lambda x: tokens2class(x.split(" "), "cv"))
 
 alms.output("tsv", filename="npl")
 
 # Infer sound correspondances
-cop = CoPaR("npl.tsv", transcription="tokens", ref="cogid", min_refs=2)
+cop = CoPaR("npl.tsv", transcription="form", ref="cogid", segments='tokens')
 cop.get_sites()
 cop.cluster_sites()
 cop.sites_to_pattern()
-cop.calculate("tree")
-TREE = str(cop.tree)
+cop.add_patterns()
+# Write patterns
+cop.write_patterns('np_patterns.tsv')
 
 # Run AutoCogid
 cop_wl = LexStat(cop)
