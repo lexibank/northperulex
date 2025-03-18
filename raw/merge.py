@@ -9,7 +9,7 @@ final_data = [[
 data = list(sorted(glob("prepared_data/*.tsv")))
 
 replacements = {
-    "Resígaro": "Resigaro.tsv",
+    "Resígaro": "Resigaro",
     "Witoto Mi̵ni̵ca": "WitotoMinica",
     "Witoto Murui": "WitotoMurui",
     "Witoto Ni̵pode": "WitotoNipode"
