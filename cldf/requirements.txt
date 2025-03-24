@@ -4,7 +4,7 @@ babel==2.16.0
 bibtexparser==2.0.0b8
 bs4==0.0.2
 certifi==2024.12.14
-cldfbench==1.13.0
+cldfbench==1.14.1
 cldfcatalog==1.5.1
 cldfzenodo==2.1.2
 clldutils==3.24.0
