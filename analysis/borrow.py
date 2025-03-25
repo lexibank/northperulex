@@ -38,9 +38,9 @@ wl = Wordlist.from_cldf(
 		("cognacy", "cogid")
 	))
 
-# Deleting unnecessary tokens
+# Deleting unnecessary tokens with clean_slash
 for idx in wl:
-	wl[idx, "tokens"] = [x.split("/")[1] if "/" in x else x for x in wl[idx, "tokens"] if x != "+"]
+	wl[idx, "tokens"] = [x.split("/")[1] if "/" in x else x for x in wl[idx, "tokens"]]
 	
 # Run AutoCogid
 lex = LexStat(wl)
