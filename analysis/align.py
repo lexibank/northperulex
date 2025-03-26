@@ -57,7 +57,7 @@ alms.add_entries("alignment", "tokens", lambda x: " ".join([y for y in x]), over
 alms.add_entries("structure", "tokens",
                  lambda x: tokens2class(x, "cv"))
 
-#alms.output("tsv", filename="npl")
+alms.output("tsv", filename="npl")
 
 # Infer sound correspondances
 cop = CoPaR(alms, transcription="form", ref="cogids")
