@@ -1,5 +1,8 @@
-import csv
+"""
+This script generates distance matrices from the pairwise distances
+"""
 
+import csv
 
 # Load data from the input file
 data = []
