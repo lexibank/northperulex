@@ -78,8 +78,8 @@ cop_wl.cluster(threshold=0.55, method="lexstat", cluster_method="infomap", ref="
 
 #cop_wl.output('tsv', filename='npl_copped', ignore='all')
 
-# Borrowing detection with identity score and distances
-borrowings = []
+# Collecting necessary data
+distances = []
 for idx in cop_wl:
 	doculect_a = cop_wl[idx, 'doculect']
 	form_a = cop_wl[idx, 'tokens']
@@ -124,7 +124,7 @@ for idx in cop_wl:
 						0.25 * trigram_distance
 				)
 				
-				borrowing_info = {
+				distances_info = {
 					"doculect_a": doculect_a,
 					"doculect_b": doculect_b,
 					"concept": concept,
@@ -139,23 +139,23 @@ for idx in cop_wl:
 					"same_family": "yes" if family_a == family_b else "no"
 				}
 				
-				borrowings.append(borrowing_info)
+				distances.append(distances_info)
 
 # Exporting combined borrowings and cognacy validation to TSV
-with open("borrowings.tsv", mode="w", encoding="utf8") as file:
+with open("pairwise_distances.tsv", mode="w", encoding="utf8") as file:
 	writer = csv.writer(file, delimiter="\t")
 	writer.writerow([
 		"Doculect A", "Doculect B", "Concept", "Form A", "Form B", "Cogid",
 		"Distance from Identity Score", "Levenshtein Distance", "Bigram Distance", "Trigram Distance",
 		"Combined Distance", "Same Family?"
 	])
-	for borrowing in borrowings:
+	for distance in distances:
 		writer.writerow([
-			borrowing["doculect_a"], borrowing["doculect_b"], borrowing["concept"],
-			borrowing["form_a"], borrowing["form_b"], borrowing["cogid"],
-			borrowing["distance_from_identity"], borrowing["levenshtein_distance"],
-			borrowing["bigram_distance"], borrowing["trigram_distance"],
-			borrowing["combined_distance"], borrowing["same_family"]
+			distance["doculect_a"], distance["doculect_b"], distance["concept"],
+			distance["form_a"], distance["form_b"], distance["cogid"],
+			distance["distance_from_identity"], distance["levenshtein_distance"],
+			distance["bigram_distance"], distance["trigram_distance"],
+			distance["combined_distance"], distance["same_family"]
 		])
 
 # # Calculating distances between doculects
