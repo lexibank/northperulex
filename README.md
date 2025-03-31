@@ -36,22 +36,22 @@ work in progress
 
 - **Varieties:** 35 (linked to 34 different Glottocodes)
 - **Concepts:** 200 (linked to 200 different Concepticon concept sets)
-- **Lexemes:** 4,743
+- **Lexemes:** 4,804
 - **Sources:** 16
-- **Synonymy:** 1.10
+- **Synonymy:** 1.11
 - **Invalid lexemes:** 0
-- **Tokens:** 26,743
-- **Segments:** 340 (0 BIPA errors, 0 CLTS sound class errors, 333 CLTS modified)
-- **Inventory size (avg):** 36.83
+- **Tokens:** 27,168
+- **Segments:** 342 (0 BIPA errors, 0 CLTS sound class errors, 337 CLTS modified)
+- **Inventory size (avg):** 37.43
 
 # Contributors
 
-Name | GitHub user    | Description                                     | Role |
---- |----------------|-------------------------------------------------| --- |
+Name | GitHub user    | Description                                     | Role
+--- |----------------|-------------------------------------------------| ---
 Carlos Ugarte | @MuffinLinwist | Data collector, CLDF conversion and annotation  | Author, Editor
-Frederic Blum | @FredericBlum  | Data collectior, CLDF conversion and annotation | Author, Editor
+Frederic Blum | @FredericBlum  | CLDF conversion and annotation | Author, Editor
 Adriano Ingunza | @BadBatched    | Data collector and annotation                   | Author
-Rosa Gonzales |                | Data collector and annotation                   | Author
+Rosa Gonzales | @rosalgm              | Data collector and annotation                   | Author
 Jaime Peña | @JaimePenat    | Data collector and annotation                   | Author
 
 
