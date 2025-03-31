@@ -26,7 +26,7 @@ def add_wl(language):
 
     if "Ticuna.tsv" in language:
         return
-    
+
     with open(language, mode='r', encoding="utf8") as f:
         wl = csv.reader(f, delimiter="\t")
         header = next(wl)
