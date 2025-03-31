@@ -6,7 +6,6 @@ from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import FormSpec
 from pylexibank import Language
-from pyedictor import fetch
 from lingpy import Wordlist
 
 
@@ -26,39 +25,15 @@ class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "northperulex"
     language_class = CustomLanguage
-    writer_options = dict(keep_languages=False, keep_parameters=False)
-    form_spec = FormSpec(replacements=[
-        ("kamopʃfmaama", "kamopʃimaama"),
-        ("aʔwltʃa", "aʔwitʃa"),
-        ("wiȳ aē ̄", "wij ae"),
-        ("-ʼpac̄ hiʼ̰i", "-pachiʼḭ"),
-        ("-ʼmḛʼe ∼ -mḛ", "-ʼmḛʼe mḛ"),
-        ("bûʼi̋ ∼ biʼ̂i̋", "bûʼi̋ biʼ̂i̋")
-    ],
-    separators="/,;")
-
-    def cmd_download(self):
-        print("updating ...")
-        with open(self.raw_dir.joinpath("preprocessing/imported/loaded_data.csv"), "w", encoding="utf-8") as f:
-            f.write(
-                fetch(
-                    "northperulex",
-                    columns=[
-                        "CONCEPT",
-                        "DOCULECT",
-                        "SUBGROUP",
-                        "FORM",
-                        "VALUE",
-                        "TOKENS",
-                        "COGIDS",
-                        "ALIGNMENT",
-                        "MORPHEMES",
-                        "BORROWING",
-                        "NOTE"
-                    ],
-                    base_url="http://lingulist.de/edev"
-                )
-            )
+    #writer_options = dict(keep_languages=False, keep_parameters=False)
+    form_spec = FormSpec(
+        replacements=[
+            ("kamopʃfmaama", "kamopʃimaama"),
+            ("aʔwltʃa", "aʔwitʃa"),
+            ("wiȳ aē ̄", "wij ae"),
+            ("-ʼpac̄ hiʼ̰i", "-pachiʼḭ")
+            ],
+        separators="/,;∼")
 
     def cmd_makecldf(self, args):
         # add bib
@@ -146,7 +121,7 @@ class Dataset(BaseDataset):
             ),
             desc="cldfify"
         ):
-            if value and '_' not in value:
+            if value and value != '_':
                 if language not in languages:
                     errors.add(("language", language))
                     print(f"Missing language: {language} - Row: {idx}")
