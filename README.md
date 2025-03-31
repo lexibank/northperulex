@@ -36,13 +36,13 @@ work in progress
 
 - **Varieties:** 35 (linked to 34 different Glottocodes)
 - **Concepts:** 200 (linked to 200 different Concepticon concept sets)
-- **Lexemes:** 4,863
+- **Lexemes:** 4,804
 - **Sources:** 16
-- **Synonymy:** 1.12
+- **Synonymy:** 1.11
 - **Invalid lexemes:** 0
-- **Tokens:** 27,109
+- **Tokens:** 27,168
 - **Segments:** 342 (0 BIPA errors, 0 CLTS sound class errors, 337 CLTS modified)
-- **Inventory size (avg):** 37.23
+- **Inventory size (avg):** 37.43
 
 # Contributors
 
