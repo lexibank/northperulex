@@ -33,7 +33,7 @@ class Dataset(BaseDataset):
             ("wiȳ aē ̄", "wij ae"),
             ("-ʼpac̄ hiʼ̰i", "-pachiʼḭ")
             ],
-        separators="/,;∼_")
+        separators="/,;∼")
 
     def cmd_makecldf(self, args):
         # add bib
