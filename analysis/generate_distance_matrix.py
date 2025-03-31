@@ -3,7 +3,7 @@ import csv
 
 # Load data from the input file
 data = []
-with open("borrowings.tsv", 'r', encoding='utf-8') as file:
+with open("pairwise_distances.tsv", 'r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter='\t')
     for row in reader:
         data.append(row)
