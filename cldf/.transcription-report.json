@@ -2093,7 +2093,6 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 4,
                 "a": 117,
                 "a\u02d0": 4,
                 "b": 7,
@@ -4189,7 +4188,6 @@
             "sclass_errors": [],
             "segments": {
                 "!h\u0303/h": 48,
-                "+": 5,
                 "a": 144,
                 "a\u02d0": 25,
                 "h": 14,
@@ -4203,12 +4201,12 @@
                 "p": 16,
                 "s": 29,
                 "t": 28,
-                "u": 74,
+                "u": 75,
                 "ua": 12,
                 "u\u0268": 8,
                 "u\u0268\u02d0": 2,
                 "u\u02d0": 12,
-                "w": 5,
+                "w": 4,
                 "\u0268": 21,
                 "\u0268\u02d0": 6,
                 "\u027e": 34,
@@ -6290,7 +6288,6 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 1,
                 "a": 137,
                 "a\u02d0": 39,
                 "i": 88,
@@ -7361,10 +7358,8 @@
             }
         },
         "Chayahuita": {
-            "bipa_errors": [
-                "<<_>>"
-            ],
-            "general_errors": 2,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "!aa\u0301/a\u02d0": [
                     "a\u02d0"
@@ -8378,11 +8373,8 @@
                     "\u223c"
                 ]
             },
-            "sclass_errors": [
-                "<<_>>"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "<<_>>": 2,
                 "a": 122,
                 "h": 1,
                 "i": 119,
@@ -24229,7 +24221,6 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 9,
                 "a": 113,
                 "e": 1,
                 "h": 43,
@@ -29580,7 +29571,6 @@
                 "!\u00f5/o": 81,
                 "!\u0129/i": 32,
                 "!\u1ebd/e": 37,
-                "+": 28,
                 "a": 68,
                 "b": 69,
                 "d": 64,
@@ -33794,7 +33784,6 @@
                 "!o\u0320/o": 2,
                 "!u\u0320/u": 12,
                 "!\u00ef/i": 20,
-                "+": 10,
                 "a": 210,
                 "b": 2,
                 "d": 39,
@@ -37016,30 +37005,13 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Chayahuita-118_righthand-1",
-                "Chayahuita",
-                "118_righthand",
-                "in\u0283inan_k\u0268\u027ean",
-                "i n \u0283 i n a n <s> <<_>> </s> k \u0268 \u027e a n"
-            ],
-            [
-                "Chayahuita-49_fire-1",
-                "Chayahuita",
-                "49_fire",
-                "p\u0268n_panka",
-                "p \u0268 n <s> <<_>> </s> p a n k a"
-            ]
-        ],
-        "bad_words_count": 2,
-        "bipa_errors": [
-            "<<_>>"
-        ],
-        "general_errors": 2,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 37.42857142857143,
+        "inventory_size": 37.22857142857143,
         "replacements": {
             "!aa\u0301/a\u02d0": [
                 "a\u02d0"
@@ -38053,9 +38025,7 @@
                 "\u223c"
             ]
         },
-        "sclass_errors": [
-            "<<_>>"
-        ],
+        "sclass_errors": [],
         "segments": {
             "!a\u00e1/a\u02d0": 13,
             "!a\u00fa/au": 2,
@@ -38279,8 +38249,7 @@
             "!\u1ebd/e": 40,
             "!\u1ebd/\u0268": 3,
             "!\u1ebd\u0301/e": 10,
-            "+": 516,
-            "<<_>>": 2,
+            "+": 459,
             "a": 3422,
             "ai": 65,
             "au": 23,
@@ -38345,14 +38314,14 @@
             "t\u02b0\u02b2": 9,
             "t\u02b2": 65,
             "t\u02c0": 15,
-            "u": 1066,
+            "u": 1067,
             "ua": 13,
             "ui": 25,
             "u\u0268": 8,
             "u\u0268\u02d0": 2,
             "u\u02d0": 30,
             "v": 19,
-            "w": 357,
+            "w": 356,
             "x": 67,
             "z": 7,
             "\u00e1": 1,
