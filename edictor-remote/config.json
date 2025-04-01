@@ -1,0 +1,48 @@
+{
+  "remote": {
+    "remotenorthperulex": {
+      "triples.py": {
+        "url":  "http://lingulist.de/pth/triples.py",
+        "data": {
+          "file": "northperulex",
+          "remote_dbase": "northperulex",
+          "columns": "DOCULECT|CONCEPT|VALUE|FORM|TOKENS|COGID|COGIDS|ALIGNMENT|PATTERNS|MORPHEMES|SUBGROUP|NOTE"
+        }
+      },
+      "update.py": {
+        "url": "http://lingulist.de/pth/updater.py",
+        "data": {
+          "file": "northperulex",
+          "remote_dbase": "northperulex"
+        }
+      },
+      "new_id.py": {
+        "url": "http://lingulist.de/pth/triples.py",
+        "data": {
+          "file": "northperulex",
+          "remote_dbase": "northperulex"
+        }
+      },
+      "modifications.py": {
+        "url": "http://lingulist.de/pth/triples.py",
+        "data": {
+          "file": "northperulex",
+          "remote_dbase": "northperulex"
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "url": "edictor.html",
+      "name": "NorthPeruLex (Remote)",
+      "data": {
+        "file": "remotenorthperulex",
+        "remote_dbase": "remotenorthperulex",
+        "async": "true",
+        "preview": 30,
+        "basics": "DOCULECT|CONCEPT|FORM|TOKENS|COGIDS|ALIGNMENT|NOTE"
+      }
+    }
+  ]
+}
