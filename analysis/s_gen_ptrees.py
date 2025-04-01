@@ -4,6 +4,7 @@ Neighbor-Joining (Saitou and Nei 1987) algorithm.
 """
 
 import os
+import re
 from lingpy.algorithm.clustering import neighbor
 
 output_directory = 'trees'
@@ -30,8 +31,8 @@ for line in lines:
         matrix = []
         
     elif line and not labels:
-        labels = line.split("\t")[0:]
-        labels = ["_".join(label.split()) for label in labels]
+        labels = [re.sub(": ", "_", item) for item in line.split("\t")]
+        labels = ["".join(label.split()) for label in labels]
         
     elif line:
         parts = line.split("\t")

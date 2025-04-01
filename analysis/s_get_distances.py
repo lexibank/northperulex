@@ -90,10 +90,10 @@ for idx in cop_wl:
 	for other_idx in cop_wl:
 		if other_idx != idx and cop_wl[other_idx, 'cogid'] == cluster_id:
 			doculect_b = cop_wl[other_idx, 'doculect']
+			form_b = cop_wl[other_idx, 'tokens']
 			family_b = cop_wl[other_idx, 'family']
 			
-			if doculect_a != doculect_b:
-				form_b = cop_wl[other_idx, 'tokens']
+			if doculect_a != doculect_b or form_a != form_b:
 				alignment_a = alms[idx]
 				alignment_b = alms[other_idx]
 				
