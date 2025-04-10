@@ -57,13 +57,12 @@ alms = Alignments(parcog, ref="cogids", transcription="tokens")
 alms.align(ref="cogids")
 alms.add_entries("morphemes", "tokens", lambda x: " ".join([y for y in x]), override=True)
 alms.add_entries("alignment", "tokens", lambda x: " ".join([y for y in x]), override=True)
-alms.add_entries("structure", "tokens",
-				 lambda x: tokens2class(x, "cv"))
+alms.add_entries("structure", "tokens", lambda x: tokens2class(x, "cv"))
 
 #alms.output("tsv", filename="npl")
 
 # Infer sound correspondances
-cop = CoPaR(alms, transcription="form", ref="cogids")
+cop = CoPaR(alms, transcription="form", ref="cogid")
 cop.get_sites()
 cop.cluster_sites()
 cop.sites_to_pattern()
@@ -74,7 +73,7 @@ cop.sites_to_pattern()
 # Run AutoCogid
 cop_wl = LexStat(cop)
 cop_wl.get_scorer(runs=10000)
-cop_wl.cluster(threshold=0.55, method="lexstat", cluster_method="infomap", ref="cogids")
+cop_wl.cluster(threshold=0.55, method="lexstat", cluster_method="infomap", ref="cogid")
 
 #cop_wl.output('tsv', filename='npl_copped', ignore='all')
 
@@ -86,6 +85,8 @@ for idx in cop_wl:
 	family_a = cop_wl[idx, 'family']
 	concept = cop_wl[idx, 'concept']
 	cluster_id = cop_wl[idx, 'cogid']
+
+	print(form_a, cluster_id)
 	
 	for other_idx in cop_wl:
 		if other_idx != idx and cop_wl[other_idx, 'cogid'] == cluster_id:
