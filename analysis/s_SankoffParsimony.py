@@ -26,15 +26,15 @@ with open('npl_copped.tsv', mode='r', encoding='utf-8') as f:
 # Group by COGID
 cogid_data = {}
 for row in data[1:]:
-    cogid = row[5]
+    cogid = row[21]
     alignment = row[23].split()
     form = row[5]
     if cogid not in cogid_data:
         cogid_data[cogid] = []
     cogid_data[cogid].append((form, alignment))
 
-if '2978' in cogid_data:
-    for form, alignment in cogid_data['2978']:
+if '2' in cogid_data:
+    for form, alignment in cogid_data['2']:
         print(f"{form}: {alignment}")
 
 # Extract all characters
@@ -75,13 +75,14 @@ all_states = get_characters(cogid_data)
 
 for cogid, tree in trees.items():
     if cogid not in cogid_data:
+        #print(cogid)
         continue
     alignments = cogid_data[cogid]
     form_to_alignment = {form: aln for form, aln in alignments}
 
     aln_len = len(next(iter(form_to_alignment.values())))
 
-    print(f"\nCOGID: {cogid}")
+    #print(f"\nCOGID: {cogid}")
 
     for pos in range(aln_len):
         # Alignment for current position
