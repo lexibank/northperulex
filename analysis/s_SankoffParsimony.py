@@ -11,8 +11,12 @@ trees = {}
 for file in tree_files:
     filepath = os.path.join(tree_dir, file)
     cogid = os.path.splitext(file)[0].split('cogid', 1)[1]
-    trees[cogid] = Tree(filepath, format=1)
-
+    tree = Tree(filepath, format=1)
+    for leaf in tree.iter_leaves():
+        if '_' in leaf.name:
+            leaf.name = leaf.name.split('_', 1)[1]
+    trees[cogid] = tree
+    
 
 # Load data
 data = []
@@ -33,23 +37,28 @@ for row in data[1:]:
         cogid_data[cogid] = []
     cogid_data[cogid].append((form, alignment))
 
-if '2' in cogid_data:
-    for form, alignment in cogid_data['2']:
-        print(f"{form}: {alignment}")
-
-# Extract all characters
-def get_characters(cogid_data):
-    characters = set()
+#if '2' in cogid_data:
+    #for alignment in cogid_data['2']:
+        #print(f"{alignment}")
+        
+def get_states(cogid_data):
+    states = set()
     for alignments in cogid_data.values():
         for _, alignment in alignments:
-            characters.update(alignment)
-    return sorted(characters)
-
+            states.update(alignment)
+    return sorted(states)
 
 # Sankoff algorithm
 def sankoff_parsimony(tree, alignment, states):
+    """
+    This is the function for the ancestral state reconstruction implementing
+    Sankoff's algorithm for maximum parsimony.
+    """
+    # terminal leaves, internal nodes in the tree
+    # slots within the alignment
     state_costs = {}
-
+    
+    # Assign costs to leaves
     def unit_cost(i, j):
         return 0 if i == j else 1
 
@@ -69,32 +78,36 @@ def sankoff_parsimony(tree, alignment, states):
                 costs[s] = c1 + c2
         state_costs[node] = costs
     return state_costs
+    
+    # Compute costs bottom up
 
 # Run everything
-all_states = get_characters(cogid_data)
+
+all_states = get_states(cogid_data)
 
 for cogid, tree in trees.items():
     if cogid not in cogid_data:
-        #print(cogid)
         continue
-    alignments = cogid_data[cogid]
-    form_to_alignment = {form: aln for form, aln in alignments}
-
-    aln_len = len(next(iter(form_to_alignment.values())))
-
-    #print(f"\nCOGID: {cogid}")
-
-    for pos in range(aln_len):
-        # Alignment for current position
-        alignment_at_pos = {
-            form: aln[pos] for form, aln in form_to_alignment.items()
-        }
-
-        state_costs = sankoff_parsimony(tree, alignment_at_pos, all_states)
-
-        print(f" Position {pos}:")
-        for node in [n for n in tree.traverse() if not n.is_leaf()]:
-            node_label = node.name or f"Node_{id(node)}"
-            min_cost = min(state_costs[node].values())
-            best_states = [s for s in all_states if state_costs[node][s] == min_cost]
-            print(f"  {node_label}: {best_states}")
+        
+    leaf_to_alignment = {}
+    leaves = [leaf.name for leaf in tree.iter_leaves()]
+    alignment_pool = [(i, ''.join(aln), aln) for i, (_, aln) in enumerate(cogid_data[cogid])]
+    used_indices = set()
+    unmatched_leaves = []
+    
+    for leaf in tree.iter_leaves():
+        match_found = False
+        for idx, joined, alignment in alignment_pool:
+            for idx in used_indices:
+                continue
+            if joined == leaf.name:
+                leaf_to_alignment[leaf.name] = alignment
+                used_indices.add(idx)
+                match_found = True
+                break
+        if not match_found:
+            unmatched_leaves.append(leaf.name)
+            print(f"No match for leaf '{leaf.name}'")
+            
+    #if unmatched_leaves:
+        #print(f"COGID {cogid} - Unmatched leaves: {unmatched_leaves}")
