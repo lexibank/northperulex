@@ -49,37 +49,54 @@ def get_states(cogid_data):
     return sorted(states)
 
 # Sankoff algorithm
-def sankoff_parsimony(tree, alignment, states):
+def sankoff_parsimony(tree, leaf_to_alignment, states):
     """
     This is the function for the ancestral state reconstruction implementing
     Sankoff's algorithm for maximum parsimony.
     """
-    # terminal leaves, internal nodes in the tree
-    # slots within the alignment
+    
     state_costs = {}
     
     # Assign costs to leaves
     def unit_cost(i, j):
         return 0 if i == j else 1
-
-    for node in tree.traverse("postorder"):
-        costs = {}
-        if node.is_leaf():
-            observed = alignment.get(node.name, None)
-            for s in states:
-                costs[s] = 0 if s == observed else math.inf
-        else:
-            children = node.get_children()
-            c1_costs = state_costs[children[0]]
-            c2_costs = state_costs[children[1]]
-            for s in states:
-                c1 = min(unit_cost(s, j) + c1_costs[j] for j in states)
-                c2 = min(unit_cost(s, j) + c2_costs[j] for j in states)
-                costs[s] = c1 + c2
-        state_costs[node] = costs
-    return state_costs
     
-    # Compute costs bottom up
+    alignment_length = len(next(iter(leaf_to_alignment.values())))
+    reconstructions = []
+    
+    for pos in range(alignment_length):
+        position_states = {
+            name: alignment[pos]
+            for name, alignment in leaf_to_alignment.items()
+        }
+        
+        costs_per_node = {}
+
+        for node in tree.traverse("postorder"):
+            costs = {}
+            if node.is_leaf():
+                observed = position_states.get(node.name, None)
+                for s in states:
+                    costs[s] = 0 if s == observed else math.inf
+            else:
+                children = node.get_children()
+                c1_costs = state_costs[children[0]]
+                c2_costs = state_costs[children[1]]
+                for s in states:
+                    c1 = min(unit_cost(s, j) + c1_costs[j] for j in states)
+                    c2 = min(unit_cost(s, j) + c2_costs[j] for j in states)
+                    costs[s] = c1 + c2
+            costs_per_node[node] = costs
+    
+        # Compute costs bottom up
+        reconstruction = {}
+        for node in tree.traverse("postorder"):
+            best_state = min(costs_per_node[node], key=costs_per_node[node].get)
+            reconstruction[node.name] = best_state
+        
+        reconstructions.append(reconstruction)
+        
+    return reconstructions
 
 # Run everything
 
@@ -93,21 +110,20 @@ for cogid, tree in trees.items():
     leaves = [leaf.name for leaf in tree.iter_leaves()]
     alignment_pool = [(i, ''.join(aln), aln) for i, (_, aln) in enumerate(cogid_data[cogid])]
     used_indices = set()
-    unmatched_leaves = []
-    
     for leaf in tree.iter_leaves():
-        match_found = False
         for idx, joined, alignment in alignment_pool:
             for idx in used_indices:
                 continue
             if joined == leaf.name:
                 leaf_to_alignment[leaf.name] = alignment
                 used_indices.add(idx)
-                match_found = True
                 break
-        if not match_found:
-            unmatched_leaves.append(leaf.name)
-            print(f"No match for leaf '{leaf.name}'")
-            
-    #if unmatched_leaves:
-        #print(f"COGID {cogid} - Unmatched leaves: {unmatched_leaves}")
+                
+    if len(leaf_to_alignment) != len(leaves):
+        continue
+        
+    reconstructions = sankoff_parsimony(tree, leaf_to_alignment, all_states)
+    
+    root = tree.get_tree_root()
+    reconstructed_root_form = ''.join([recon[root.name] for recon in reconstructions])
+    print(f"🌳 COGID {cogid} - Reconstructed root: {reconstructed_root_form}")
