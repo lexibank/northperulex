@@ -36,10 +36,6 @@ for row in data[1:]:
     if cogid not in cogid_data:
         cogid_data[cogid] = []
     cogid_data[cogid].append((form, alignment))
-
-#if '2' in cogid_data:
-    #for alignment in cogid_data['2']:
-        #print(f"{alignment}")
         
 def get_states(cogid_data):
     states = set()
@@ -72,7 +68,10 @@ def sankoff_parsimony(tree, leaf_to_alignment, states):
     
     alignment_length = len(next(iter(leaf_to_alignment.values())))
     
+    # Run algorithm position by position
     for pos in range(alignment_length):
+        # The next line is because the alignments are not perfect yet
+        # Make sure all alignments have this position
         if any(len(alignment) <= pos for alignment in leaf_to_alignment.values()):
             continue
         
@@ -87,6 +86,7 @@ def sankoff_parsimony(tree, leaf_to_alignment, states):
         
         costs_per_node = {}
         
+        # Compute costs bottom-up
         for node in tree.traverse("postorder"):
             costs = {}
             if node.is_leaf():
@@ -102,7 +102,7 @@ def sankoff_parsimony(tree, leaf_to_alignment, states):
                     costs[s] = c1 + c2
             costs_per_node[node] = costs
     
-        # Compute costs bottom up
+        # Reconstruct best state at each node
         reconstruction = {}
         for node in tree.traverse("postorder"):
             best_state = min(costs_per_node[node], key=costs_per_node[node].get)
@@ -113,7 +113,6 @@ def sankoff_parsimony(tree, leaf_to_alignment, states):
     return reconstructions
 
 # Run everything
-
 all_states = get_states(cogid_data)
 
 for cogid, tree in trees.items():
