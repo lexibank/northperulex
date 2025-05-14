@@ -3,6 +3,9 @@ import os
 import math
 from ete3 import Tree
 
+output_dir = 'recons_trees'
+os.makedirs(output_dir, exist_ok=True)
+
 # Load trees
 tree_dir = 'trees'
 tree_files = [f for f in os.listdir(tree_dir) if f.endswith('.nwk')]
@@ -102,12 +105,20 @@ def sankoff_parsimony(tree, leaf_to_alignment, states):
                     costs[s] = c1 + c2
             costs_per_node[node] = costs
     
-        # Reconstruct best state at each node
+    
         reconstruction = {}
-        for node in tree.traverse("postorder"):
-            best_state = min(costs_per_node[node], key=costs_per_node[node].get)
-            reconstruction[node.name] = best_state
         
+        def backtrack(node, parent_state=None):
+            if parent_state is None:
+                state = min(costs_per_node[node], key=costs_per_node[node].get)
+            else:
+                possible = costs_per_node[node]
+                state = min(possible, key=lambda s: unit_cost(parent_state, s) + possible[s])
+            reconstruction[node.name] = state
+            for child in node.children:
+                backtrack(child, state)
+            
+        backtrack(tree.get_tree_root())
         reconstructions.append(reconstruction)
         
     return reconstructions
@@ -141,3 +152,19 @@ for cogid, tree in trees.items():
     root = tree.get_tree_root()
     reconstructed_root_form = ''.join([recon[root.name] for recon in reconstructions])
     print(f"COGID {cogid} - Reconstructed root: {reconstructed_root_form}")
+    
+    # Assign reconstructions to internal nodes
+    for i, recon in enumerate(reconstructions):
+        for node in tree.traverse("postorder"):
+            if not node.is_leaf():
+                if not hasattr(node, "reconstructed"):
+                    node.reconstructed = []
+                node.reconstructed.append(recon.get(node.name, '-'))
+                
+    for node in tree.traverse("postorder"):
+        if not node.is_leaf() and hasattr(node, "reconstructed"):
+            node.name = ''.join(node.reconstructed)
+            
+    # Export reconstructed trees
+    tree_file_path = os.path.join(output_dir, f"reconstructed_cogid{cogid}.nwk")
+    tree.write(outfile=tree_file_path, format=1)
