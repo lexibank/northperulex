@@ -1,5 +1,5 @@
 """
-This scripts filters languages with at least 95 words
+This script filters languages with at least 95 words
 for the purpose of phylogenetic analysis
 """
 
