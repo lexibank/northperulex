@@ -75,7 +75,7 @@ cop_wl = LexStat(cop)
 cop_wl.get_scorer(runs=10000)
 cop_wl.cluster(threshold=0.55, method="lexstat", cluster_method="infomap", ref="cogids")
 
-cop_wl.output('tsv', filename='npl_copped', ignore='all')
+cop_wl.output('tsv', filename='np_copped', ignore='all')
 
 # Collecting necessary data
 distances = []
