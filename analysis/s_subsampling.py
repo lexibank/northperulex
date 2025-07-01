@@ -1,5 +1,5 @@
 """
-This script filters languages with at least 95 words
+This script filters languages with at least 130 words
 for the purpose of phylogenetic analysis
 """
 
@@ -9,7 +9,7 @@ from tabulate import tabulate
 wl = Wordlist("npl.tsv")
 coverage = wl.coverage()
 
-selected_ls = {lang for lang, count in coverage.items() if count >= 95
+selected_ls = {lang for lang, count in coverage.items() if count >= 130
                and lang != "Proto-Bora-Muinane"}
 
 print(tabulate([(lang, coverage[lang]) for lang in sorted(selected_ls)],
