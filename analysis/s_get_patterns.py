@@ -1,4 +1,6 @@
 from lingpy import *
+import os
+import re
 from lingrex.util import add_structure
 from lingrex.copar import CoPaR, consensus_pattern
 from collections import defaultdict
@@ -11,6 +13,10 @@ from pylotree import Tree
 from pyloparsimony.util import matrix_from_chars
 import copy
 from pyloparsimony import up, down
+
+output_directory = 'CP_trees'
+if not os.path.exists(output_directory):
+    os.makedirs(output_directory)
 
 def compute_matrix(symbols):
     """This function computes the similarity matrix for each correspondence pattern
@@ -28,7 +34,7 @@ def compute_matrix(symbols):
                     0.33 * bigram_distance +
                     0.33 * trigram_distance
             )
-            matrix[i, j] = 1 - combined_distance # similarity
+            matrix[i, j] = combined_distance
             
     return filtered, matrix
     
@@ -69,8 +75,15 @@ for key, values in consensus_patterns.items():
     filtered, matrix = compute_matrix(values)
     headers = [""] + filtered
     table = [[filtered[i]] + [f"{val:.2f}" for val in matrix[i]] for i in range(len(filtered))]
-    print(f"\nCOGID={key[0]} | SLOT={key[1]}:")
-    print(tabulate(table, headers=headers, tablefmt="plain"))
+    #print(f"\nCOGID={key[0]} | SLOT={key[1]}:")
+    #print(tabulate(table, headers=headers, tablefmt="plain"))
     
-#
+    # Build trees
+    taxa = filtered
+    dist_matrix = matrix.tolist()
+    nwk_tree = neighbor(dist_matrix, taxa)
+    print("Tree:", nwk_tree)
     
+    output_filename = os.path.join(output_directory, f"tree_cogid{key[0]}_slot{key[1]}.nwk")
+    with open(output_filename, "w") as f:
+        f.write(nwk_tree)
