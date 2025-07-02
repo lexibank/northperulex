@@ -4,12 +4,10 @@ from lingrex.util import add_structure
 from lingrex.copar import CoPaR, consensus_pattern
 from collections import defaultdict
 from lingpy.compare.strings import ldn_swap, bidist2, tridist2
-from tabulate import tabulate
 from lingpy.algorithm.clustering import neighbor
 from lingpy.thirdparty.cogent.newick import parse_string
 import numpy as np
-from pylotree import Tree
-from pyloparsimony.util import matrix_from_chars
+from pylotree import Tree, NodeLabels
 import copy
 from pyloparsimony import up, down
 
@@ -96,13 +94,14 @@ for key, values in consensus_patterns.items():
     ]
 
     dist_matrix = matrix.tolist()
-    try:
-        nwk_tree = neighbor(dist_matrix, taxa)
-    except ValueError as e:
-        continue
+    nwk_tree = neighbor(dist_matrix, taxa)
+    
+        
+    parsed_tree = Tree(nwk_tree, name=f"{key[0]}_{key[1]}")
+    labeled_tree = parsed_tree.newick
 
     output_filename = os.path.join(
         output_directory, f"tree_cogid{key[0]}_slot{key[1]}.nwk"
     )
     with open(output_filename, "w") as f:
-        f.write(nwk_tree)
+        f.write(labeled_tree)
