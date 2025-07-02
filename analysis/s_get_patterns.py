@@ -1,6 +1,5 @@
 from lingpy import *
 import os
-import re
 from lingrex.util import add_structure
 from lingrex.copar import CoPaR, consensus_pattern
 from collections import defaultdict
@@ -52,38 +51,58 @@ cop.sites_to_pattern()
 cop.add_patterns()
 cop.write_patterns("npl-patterns.tsv")
 
-#print(cop.patterns.items())
-
 # Get consensus patterns
 pattern_dict = defaultdict(list)
 for key, pattern_list in cop.patterns.items():
     for pattern in pattern_list:
-        pattern_dict[key].append(pattern[2])
+        sounds = pattern[2]
+        for doculect, sound in zip(cop.cols, sounds):
+            pattern_dict[key].append((doculect, sounds))
         
 consensus_patterns = {}
-for key, patterns in pattern_dict.items():
+doculect_sounds_mappings = {}
+for key, docusound_list in pattern_dict.items():
+    sounds = [s for _, s in docusound_list]
+    doculects = [d for d, _ in docusound_list]
     try:
-        consensus = consensus_pattern(patterns, missing="Ø")
+        consensus = consensus_pattern(sounds, missing="Ø")
         consensus_patterns[key] = consensus
+        doculect_sounds_mappings[key] = [
+            f"{doc}_{sound}" for doc, sound in zip(doculects, sounds) if sound != "Ø"
+        ]
     except ValueError:
-        print(f"Incompatible patterns at {key}")
+        print(f"Incompatible patterns: {key}")
         
-#print(consensus_patterns.items())
 
 # Getting the similarity matrices
 for key, values in consensus_patterns.items():
-    filtered, matrix = compute_matrix(values)
-    headers = [""] + filtered
-    table = [[filtered[i]] + [f"{val:.2f}" for val in matrix[i]] for i in range(len(filtered))]
-    #print(f"\nCOGID={key[0]} | SLOT={key[1]}:")
-    #print(tabulate(table, headers=headers, tablefmt="plain"))
-    
-    # Build trees
-    taxa = filtered
+    doc_sound_pairs = [
+        (doc, sound) for doc, sound in zip(cop.cols, values) if sound != "Ø"
+    ]
+    if len(doc_sound_pairs) < 2:
+        continue
+    taxa = [f"{doc}_{sound}" for doc, sound in doc_sound_pairs]
+    sounds = [sound for _, sound in doc_sound_pairs]
+
+    filtered_sounds, matrix = compute_matrix(sounds)
+
+    if len(filtered_sounds) != len(taxa) or matrix.shape[0] != len(taxa):
+        continue
+
+    headers = [""] + taxa
+    table = [
+        [taxa[i]] + [f"{val:.2f}" for val in matrix[i]]
+        for i in range(len(taxa))
+    ]
+
     dist_matrix = matrix.tolist()
-    nwk_tree = neighbor(dist_matrix, taxa)
-    print("Tree:", nwk_tree)
-    
-    output_filename = os.path.join(output_directory, f"tree_cogid{key[0]}_slot{key[1]}.nwk")
+    try:
+        nwk_tree = neighbor(dist_matrix, taxa)
+    except ValueError as e:
+        continue
+
+    output_filename = os.path.join(
+        output_directory, f"tree_cogid{key[0]}_slot{key[1]}.nwk"
+    )
     with open(output_filename, "w") as f:
         f.write(nwk_tree)
