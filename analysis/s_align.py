@@ -57,19 +57,3 @@ alms.add_entries("alignment", "tokens", lambda x: " ".join([y for y in x]), over
 alms.add_entries("structure", "tokens", lambda x: tokens2class(x, "cv"))
 
 alms.output("tsv", filename="npl")
-
-# Infer sound correspondances
-cop = CoPaR(alms, transcription="form", ref="cogid")
-cop.get_sites()
-cop.cluster_sites()
-cop.sites_to_pattern()
-#cop.add_patterns()
-# Write patterns
-#cop.write_patterns('np_patterns.tsv')
-
-# Run AutoCogid
-cop_wl = LexStat(cop)
-cop_wl.get_scorer(runs=10000)
-cop_wl.cluster(threshold=0.55, method="lexstat", cluster_method="infomap", ref="cogid")
-
-cop_wl.output('tsv', filename='npl-copped', ignore='all')
