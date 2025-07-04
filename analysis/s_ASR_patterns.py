@@ -5,11 +5,11 @@ from lingrex.copar import CoPaR, consensus_pattern
 from collections import defaultdict
 from lingpy.compare.strings import ldn_swap, bidist2, tridist2
 from lingpy.algorithm.clustering import neighbor
-from lingpy.thirdparty.cogent.newick import parse_string
 import numpy as np
 from pylotree import Tree, NodeLabels
-import copy
-from pyloparsimony import up, down
+from pyloparsimony import up, down, parsimony
+from pyloparsimony.util import scenario_ascii_art
+import newick
 
 output_directory = 'CP_trees'
 if not os.path.exists(output_directory):
@@ -71,8 +71,8 @@ for key, docusound_list in pattern_dict.items():
     except ValueError:
         print(f"Incompatible patterns: {key}")
         
-
-# Getting the similarity matrices
+# Build trees
+# Get the distance matrices
 for key, values in consensus_patterns.items():
     doc_sound_pairs = [
         (doc, sound) for doc, sound in zip(cop.cols, values) if sound != "Ø"
@@ -94,14 +94,64 @@ for key, values in consensus_patterns.items():
     ]
 
     dist_matrix = matrix.tolist()
-    nwk_tree = neighbor(dist_matrix, taxa)
     
-        
+    # Apply NJ for trees construction
+    nwk_tree = neighbor(dist_matrix, taxa)
+    parsed_newick = newick.loads(nwk_tree)
+    # Handling trees
     parsed_tree = Tree(nwk_tree, name=f"{key[0]}_{key[1]}")
     labeled_tree = parsed_tree.newick
-
+    
+    # Output tree
     output_filename = os.path.join(
         output_directory, f"tree_cogid{key[0]}_slot{key[1]}.nwk"
     )
     with open(output_filename, "w") as f:
         f.write(labeled_tree)
+    
+    # Maximum Parsimony algorithm for ancestral state reconstruction
+    pattern = {
+        f"{doc}_{sound}": [sound]
+        for doc, sound in doc_sound_pairs
+    }
+    characterlist = sorted(set([sound for _, sound in doc_sound_pairs]))
+    #print(characterlist)
+        
+    matrix_dict = {
+        (i, j): matrix[i][j]
+        for i in range(len(filtered_sounds))
+        for j in range(len(filtered_sounds))
+    }
+    sound_index = {sound: i for i, sound in enumerate(filtered_sounds)}
+    penalty_matrix = []
+    for c1 in characterlist:
+        row = []
+        for c2 in characterlist:
+            if c1 == c2:
+                cost = 0.0
+            elif c1 == '-':
+                cost = 2.0  # Gain is more costly
+            elif c2 == '-':
+                cost = 1.0  # Loss is less costly
+            else:
+                cost = 1.0  # Substitution
+            row.append(cost)
+        penalty_matrix.append(row)
+        
+    # Computer costs UP and DOWN the tree
+    W = up(
+        parsed_tree,
+        characterlist,
+        penalty_matrix,
+        pattern
+    )
+    scenarios = down(
+        parsed_tree,
+        characterlist,
+        penalty_matrix,
+        W
+    )
+    
+    best = scenarios[0]
+    tree_art = scenario_ascii_art(best, parsed_tree)
+    print(tree_art)
