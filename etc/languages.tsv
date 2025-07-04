@@ -1,36 +1,36 @@
-ID	Name	Glottocode	SubGroup	Source	Comment
-Canichana	Canichana	cani1243	Isolate	Crevels2012
-AchuarShiwiar	Achuar	achu1248	Chicham	Fast2008	https://repositorio.cultura.gob.pe/handle/CULTURA/425
-Urarina	Urarina	urar1246	Isolate	Peña2023
-Wampis	Huambisa	huam1247	Chicham	Peña2023
-Andoa	Andoa	ando1255	Zaparoan	Michael2009	http://www.cabeceras.org/anb_katsakati_jun2009.pdf
-Zaparo	Záparo	zapa1253	Zaparoan	Beier2014	https://escholarship.org/uc/item/7s53t246
-Iquito	Iquito	iqui1243	Zaparoan	Michael2022
-Shuar	Shuar	shua1257	Chicham	Pellizzaro2005
-Yagua	Yagua	yagu1244	Peba-Yagua	Gonzales2023
-Shiwilu	Jebero	jebe1250	Cahuapanan	Valenzuela2012
-Omurano	Omurano	omur1241	Isolate	Tessmann1930	de Carvalho and O'Hagan for context
-Tequiraca	Tequiraca	abis1238	Isolate	Tessmann1930	Beier & Michael for comments
-Chibito	Hibito-Cholon	hibi1242	Isolate	Tessmann1930
-Yameo	Yameo	yame1242	Peba-Yagua	Tessmann1930
-Aguaruna	Aguaruna	agua1253	Chicham	Johansson2021
-Waorani	Sabela	waor1240	Isolate	Johansson2021	link to Yaruro?
-Arabela	Arabela	arab1268	Zaparoan	Johansson2021	check tokenization
-Candoshi-Shapra	Candoshi-Shapra	cand1248	Isolate	Johansson2021	Jivaroan? Arawak?
-Muniche	Muniche	muni1258	Isolate	Johansson2021
-Taushiro	Taushiro	taus1253	Isolate	Johansson2021	read O'Hagan
-Chayahuita	Shawi	chay1248	Cahuapanan	Johansson2021
-Bora	Bora	bora1263	Boran	Seifart2024
-Muinane	Muinane	muin1242	Boran	Seifart2024
-Proto-Bora-Muinane	Proto-Bora-Muinane		Boran	Seifart2024
-Ocaina	Ocaina	ocai1244	Huitotoan	Huber2021
-WitotoMinica	Minica Huitoto	mini1256	Huitotoan	Huber2021
-WitotoMurui	Murui Huitoto	muru1274	Huitotoan	Huber2021
-WitotoNipode	Nüpode Huitoto	nupo1240	Huitotoan	Huber2021
-Ticuna	Ticuna	ticu1245	Ticuna-Yuri	Bertet2020
-Juri	Juri	juri1235	Ticuna-Yuri	Martius1867
-Yanesha	Yanesha'	yane1238	Arawakan	Peña2024
-Resigaro	Resígaro	resi1247	Arawakan	Huber2021
-Coeruna	Coeruna	coer1236	Huitotoan	Martius1867
-MiranhaCarapana-Tapuya	Andoquero	ando1254	Huitotoan	Martius1867
-Pebas	Peba	peba1243	Peba-Yagua	Martius1867
+ID	Name	Glottocode	SubGroup	Reviewer	Source	Comment
+Yanesha	Yanesha'	yane1238	Arawakan	Adriano	Peña2024	
+Resigaro	Resígaro	resi1247	Arawakan	Adriano	Huber2021	
+Bora	Bora	bora1263	Boran	Carlos	Seifart2024	
+Muinane	Muinane	muin1242	Boran	Carlos	Seifart2024	
+Proto-Bora-Muinane	Proto-Bora-Muinane		Boran	Carlos	Seifart2024	
+Shiwilu	Jebero	jebe1250	Cahuapanan	Frederic	Valenzuela2012	
+Chayahuita	Shawi	chay1248	Cahuapanan	Frederic	Johansson2021	
+AchuarShiwiar	Achuar	achu1248	Chicham	Jaime	Fast2008	https://repositorio.cultura.gob.pe/handle/CULTURA/425
+Wampis	Huambisa	huam1247	Chicham	Jaime	Peña2023	
+Shuar	Shuar	shua1257	Chicham	Jaime	Pellizzaro2005	
+Aguaruna	Aguaruna	agua1253	Chicham	Jaime	Johansson2021	
+Ocaina	Ocaina	ocai1244	Huitotoan	Carlos	Huber2021	
+WitotoMinica	Minica Huitoto	mini1256	Huitotoan	Carlos	Huber2021	
+WitotoMurui	Murui Huitoto	muru1274	Huitotoan	Carlos	Huber2021	
+WitotoNipode	Nüpode Huitoto	nupo1240	Huitotoan	Carlos	Huber2021	
+Coeruna	Coeruna	coer1236	Huitotoan	Carlos	Martius1867	
+MiranhaCarapana-Tapuya	Andoquero	ando1254	Huitotoan	Carlos	Martius1867	
+Canichana	Canichana	cani1243	Isolate		Crevels2012	
+Urarina	Urarina	urar1246	Isolate	Frederic	Peña2023	
+Omurano	Omurano	omur1241	Isolate		Tessmann1930	de Carvalho and O'Hagan for context
+Tequiraca	Tequiraca	abis1238	Isolate		Tessmann1930	Beier & Michael for comments
+Chibito	Hibito-Cholon	hibi1242	Isolate		Tessmann1930	
+Waorani	Sabela	waor1240	Isolate		Johansson2021	link to Yaruro?
+Candoshi-Shapra	Candoshi-Shapra	cand1248	Isolate	Jaime	Johansson2021	Jivaroan? Arawak?
+Muniche	Muniche	muni1258	Isolate	Rosa, Jaime	Johansson2021	
+Taushiro	Taushiro	taus1253	Isolate	Jaime	Johansson2021	read O'Hagan
+Yagua	Yagua	yagu1244	Peba-Yagua	Rosa	Gonzales2023	
+Yameo	Yameo	yame1242	Peba-Yagua	Rosa	Tessmann1930	
+Pebas	Peba	peba1243	Peba-Yagua	Rosa	Martius1867	
+Ticuna	Ticuna	ticu1245	Ticuna-Yuri	Adriano	Bertet2020	
+Juri	Juri	juri1235	Ticuna-Yuri	Adriano	Martius1867	
+Andoa	Andoa	ando1255	Zaparoan	Frederic	Michael2009	http://www.cabeceras.org/anb_katsakati_jun2009.pdf
+Zaparo	Záparo	zapa1253	Zaparoan	Frederic	Beier2014	https://escholarship.org/uc/item/7s53t246
+Iquito	Iquito	iqui1243	Zaparoan	Frederic	Michael2022	
+Arabela	Arabela	arab1268	Zaparoan	Frederic	Johansson2021	check tokenization
