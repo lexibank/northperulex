@@ -117,8 +117,8 @@ analysis/npl-aligned.tsv
 analysis/npl-copped.tsv
 analysis/npl-filtered.tsv
 analysis/npl-patterns.tsv
-analysis/CP_trees
+analysis/CP_trees/
 analysis/pyloparsimony
 analysis/pylostatistics
 analysis/pylotree
-edictor-remote/scripts/*
+eictor-remote/scripts/*
