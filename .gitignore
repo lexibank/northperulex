@@ -112,3 +112,12 @@ cldf-data/seifartecheverriboran/
 cldf-data/concepticon-data/
 cldf-data/lexibank-analysed/
 cldf-data/seifartecheverriboran/
+analysis/npl.tsv
+analysis/npl-aligned.tsv
+analysis/npl-copped.tsv
+analysis/npl-filtered.tsv
+analysis/npl-patterns.tsv
+analysis/CP_trees
+analysis/pyloparsimony
+analysis/pylostatistics
+analysis/pylotree
