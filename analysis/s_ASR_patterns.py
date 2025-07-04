@@ -37,7 +37,7 @@ def compute_matrix(symbols):
     
 
 # Get the patterns
-alms = Alignments("npl_filtered.tsv", ref="cogids", transcription="form")
+alms = Alignments("npl-filtered.tsv", ref="cogids", transcription="form")
 alms.align()
 add_structure(alms, model="cv")
 alms.output('tsv', filename="npl-aligned", ignore="all", prettify=False)
