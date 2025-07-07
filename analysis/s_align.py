@@ -1,9 +1,8 @@
 from lingpy import Wordlist, LexStat, Alignments
 import re
 from lingpy.compare.partial import Partial
-from lingrex.copar import CoPaR
 from lingpy.sequence.sound_classes import tokens2class
-
+from lingpy.compare.sanity import mutual_coverage_subset
 
 def clean_slash(x):
 	"""Cleans slash annotation from EDICTOR."""
@@ -39,9 +38,31 @@ wl = Wordlist.from_cldf(
 # Deleting unnecessary tokens with clean_slash
 for idx in wl:
 	wl[idx, "tokens"] = [x.split("/")[1] if "/" in x else x for x in wl[idx, "tokens"]]
-	
+
+number_of_languages, pairs = mutual_coverage_subset(wl, 100)
+for number_of_items, languages in pairs:
+	print(number_of_items, ', '.join(languages))
+
+selected_ls = set().union(*(langs for _, langs in pairs))
+
+selected_ls.discard("Proto-Bora-Muinane")
+
+D = {0: [c for c in wl.columns]}
+for idx in wl:
+	if (
+			wl[idx, "doculect"] in selected_ls
+	):
+		D[idx] = [wl[idx, c] for c in D[0]]
+
+wl_filtered = Wordlist(D)
+
+#wl_filtered.output(
+#	"tsv",
+#	filename="npl-filtered"
+#)
+
 # Run AutoCogid
-lex = LexStat(wl)
+lex = LexStat(wl_filtered)
 lex.get_scorer(runs=10000)
 lex.cluster(threshold=0.55, method="lexstat", cluster_method="infomap", ref="cogid")
 
