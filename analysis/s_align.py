@@ -35,10 +35,11 @@ wl = Wordlist.from_cldf(
 		("cognacy", "cogid")
 	))
 
-# Deleting unnecessary tokens with clean_slash
+# Delete unnecessary tokens with clean_slash
 for idx in wl:
 	wl[idx, "tokens"] = [x.split("/")[1] if "/" in x else x for x in wl[idx, "tokens"]]
 
+# Checking mutual coverage in the language sample and select subset of languages
 number_of_languages, pairs = mutual_coverage_subset(wl, 100)
 for number_of_items, languages in pairs:
 	print(number_of_items, ', '.join(languages))
