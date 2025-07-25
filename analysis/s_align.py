@@ -10,6 +10,7 @@ from lingpy.sequence.sound_classes import tokens2class
 from lingpy.compare.sanity import mutual_coverage_subset
 from lingrex.copar import CoPaR
 
+
 def clean_slash(x):
 	"""Cleans slash annotation from EDICTOR."""
 	cleaned = []

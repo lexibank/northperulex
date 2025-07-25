@@ -16,10 +16,6 @@ import newick
 output_directory = 'CP_trees'
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
-    
-output_matrices = 'presence_absence_matrices'
-os.makedirs(output_matrices, exist_ok=True)
-
 
 # Get the patterns
 alms = Alignments("npl.tsv", ref="cogids", transcription="form")
@@ -54,5 +50,4 @@ for (cogid, slot), site_list in valid_patterns.items():
         consensus = tuple(consensus)
     
     consensus_patterns[(cogid, slot)] = consensus
-        
-    
+
