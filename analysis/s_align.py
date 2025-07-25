@@ -1,8 +1,14 @@
+"""
+This script
+"""
+
 from lingpy import Wordlist, LexStat, Alignments
 import re
 from lingpy.compare.partial import Partial
+from lingpy.convert.strings import write_nexus
 from lingpy.sequence.sound_classes import tokens2class
 from lingpy.compare.sanity import mutual_coverage_subset
+from lingrex.copar import CoPaR
 
 def clean_slash(x):
 	"""Cleans slash annotation from EDICTOR."""
@@ -79,3 +85,20 @@ alms.add_entries("alignment", "tokens", lambda x: " ".join([y for y in x]), over
 alms.add_entries("structure", "tokens", lambda x: tokens2class(x, "cv"))
 
 alms.output("tsv", filename="npl")
+
+# Get patterns
+cop = CoPaR("npl-aligned.tsv", min_refs=5, ref='cogids', transcription="form")
+cop.get_sites()
+cop.cluster_sites()
+cop.sites_to_pattern()
+cop.add_patterns()
+cop.write_patterns("npl-patterns.tsv")
+
+# Write Nexus file
+write_nexus(
+	cop,
+	mode='mrbayes',
+	filename='npl.nex',
+	missing='?',
+	gap='-',
+)
