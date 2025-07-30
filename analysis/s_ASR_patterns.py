@@ -8,7 +8,7 @@ from collections import defaultdict
 from lingpy.algorithm.clustering import neighbor
 from lingpy.basic.tree import random_tree
 import numpy as np
-from pylotree import Tree, NodeLabels
+from commonnexus import Nexus
 from pyloparsimony import up, down, parsimony
 from pyloparsimony.util import scenario_ascii_art
 import newick
@@ -50,4 +50,3 @@ for (cogid, slot), site_list in valid_patterns.items():
         consensus = tuple(consensus)
     
     consensus_patterns[(cogid, slot)] = consensus
-
