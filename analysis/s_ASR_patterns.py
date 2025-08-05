@@ -65,6 +65,9 @@ leaves = [leaf.name for leaf in tree.root.walk() if leaf.is_leaf]
 for (cogid, slot), pattern in consensus_patterns.items():
     characterlist = sorted(set(pattern.values()))
     print(f"Running Sankoff on {(cogid, slot)}")
+    print(characterlist)
+    print(leaves)
+    print(list(pattern.keys()))
     
     # Define penalty matrix
     penalty_matrix = []
