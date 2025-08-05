@@ -1,5 +1,7 @@
 """
-This script
+This script aligns and clusters a subset of the data to
+output it in a Nexus file for the purpose of phylogenetic
+analysis
 """
 
 from lingpy import Wordlist, LexStat, Alignments
