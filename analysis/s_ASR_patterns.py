@@ -55,4 +55,47 @@ for (cogid, slot), site_list in valid_patterns.items():
             consensus.append(Counter(no_gaps).most_common(1)[0][0] if no_gaps else "Ø")
         consensus = tuple(consensus)
     
-    consensus_patterns[(cogid, slot)] = consensus
+    consensus_patterns[(cogid, slot)] = {
+        doculect: char for doculect, char in zip(cop.cols, consensus)
+    }
+    
+leaves = [leaf.name for leaf in tree.root.walk() if leaf.is_leaf]
+
+# Compute costs UP and DOWN the tree for each pattern
+for (cogid, slot), pattern in consensus_patterns.items():
+    characterlist = sorted(set(pattern.values()))
+    print(f"Running Sankoff on {(cogid, slot)}")
+    
+    # Define penalty matrix
+    penalty_matrix = []
+    for c1 in characterlist:
+        row = []
+        for c2 in characterlist:
+            if c1 == c2:
+                cost = 0.0
+            elif c1 == '-':
+                cost = 2.0  # Gain is more costly
+            elif c2 == '-':
+                cost = 1.0  # Loss is less costly
+            else:
+                cost = 1.0  # Substitution
+            row.append(cost)
+        penalty_matrix.append(row)
+        
+    W = up(
+        tree,
+        characterlist,
+        penalty_matrix,
+        pattern
+    )
+    
+    scenarios = down(
+        tree,
+        characterlist,
+        penalty_matrix,
+        W
+    )
+    
+    best = scenarios[0]
+    tree_art = scenario_ascii_art(best, tree)
+    print(tree_art)
