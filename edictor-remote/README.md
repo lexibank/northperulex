@@ -10,4 +10,4 @@ Once you have installed EDICTOR3, simply run the `edictor server` command within
 
 ## Creating the SQLite for Upload
 
-`edictor wordlist --name=northperulex --preprocessing=edictor-remote/to_edictor.py --sqlite --addon="language_subgroup:subgroup"`
+`edictor wordlist --name=northperulex --sqlite --addon="language_subgroup:subgroup","source:source","alignment:alignment","groupedsound:segments","cognacy:cogid","partial_cognacy:cogids"`

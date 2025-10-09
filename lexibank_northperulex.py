@@ -21,6 +21,7 @@ def unmerge(sequence):
 class CustomLanguage(Language):
     SubGroup = attr.ib(default=None)
 
+
 @attr.s
 class CustomLexeme(Lexeme):
     """Adding new columns to Lexeme."""
@@ -28,6 +29,8 @@ class CustomLexeme(Lexeme):
     Partial_Cognacy = attr.ib(default=None)
     Borrowing = attr.ib(default=None)
     Morphemes = attr.ib(default=None)
+    GroupedSounds = attr.ib(default=None)
+
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
@@ -55,7 +58,8 @@ class Dataset(BaseDataset):
                         "ALIGNMENT",
                         "MORPHEMES",
                         "BORROWING",
-                        "NOTE"
+                        "NOTE",
+                        "SOURCE"
                     ],
                     base_url='http://lingulist.de/pth/',
                     script_url='get_data.py'
@@ -82,7 +86,6 @@ class Dataset(BaseDataset):
 
         # add languages
         languages = {}
-        sources = defaultdict()
         for language in self.languages:
             args.writer.add_language(
                     ID=language["ID"],
@@ -91,7 +94,7 @@ class Dataset(BaseDataset):
                     SubGroup=language["SubGroup"]
                     )
             languages[language["ID"]] = language["Name"]
-            sources[language["ID"]] = language["Source"]
+
         args.log.info("added languages")
 
         errors = set()
@@ -130,7 +133,8 @@ class Dataset(BaseDataset):
             alignment,
             morphemes,
             borrowing,
-            note
+            note,
+            source
         ) in pb(
             wl.iter_rows(
                 "doculect",
@@ -143,7 +147,8 @@ class Dataset(BaseDataset):
                 "alignment",
                 "morphemes",
                 "borrowing",
-                "note"
+                "note",
+                "source"
             ),
             desc="cldfify"
         ):
@@ -159,7 +164,8 @@ class Dataset(BaseDataset):
                     Parameter_ID=concepts[concept],
                     Language_ID=language,
                     Form=form,
-                    Segments=tokens,
+                    Segments=unmerge(tokens),
+                    GroupedSounds=tokens,
                     Value=value.strip(),
                     Cognacy=cogid,
                     Partial_Cognacy=" ".join([str(x) for x in cogids]),
@@ -167,7 +173,7 @@ class Dataset(BaseDataset):
                     Morphemes=" ".join(morphemes),
                     Comment=note,
                     Borrowing=borrowing,
-                    Source=sources[language]
+                    Source=source
                 )
 
                 args.writer.add_cognate(
