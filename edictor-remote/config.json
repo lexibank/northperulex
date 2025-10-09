@@ -6,7 +6,7 @@
         "data": {
           "file": "northperulex",
           "remote_dbase": "northperulex",
-          "columns": "DOCULECT|CONCEPT|VALUE|FORM|TOKENS|COGID|COGIDS|ALIGNMENT|PATTERNS|MORPHEMES|SUBGROUP|NOTE"
+          "columns": "DOCULECT|CONCEPT|VALUE|FORM|TOKENS|COGID|COGIDS|ALIGNMENT|PATTERNS|MORPHEMES|SUBGROUP|NOTE|SOURCE"
         }
       },
       "update.py": {

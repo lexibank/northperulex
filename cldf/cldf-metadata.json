@@ -17,13 +17,13 @@
         {
             "rdf:about": "https://github.com/lexibank/northperulex",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-50-gf71782e",
+            "dc:created": "v0.2-51-g6f53698",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.1",
+            "dc:created": "v5.2.1",
             "dc:title": "Glottolog"
         },
         {
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.13.3"
+            "dc:description": "3.13.7"
         },
         {
             "dc:title": "python-packages",
@@ -144,6 +144,10 @@
                     {
                         "datatype": "string",
                         "name": "Morphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "GroupedSounds"
                     }
                 ],
                 "foreignKeys": [
