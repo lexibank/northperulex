@@ -74,4 +74,13 @@ table = tabulate(
 )
 
 print(table)
-	
+
+avg_coverage = round(covs_total / len(lang_count), 2)
+avg_mutualcov = average_coverage(wl)
+
+print(f"Average coverage: {avg_coverage}%")
+print(f"Average mutual coverage: {avg_mutualcov:2f}")
+
+for i in range(total_concepts, 0, -1):
+	if mutual_coverage(wl, i):
+		print(f"Minimal mutual coverage: {i} concept pairs")
