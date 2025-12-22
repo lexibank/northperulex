@@ -28,36 +28,30 @@ work in progress
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 97%](https://img.shields.io/badge/BIPA-97%25-green.svg "BIPA: 97%")
-![CLTS SoundClass: 97%](https://img.shields.io/badge/CLTS%20SoundClass-97%25-green.svg "CLTS SoundClass: 97%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 35 (linked to 35 different Glottocodes)
 - **Concepts:** 200 (linked to 200 different Concepticon concept sets)
 - **Lexemes:** 4,986
 - **Sources:** 21
 - **Synonymy:** 1.12
-- **Cognacy:** 4,986 cognates in 3,661 cognate sets (2,906 singletons)
+- **Cognacy:** 4,986 cognates in 3,660 cognate sets (2,905 singletons)
 - **Cognate Diversity:** 0.72
 - **Invalid lexemes:** 0
-- **Tokens:** 29,551
-- **Segments:** 184 (5 BIPA errors, 5 CLTS sound class errors, 179 CLTS modified)
-- **Inventory size (avg):** 29.94
-
-## Possible Improvements:
-
-
-
-- Entries missing sources: 5/4986 (0.10%)
+- **Tokens:** 29,552
+- **Segments:** 178 (0 BIPA errors, 0 CLTS sound class errors, 178 CLTS modified)
+- **Inventory size (avg):** 29.83
 
 # Contributors
 
-Name | GitHub user    | Description                                     | Role
---- |----------------|-------------------------------------------------| ---
-Carlos Ugarte | @MuffinLinwist | Data collector, CLDF conversion and annotation  | Author, Editor
-Frederic Blum | @FredericBlum  | CLDF conversion and annotation | Author, Editor
-Adriano Ingunza | @BadBatched    | Data collector and annotation                   | Author
-Rosa Gonzales | @rosalgm              | Data collector and annotation                   | Author
-Jaime Peña | @JaimePenat    | Data collector and annotation                   | Author
+Name | GitHub user   | Description                                     | Role
+--- |---------------|-------------------------------------------------| ---
+Carlos Ugarte | @CMUgarte     | Data collector, CLDF conversion and annotation  | Author, Editor
+Frederic Blum | @FredericBlum | CLDF conversion and annotation | Author, Editor
+Adriano Ingunza | @BadBatched   | Data collector and annotation                   | Author
+Rosa Gonzales | @rosalgm      | Data collector and annotation                   | Author
+Jaime Peña | @JaimePenat   | Data collector and annotation                   | Author
 
 
 

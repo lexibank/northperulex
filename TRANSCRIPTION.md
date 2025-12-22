@@ -5,21 +5,21 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 4409 | ✓ | ✓ |
-| i | 2562 | ✓ | ✓ |
+| a | 4412 | ✓ | ✓ |
+| i | 2565 | ✓ | ✓ |
 | n | 2045 | ✓ | ✓ |
 | + | 1950 | ✓ | ✓ |
 | o | 1477 | ✓ | ✓ |
 | u | 1456 | ✓ | ✓ |
 | e | 1425 | ✓ | ✓ |
-| k | 1356 | ✓ | ✓ |
-| t | 1135 | ✓ | ✓ |
+| k | 1354 | ✓ | ✓ |
+| t | 1134 | ✓ | ✓ |
 | m | 1032 | ✓ | ✓ |
 | h | 883 | ✓ | ✓ |
 | ʔ | 799 | ✓ | ✓ |
 | ɨ | 792 | ✓ | ✓ |
 | p | 651 | ✓ | ✓ |
-| ɯ | 512 | ✓ | ✓ |
+| ɯ | 513 | ✓ | ✓ |
 | s | 503 | ✓ | ✓ |
 | d | 490 | ✓ | ✓ |
 | ɾ | 442 | ✓ | ✓ |
@@ -39,7 +39,7 @@
 | oː | 108 | ✓ | ✓ |
 | ɸ | 105 | ✓ | ✓ |
 | ʊ | 104 | ✓ | ✓ |
-| ə | 96 | ✓ | ✓ |
+| ə | 97 | ✓ | ✓ |
 | β | 96 | ✓ | ✓ |
 | ɛ | 86 | ✓ | ✓ |
 | ŋ | 85 | ✓ | ✓ |
@@ -76,14 +76,14 @@
 | dʲ | 17 | ✓ | ✓ |
 | rʲ | 17 | ✓ | ✓ |
 | tʰ | 16 | ✓ | ✓ |
+| tˀ | 16 | ✓ | ✓ |
 | ɲ̥ | 16 | ✓ | ✓ |
+| kʲ | 15 | ✓ | ✓ |
 | m̥ | 15 | ✓ | ✓ |
-| tˀ | 15 | ✓ | ✓ |
 | a̤ | 14 | ✓ | ✓ |
 | hʲ | 14 | ✓ | ✓ |
 | td | 14 | ✓ | ✓ |
 | tɕ | 14 | ✓ | ✓ |
-| kʲ | 13 | ✓ | ✓ |
 | mʲ | 12 | ✓ | ✓ |
 | pʲ | 12 | ✓ | ✓ |
 | ç | 12 | ✓ | ✓ |
@@ -140,7 +140,6 @@
 | ɯe | 2 | ✓ | ✓ |
 | ɾʲ | 2 | ✓ | ✓ |
 | ʔʲ | 2 | ✓ | ✓ |
-| ʲ | 2 | ? | ? |
 | βʲ | 2 | ✓ | ✓ |
 | !a/a | 1 | ✓ | ✓ |
 | !aú/a | 1 | ✓ | ✓ |
@@ -163,11 +162,7 @@
 | !ĩĩ/i | 1 | ✓ | ✓ |
 | !ɨɨ́/ɨː | 1 | ✓ | ✓ |
 | !ɨ́/ɨ | 1 | ✓ | ✓ |
-| _ | 1 | ✓ | ✓ |
-| aəi | 1 | ? | ? |
-| aɯi | 1 | ? | ? |
 | aʊ | 1 | ✓ | ✓ |
-| aˌi | 1 | ? | ? |
 | dʷ | 1 | ✓ | ✓ |
 | ea | 1 | ✓ | ✓ |
 | eˀ | 1 | ✓ | ✓ |
@@ -187,10 +182,9 @@
 | ʎʷ | 1 | ✓ | ✓ |
 | ʝ | 1 | ✓ | ✓ |
 | ʲɲ | 1 | ✓ | ✓ |
-| ˀ | 1 | ? | ? |
 | ẽ/e | 1 | ✓ | ✓ |
 
-(184 rows)
+(178 rows)
 
 
 
@@ -206,15 +200,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:---------------------------------------------|:--------------|:------------------------------|:----------|:------------------------------|
-| AchuarShiwiar-149_tosqueeze-1 | AchuarShiwiar | 149_tosqueeze | ijúrtin | i h u r _ t i n |
-| Shuar-147_tospit-1 | Shuar | 147_tospit | usúk-ia | u s u k + <s> ʲ </s> a |
-| Shuar-175_toturnchangeonesdirection-1 | Shuar | 175_toturnchangeonesdirection | íik-ia | iː k + <s> ʲ </s> a |
-| Shuar-73_tohit-1 | Shuar | 73_tohit | awat-’ | a w a t + <s> ˀ </s> |
-| WitotoMinica-129_seaocean-1 | WitotoMinica | 129_seaocean | monáiʤahi | m o n <s> aˌi </s> dʒ a + h i |
-| WitotoMinica-41_tofalldropratherthantopple-1 | WitotoMinica | 41_tofalldropratherthantopple | baəíde | b <s> aəi </s> + d e |
-| WitotoNipode-41_tofalldropratherthantopple-1 | WitotoNipode | 41_tofalldropratherthantopple | baɯíde | b <s> aɯi </s> + d e |
+|------|------------|-----------|--------|------------|
 
-(7 rows)
+(0 rows)
 
 
