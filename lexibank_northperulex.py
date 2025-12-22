@@ -1,11 +1,9 @@
-from collections import defaultdict
 import pathlib
 import attr
 from clldutils.misc import slug
 from edictor.wordlist import fetch_wordlist
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
-from pylexibank import FormSpec
 from pylexibank import Language, Lexeme
 from lingpy import Wordlist
 
@@ -50,6 +48,7 @@ class Dataset(BaseDataset):
                     columns=[
                         "CONCEPT",
                         "DOCULECT",
+                        "SUBGROUP",
                         "FORM",
                         "VALUE",
                         "TOKENS",
@@ -100,31 +99,28 @@ class Dataset(BaseDataset):
         errors = set()
         wl = Wordlist(str(self.raw_dir.joinpath("raw.tsv")))
 
-        # ----------
-        # This code will be used later on to re-create a single COGID,
-        # based on the partial cognacy annoated
-        # N = {}
-        # for idx, cogids, morphemes in wl.iter_rows("cogids", "morphemes"):
-        #     new_cogids = []
-        #     if morphemes:
-        #         for cogid, morpheme in zip(cogids, morphemes):
-        #             if not morpheme.startswith("_"):
-        #                 new_cogids += [cogid]
-        #     else:
-        #         new_cogids = [c for c in cogids if c]
+        N = {}
+        for idx, cogids, morphemes in wl.iter_rows("cogids", "morphemes"):
+            new_cogids = []
+            if morphemes:
+                for cogid, morpheme in zip(cogids, morphemes):
+                    if not morpheme.startswith("_"):
+                        new_cogids += [cogid]
+            else:
+                new_cogids = [c for c in cogids if c]
 
-        #     if new_cogids == []:
-        #         new_cogids = [c for c in cogids if c]
+            if new_cogids == []:
+                new_cogids = [c for c in cogids if c]
 
-        #     N[idx] = " ".join([str(x) for x in new_cogids])
-        # wl.add_entries("cog", N, lambda x: x, override=True)
-        # wl.renumber("cog")  # creates numeric cogid
+            N[idx] = " ".join([str(x) for x in new_cogids])
+        wl.add_entries("cog", N, lambda x: x, override=True)
+        wl.renumber("cog")  # creates numeric cogid
 
         # add data
         for (
             idx,
-            language,
             concept,
+            language,
             form,
             value,
             tokens,
@@ -137,8 +133,8 @@ class Dataset(BaseDataset):
             source
         ) in pb(
             wl.iter_rows(
-                "doculect",
                 "concept",
+                "doculect",
                 "form",
                 "value",
                 "tokens",
@@ -159,14 +155,14 @@ class Dataset(BaseDataset):
                 errors.add(("concept", concept))
                 print(f"Missing concept: {concept} for language: {language} - Row: {idx}")
 
-            else:
+            elif tokens:
                 lexeme = args.writer.add_form_with_segments(
                     Parameter_ID=concepts[concept],
                     Language_ID=language,
                     Form=form,
+                    Value=value.strip() or form.strip(),
                     Segments=unmerge(tokens),
                     GroupedSounds=tokens,
-                    Value=value.strip(),
                     Cognacy=cogid,
                     Partial_Cognacy=" ".join([str(x) for x in cogids]),
                     Alignment=" ".join(alignment),
