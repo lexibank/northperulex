@@ -1,36 +1,36 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup
-Canichana,Canichana,cani1243,Canichana,caz,South America,-14.3058,-64.944455,Canichana,Isolate
-AchuarShiwiar,Achuar,achu1248,Achuar-Shiwiar,acu,South America,-2.82646,-77.2641,Chicham,Chicham
-Urarina,Urarina,urar1246,Urarina,ura,South America,-4.44006,-75.4211,Urarina,Isolate
-Wampis,Huambisa,huam1247,Huambisa,hub,South America,-3.99109,-77.9797,Chicham,Chicham
-Andoa,Andoa,ando1255,Andoa,anb,South America,-3.29664,-76.6056,Zaparoan,Zaparoan
-Zaparo,Záparo,zapa1253,Záparo,zro,South America,-1.99871,-76.364,Zaparoan,Zaparoan
-Iquito,Iquito,iqui1243,Iquito,iqu,South America,-3.31233,-73.97046,Zaparoan,Zaparoan
-Shuar,Shuar,shua1257,Shuar,jiv,South America,-3.45136,-78.1892,Chicham,Chicham
-Yagua,Yagua,yagu1244,Yagua,yad,South America,-3.42913,-72.2186,Peba-Yagua,Peba-Yagua
-Shiwilu,Jebero,jebe1250,Jebero,jeb,South America,-5.40317,-76.4103,Cahuapanan,Cahuapanan
-Omurano,Omurano,omur1241,Omurano,omu,South America,-4.09028,-76.01,Omurano,Isolate
-Tequiraca,Tequiraca,abis1238,Aewa,ash,South America,-1.284096,-75.084405,Aewa,Isolate
-Chibito,Hibito-Cholon,hibi1242,Hibito-Cholon,,,,,Hibito-Cholon,Isolate
-Yameo,Yameo,yame1242,Yameo,yme,South America,-4.16666,-73.6667,Peba-Yagua,Peba-Yagua
-Aguaruna,Aguaruna,agua1253,Aguaruna,agr,South America,-5.30044,-77.9218,Chicham,Chicham
-Waorani,Sabela,waor1240,Waorani,auc,South America,-1.12312,-76.683,Waorani,Isolate
-Arabela,Arabela,arab1268,Arabela,arl,South America,-1.96126,-75.0612,Zaparoan,Zaparoan
-Candoshi-Shapra,Candoshi-Shapra,cand1248,Candoshi-Shapra,cbu,South America,-4.23835,-76.9347,Candoshi-Shapra,Isolate
-Muniche,Muniche,muni1258,Muniche,myr,South America,-5.7441796,-76.426712,Muniche,Isolate
-Taushiro,Taushiro,taus1253,Taushiro,trr,South America,-3.22497,-75.5603,Taushiro,Isolate
-Chayahuita,Shawi,chay1248,Shawi,cbt,South America,-5.63764,-76.8252,Cahuapanan,Cahuapanan
+Yanesha,Yanesha',yane1238,Yanesha',ame,South America,-10.5454,-75.315,Arawakan,Arawakan
+Resigaro,Resígaro,resi1247,Resígaro,rgr,South America,-1.169535,-71.60524,Arawakan,Arawakan
 Bora,Bora,bora1263,Bora,boa,South America,-2.000259,-72.257066,Boran,Boran
 Muinane,Muinane,muin1242,Muinane,bmr,South America,-0.8652,-72.4249,Boran,Boran
-Proto-Bora-Muinane,Proto-Bora-Muinane,,,,,,,,Boran
+Proto-Bora-Muinane,Proto-Bora-Muinane,bora1262,Boran,,,,,Boran,Boran
+Shiwilu,Jebero,jebe1250,Jebero,jeb,South America,-5.40317,-76.4103,Cahuapanan,Cahuapanan
+Chayahuita,Shawi,chay1248,Shawi,cbt,South America,-5.63764,-76.8252,Cahuapanan,Cahuapanan
+AchuarShiwiar,Achuar,achu1248,Achuar-Shiwiar,acu,South America,-2.82646,-77.2641,Chicham,Chicham
+Wampis,Huambisa,huam1247,Huambisa,hub,South America,-3.99109,-77.9797,Chicham,Chicham
+Shuar,Shuar,shua1257,Shuar,jiv,South America,-3.45136,-78.1892,Chicham,Chicham
+Aguaruna,Aguaruna,agua1253,Aguaruna,agr,South America,-5.30044,-77.9218,Chicham,Chicham
 Ocaina,Ocaina,ocai1244,Ocaina,oca,South America,-2.159,-72.1422,Huitotoan,Huitotoan
 WitotoMinica,Minica Huitoto,mini1256,Minica Huitoto,hto,South America,-1.54535,-73.1107,Huitotoan,Huitotoan
 WitotoMurui,Murui Huitoto,muru1274,Murui Huitoto,huu,South America,-1.13669,-73.8331,Huitotoan,Huitotoan
 WitotoNipode,Nüpode Huitoto,nupo1240,Nüpode Huitoto,hux,South America,-2.34495,-70.9559,Huitotoan,Huitotoan
-Ticuna,Ticuna,ticu1245,Ticuna,tca,South America,-3.66289,-69.8723,Ticuna-Yuri,Ticuna-Yuri
-Juri,Juri,juri1235,Juri,,South America,-1.358881,-69.984741,Ticuna-Yuri,Ticuna-Yuri
-Yanesha,Yanesha',yane1238,Yanesha',ame,South America,-10.5454,-75.315,Arawakan,Arawakan
-Resigaro,Resígaro,resi1247,Resígaro,rgr,South America,-1.169535,-71.60524,Arawakan,Arawakan
 Coeruna,Coeruna,coer1236,Coeruna,,South America,-1.054216,-70.58464,Huitotoan,Huitotoan
 MiranhaCarapana-Tapuya,Andoquero,ando1254,Andoquero,,South America,-0.666992,-72.310867,Huitotoan,Huitotoan
+Canichana,Canichana,cani1243,Canichana,caz,South America,-14.3058,-64.944455,Canichana,Isolate
+Urarina,Urarina,urar1246,Urarina,ura,South America,-4.44006,-75.4211,Urarina,Isolate
+Omurano,Omurano,omur1241,Omurano,omu,South America,-4.09028,-76.01,Omurano,Isolate
+Tequiraca,Tequiraca,abis1238,Aewa,ash,South America,-1.284096,-75.084405,Aewa,Isolate
+Chibito,Hibito-Cholon,hibi1242,Hibito-Cholon,,,,,Hibito-Cholon,Isolate
+Waorani,Sabela,waor1240,Waorani,auc,South America,-1.12312,-76.683,Waorani,Isolate
+Candoshi-Shapra,Candoshi-Shapra,cand1248,Candoshi-Shapra,cbu,South America,-4.23835,-76.9347,Candoshi-Shapra,Isolate
+Muniche,Muniche,muni1258,Muniche,myr,South America,-5.7441796,-76.426712,Muniche,Isolate
+Taushiro,Taushiro,taus1253,Taushiro,trr,South America,-3.22497,-75.5603,Taushiro,Isolate
+Yagua,Yagua,yagu1244,Yagua,yad,South America,-3.42913,-72.2186,Peba-Yagua,Peba-Yagua
+Yameo,Yameo,yame1242,Yameo,yme,South America,-4.16666,-73.6667,Peba-Yagua,Peba-Yagua
 Pebas,Peba,peba1243,Peba,,South America,-3.5,-72.0,Peba-Yagua,Peba-Yagua
+Ticuna,Ticuna,ticu1245,Ticuna,tca,South America,-3.66289,-69.8723,Ticuna-Yuri,Ticuna-Yuri
+Juri,Juri,juri1235,Juri,,South America,-1.358881,-69.984741,Ticuna-Yuri,Ticuna-Yuri
+Andoa,Andoa,ando1255,Andoa,anb,South America,-3.29664,-76.6056,Zaparoan,Zaparoan
+Zaparo,Záparo,zapa1253,Záparo,zro,South America,-1.99871,-76.364,Zaparoan,Zaparoan
+Iquito,Iquito,iqui1243,Iquito,iqu,South America,-3.31233,-73.97046,Zaparoan,Zaparoan
+Arabela,Arabela,arab1268,Arabela,arl,South America,-1.96126,-75.0612,Zaparoan,Zaparoan
