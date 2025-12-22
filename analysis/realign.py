@@ -4,7 +4,6 @@ partial cognate detection and multiple sequence alignment
 """
 from lingpy import Alignments
 from lingpy.compare.partial import Partial
-from lexibase.lexibase import LexiBase
 
 def run(wordlist):
 	D = {0: wordlist.columns}
