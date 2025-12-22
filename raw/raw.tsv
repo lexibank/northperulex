@@ -4858,7 +4858,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 4862	not	AchuarShiwiar	Chicham	-tsu		ts u		875	ts u			None	Kohlberger2020
 4863	not	Shuar	Chicham	-tsu		ts u		875	ts u			Used in the present tense, remote past, and relative clauses.	Saad2014
 4864	not	Shuar	Chicham	-cha		tʃ a		2295	tʃ a			Used elsewhere.	Saad2014
-4865	not	AchuarShiwiar		-tʃa		tʃ a		2295	tʃ a				
+4865	not	AchuarShiwiar		-tʃa		tʃ a		2295	tʃ a			None	Kohlberger2020
 4866	old	Aguaruna	Chicham	múuntutʃi		m !úu/uː n t a + u tʃ i		2351 892	m !úu/uː n t a + u tʃ i			None	Overall2007
 4867	old	Shuar	Chicham	úuntach’		!úu/uː n t a + tʃ		2351 892	- !úu/uː n t a + - tʃ -			None	Saad2014
 4868	old	AchuarShiwiar	Chicham	húuntatʃ		h !úu/uː n t a + tʃ		2351 892	h !úu/uː n t a + - tʃ -			None	Kohlberger2020
@@ -4880,7 +4880,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 4885	straight	Shuar	Chicham	tutúpnik		t u t !ú/u p n i k		3270	t u t !ú/u p - n ( i k )			None	Pellizzaro2005
 4886	sun	Shuar	Chicham	etsa		ɨ ts a		3299	- ɨ ts a ( - - )			Para decir sol, se prefiere el tér- mino “tsawái nantu” (astro del día).	Pellizzaro2005
 4887	that	Wampis	Chichame	nu		n u		3366	- n u			nu 'that (not visible)' , au 'that (visible)'.	Peña2023
-4888	they	AchuarShiwiar		nitʲá		n i + tʲ !á/a		3426 490	n i + tʲ !á/a			None	
+4888	they	AchuarShiwiar		nitʲá		n i + tʲ !á/a		3426 490	n i + tʲ !á/a			None	Kohlberger2020
 4889	thin	Aguaruna	Chicham	tsatsáptin		ts a ts !á/a p + t i n		948 949	ts a ts !á/a p - + t i n			None	Paati2020
 4890	thin	Shuar	Chicham	watsarú		w a ts a r !ú/u		3493	w a ts a r !ú/u			Nope	Pellizzaro2005
 4891	thin	Shuar	Chicham	tsatsap’		ts a ts a pˀ		948	ts a ts a pˀ -			Nope	Pellizzaro2005
@@ -4892,7 +4892,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 4897	to burn (intrans)	Wampis	Chicham	kɨɨ		k ɨː		3698	k ɨː			None	Peña2015
 4898	to burn (intrans)	Shuar	Chicham	esa-		ɨ s a		2248	ɨ s a			None	Pellizzaro2005
 4899	to count	Shuar	Chicham	nekápma-r		n ɨ k !á/a p m a + r		3737 980	n ɨ k !á/a p m a + r			None	Pellizzaro2005
-4900	to count	Aguaruna		dekápat		d ɨ k !á/a p a + t		3737 582	d ɨ k !á/a p - a + t				
+4900	to count	Aguaruna		dekápat		d ɨ k !á/a p a + t		3737 582	d ɨ k !á/a p - a + t			None	Paati2020
 4901	to cut	Aguaruna	Chicham	tsupi		ts u p i		3758	ts u p i			None	Overall2007
 4902	to cut	Shuar	Chicham	tsupi		ts u p i		3758	ts u p i			None	Saad2014
 4903	to cut	AchuarShiwiar	Chicham	tsupíktin		ts u p !í/i + k + t i n		3758 982 983	ts u p !í/i + k + t i n			Literally means 'break'.	Fast2008
@@ -4900,7 +4900,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 4905	to dig	Shuar	Chicham	aká-i		a k !á/a + i		1014 1015	a k !á/a + i			None	Pellizzaro2005
 4906	to dig	Shuar	Chicham	kutsá-i		k u ts !á/a + i		1016 1015	k u ts !á/a + i			None	Pellizzaro2005
 4907	to dig	Shuar	Chicham	taú-r		t !aú/a.u + r		3820 1017	t !aú/a.u + r			None	Pellizzaro2005
-4908	to fall (drop rather than topple)	AchuarShiwiar		pukúukitin		p u k !úu/uː + k i + t i n		3921 1051 1049	p u k !úu/uː + k i + t i n				
+4908	to fall (drop rather than topple)	AchuarShiwiar		pukúukitin		p u k !úu/uː + k i + t i n		3921 1051 1049	p u k !úu/uː + k i + t i n			None	Fast2008
 4909	to fear	AchuarShiwiar	Chicham	shámkatin		ʃ !á/a m + k a + t i n		3950 3951 1053	- ʃ !á/a m - + k a + t i n			None	Fast2008
 4910	to fear	Aguaruna	Chicham	ishámat		i ʃ !á/a m a + t		3950 612	i ʃ !á/a m a + t			None	Paati2020
 4911	to fight	Aguaruna	Chicham	máni-k		m !á/a + n i + k		3965 1055 3967	m !á/a + n i + k			None	Paati2020
@@ -4984,4 +4984,4 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 4989	warm (of weather)	Wampis	Chicham	tsuer		ts u ɨ r		4967	ts u - ɨ r			None	Peña2023
 4991	big	Bora	Boran	ʧija		tʃ i j a		333	tʃ i j a			None	Seifart2024
 4992	big	Muinane	Boran	gíráa-no		g i r !áa/a.a + n o		333 310	g i r !áa/a.a + n o			None	Seifart2024
-4993	dirty	Bora		pɨɨβa		p ɨ.ɨ + β a		1435 587	p ɨ.ɨ + β a				
+4993	dirty	Bora		pɨɨβa		p ɨ.ɨ + β a		1435 587	p ɨ.ɨ + β a			None	Seifart2024
