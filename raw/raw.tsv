@@ -898,7 +898,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 897	fog	WitotoMinica	Huitotoan	róθi	róθi	ɾ o θ i	726	1162	ɾ o θ i			None	Huber2021
 898	fog	WitotoMinica	Huitotoan	úiʤɯe	úiʤɯe	ui dʒ ɯ e	728	1164	ui dʒ ɯ e			None	Huber2021
 899	to flow	WitotoMinica	Huitotoan	tóte	tóte	t o + t e	2401	3992 1820	t o + t e			None	Huber2021
-900	sea (ocean)	WitotoMinica	Huitotoan	monáiʤahi	monáiʤahi	m o n aˌi dʒ a + h i	1688	2790 1707	m o n aˌi dʒ a + h i			?-CLF:WATERY	Huber2021
+900	sea (ocean)	WitotoMinica	Huitotoan	monáiʤahi	monáiʤahi	m o n a.i dʒ a + h i	1688	2790 1707	m o n a.i dʒ a + h i			?-CLF:WATERY	Huber2021
 901	wet	WitotoMinica	Huitotoan	rɯáide	rɯáide	ɾ ɯ a.i + d e	3012	5063 1910	ɾ ɯ a.i + d e			None	Huber2021
 902	to wash	WitotoMinica	Huitotoan	hokóde	hokóde	h o k o + d e	2860	4783 1882	h o k o + d e			None	Huber2021
 903	worm	WitotoMinica	Huitotoan	ìgɯ́roɯ	ìgɯ́roɯ	i + g ɯ ɾ o + ɯ	3224	2006 2007 2008	i + g ɯ ɾ o + ɯ			None	Huber2021
@@ -945,7 +945,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 944	to dig	WitotoMinica	Huitotoan	ráɯte	ráɯte	ɾ a.ɯ + t e	2304	3821 1766	ɾ a.ɯ + t e			None	Huber2021
 945	to tie	WitotoMinica	Huitotoan	kuináde	kuináde	k u.i n a + d e	2822	4699 1877	k u.i n a + d e			None	Huber2021
 946	to sew	WitotoMinica	Huitotoan	tɯɸóde	tɯɸóde	t ɯ + ɸ o + d e	2642	4392 278 285	t ɯ + ɸ o + d e			None	Huber2021
-947	to fall (drop rather than topple)	WitotoMinica	Huitotoan	baəíde	baəíde	b aəi + d e	2369	3927 1793	b aəi + d e			None	Huber2021
+947	to fall (drop rather than topple)	WitotoMinica	Huitotoan	baəíde	baəíde	b a.ə.i + d e	2369	3927 1793	b a.ə.i + d e			None	Huber2021
 948	to fall (drop rather than topple)	WitotoMinica	Huitotoan	uáide	uáide	u a.i + d e	2369	1788 1793	u a.i + d e			None	Huber2021
 949	to swell	WitotoMinica	Huitotoan	ɸáide	ɸáide	ɸ a.i + d e	2753	4581 421	ɸ a.i + d e			None	Huber2021
 950	to swell	WitotoMinica	Huitotoan	ɸíipukude	ɸíipukude	ɸ iː p u k u + d e	2758	4586 421	ɸ iː p u k u + d e			None	Huber2021
@@ -1358,7 +1358,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 1357	to dig	WitotoNipode	Huitotoan	ráɯɗe	ráɯɗe	ɾ a.ɯ + ɗ e	2304	3821 1766	ɾ a.ɯ + ɗ e			None	Huber2021
 1358	to tie	WitotoNipode	Huitotoan	kuináde	kuináde	k u.i n a + d e	2822	4699 1877	k u.i n a + d e			None	Huber2021
 1359	to sew	WitotoNipode	Huitotoan	tɯpóde	tɯpóde	t ɯ + p o + d e	2642	4392 278 285	t ɯ + p o + d e			None	Huber2021
-1360	to fall (drop rather than topple)	WitotoNipode	Huitotoan	baɯíde	baɯíde	b aɯi + d e	2369	3927 1793	b aɯi + d e			None	Huber2021
+1360	to fall (drop rather than topple)	WitotoNipode	Huitotoan	baɯíde	baɯíde	b a.ɯ.i + d e	2369	3927 1793	b a.ɯ.i + d e			None	Huber2021
 1361	to swell	WitotoNipode	Huitotoan	uahátide	uahátide	u a h a t i + d e	2755	4583 421	u a h a t i + d e			None	Huber2021
 1362	to think	WitotoNipode	Huitotoan	komekɯ pakáde	komekɯ pakáde	k o m e k ɯ + p a k a + d e	2788	4637 4638 2516	k o m e k ɯ + p a k a + d e			None	Huber2021
 1363	to think	WitotoNipode	Huitotoan	duénaiɗe	duénaiɗe	d u e n ai + ɗ e	2792	4641 2516	d u e n ai + ɗ e			None	Huber2021
@@ -2873,7 +2873,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 2875	some	AchuarShiwiar	Chicham	júmchik	júmchik	h u m tʃ i k	1921	3157	h u m tʃ i k			None	Fast2008
 2876	to spit	AchuarShiwiar	Chicham	usúkmitin	usúkmitin	u s u k + m i + t i n	2676	4450 1208 1209	u s u k + m i + t i n			None	Fast2008
 2877	to split	AchuarShiwiar	Chicham	akántratin	akántratin	a k a n + t + r a + t i n	2688	4470 1211 1212 1213	a k a n - + t + r a + t i n			First /t/ maybe an applicative.	Fast2008
-2878	to squeeze	AchuarShiwiar	Chicham	ijúrtin	ijúrtin	i h u r _ t i n	2699	4488 1250	i h u r _ t i n			None	Fast2008
+2878	to squeeze	AchuarShiwiar	Chicham	ijúrtin	ijúrtin	i h u r + t i n	2699	4488 1250	i h u r + t i n			None	Fast2008
 2879	to stab (or stick)	AchuarShiwiar	Chicham	kuchí̃ĩjãĩ ijútin	kuchí̃ĩjãĩ ijútin	k u tʃ iː h a i + i h u + t i n	2709	4513 4514 1250	k u tʃ iː h a i + i h u + t i n			None	Fast2008
 2880	star	AchuarShiwiar	Chicham	yaa	yaa	j aː	1931	3169	j aː			None	Fast2008
 2881	stick (of wood)	AchuarShiwiar	Chicham	númi	númi	n u m i	1954	3206	n u m i			Phonological alternation: yúmi	Fast2008
