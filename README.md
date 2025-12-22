@@ -19,7 +19,7 @@ Conceptlists in Concepticon:
 - [Swadesh-1952-200](https://concepticon.clld.org/contributions/Swadesh-1952-200)
 ## Notes
 
-work in progress
+
 
 
 ## Statistics
