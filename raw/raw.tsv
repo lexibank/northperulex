@@ -1437,7 +1437,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 1436	heart	Aguaruna	Chicham	anɨntai	anɨntai	a n ɨ n + t ɛi	925	1507 757	a n ɨ n + t ɛi			'think about' + 'nominalizer'	Johansson2021
 1437	heavy	Aguaruna	Chicham	kihin	kihin	k i h i n	944	1540	k i h i n			None	Johansson2021
 1438	here	Aguaruna	Chicham	jui	jui	h ʊ ∼ i	956	1561	h ʊ ∼ i			None	Johansson2021
-1439	to hit	Aguaruna	Chicham	awatut	awatut	a w a t ʊ + t	2466	4098 644	a w a t ( ʊ - ) + t			None	Johansson2021
+1439	to hit	Aguaruna	Chicham	awatut	awatut	a w a t ʊ + t	2466	4098 644	a w a t ʊ - + t			None	Johansson2021
 1440	how	Aguaruna	Chicham	wahuk	wahuk	w a h ʊ k	972	827	w a h ʊ k			None	Johansson2021
 1441	I	Aguaruna	Chicham	wi	wi	w i	1	1	w i			None	Johansson2021
 1442	if	Aguaruna	Chicham	ɨʔɨ	ɨʔɨ	ɨ ʔ ɨ	1017	1661	ɨ ʔ ɨ			I think this means 'yes', the concept of 'if' is related by -sha 'conditional'	Johansson2021
@@ -1817,7 +1817,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 1817	heart	Chayahuita	Cahuapanan	ninopi	ninopi	n i n o p i	930	1514	n i n - o p i			None	Johansson2021
 1818	heavy	Chayahuita	Cahuapanan	kɨkɨn	kɨkɨn	k ɨ k ɨ n	944	1540	k ɨ k ɨ n			None	Johansson2021
 1819	here	Chayahuita	Cahuapanan	isɨkɨ	isɨkɨ	i s ɨ k ɨ	960	1567	i s ɨ k ɨ			None	Johansson2021
-1820	to hit	Chayahuita	Cahuapanan	awɨɾin	awɨɾin	a w ɨ ɾ i n	2466	4098	a w ɨ ɾ ( i n )			None	Johansson2021
+1820	to hit	Chayahuita	Cahuapanan	awɨɾin	awɨɾin	a w ɨ ɾ i n	2466	4098	a w ɨ ɾ i n			None	Johansson2021
 1821	how	Chayahuita	Cahuapanan	onpoɾawatontaʔ	onpoɾawatontaʔ	o n p o ɾ a w a t o n t a ʔ	977	1601	o n p o ɾ a w a t o n t a ʔ			None	Johansson2021
 1822	I	Chayahuita	Cahuapanan	ka	ka	k a	2	65	k a - - ( - - - )			None	Johansson2021
 1823	to kill	Chayahuita	Cahuapanan	tɨpaɾin	tɨpaɾin	t ɨ p a ɾ i n	2507	4173	t ɨ - - p a ɾ i ( n )			None	Johansson2021
@@ -2061,7 +2061,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 2061	to hear	Taushiro	Isolate	aʔkono	aʔkono	a ʔ k o n o	2459	4079	a ʔ k o n o			None	Johansson2021
 2062	heart	Taushiro	Isolate	aʔtantu	aʔtantu	a ʔ t a n t u	937	1522	a ʔ t a n t u			None	Johansson2021
 2063	here	Taushiro	Isolate	aʔɨ	aʔɨ	a ʔ ɨ	966	1573	a ʔ ɨ			None	Johansson2021
-2064	to hit	Taushiro	Isolate	awɨn	awɨn	a w ɨ n	2473	4098	a w ɨ n ( - - )			None	Johansson2021
+2064	to hit	Taushiro	Isolate	awɨn	awɨn	a w ɨ n	2473	4098	a w ɨ n - -			None	Johansson2021
 2065	how	Taushiro	Isolate	ɨntɨhan	ɨntɨhan	ɨ n t ɨ h a n	983	1607	ɨ n t ɨ h a n -			None	Johansson2021
 2066	I	Taushiro	Isolate	ujo	ujo	u j o	11	12	u j o			None	Johansson2021
 2067	leaf	Taushiro	Isolate	awaʔja	awaʔja	a w a ʔ j a	1068	1748	a w a ʔ j a			None	Johansson2021
@@ -2800,7 +2800,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 2802	heart	AchuarShiwiar	Chicham	nintí	nintí	n i n + t i	925	1507 757	- n i n + t i			Phonological alternation: inintí	Fast2008
 2803	heavy	AchuarShiwiar	Chicham	kíjin	kíjin	k i h i n	944	1540	k i h i n			Because of order of the entries: méram	Fast2008
 2804	here	AchuarShiwiar	Chicham	jú̃ni	jú̃ni	h u n i	956	1561	h u n i			None	Fast2008
-2805	to hit	AchuarShiwiar	Chicham	awátratin	awátratin	a w a t + r a + t i n	2466	4098 1088 1119	a w a t ( - - ) + r a + t i n			None	Fast2008
+2805	to hit	AchuarShiwiar	Chicham	awátratin	awátratin	a w a t + r a + t i n	2466	4098 1088 1119	a w a t - - + r a + t i n			None	Fast2008
 2806	to hold (in hand)	AchuarShiwiar	Chicham	achíktin	ayáarai túsar achíktin	a tʃ !í/i + k + t i n	2479	4135 4125 4126	a tʃ !í/i + k + t i n			None	Fast2008
 2807	how	AchuarShiwiar	Chicham	itúr	itúr	i t u r	971	1595	i t u - r - ( - - )			Phonological alternation: itiúr	Fast2008
 2808	husband	AchuarShiwiar	Chicham	áishri	áishri	!á/a.i ʃ + r i	992	1626 571	!á/a.i ʃ - + r i			None	Fast2008
@@ -3602,7 +3602,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 3604	heart	Shuar	Chicham	anentái	anentái	a n ɨ n + t e.i	925	1507 757	a n ɨ n + t e.i			None	Pellizzaro2005
 3605	heavy	Shuar	Chicham	eméram	eméram	ɨ m ɨ ɾ a m	950	1546	ɨ m ɨ ɾ a m			Because of order of entries, here are the variant: kijín	Pellizzaro2005
 3606	here	Shuar	Chicham	juí	juí	h u ∼ i	956	1561	h u ∼ i			None	Pellizzaro2005
-3607	to hit	Shuar	Chicham	awat-’	awat-’	a w a t + ˀ	2466	4098 4106	a w a t ( - - ) + ˀ			None	Pellizzaro2005
+3607	to hit	Shuar	Chicham	awat-’	awat-’	a w a tˀ	2466	4098	a w a tˀ - -			None	Pellizzaro2005
 3608	how	Shuar	Chicham	itiúr	itiúr	i tʲ u ɾ	971	1595	i tʲ u - ɾ - ( - - )			None	Pellizzaro2005
 3609	to hunt (game)	Shuar	Chicham	eám-ka	eám-ka	ɨ a + m + k a	2497	4153 4154 1123	ɨ - a + m - + k a			None	Pellizzaro2005
 3610	husband	Shuar	Chicham	áish	áish	e.i ʃ	1004	1626	e.i ʃ -			None	Pellizzaro2005
@@ -3666,7 +3666,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 3668	smooth	Shuar	Chicham	piniúkma	piniúkma	p i ɲ u k m a	1879	3095	p i ɲ u ( k m a )			None	Pellizzaro2005
 3669	snake	Shuar	Chicham	napi	napi	n a p i	1898	3125	n a p i			None	Pellizzaro2005
 3670	snow	Shuar	Chicham	etsétsentai	etsétsentai	ɨ ts ɨ ts ɨ n t ei	1918	3152	ɨ ts ɨ ts ɨ n t ei			None	Pellizzaro2005
-3671	to spit	Shuar	Chicham	usúk-ia	usúk-ia	u s u k + ʲ a	2676	4450 4456	u s u k + ʲ a			None	Pellizzaro2005
+3671	to spit	Shuar	Chicham	usúk-ia	usúk-ia	u s u kʲ + a	2676	4450 4456	u s u kʲ + a			None	Pellizzaro2005
 3672	to split	Shuar	Chicham	yumpu-ár	yumpu-ár	j u m p u + a ɾ	2694	4478 4479	j u m p u + a ɾ			None	Pellizzaro2005
 3673	to squeeze	Shuar	Chicham	ijiur-á	ijiur-á	i hʲ u ɾ + a	2699	4488 4496	i hʲ u ɾ + a			None	Pellizzaro2005
 3674	to stab (or stick)	Shuar	Chicham	akut-a	akut-a	a k u + t + a	2711	4516 1276 4517	a k u + t + a			'clavar algo lanzándolo'	Pellizzaro2005
@@ -3694,7 +3694,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 3696	tongue	Shuar	Chicham	iniái	iniái	i ɲ e.i	2874	4809	i ɲ e.i			None	Pellizzaro2005
 3697	tooth (front rather than molar)	Shuar	Chicham	nai	nai	n e.i	2892	4843	- n e.i			None	Pellizzaro2005
 3698	tree	Shuar	Chicham	numi	numi	n u m i	2913	4884	n u m i			None	Pellizzaro2005
-3699	to turn (change one's direction)	Shuar	Chicham	íik-ia	íik-ia	iː k + ʲ a	2829	4724 4725	iː k + ʲ a			None	Pellizzaro2005
+3699	to turn (change one's direction)	Shuar	Chicham	íik-ia	íik-ia	iː kʲ + a	2829	4724 4725	iː kʲ + a			None	Pellizzaro2005
 3700	two	Shuar	Chicham	jímiar	jímiar	h i mʲ a ɾ	2930	4923	h i mʲ a ɾ			None	Pellizzaro2005
 3701	to vomit	Shuar	Chicham	imia-k	imia-k	i + mʲ a + k	2839	1417 4729 4738	i + mʲ a + k			CAUS + stem	Pellizzaro2005
 3702	to walk	Shuar	Chicham	weká-sa	weká-sa	w ɨ k a + s a	2846	4753 4763	w ɨ k a ( - - - ) + s a			None	Pellizzaro2005
@@ -4162,7 +4162,7 @@ ID	CONCEPT	DOCULECT	SUBGROUP	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	
 4165	to kill	Wampis	Chicham	maat	maat	m aː + t	2502	4164 646	m aː + t			None	Peña2023
 4166	to fight	Wampis	Chicham	maanit	maanit	m aː + n i + t	2385	3965 1055 613	m aː + n i + t			maa 'kill' -n(a)i 'reciprocal'	Peña2023
 4167	to hunt (game)	Wampis	Chicham	eakmat	eakmat	ɨ a + k + m a + t	2500	4153 1124 4154 645	ɨ - a + k + m a + t			None	Peña2023
-4168	to hit	Wampis	Chicham	awatat	awatat	a w a t a + t	2466	4098 644	a w a t ( a - ) + t			None	Peña2023
+4168	to hit	Wampis	Chicham	awatat	awatat	a w a t a + t	2466	4098 644	a w a t a - + t			None	Peña2023
 4169	to cut	Wampis	Chicham	tsupit	tsupit	ts u p i + t	2265	3758 606	ts u p i + t			-t(a) nominalizer	Peña2023
 4170	to stab (or stick)	Wampis	Chicham	ijut	ijut	i h u + t	2714	4514 695	i h u + t			None	Peña2023
 4171	to scratch (as with fingernails to relieve itch)	Wampis	Chicham	nanchikat	nanchikat	n a n tʃ i k a + t	2630	4378 690	n a n tʃ i k a + t			None	Peña2023
