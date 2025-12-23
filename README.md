@@ -19,8 +19,8 @@ Conceptlists in Concepticon:
 - [Swadesh-1952-200](https://concepticon.clld.org/contributions/Swadesh-1952-200)
 ## Notes
 
-# Accessing the data
-## Installing dependencies
+### Accessing the data
+#### Installing dependencies
 
 The first step to access all the contents of the dataset is to clone the repository and install all the necessary requirements.
 
@@ -42,7 +42,7 @@ This command uses the cldfbench package ([https://pypi.org/project/cldfbench/](h
 The converted data is located in the `cldf` folder.
 All data in the dataset is stored in tabular (CSV) files. Therefore, it can be read on various platforms and environments and manually inspected.
 
-## Create the wordlist
+#### Create the wordlist
 We provided the user with a `\analysis\Makefile` file that creates a wordlist on a TSV file that can be used to manually inspect the data with the help
 of EDICTOR web tool ([https://edictor.org/](https://edictor.org/)).
 To produce the file, please run the following commands:
