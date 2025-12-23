@@ -62,7 +62,6 @@ def run(wordlist):
 	alms.add_entries("structure", "tokens",
 					 lambda x: tokens2class(x.split(" "), "cv"))
 	
-	alms.output("tsv", filename="npl_aligned")
 	
 	# Perform sound correspondence pattern identification
 	cop = CoPaR(alms, transcription="form", ref="cogid", min_refs=3)
