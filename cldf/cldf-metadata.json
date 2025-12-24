@@ -12,12 +12,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Ugarte et al.'s \"NorthPeruLex - A Lexical Dataset of Small Language Families and Isolates from Northern Peru (forthcoming).",
-    "dcat:accessURL": "https://github.com/lexibank/northperulex",
+    "dcat:accessURL": "git@github.com:lexibank/northperulex",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/lexibank/northperulex",
+            "rdf:about": "git@github.com:lexibank/northperulex",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-51-g6f53698",
+            "dc:created": "1e3f230a",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.13.7"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
@@ -59,7 +59,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "Adding new columns to Lexeme.",
-            "dc:extent": 4804,
+            "dc:extent": 4986,
             "tableSchema": {
                 "columns": [
                     {
@@ -284,7 +284,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 4804,
+            "dc:extent": 4986,
             "tableSchema": {
                 "columns": [
                     {
