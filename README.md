@@ -53,6 +53,7 @@ pip install -r requirements.txt
 make wordlist
 ```
 
+#### Reproduce analysis
 In addition to yielding the word list file (`npl_data.tsv`), the Makefile
 also runs a script that performs the multiple sequence alignment and an 
 automatic recognition of sound correspondence patterns. To do so, please
