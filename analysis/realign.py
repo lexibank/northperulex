@@ -4,7 +4,7 @@ partial cognate detection and multiple sequence alignment, and conducts
 the sound correspondence pattern identification with LingRex (List 2018).
 """
 import re
-from lingpy import Alignments, LexStat, Wordlist
+from lingpy import Alignments,Wordlist
 from lingpy.compare.partial import Partial
 from lingrex.copar import CoPaR
 from lingpy.read.qlc import reduce_alignment

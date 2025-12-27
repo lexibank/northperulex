@@ -32,6 +32,14 @@ pip install -r requirements.txt
 make wordlist
 ```
 
-In addition to yielding the word list file (`npl_data.tsv`), the script also 
-performs an automatic recognition of sound correspondence patterns,
-the result of which is stored in the file `npl_patterns.tsv`.
+#### Reproduce analysis
+In addition to yielding the word list file (`npl_data.tsv`), the Makefile
+also runs a script that performs the multiple sequence alignment and an 
+automatic recognition of sound correspondence patterns. To do so, please
+type the following:
+
+```shell
+make analysis
+```
+The result of both processes are stored in the files `npl_msaligned` 
+and `npl_patterns.tsv`.
