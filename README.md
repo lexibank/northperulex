@@ -59,7 +59,7 @@ automatic recognition of sound correspondence patterns. To do so, please
 type the following:
 
 ```shell
-make msa
+make analysis
 ```
 The result of both processes are stored in the files `npl_msaligned` 
 and `npl_patterns.tsv`.
