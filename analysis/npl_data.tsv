@@ -161,7 +161,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3955	Urarina	back (person's)	han̪ũd̺í	han̪ũd̺í	h a n u d i	None	Isolate	h a n u d i	498	164	Peña2023	3 7 4 7 1 7	AXBYBZ	HANYTI	26	26.H.C 26.A.V 26.N.C 26.Y.V 26.T.C 26.I.V	2.0 1.5 1.75 1.3 1.75 0.8	hanudi	0
 4140	Wampis	back (person's)	tuntup	tuntup	t u n t u p	None	Chicham	t u n t u p	385	149	Peña2023	1 7 4 1 7 1	AXMBYN	TYNTYP	27	27.T.C 27.Y.V 27.N.c 27.T.C 27.Y.V 27.P.c	2.0 1.5 1.1 1.75 1.3 0.8	tuntup	0
 4278	Yagua	back (person's)	sata_sa	sata_sa	s a t !ã/a s a	None	Peba-Yagua	s a t !ã/a s a	591	1758	Gonzales2023	3 7 1 7 3 7	AXBYBZ	SATASA	32	32.S.C 32.A.V 32.T.C 32.A.V 32.S.C 32.A.V	2.0 1.5 1.75 1.3 1.75 0.8	sat!ã/asa	0
-4471	Yanesha	back (person's)	tʃeˀɲets	tʃeˀɲets	tʃ e ʔ + ɲ e + ts	None	Arawakan	tʃ e ʔ + ɲ e + ts	550	171 754 2223	Peña2024	1 7 1 9 4 7 9 2	AXN_AX_A	TEH_NE_C	34	34.T.C 34.E.V 34.H.c 34._._ 34.N.C 34.E.V 34._._ 34.C.C	2.0 1.5 0.8 0.0 2.0 1.5 0.0 2.0	tʃeʔ+ɲe+ts	0
+4471	Yanesha	back (person's)	tʃeˀɲets	tʃeˀɲets	tʃ eˀ + ɲ e + ts	None	Arawakan	tʃ eˀ + ɲ e + ts	550	171 754 2223	Peña2024	1 7 9 4 7 9 2	AX_AX_A	TE_NE_C	34	34.T.C 34.E.V 34._._ 34.N.C 34.E.V 34._._ 34.C.C	2.0 1.5 0.0 2.0 1.5 0.0 2.0	tʃeˀ+ɲe+ts	0
 4661	Zaparo	back (person's)	ushiawku	ushiawku	u ʃ i au + k u	None	Zaparoan	u ʃ i au + k u	555	172 18	Beier2014	7 3 7 7 9 1 7	XBYZ_AX	YSIA_KY	35	35.Y.V 35.S.C 35.I.V 35.A.V 35._._ 35.K.C 35.Y.V	1.5 1.75 1.3 0.8 0.0 2.0 1.5	uʃiau+ku	0
 7	Iquito	bad (deleterious or unsuitable)	sɨɨ́sana	sɨɨ́sana	s ɨː s a + n a	None	Zaparoan	s ɨː s a + n a	708	19 20	Michael2022	3 7 3 7 9 4 7	AXBZ_AX	SISA_NA	11	11.S.C 11.I.V 11.S.C 11.A.V 11._._ 11.N.C 11.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	sɨːsa+na	0
 201	Ticuna	bad (deleterious or unsuitable)	chiʼ̂è	chiʼ̂è	tɕ i ʔ e	be bad	Ticuna-Yuri	tɕ i ʔ e	760	196	Bertet2020	2 7 1 7	AXBZ	CIHE	25	25.C.C 25.I.V 25.H.C 25.E.V	2.0 1.5 1.75 0.8	tɕiʔe	0
@@ -226,7 +226,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3369	Shiwilu	because	malek	malek	m a l ə ˀk	None	Cahuapanan	m a l ə ˀk	1157	248	Valenzuela2012	4 7 5 7 1	AXBYN	MALEK	21	21.M.C 21.A.V 21.L.C 21.E.V 21.K.c	2.0 1.5 1.75 1.3 0.8	maləˀk	0
 4250	Wampis	because	-sa	asa	a + s a	a copula with the subordinator -sa (or other subordinators) is used	Chicham	a + s a	3512	829 250	Peña2023	7 9 3 7	X_AX	A_SA	27	27.A.V 27._._ 27.S.C 27.A.V	1.5 0.0 2.0 1.5	a+sa	0
 4436	Yagua	because	taraju̠	taraju̠	t a r a h !ũ/u	None	Peba-Yagua	t a r a h !ũ/u	1180	252	Gonzales2023	1 7 5 7 3 7	AXBYBZ	TARAHY	32	32.T.C 32.A.V 32.R.C 32.A.V 32.H.C 32.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	tarah!ũ/u	0
-4655	Yanesha	because	ɲeɲtʲoˀmaɾ	ɲeɲtʲoˀmaɾ	ɲ e ɲ tʲ o ʔ m a ɾ	None	Arawakan	ɲ e ɲ tʲ o ʔ m a ɾ	1187	253	Peña2024	4 7 4 1 7 1 4 7 5	AXMBYBCYN	NENTUHMAR	34	34.N.C 34.E.V 34.N.c 34.T.C 34.U.V 34.H.C 34.M.C 34.A.V 34.R.c	2.0 1.5 1.1 1.75 1.3 1.75 1.5 1.3 0.8	ɲeɲtʲoʔmaɾ	0
+4655	Yanesha	because	ɲeɲtʲoˀmaɾ	ɲeɲtʲoˀmaɾ	ɲ e ɲ tʲ oˀ m a ɾ	None	Arawakan	ɲ e ɲ tʲ oˀ m a ɾ	1187	253	Peña2024	4 7 4 1 7 4 7 5	AXMBYBYN	NENTUMAR	34	34.N.C 34.E.V 34.N.c 34.T.C 34.U.V 34.M.C 34.A.V 34.R.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	ɲeɲtʲoˀmaɾ	0
 4839	Aguaruna	because	asa-	asa-	a + s a	None	Chicham	a + s a	3512	829 250	Overall2007	7 9 3 7	X_AX	A_SA	2	2.A.V 2._._ 2.S.C 2.A.V	1.5 0.0 2.0 1.5	a+sa	0
 4840	Shuar	because	a-sa-	a-sa-	a + s a	None	Chicham	a + s a	3512	829 250	Saad2014	7 9 3 7	X_AX	A_SA	22	22.A.V 22._._ 22.S.C 22.A.V	1.5 0.0 2.0 1.5	a+sa	0
 4841	AchuarShiwiar	because	a-sa-	a-sa-	a + s a	None	Chicham	a + s a	3512	829 250	Kohlberger2020	7 9 3 7	X_AX	A_SA	1	1.A.V 1._._ 1.S.C 1.A.V	1.5 0.0 2.0 1.5	a+sa	0
@@ -614,7 +614,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3910	Urarina	dry (substance)	haʰkuɹ̺ú	haʰkuɹ̺ú	h a̤ k u ɹ u	None	Isolate	h a̤ k u ɹ u	3385	663	Peña2023	3 7 1 7 5 7	AXBYBZ	HAKYRY	26	26.H.C 26.A.V 26.K.C 26.Y.V 26.R.C 26.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	ha̤kuɹu	0
 4235	Wampis	dry (substance)	kaaru	kaaru	k aː r u	None	Chicham	k aː r u	3386	664	Peña2023	1 7 5 7	AXBZ	KARY	27	27.K.C 27.A.V 27.R.C 27.Y.V	2.0 1.5 1.75 0.8	kaːru	0
 4398	Yagua	dry (substance)	wasa	wasa	w a s a	None	Peba-Yagua	w a s a	3389	667	Gonzales2023	6 7 3 7	AXBZ	WASA	32	32.W.C 32.A.V 32.S.C 32.A.V	2.0 1.5 1.75 0.8	wasa	0
-4614	Yanesha	dry (substance)	poɻaɻeˀ	poɻaɻeˀ	p o ɻ a ɻ e ʔ	None	Arawakan	p o ɻ a ɻ e ʔ	3390	668	Peña2024	1 7 5 7 5 7 1	AXBYBYN	PURAREH	34	34.P.C 34.U.V 34.R.C 34.A.V 34.R.C 34.E.V 34.H.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	poɻaɻeʔ	0
+4614	Yanesha	dry (substance)	poɻaɻeˀ	poɻaɻeˀ	p o ɻ a ɻ eˀ	None	Arawakan	p o ɻ a ɻ eˀ	3390	668	Peña2024	1 7 5 7 5 7	AXBYBZ	PURARE	34	34.P.C 34.U.V 34.R.C 34.A.V 34.R.C 34.E.V	2.0 1.5 1.75 1.3 1.75 0.8	poɻaɻeˀ	0
 18	Iquito	dull (knife)	tikina	tikina	t i k i n a	rounded or blunt	Zaparoan	t i k i n a	3397	680	Michael2022	1 7 1 7 4 7	AXBYBZ	TIKINA	11	11.T.C 11.I.V 11.K.C 11.I.V 11.N.C 11.A.V	2.0 1.5 1.75 1.3 1.75 0.8	tikina	0
 716	Resigaro	dull (knife)	nií tsóʔβiiʔ	nií tsóʔβiiʔ	n iː + td o ʔ β iː ʔ	None	Arawakan	n iː + td o ʔ β iː ʔ	3398	681 682	Huber2021	4 7 9 1 7 1 3 7 1	AX_AXBCYN	NI_TUHBIH	20	20.N.C 20.I.V 20._._ 20.T.C 20.U.V 20.H.C 20.B.C 20.I.V 20.H.c	2.0 1.5 0.0 2.0 1.5 1.75 1.5 1.3 0.8	niː+tdoʔβiːʔ	0
 928	WitotoMinica	dull (knife)	háinide	háinide	h ai + n i + d e	None	Huitotoan	h ai + n i + d e	3403	687 1449 1450	Huber2021	3 7 9 4 7 9 1 7	AX_AX_AX	HA_NI_TE	29	29.H.C 29.A.V 29._._ 29.N.C 29.I.V 29._._ 29.T.C 29.E.V	2.0 1.5 0.0 2.0 1.5 0.0 2.0 1.5	hai+ni+de	0
@@ -655,7 +655,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3983	Urarina	dust	buhuiɲaaú	buhuiɲaaú	b u h u i ɲ a a u	None	Isolate	b u h u i ɲ a a u	3423	713	Peña2023	1 7 3 7 7 4 7 7 7	AXBYYBYYZ	PYHYINAAY	26	26.P.C 26.Y.V 26.H.C 26.Y.V 26.I.V 26.N.C 26.A.V 26.A.V 26.Y.V	2.0 1.5 1.75 1.3 1.3 1.75 1.3 1.3 0.8	buhuiɲaau	0
 4203	Wampis	dust	tsetse	tsetse	ts ɨ ts ɨ	None	Chicham	ts ɨ ts ɨ	3424	714	Peña2023	2 7 2 7	AXBZ	CICI	27	27.C.C 27.I.V 27.C.C 27.I.V	2.0 1.5 1.75 0.8	tsɨtsɨ	0
 4311	Yagua	dust	rajuru	rajuru	r a + h u r u	None	Peba-Yagua	r a + h u r u	3428	718 292	Gonzales2023	5 7 9 3 7 5 7	AX_AXBZ	RA_HYRY	32	32.R.C 32.A.V 32._._ 32.H.C 32.Y.V 32.R.C 32.Y.V	2.0 1.5 0.0 2.0 1.5 1.75 0.8	ra+huru	0
-4521	Yanesha	dust	paɲeˀteˀ	paɲeˀteˀ	p a ɲ e ʔ t e ʔ	None	Arawakan	p a ɲ e ʔ t e ʔ	3429	719	Peña2024	1 7 4 7 1 1 7 1	AXBYMBYN	PANEHTEH	34	34.P.C 34.A.V 34.N.C 34.E.V 34.H.c 34.T.C 34.E.V 34.H.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	paɲeʔteʔ	0
+4521	Yanesha	dust	paɲeˀteˀ	paɲeˀteˀ	p a ɲ eˀ t eˀ	None	Arawakan	p a ɲ eˀ t eˀ	3429	719	Peña2024	1 7 4 7 1 7	AXBYBZ	PANETE	34	34.P.C 34.A.V 34.N.C 34.E.V 34.T.C 34.E.V	2.0 1.5 1.75 1.3 1.75 0.8	paɲeˀteˀ	0
 36	Iquito	ear	túuku	túuku	t uː k u	ear	Zaparoan	t uː k u	3441	736	Michael2022	1 7 1 7	AXBZ	TYKY	11	11.T.C 11.Y.V 11.K.C 11.Y.V	2.0 1.5 1.75 0.8	tuːku	0
 329	Ocaina	ear	xoɲõõ	xoɲõõ	x o ɲ oː	None	Huitotoan	x o ɲ oː	3445	742	Huber2021	3 7 4 7	AXBZ	GUNU	16	16.G.C 16.U.V 16.N.C 16.U.V	2.0 1.5 1.75 0.8	xoɲoː	0
 581	Resigaro	ear	henákó	henákó	h e n a k o	None	Arawakan	h e n a k o	3448	745	Huber2021	3 7 4 7 1 7	AXBYBZ	HENAKU	20	20.H.C 20.E.V 20.N.C 20.A.V 20.K.C 20.U.V	2.0 1.5 1.75 1.3 1.75 0.8	henako	0
@@ -690,7 +690,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 4271	Yagua	ear	tuwa̠	tuwa̠	t u w !ã/a	None	Peba-Yagua	- - t u w !ã/a	3447	744	Gonzales2023	1 7 6 7	AXBZ	TYWA	32	32.T.C 32.Y.V 32.W.C 32.A.V	2.0 1.5 1.75 0.8	tuw!ã/a	0
 4460	Yanesha	ear	jet / etat͡s	jet	j e t	None	Arawakan	j e t	3455	751	Peña2024	6 7 1	AXN	JET	34	34.J.C 34.E.V 34.T.c	2.0 1.5 0.8	jet	0
 4461	Yanesha	ear	jet / etat͡s	etat͡s	e t a ts	None	Arawakan	e t a ts	3458	755	Peña2024	7 1 7 2	XBYN	ETAC	34	34.E.V 34.T.C 34.A.V 34.C.c	1.5 1.75 1.3 0.8	etats	0
-4568	Yanesha	ear	eˀmʷeɲets	eˀmʷeɲets	e ʔ mʷ e + ɲ e + ts	None	Arawakan	e ʔ mʷ e + ɲ e + ts	3459	756 2294 2314	Peña2024	7 1 4 7 9 4 7 9 2	XBCZ_AX_A	EHME_NE_C	34	34.E.V 34.H.C 34.M.C 34.E.V 34._._ 34.N.C 34.E.V 34._._ 34.C.C	1.5 1.75 1.5 0.8 0.0 2.0 1.5 0.0 2.0	eʔmʷe+ɲe+ts	0
+4568	Yanesha	ear	eˀmʷeɲets	eˀmʷeɲets	eˀ mʷ e + ɲ e + ts	None	Arawakan	eˀ mʷ e + ɲ e + ts	3459	756 2294 2314	Peña2024	7 4 7 9 4 7 9 2	XBZ_AX_A	EME_NE_C	34	34.E.V 34.M.C 34.E.V 34._._ 34.N.C 34.E.V 34._._ 34.C.C	1.5 1.75 0.8 0.0 2.0 1.5 0.0 2.0	eˀmʷe+ɲe+ts	0
 4679	Zaparo	ear	takɨrɨkaw	takɨrɨkaw	t a k ɨ r ɨ k au	None	Zaparoan	t a k ɨ r ɨ k au	3456	752	Beier2014	1 7 1 7 5 7 1 7	AXBYBYBZ	TAKIRIKA	35	35.T.C 35.A.V 35.K.C 35.I.V 35.R.C 35.I.V 35.K.C 35.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	takɨrɨkau	0
 37	Iquito	earth (soil)	níiya	níiya	n iː j a	soil or earth	Zaparoan	n iː j a	3472	778	Michael2022	4 7 6 7	AXBZ	NIJA	11	11.N.C 11.I.V 11.J.C 11.A.V	2.0 1.5 1.75 0.8	niːja	0
 375	Ocaina	earth (soil)	aɲ̥õõʔɯ̃	aɲ̥õõʔɯ̃	a ɲ̥ oː ʔ ɯ	Looks a lot like Boran words	Huitotoan	a ɲ̥ oː ʔ ɯ	3475	781	Huber2021	7 4 7 1 7	XBYBZ	ANUHI	16	16.A.V 16.N.C 16.U.V 16.H.C 16.I.V	1.5 1.75 1.3 1.75 0.8	aɲ̥oːʔɯ	0
@@ -744,7 +744,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3894	Urarina	egg	t̪ahé	t̪ahé	t a h e	None	Isolate	t a h e	3501	817	Peña2023	1 7 3 7	AXBZ	TAHE	26	26.T.C 26.A.V 26.H.C 26.E.V	2.0 1.5 1.75 0.8	tahe	0
 4122	Wampis	egg	nujin	nujin	n u h i n	None	Chicham	n u h i n	3489	800	Peña2023	4 7 3 7 4	AXBYN	NYHIN	27	27.N.C 27.Y.V 27.H.C 27.I.V 27.N.c	2.0 1.5 1.75 1.3 0.8	nuhin	0
 4315	Yagua	egg	wada	wada	w a d a	None	Peba-Yagua	w a d a -	3506	820	Gonzales2023	6 7 1 7	AXBZ	WATA	32	32.W.C 32.A.V 32.T.C 32.A.V	2.0 1.5 1.75 0.8	wada	0
-4525	Yanesha	egg	paˀmeˀ	paˀmeˀ	p a ʔ m e ʔ	None	Arawakan	p a ʔ m e ʔ	3507	822	Peña2024	1 7 1 4 7 1	AXBCYN	PAHMEH	34	34.P.C 34.A.V 34.H.C 34.M.C 34.E.V 34.H.c	2.0 1.5 1.75 1.5 1.3 0.8	paʔmeʔ	0
+4525	Yanesha	egg	paˀmeˀ	paˀmeˀ	p aˀ m eˀ	None	Arawakan	p aˀ m eˀ	3507	822	Peña2024	1 7 4 7	AXBZ	PAME	34	34.P.C 34.A.V 34.M.C 34.E.V	2.0 1.5 1.75 0.8	paˀmeˀ	0
 4682	Zaparo	egg	iku	iku	i k u	None	Zaparoan	- - - i k u	3490	801	Beier2014	7 1 7	XBZ	IKY	35	35.I.V 35.K.C 35.Y.V	1.5 1.75 0.8	iku	0
 40	Iquito	eye	namija	namija	n a m i h a	eye	Zaparoan	n a m i h a	3517	834	Michael2022	4 7 4 7 3 7	AXBYBZ	NAMIHA	11	11.N.C 11.A.V 11.M.C 11.I.V 11.H.C 11.A.V	2.0 1.5 1.75 1.3 1.75 0.8	namiha	0
 220	Ticuna	eye	-ʼétǜ	-ʼétǜ	ʔ e t ɯ	[-tr.] eye	Ticuna-Yuri	ʔ e t ɯ	3518	835	Bertet2020	1 7 1 7	AXBZ	HETI	25	25.H.C 25.E.V 25.T.C 25.I.V	2.0 1.5 1.75 0.8	ʔetɯ	0
@@ -850,7 +850,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3841	Yameo	father	ī́yē̠	ī́yē̠	i j e	Tessmann: Vater	Peba-Yagua	i j e	3610	936	Tessmann1930	7 6 7	XBZ	IJE	33	33.I.V 33.J.C 33.E.V	1.5 1.75 0.8	ije	0
 4099	Wampis	father	apa	apa	a p a	None	Chicham	- a p a	3605	933	Peña2023	7 1 7	XBZ	APA	27	27.A.V 27.P.C 27.A.V	1.5 1.75 0.8	apa	0
 4262	Yagua	father	saja̠y	saja̠y	s a + h !ã/a j	None	Peba-Yagua	s a + h !ã/a j	3609	935 1709	Gonzales2023	3 7 9 3 7 6	AX_AXN	SA_HAJ	32	32.S.C 32.A.V 32._._ 32.H.C 32.A.V 32.J.c	2.0 1.5 0.0 2.0 1.5 0.8	sa+h!ã/aj	0
-4449	Yanesha	father	apaˀ	apaˀ	a p a ʔ	None	Arawakan	a p a ʔ	3611	937	Peña2024	7 1 7 1	XBYN	APAH	34	34.A.V 34.P.C 34.A.V 34.H.c	1.5 1.75 1.3 0.8	apaʔ	0
+4449	Yanesha	father	apaˀ	apaˀ	a p aˀ	None	Arawakan	a p aˀ	3611	937	Peña2024	7 1 7	XBZ	APA	34	34.A.V 34.P.C 34.A.V	1.5 1.75 0.8	apaˀ	0
 4686	Zaparo	father	kumanu	kumanu	k u m a n u	None	Zaparoan	k u m a n u	3612	938	Beier2014	1 7 4 7 4 7	AXBYBZ	KYMANY	35	35.K.C 35.Y.V 35.M.C 35.A.V 35.N.C 35.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	kumanu	0
 4802	AchuarShiwiar	father	ápar	ápar	!á/a p a + r	None	Chicham	- !á/a p a + r	3606	933 798	Fast2008	7 1 7 9 5	XBZ_A	APA_R	1	1.A.V 1.P.C 1.A.V 1._._ 1.R.C	1.5 1.75 0.8 0.0 2.0	!á/apa+r	0
 46	Iquito	feather (larger feathers rather than down)	kajasi	kajasi	k a h a + s i	feather	Zaparoan	k a h a + s i	3627	954 57	Michael2022	1 7 3 7 9 3 7	AXBZ_AX	KAHA_SI	11	11.K.C 11.A.V 11.H.C 11.A.V 11._._ 11.S.C 11.I.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	kaha+si	0
@@ -910,7 +910,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 4046	Urarina	few	kud̺at̪aháhai	kud̺at̪aháhai	k u d a t a h a h a i	None	Isolate	k u d a t a h a h a i	7	1004	Peña2023	1 7 1 7 1 7 3 7 3 7 7	AXBYBYBYBYZ	KYTATAHAHAI	26	26.K.C 26.Y.V 26.T.C 26.A.V 26.T.C 26.A.V 26.H.C 26.A.V 26.H.C 26.A.V 26.I.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	kudatahahai	0
 4075	Wampis	few	ishichik	ishichik	i ʃ i tʃ i k	None	Chicham	i ʃ i tʃ i k	3658	997	Peña2023	7 3 7 1 7 1	XBYBYN	ISITIK	27	27.I.V 27.S.C 27.I.V 27.T.C 27.I.V 27.K.c	1.5 1.75 1.3 1.75 1.3 0.8	iʃitʃik	0
 4426	Yagua	few	pasidye	pasidye	p a s i + dʲ e	None	Peba-Yagua	p a s i - + dʲ e	10	1008 1711	Gonzales2023	1 7 3 7 9 1 7	AXBZ_AX	PASI_TE	32	32.P.C 32.A.V 32.S.C 32.I.V 32._._ 32.T.C 32.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	pasi+dʲe	0
-4645	Yanesha	few	koɲeˀtʲ	koɲeˀtʲ	k o + ɲ e ʔ + tʲ	None	Arawakan	k o + ɲ e ʔ + tʲ	14	1011 2325 2326	Peña2024	1 7 9 4 7 1 9 1	AX_AXN_A	KU_NEH_T	34	34.K.C 34.U.V 34._._ 34.N.C 34.E.V 34.H.c 34._._ 34.T.C	2.0 1.5 0.0 2.0 1.5 0.8 0.0 2.0	ko+ɲeʔ+tʲ	0
+4645	Yanesha	few	koɲeˀtʲ	koɲeˀtʲ	k o + ɲ eˀ + tʲ	None	Arawakan	k o + ɲ eˀ + tʲ	14	1011 2325 2326	Peña2024	1 7 9 4 7 9 1	AX_AX_A	KU_NE_T	34	34.K.C 34.U.V 34._._ 34.N.C 34.E.V 34._._ 34.T.C	2.0 1.5 0.0 2.0 1.5 0.0 2.0	ko+ɲeˀ+tʲ	0
 50	Iquito	fire	ijakɨ́ɨni	ijakɨ́ɨni	i h a k ɨː n i	fire	Zaparoan	i h a k ɨː n i	32	1030	Michael2022	7 3 7 1 7 4 7	XBYBYBZ	IHAKINI	11	11.I.V 11.H.C 11.A.V 11.K.C 11.I.V 11.N.C 11.I.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	ihakɨːni	0
 354	Ocaina	fire	tʲaaro	tʲaaro	tʲ a + a r o	None	Huitotoan	tʲ a + a r o	358	1456 1040	Huber2021	1 7 9 7 5 7	AX_XBZ	TA_ARU	16	16.T.C 16.A.V 16._._ 16.A.V 16.R.C 16.U.V	2.0 1.5 0.0 1.5 1.75 0.8	tʲa+aro	0
 601	Resigaro	fire	ókóniigí	ókóniigí	o k o n iː g i	None	Arawakan	o k o n iː g i	36	1035	Huber2021	7 1 7 4 7 1 7	XBYBYBZ	UKUNIKI	20	20.U.V 20.K.C 20.U.V 20.N.C 20.I.V 20.K.C 20.I.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	okoniːgi	0
@@ -945,7 +945,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3873	Urarina	fire	iʰs̪í	iʰs̪í	i̤ s i	None	Isolate	i̤ s i	39	1039	Peña2023	7 3 7	XBZ	ISI	26	26.I.V 26.S.C 26.I.V	1.5 1.75 0.8	i̤si	0
 4210	Wampis	fire	jii	jii	h iː	None	Chicham	h iː	18	1019	Peña2023	3 7	AX	HI	27	27.H.C 27.I.V	2.0 1.5	hiː	1
 4308	Yagua	fire	jida	jida	h i d a	None	Peba-Yagua	h i d a	43	1041	Gonzales2023	3 7 1 7	AXBZ	HITA	32	32.H.C 32.I.V 32.T.C 32.A.V	2.0 1.5 1.75 0.8	hida	0
-4518	Yanesha	fire	tsoˀ	tsoˀ	ts o ʔ	None	Arawakan	ts o ʔ	44	1043	Peña2024	2 7 1	AXN	CUH	34	34.C.C 34.U.V 34.H.c	2.0 1.5 0.8	tsoʔ	0
+4518	Yanesha	fire	tsoˀ	tsoˀ	ts oˀ	None	Arawakan	ts oˀ	44	1043	Peña2024	2 7	AX	CU	34	34.C.C 34.U.V	2.0 1.5	tsoˀ	0
 51	Iquito	fish	paápaaraja	paápaaraja	p aː p aː r a h a	fish (general term)	Zaparoan	p aː p aː r a h a	3328	59	Michael2022	1 7 1 7 5 7 3 7	AXBYBYBZ	PAPARAHA	11	11.P.C 11.A.V 11.P.C 11.A.V 11.R.C 11.A.V 11.H.C 11.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	paːpaːraha	0
 229	Ticuna	fish	chóʼni̋	chóʼni̋	tɕ o ʔ n i	fish	Ticuna-Yuri	tɕ o ʔ n i	60	1070	Bertet2020	2 7 1 4 7	AXBCZ	CUHNI	25	25.C.C 25.U.V 25.H.C 25.N.C 25.I.V	2.0 1.5 1.75 1.5 0.8	tɕoʔni	0
 388	Ocaina	fish	ĩhããm̥a	ĩhããm̥a	i h aː m̥ a	None	Huitotoan	i h aː m̥ a	56	1067	Huber2021	7 3 7 4 7	XBYBZ	IHAMA	16	16.I.V 16.H.C 16.A.V 16.M.C 16.A.V	1.5 1.75 1.3 1.75 0.8	ihaːm̥a	0
@@ -1105,7 +1105,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3869	Yameo	four	tšiúskō (Ket.)	tšiúskō	tʃ i u s k o	Tessmann: vier	Peba-Yagua	tʃ i u s k o	186	1243	Tessmann1930	1 7 7 3 1 7	AXYMBZ	TIYSKU	33	33.T.C 33.I.V 33.Y.V 33.S.c 33.K.C 33.U.V	2.0 1.5 1.3 1.1 1.75 0.8	tʃiusko	0
 4080	Wampis	four	aintuk aintuk	aintuk aintuk	a i n t u k + a i n t u k	None	Chicham	- a.i n t u k + - a.i n t u k	162	1217 1218	Peña2023	7 7 4 1 7 1 9 7 7 4 1 7 1	XYMBYN_XYMBYN	AINTYK_AINTYK	27	27.A.V 27.I.V 27.N.c 27.T.C 27.Y.V 27.K.c 27._._ 27.A.V 27.I.V 27.N.c 27.T.C 27.Y.V 27.K.c	1.5 1.3 1.1 1.75 1.3 0.8 0.0 1.5 1.3 1.1 1.75 1.3 0.8	aintuk+aintuk	0
 4424	Yagua	four	darajuyu	darajuyu	d a r a h u j u	None	Peba-Yagua	d a r a h u j u	185	1242	Gonzales2023	1 7 5 7 3 7 6 7	AXBYBYBZ	TARAHYJY	32	32.T.C 32.A.V 32.R.C 32.A.V 32.H.C 32.Y.V 32.J.C 32.Y.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	darahuju	0
-4642	Yanesha	four	paˀtats	paˀtats	p a ʔ t a + ts	None	Arawakan	p a ʔ t a + ts	187	1244 2360	Peña2024	1 7 1 1 7 9 2	AXMBZ_A	PAHTA_C	34	34.P.C 34.A.V 34.H.c 34.T.C 34.A.V 34._._ 34.C.C	2.0 1.5 1.1 1.75 0.8 0.0 2.0	paʔta+ts	0
+4642	Yanesha	four	paˀtats	paˀtats	p aˀ t a + ts	None	Arawakan	p aˀ t a + ts	187	1244 2360	Peña2024	1 7 1 7 9 2	AXBZ_A	PATA_C	34	34.P.C 34.A.V 34.T.C 34.A.V 34._._ 34.C.C	2.0 1.5 1.75 0.8 0.0 2.0	paˀta+ts	0
 4804	Wampis	four	ipak usumak	ipak usumak	i p a k + u s u m a k	None	Chicham	i p a k + u s u m a k	163	1219 1220	Peña2023	7 1 7 1 9 7 3 7 4 7 1	XBYN_XBYBYN	IPAK_YSYMAK	27	27.I.V 27.P.C 27.A.V 27.K.c 27._._ 27.Y.V 27.S.C 27.Y.V 27.M.C 27.A.V 27.K.c	1.5 1.75 1.3 0.8 0.0 1.5 1.75 1.3 1.75 1.3 0.8	ipak+usumak	0
 62	Iquito	good	suwáani	suwáani	s u w aː n i	good	Zaparoan	s u w aː n i	198	1259	Michael2022	3 7 6 7 4 7	AXBYBZ	SYWANI	11	11.S.C 11.Y.V 11.W.C 11.A.V 11.N.C 11.I.V	2.0 1.5 1.75 1.3 1.75 0.8	suwaːni	0
 232	Ticuna	good	mé	mé	m e	be good	Ticuna-Yuri	m e	206	1267	Bertet2020	4 7	AX	ME	25	25.M.C 25.E.V	2.0 1.5	me	0
@@ -1158,7 +1158,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3593	Shuar	grass	saák’	saák’	s aː kˀ	None	Chicham	s aː kˀ	230	1296	Pellizzaro2005	3 7 1	AXN	SAK	22	22.S.C 22.A.V 22.K.c	2.0 1.5 0.8	saːkˀ	0
 3947	Urarina	grass	fʷas̪t̪ú	fʷas̪t̪ú	fʷ a s t u	from Sapnish pasto	Isolate	fʷ a s t u	232	1298	Peña2023	3 7 3 1 7	AXMBZ	BASTY	26	26.B.C 26.A.V 26.S.c 26.T.C 26.Y.V	2.0 1.5 1.1 1.75 0.8	fʷastu	0
 4115	Wampis	grass	nupa	nupa	n u p a	None	Chicham	n u p a	216	1282	Peña2023	4 7 1 7	AXBZ	NYPA	27	27.N.C 27.Y.V 27.P.C 27.A.V	2.0 1.5 1.75 0.8	nupa	0
-4446	Yanesha	grass	taˀteˀ	taˀteˀ	t a ʔ t e ʔ	None	Arawakan	t a ʔ t e ʔ	238	1302	Peña2024	1 7 1 1 7 1	AXMBYN	TAHTEH	34	34.T.C 34.A.V 34.H.c 34.T.C 34.E.V 34.H.c	2.0 1.5 1.1 1.75 1.3 0.8	taʔteʔ	0
+4446	Yanesha	grass	taˀteˀ	taˀteˀ	t aˀ t eˀ	None	Arawakan	t aˀ t eˀ	238	1302	Peña2024	1 7 1 7	AXBZ	TATE	34	34.T.C 34.A.V 34.T.C 34.E.V	2.0 1.5 1.75 0.8	taˀteˀ	0
 4695	Zaparo	grass	yawsuka	yawsuka	j au s u k a	None	Zaparoan	( - - ) j au s u k a	217	1283	Beier2014	6 7 3 7 1 7	AXBYBZ	JASYKA	35	35.J.C 35.A.V 35.S.C 35.Y.V 35.K.C 35.A.V	2.0 1.5 1.75 1.3 1.75 0.8	jausuka	0
 64	Iquito	green	nɨyana	nɨyana	n ɨ j a n a	green	Zaparoan	n ɨ j a n a	249	1323	Michael2022	4 7 6 7 4 7	AXBYBZ	NIJANA	11	11.N.C 11.I.V 11.J.C 11.A.V 11.N.C 11.A.V	2.0 1.5 1.75 1.3 1.75 0.8	nɨjana	0
 233	Ticuna	green	ya̰u	ya̰u	dʑ a u	be blue or green	Ticuna-Yuri	dʑ a u	255	1330	Bertet2020	2 7 7	AXZ	CAY	25	25.C.C 25.A.V 25.Y.V	2.0 1.5 0.8	dʑau	0
@@ -1432,7 +1432,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 4002	Urarina	how	dʒat̪uʷan̪ẽ́ẽ́ĩ	dʒat̪uʷan̪ẽ́ẽ́ĩ	dʒ a t u a n e e i	None	Isolate	dʒ a t u a n e e i	476	1608	Peña2023	1 7 1 7 7 4 7 7 7	AXBYYBYYZ	TATYANEEI	26	26.T.C 26.A.V 26.T.C 26.Y.V 26.A.V 26.N.C 26.E.V 26.E.V 26.I.V	2.0 1.5 1.75 1.3 1.3 1.75 1.3 1.3 0.8	dʒatuaneei	0
 4070	Wampis	how	uruk	uruk	u r u k	None	Chicham	u r u k	462	1596	Peña2023	7 5 7 1	XBYN	YRYK	27	27.Y.V 27.R.C 27.Y.V 27.K.c	1.5 1.75 1.3 0.8	uruk	0
 4431	Yagua	how	nutyara_rawara	nutyara_rawara	n u tʲ a r a + r a w a r a	None	Peba-Yagua	n u tʲ a ( r a ) + r a w a r a	471	1602 1612	Gonzales2023	4 7 1 7 5 7 9 5 7 6 7 5 7	AXBYBZ_AXBYBZ	NYTARA_RAWARA	32	32.N.C 32.Y.V 32.T.C 32.A.V 32.R.C 32.A.V 32._._ 32.R.C 32.A.V 32.W.C 32.A.V 32.R.C 32.A.V	2.0 1.5 1.75 1.3 1.75 0.8 0.0 2.0 1.5 1.75 1.3 1.75 0.8	nutʲara+rawara	0
-4650	Yanesha	how	eɻotʲenaˀt	eɻotʲenaˀt	e ɻ o tʲ e n a ʔ t	None	Arawakan	e ɻ o tʲ e n a ʔ t	479	1613	Peña2024	7 5 7 1 7 4 7 1 1	XBYBYBYLN	ERUTENAHT	34	34.E.V 34.R.C 34.U.V 34.T.C 34.E.V 34.N.C 34.A.V 34.H.c 34.T.c	1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.1 0.8	eɻotʲenaʔt	0
+4650	Yanesha	how	eɻotʲenaˀt	eɻotʲenaˀt	e ɻ o tʲ e n aˀ t	None	Arawakan	e ɻ o tʲ e n aˀ t	479	1613	Peña2024	7 5 7 1 7 4 7 1	XBYBYBYN	ERUTENAT	34	34.E.V 34.R.C 34.U.V 34.T.C 34.E.V 34.N.C 34.A.V 34.T.c	1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	eɻotʲenaˀt	0
 4707	Zaparo	how	tiya	tiya	t i j a	None	Zaparoan	t i j a	480	1614	Beier2014	1 7 6 7	AXBZ	TIJA	35	35.T.C 35.I.V 35.J.C 35.A.V	2.0 1.5 1.75 0.8	tija	0
 4821	Aguaruna	how	utujsáya	utujsáya	u t u h s !á/a j a	None	Chicham	u t u h s !á/a ( j a )	461	1595	Paati2020	7 1 7 3 3 7 6 7	XBYMBYBZ	YTYHSAJA	2	2.Y.V 2.T.C 2.Y.V 2.H.c 2.S.C 2.A.V 2.J.C 2.A.V	1.5 1.75 1.3 1.1 1.75 1.3 1.75 0.8	utuhs!á/aja	0
 4822	Wampis	how	itura	itura	i t u r a	None	Chicham	i t u - r a ( - - )	461	1595	Peña2015	7 1 7 5 7	XBYBZ	ITYRA	27	27.I.V 27.T.C 27.Y.V 27.R.C 27.A.V	1.5 1.75 1.3 1.75 0.8	itura	0
@@ -1938,7 +1938,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3957	Urarina	near	iʰtʃũṹ	iʰtʃũṹ	i̤ tʃ u u	None	Isolate	i̤ tʃ u u	919	2146	Peña2023	7 1 7 7	XBYZ	ITYY	26	26.I.V 26.T.C 26.Y.V 26.Y.V	1.5 1.75 1.3 0.8	i̤tʃuu	0
 4237	Wampis	near	ijus	ijus	i h u s	None	Chicham	i h u s	920	2147	Peña2023	7 3 7 3	XBYN	IHYS	27	27.I.V 27.H.C 27.Y.V 27.S.c	1.5 1.75 1.3 0.8	ihus	0
 4409	Yagua	near	ida	ida	i d a	None	Peba-Yagua	i d a	928	2152	Gonzales2023	7 1 7	XBZ	ITA	32	32.I.V 32.T.C 32.A.V	1.5 1.75 0.8	ida	0
-4627	Yanesha	near	aʎameˀtets	aʎameˀtets	a ʎ a m e ʔ t e ts	None	Arawakan	a ʎ a m e ʔ t e ts	929	2153	Peña2024	7 5 7 4 7 1 1 7 2	XBYBYMBYN	ALAMEHTEC	34	34.A.V 34.L.C 34.A.V 34.M.C 34.E.V 34.H.c 34.T.C 34.E.V 34.C.c	1.5 1.75 1.3 1.75 1.3 1.1 1.75 1.3 0.8	aʎameʔtets	0
+4627	Yanesha	near	aʎameˀtets	aʎameˀtets	a ʎ a m eˀ t e ts	None	Arawakan	a ʎ a m eˀ t e ts	929	2153	Peña2024	7 5 7 4 7 1 7 2	XBYBYBYN	ALAMETEC	34	34.A.V 34.L.C 34.A.V 34.M.C 34.E.V 34.T.C 34.E.V 34.C.c	1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	aʎameˀtets	0
 98	Iquito	neck	ríkiija	ríkiija	r i k iː h a	neck	Zaparoan	r i k iː h a	937	2160	Michael2022	5 7 1 7 3 7	AXBYBZ	RIKIHA	11	11.R.C 11.I.V 11.K.C 11.I.V 11.H.C 11.A.V	2.0 1.5 1.75 1.3 1.75 0.8	rikiːha	0
 261	Ticuna	neck	-náʼa	-náʼa	n a ʔ a	[-tr.] neck	Ticuna-Yuri	n a ʔ a	955	2172	Bertet2020	4 7 1 7	AXBZ	NAHA	25	25.N.C 25.A.V 25.H.C 25.A.V	2.0 1.5 1.75 0.8	naʔa	0
 331	Ocaina	neck	ɲõmã́ã́ʔõ	ɲõmã́ã́ʔõ	ɲ o m aː + ʔ o	I believe this means 'throat' / CLF:TUBULAR	Huitotoan	( - - ) ɲ o m aː ( - - ) + ʔ o	947	2166 1651	Huber2021	4 7 4 7 9 1 7	AXBZ_AX	NUMA_HU	16	16.N.C 16.U.V 16.M.C 16.A.V 16._._ 16.H.C 16.U.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	ɲomaː+ʔo	0
@@ -2199,7 +2199,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 4020	Urarina	other	l̪eeúʧa	l̪eeúʧa	l e e u tʃ a	None	Isolate	l e e u tʃ a	1118	2418	Peña2023	5 7 7 7 1 7	AXYYBZ	LEEYTA	26	26.L.C 26.E.V 26.E.V 26.Y.V 26.T.C 26.A.V	2.0 1.5 1.3 1.3 1.75 0.8	leeutʃa	0
 4076	Wampis	other	tikich	tikich	t i k i tʃ	None	Chicham	t i k i tʃ	1109	2406	Peña2023	1 7 1 7 1	AXBYN	TIKIT	27	27.T.C 27.I.V 27.K.C 27.I.V 27.T.c	2.0 1.5 1.75 1.3 0.8	tikitʃ	0
 4428	Yagua	other	ti̠	ti̠	t !ĩ/i	None	Peba-Yagua	t !ĩ/i	1121	2420	Gonzales2023	1 7	AX	TI	32	32.T.C 32.I.V	2.0 1.5	t!ĩ/i	0
-4648	Yanesha	other	poˀpoɲ	poˀpoɲ	p o ʔ p o ɲ	None	Arawakan	p o ʔ p o ɲ	1122	2421	Peña2024	1 7 1 1 7 4	AXMBYN	PUHPUN	34	34.P.C 34.U.V 34.H.c 34.P.C 34.U.V 34.N.c	2.0 1.5 1.1 1.75 1.3 0.8	poʔpoɲ	0
+4648	Yanesha	other	poˀpoɲ	poˀpoɲ	p oˀ p o ɲ	None	Arawakan	p oˀ p o ɲ	1122	2421	Peña2024	1 7 1 7 4	AXBYN	PUPUN	34	34.P.C 34.U.V 34.P.C 34.U.V 34.N.c	2.0 1.5 1.75 1.3 0.8	poˀpoɲ	0
 4730	Zaparo	other	taka	taka	t a k a	None	Zaparoan	t a k a	1110	2407	Beier2014	1 7 1 7	AXBZ	TAKA	35	35.T.C 35.A.V 35.K.C 35.A.V	2.0 1.5 1.75 0.8	taka	0
 106	Iquito	person	kaaya	kaaya	k aː j a	person or human being	Zaparoan	k aː j a	1127	2443	Michael2022	1 7 6 7	AXBZ	KAJA	11	11.K.C 11.A.V 11.J.C 11.A.V	2.0 1.5 1.75 0.8	kaːja	0
 266	Ticuna	person	dùã̰	dùã̰	d u a	human	Ticuna-Yuri	d u - a	1128	2444	Bertet2020	1 7 7	AXZ	TYA	25	25.T.C 25.Y.V 25.A.V	2.0 1.5 0.8	dua	0
@@ -2255,7 +2255,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3906	Urarina	red	l̪an̪ãhiĩ́	l̪an̪ãhiĩ́	l a n a h i i	None	Isolate	l a n a h i i	1158	2480	Peña2023	5 7 4 7 3 7 7	AXBYBYZ	LANAHII	26	26.L.C 26.A.V 26.N.C 26.A.V 26.H.C 26.I.V 26.I.V	2.0 1.5 1.75 1.3 1.75 1.3 0.8	lanahii	0
 4215	Wampis	red	kapantu	kapantu	k a p a n t u	None	Chicham	k a p a n t u -	1137	2458	Peña2023	1 7 1 7 4 1 7	AXBYMBZ	KAPANTY	27	27.K.C 27.A.V 27.P.C 27.A.V 27.N.c 27.T.C 27.Y.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	kapantu	0
 4401	Yagua	red	runa	runa	r u n a	None	Peba-Yagua	r u n a	1161	2483	Gonzales2023	5 7 4 7	AXBZ	RYNA	32	32.R.C 32.Y.V 32.N.C 32.A.V	2.0 1.5 1.75 0.8	runa	0
-4618	Yanesha	red	tsamaˀtʲ	tsamaˀtʲ	ts a m a ʔ tʲ	None	Arawakan	ts a m a ʔ tʲ	1163	2485	Peña2024	2 7 4 7 1 1	AXBYLN	CAMAHT	34	34.C.C 34.A.V 34.M.C 34.A.V 34.H.c 34.T.c	2.0 1.5 1.75 1.3 1.1 0.8	tsamaʔtʲ	0
+4618	Yanesha	red	tsamaˀtʲ	tsamaˀtʲ	ts a m aˀ tʲ	None	Arawakan	ts a m aˀ tʲ	1163	2485	Peña2024	2 7 4 7 1	AXBYN	CAMAT	34	34.C.C 34.A.V 34.M.C 34.A.V 34.T.c	2.0 1.5 1.75 1.3 0.8	tsamaˀtʲ	0
 4736	Zaparo	red	natuka	natuka	n a t u k a	None	Zaparoan	n a t u k a	1140	2460	Beier2014	4 7 1 7 1 7	AXBYBZ	NATYKA	35	35.N.C 35.A.V 35.T.C 35.Y.V 35.K.C 35.A.V	2.0 1.5 1.75 1.3 1.75 0.8	natuka	0
 722	Resigaro	right (correct)	hameeʔn̥áʔoo	hameeʔn̥áʔoo	h a m eː ʔ n̥ a ʔ oː	None	Arawakan	h a m eː ʔ n̥ a ʔ oː	1171	2507	Huber2021	3 7 4 7 1 4 7 1 7	AXBYBCYBZ	HAMEHNAHU	20	20.H.C 20.A.V 20.M.C 20.E.V 20.H.C 20.N.C 20.A.V 20.H.C 20.U.V	2.0 1.5 1.75 1.3 1.75 1.5 1.3 1.75 0.8	hameːʔn̥aʔoː	0
 935	WitotoMinica	right (correct)	ɲuéra	ɲuéra	ɲ u e ɾ a	Possible /-ra/ ATT	Huitotoan	ɲ u e ɾ a	1176	2512	Huber2021	4 7 7 5 7	AXYBZ	NYERA	29	29.N.C 29.Y.V 29.E.V 29.R.C 29.A.V	2.0 1.5 1.3 1.75 0.8	ɲueɾa	1
@@ -2638,7 +2638,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3948	Urarina	short	s̪aɾ̺uʷeki	s̪aɾ̺uʷeki	s a ɾ u e k i	None	Isolate	s a ɾ u e k i	1462	2920	Peña2023	3 7 5 7 7 1 7	AXBYYBZ	SARYEKI	26	26.S.C 26.A.V 26.R.C 26.Y.V 26.E.V 26.K.C 26.I.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	saɾueki	0
 4089	Wampis	short	sutar	sutar	s u t a r	None	Chicham	s u t a r - -	1447	2904	Peña2023	3 7 1 7 5	AXBYN	SYTAR	27	27.S.C 27.Y.V 27.T.C 27.A.V 27.R.c	2.0 1.5 1.75 1.3 0.8	sutar	0
 4420	Yagua	short	pasidyera	pasidyera	p a s i dʲ e r a	None	Peba-Yagua	p a s i dʲ e r a	1467	2923	Gonzales2023	1 7 3 7 1 7 5 7	AXBYBYBZ	PASITERA	32	32.P.C 32.A.V 32.S.C 32.I.V 32.T.C 32.E.V 32.R.C 32.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	pasidʲera	0
-4639	Yanesha	short	koɲeˀtʲ	koɲeˀtʲ	k o ɲ e ʔ tʲ	None	Arawakan	k o ɲ e ʔ tʲ	1469	2925	Peña2024	1 7 4 7 1 1	AXBYLN	KUNEHT	34	34.K.C 34.U.V 34.N.C 34.E.V 34.H.c 34.T.c	2.0 1.5 1.75 1.3 1.1 0.8	koɲeʔtʲ	0
+4639	Yanesha	short	koɲeˀtʲ	koɲeˀtʲ	k o ɲ eˀ tʲ	None	Arawakan	k o ɲ eˀ tʲ	1469	2925	Peña2024	1 7 4 7 1	AXBYN	KUNET	34	34.K.C 34.U.V 34.N.C 34.E.V 34.T.c	2.0 1.5 1.75 1.3 0.8	koɲeˀtʲ	0
 130	Iquito	sit	ajirɨ́ɨ̀nì	ajirɨ́ɨ̀nì	a h i r ɨː n i	None	Zaparoan	- a h i r ɨː n i	1475	2938	Michael2022	7 3 7 5 7 4 7	XBYBYBZ	AHIRINI	11	11.A.V 11.H.C 11.I.V 11.R.C 11.I.V 11.N.C 11.I.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	ahirɨːni	0
 282	Ticuna	sit	tŏ	tŏ	t o	sit	Ticuna-Yuri	t o	1482	2946	Bertet2020	1 7	AX	TU	25	25.T.C 25.U.V	2.0 1.5	to	1
 1479	Aguaruna	sit	ɨkɨmat	ɨkɨmat	ɨ k ɨ m a + t	t(a) nominalizer	Chicham	ɨ k ɨ m a + t	1472	2937 575	Johansson2021	7 1 7 4 7 9 1	XBYBZ_A	IKIMA_T	2	2.I.V 2.K.C 2.I.V 2.M.C 2.A.V 2._._ 2.T.C	1.5 1.75 1.3 1.75 0.8 0.0 2.0	ɨkɨma+t	0
@@ -2935,7 +2935,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3892	Urarina	stone	ahed̺í	ahed̺í	a h e d i	None	Isolate	a h e d i	1701	3255	Peña2023	7 3 7 1 7	XBYBZ	AHETI	26	26.A.V 26.H.C 26.E.V 26.T.C 26.I.V	1.5 1.75 1.3 1.75 0.8	ahedi	0
 4201	Wampis	stone	kaya	kaya	k a j a	None	Chicham	k a j a	1688	3241	Peña2023	1 7 6 7	AXBZ	KAJA	27	27.K.C 27.A.V 27.J.C 27.A.V	2.0 1.5 1.75 0.8	kaja	0
 4313	Yagua	stone	rawuchu	rawuchu	r a w u tʃ u	None	Peba-Yagua	r a w u tʃ u	1704	3258	Gonzales2023	5 7 6 7 1 7	AXBYBZ	RAWYTY	32	32.R.C 32.A.V 32.W.C 32.Y.V 32.T.C 32.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	rawutʃu	0
-4523	Yanesha	stone	mapʷeˀ	mapʷeˀ	m a pʷ e ʔ	None	Arawakan	m a pʷ e ʔ	1706	3260	Peña2024	4 7 1 7 1	AXBYN	MAPEH	34	34.M.C 34.A.V 34.P.C 34.E.V 34.H.c	2.0 1.5 1.75 1.3 0.8	mapʷeʔ	0
+4523	Yanesha	stone	mapʷeˀ	mapʷeˀ	m a pʷ eˀ	None	Arawakan	m a pʷ eˀ	1706	3260	Peña2024	4 7 1 7	AXBZ	MAPE	34	34.M.C 34.A.V 34.P.C 34.E.V	2.0 1.5 1.75 0.8	mapʷeˀ	0
 4761	Zaparo	stone	naruka	naruka	n a r u k a	None	Zaparoan	n a r u k a	1707	3261	Beier2014	4 7 5 7 1 7	AXBYBZ	NARYKA	35	35.N.C 35.A.V 35.R.C 35.Y.V 35.K.C 35.A.V	2.0 1.5 1.75 1.3 1.75 0.8	naruka	0
 149	Iquito	straight	kamíkiikaana	kamíkiikaana	k a m i k iː k aː n a	straight	Zaparoan	k a m i k iː k aː n a	1713	3276	Michael2022	1 7 4 7 1 7 1 7 4 7	AXBYBYBYBZ	KAMIKIKANA	11	11.K.C 11.A.V 11.M.C 11.I.V 11.K.C 11.I.V 11.K.C 11.A.V 11.N.C 11.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	kamikiːkaːna	0
 292	Ticuna	straight	wī	wī	w i	be straight	Ticuna-Yuri	w i	1720	3282	Bertet2020	6 7	AX	WI	25	25.W.C 25.I.V	2.0 1.5	wi	1
@@ -2994,7 +2994,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3946	Urarina	sun	en̪ũt̪ú	en̪ũt̪ú	e n u t u	None	Isolate	e n u t u	1749	3318	Peña2023	7 4 7 1 7	XBYBZ	ENYTY	26	26.E.V 26.N.C 26.Y.V 26.T.C 26.Y.V	1.5 1.75 1.3 1.75 0.8	enutu	0
 4193	Wampis	sun	etsa	etsa	ɨ ts a	None	Chicham	- ɨ ts a ( - - )	1728	3299	Peña2023	7 2 7	XBZ	ICA	27	27.I.V 27.C.C 27.A.V	1.5 1.75 0.8	ɨtsa	0
 4321	Yagua	sun	ñi	ñi	ɲ i	None	Peba-Yagua	ɲ i -	1737	3306	Gonzales2023	4 7	AX	NI	32	32.N.C 32.I.V	2.0 1.5	ɲi	0
-4531	Yanesha	sun	atsneˀ	atsneˀ	a ts n e ʔ	None	Arawakan	a ts n e ʔ	1754	3322	Peña2024	7 2 4 7 1	XBCYN	ACNEH	34	34.A.V 34.C.C 34.N.C 34.E.V 34.H.c	1.5 1.75 1.5 1.3 0.8	atsneʔ	0
+4531	Yanesha	sun	atsneˀ	atsneˀ	a ts n eˀ	None	Arawakan	a ts n eˀ	1754	3322	Peña2024	7 2 4 7	XBCZ	ACNE	34	34.A.V 34.C.C 34.N.C 34.E.V	1.5 1.75 1.5 0.8	atsneˀ	0
 4763	Zaparo	sun	yanawkwa	yanawkwa	j a n au kʷ a	None	Zaparoan	j a n au kʷ a	351	144	Beier2014	6 7 4 7 1 7	AXBYBZ	JANAKA	35	35.J.C 35.A.V 35.N.C 35.A.V 35.K.C 35.A.V	2.0 1.5 1.75 1.3 1.75 0.8	janaukʷa	0
 4880	Shuar	sun	etsa	etsa	ɨ ts a	Para decir sol, se prefiere el tér- mino “tsawái nantu” (astro del día).	Chicham	- ɨ ts a ( - - )	1728	3299	Pellizzaro2005	7 2 7	XBZ	ICA	22	22.I.V 22.C.C 22.A.V	1.5 1.75 0.8	ɨtsa	0
 154	Iquito	tail	aniáàsì	aniáàsì	a n i aː s i	None	Zaparoan	a n i aː s i	1765	3343	Michael2022	7 4 7 7 3 7	XBYYBZ	ANIASI	11	11.A.V 11.N.C 11.I.V 11.A.V 11.S.C 11.I.V	1.5 1.75 1.3 1.3 1.75 0.8	aniaːsi	0
@@ -3160,7 +3160,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 4013	Urarina	thin	haɹe̥heéd̺iʲa	haɹe̥heéd̺iʲa	h a ɹ e h e e d i a	None	Isolate	h a ɹ e h e e d i a	1858	3505	Peña2023	3 7 5 7 3 7 7 1 7 7	AXBYBYYBYZ	HAREHEETIA	26	26.H.C 26.A.V 26.R.C 26.E.V 26.H.C 26.E.V 26.E.V 26.T.C 26.I.V 26.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.3 1.75 1.3 0.8	haɹeheedia	0
 4091	Wampis	thin	japat	japat	h a p a t	None	Chicham	h a p a t	1859	3506	Peña2023	3 7 1 7 1	AXBYN	HAPAT	27	27.H.C 27.A.V 27.P.C 27.A.V 27.T.c	2.0 1.5 1.75 1.3 0.8	hapat	0
 4417	Yagua	thin	pasipuda	pasipuda	p a s i + p u d a	pasi 'chico' puda 'barriga'	Peba-Yagua	p a s i + p u d a	1862	3509 2037	Gonzales2023	1 7 3 7 9 1 7 1 7	AXBZ_AXBZ	PASI_PYTA	32	32.P.C 32.A.V 32.S.C 32.I.V 32._._ 32.P.C 32.Y.V 32.T.C 32.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	pasi+puda	0
-4636	Yanesha	thin	pʷeˀpeɾ	pʷeˀpeɾ	pʷ e ʔ p e ɾ	None	Arawakan	pʷ e ʔ p e ɾ	1864	3510	Peña2024	1 7 1 1 7 5	AXMBYN	PEHPER	34	34.P.C 34.E.V 34.H.c 34.P.C 34.E.V 34.R.c	2.0 1.5 1.1 1.75 1.3 0.8	pʷeʔpeɾ	0
+4636	Yanesha	thin	pʷeˀpeɾ	pʷeˀpeɾ	pʷ eˀ p e ɾ	None	Arawakan	pʷ eˀ p e ɾ	1864	3510	Peña2024	1 7 1 7 5	AXBYN	PEPER	34	34.P.C 34.E.V 34.P.C 34.E.V 34.R.c	2.0 1.5 1.75 1.3 0.8	pʷeˀpeɾ	0
 4883	Aguaruna	thin	tsatsáptin	tsatsáptin	ts a ts !á/a p + t i n	None	Chicham	ts a ts !á/a p - + t i n	3622	948 949	Paati2020	2 7 2 7 1 9 1 7 4	AXBYN_AXN	CACAP_TIN	2	2.C.C 2.A.V 2.C.C 2.A.V 2.P.c 2._._ 2.T.C 2.I.V 2.N.c	2.0 1.5 1.75 1.3 0.8 0.0 2.0 1.5 0.8	tsats!á/ap+tin	0
 4884	Shuar	thin	watsarú	watsarú	w a ts a r !ú/u	Nope	Chicham	w a ts a r !ú/u	1842	3493	Pellizzaro2005	6 7 2 7 5 7	AXBYBZ	WACARY	22	22.W.C 22.A.V 22.C.C 22.A.V 22.R.C 22.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	watsar!ú/u	0
 4885	Shuar	thin	tsatsap’	tsatsap’	ts a ts a pˀ	Nope	Chicham	ts a ts a pˀ -	3621	948	Pellizzaro2005	2 7 2 7 1	AXBYN	CACAP	22	22.C.C 22.A.V 22.C.C 22.A.V 22.P.c	2.0 1.5 1.75 1.3 0.8	tsatsapˀ	0
@@ -3251,7 +3251,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3825	Yameo	three	kin̊sắ (von kimsa Ketsch.)	kin̊sắ	k i n s a	Tessmann: drei	Peba-Yagua	- - k i n s a	1910	3589	Tessmann1930	1 7 4 3 7	AXMBZ	KINSA	33	33.K.C 33.I.V 33.N.c 33.S.C 33.A.V	2.0 1.5 1.1 1.75 0.8	kinsa	0
 4079	Wampis	three	kampatum	kampatum	k a m p a t u m	None	Chicham	k a m p a t u m	1901	3581	Peña2023	1 7 4 1 7 1 7 4	AXMBYBYN	KAMPATYM	27	27.K.C 27.A.V 27.M.c 27.P.C 27.A.V 27.T.C 27.Y.V 27.M.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	kampatum	0
 4423	Yagua	three	mumuri̠	mumuri̠	m u m u r !ĩ/i	None	Peba-Yagua	m u m u r !ĩ/i	1921	3603	Gonzales2023	4 7 4 7 5 7	AXBYBZ	MYMYRI	32	32.M.C 32.Y.V 32.M.C 32.Y.V 32.R.C 32.I.V	2.0 1.5 1.75 1.3 1.75 0.8	mumur!ĩ/i	0
-4641	Yanesha	three	maˀpa	maˀpa	m a ʔ p a	None	Arawakan	m a ʔ p a	1922	3604	Peña2024	4 7 1 1 7	AXMBZ	MAHPA	34	34.M.C 34.A.V 34.H.c 34.P.C 34.A.V	2.0 1.5 1.1 1.75 0.8	maʔpa	0
+4641	Yanesha	three	maˀpa	maˀpa	m aˀ p a	None	Arawakan	m aˀ p a	1922	3604	Peña2024	4 7 1 7	AXBZ	MAPA	34	34.M.C 34.A.V 34.P.C 34.A.V	2.0 1.5 1.75 0.8	maˀpa	0
 4772	Zaparo	three	aymukamara	aymukamara	ai m u k a m a r a	None	Zaparoan	ai m u k a m a r a	1923	3605	Beier2014	7 4 7 1 7 4 7 5 7	XBYBYBYBZ	AMYKAMARA	35	35.A.V 35.M.C 35.Y.V 35.K.C 35.A.V 35.M.C 35.A.V 35.R.C 35.A.V	1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	aimukamara	0
 14	Iquito	to bite	sɨ́ɨni	sɨ́ɨni	s ɨː n i	bite	Zaparoan	s ɨː n i -	1932	3620	Michael2022	3 7 4 7	AXBZ	SINI	11	11.S.C 11.I.V 11.N.C 11.I.V	2.0 1.5 1.75 0.8	sɨːni	0
 208	Ticuna	to bite	bü̆ʼü	bü̆ʼü	b ɯ ʔ ɯ	bite	Ticuna-Yuri	b ɯ ʔ ɯ	1943	3630	Bertet2020	1 7 1 7	AXBZ	PIHI	25	25.P.C 25.I.V 25.H.C 25.I.V	2.0 1.5 1.75 0.8	bɯʔɯ	0
@@ -3369,7 +3369,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3994	Urarina	to count	han̪iiɲã́	han̪iiɲã́	h a n i i + ɲ a	None	Isolate	h a n i i + ɲ a	2021	3742 2189	Peña2023	3 7 4 7 7 9 4 7	AXBYZ_AX	HANII_NA	26	26.H.C 26.A.V 26.N.C 26.I.V 26.I.V 26._._ 26.N.C 26.A.V	2.0 1.5 1.75 1.3 0.8 0.0 2.0 1.5	hanii+ɲa	0
 4189	Wampis	to count	nekapmat	nekapmat	n ɨ k a p m a + t	-t(a) nominalizer	Chicham	n ɨ k a p m a + t	2015	3737 582	Peña2023	4 7 1 7 1 4 7 9 1	AXBYBCZ_A	NIKAPMA_T	27	27.N.C 27.I.V 27.K.C 27.A.V 27.P.C 27.M.C 27.A.V 27._._ 27.T.C	2.0 1.5 1.75 1.3 1.75 1.5 0.8 0.0 2.0	nɨkapma+t	0
 4361	Yagua	to count	yasaranu̠	yasaranu̠	j a + s a r a n !ũ/u	None	Peba-Yagua	j a + s a r a n !ũ/u	832	2044 3743	Gonzales2023	6 7 9 3 7 5 7 4 7	AX_AXBYBZ	JA_SARANY	32	32.J.C 32.A.V 32._._ 32.S.C 32.A.V 32.R.C 32.A.V 32.N.C 32.Y.V	2.0 1.5 0.0 2.0 1.5 1.75 1.3 1.75 0.8	ja+saran!ũ/u	0
-4573	Yanesha	to count	eˀɲoteɲets	eˀɲoteɲets	e ʔ ɲ o t e + ɲ e + ts	None	Arawakan	e ʔ ɲ o t e + ɲ e + ts	2022	3744 2271 2272	Peña2024	7 1 4 7 1 7 9 4 7 9 2	XBCYBZ_AX_A	EHNUTE_NE_C	34	34.E.V 34.H.C 34.N.C 34.U.V 34.T.C 34.E.V 34._._ 34.N.C 34.E.V 34._._ 34.C.C	1.5 1.75 1.5 1.3 1.75 0.8 0.0 2.0 1.5 0.0 2.0	eʔɲote+ɲe+ts	0
+4573	Yanesha	to count	eˀɲoteɲets	eˀɲoteɲets	eˀ ɲ o t e + ɲ e + ts	None	Arawakan	eˀ ɲ o t e + ɲ e + ts	2022	3744 2271 2272	Peña2024	7 4 7 1 7 9 4 7 9 2	XBYBZ_AX_A	ENUTE_NE_C	34	34.E.V 34.N.C 34.U.V 34.T.C 34.E.V 34._._ 34.N.C 34.E.V 34._._ 34.C.C	1.5 1.75 1.3 1.75 0.8 0.0 2.0 1.5 0.0 2.0	eˀɲote+ɲe+ts	0
 4893	Shuar	to count	nekápma-r	nekápma-r	n ɨ k !á/a p m a + r	None	Chicham	n ɨ k !á/a p m a + r	2016	3737 980	Pellizzaro2005	4 7 1 7 1 4 7 9 5	AXBYBCZ_A	NIKAPMA_R	22	22.N.C 22.I.V 22.K.C 22.A.V 22.P.C 22.M.C 22.A.V 22._._ 22.R.C	2.0 1.5 1.75 1.3 1.75 1.5 0.8 0.0 2.0	nɨk!á/apma+r	0
 4894	Aguaruna	to count	dekápat	dekápat	d ɨ k !á/a p a + t	None	Chicham	d ɨ k !á/a p - a + t	2015	3737 582	Paati2020	1 7 1 7 1 7 9 1	AXBYBZ_A	TIKAPA_T	2	2.T.C 2.I.V 2.K.C 2.A.V 2.P.C 2.A.V 2._._ 2.T.C	2.0 1.5 1.75 1.3 1.75 0.8 0.0 2.0	dɨk!á/apa+t	0
 27	Iquito	to cut	rapíini	rapíini	r a p iː n i	cut	Zaparoan	r a p iː n i	2026	3749	Michael2022	5 7 1 7 4 7	AXBYBZ	RAPINI	11	11.R.C 11.A.V 11.P.C 11.I.V 11.N.C 11.I.V	2.0 1.5 1.75 1.3 1.75 0.8	rapiːni	0
@@ -3567,7 +3567,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3964	Urarina	to fear	kasiɲãã́	kasiɲãã́	k a s i + ɲ a a	None	Isolate	k a s i + ɲ a a	2181	3953 2210	Peña2023	1 7 3 7 9 4 7 7	AXBZ_AXZ	KASI_NAA	26	26.K.C 26.A.V 26.S.C 26.I.V 26._._ 26.N.C 26.A.V 26.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 0.8	kasi+ɲaa	0
 4157	Wampis	to fear	ashamat	ashamat	a ʃ a m a + t	-t(a)	Chicham	a ʃ a m a + t	2179	3950 612	Peña2023	7 3 7 4 7 9 1	XBYBZ_A	ASAMA_T	27	27.A.V 27.S.C 27.A.V 27.M.C 27.A.V 27._._ 27.T.C	1.5 1.75 1.3 1.75 0.8 0.0 2.0	aʃama+t	0
 4360	Yagua	to fear	yasu̠wu̠	yasu̠wu̠	j a + s !ũ/u w !ũ/u	None	Peba-Yagua	j a + s !ũ/u w !ũ/u	2184	3955 2076	Gonzales2023	6 7 9 3 7 6 7	AX_AXBZ	JA_SYWY	32	32.J.C 32.A.V 32._._ 32.S.C 32.Y.V 32.W.C 32.Y.V	2.0 1.5 0.0 2.0 1.5 1.75 0.8	ja+s!ũ/uw!ũ/u	0
-4572	Yanesha	to fear	metʃaˀteɲets	metʃaˀteɲets	m e tʃ a ʔ t e + ɲ e + ts	None	Arawakan	m e tʃ a ʔ t e + ɲ e + ts	2185	3956 2322 2323	Peña2024	4 7 1 7 1 1 7 9 4 7 9 2	AXBYMBZ_AX_A	METAHTE_NE_C	34	34.M.C 34.E.V 34.T.C 34.A.V 34.H.c 34.T.C 34.E.V 34._._ 34.N.C 34.E.V 34._._ 34.C.C	2.0 1.5 1.75 1.3 1.1 1.75 0.8 0.0 2.0 1.5 0.0 2.0	metʃaʔte+ɲe+ts	0
+4572	Yanesha	to fear	metʃaˀteɲets	metʃaˀteɲets	m e tʃ aˀ t e + ɲ e + ts	None	Arawakan	m e tʃ aˀ t e + ɲ e + ts	2185	3956 2322 2323	Peña2024	4 7 1 7 1 7 9 4 7 9 2	AXBYBZ_AX_A	METATE_NE_C	34	34.M.C 34.E.V 34.T.C 34.A.V 34.T.C 34.E.V 34._._ 34.N.C 34.E.V 34._._ 34.C.C	2.0 1.5 1.75 1.3 1.75 0.8 0.0 2.0 1.5 0.0 2.0	metʃaˀte+ɲe+ts	0
 4687	Zaparo	to fear	pɨrɨnu	pɨrɨnu	p ɨ r ɨ n u	None	Zaparoan	p ɨ r ɨ n u	2173	3945	Beier2014	1 7 5 7 4 7	AXBYBZ	PIRINY	35	35.P.C 35.I.V 35.R.C 35.I.V 35.N.C 35.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	pɨrɨnu	0
 4903	AchuarShiwiar	to fear	shámkatin	shámkatin	ʃ !á/a m + k a + t i n	None	Chicham	- ʃ !á/a m - + k a + t i n	2178	3950 3951 1053	Fast2008	3 7 4 9 1 7 9 1 7 4	AXN_AX_AXN	SAM_KA_TIN	1	1.S.C 1.A.V 1.M.c 1._._ 1.K.C 1.A.V 1._._ 1.T.C 1.I.V 1.N.c	2.0 1.5 0.8 0.0 2.0 1.5 0.0 2.0 1.5 0.8	ʃ!á/am+ka+tin	0
 4904	Aguaruna	to fear	ishámat	ishámat	i ʃ !á/a m a + t	None	Chicham	i ʃ !á/a m a + t	2179	3950 612	Paati2020	7 3 7 4 7 9 1	XBYBZ_A	ISAMA_T	2	2.I.V 2.S.C 2.A.V 2.M.C 2.A.V 2._._ 2.T.C	1.5 1.75 1.3 1.75 0.8 0.0 2.0	iʃ!á/ama+t	0
@@ -3632,7 +3632,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3590	Shuar	to freeze	supík	supík	s u p i k	None	Chicham	s u p i k	2243	4030	Pellizzaro2005	3 7 1 7 1	AXBYN	SYPIK	22	22.S.C 22.Y.V 22.P.C 22.I.V 22.K.c	2.0 1.5 1.75 1.3 0.8	supik	0
 4052	Urarina	to freeze	hel̪ad̺un̪ãã́ ; hel̪ad̺uan̪ãã́	hel̪ad̺un̪ãã́	h e l a d u n a a	None	Isolate	h e l a d u - n a a	2244	4031	Peña2023	3 7 5 7 1 7 4 7 7	AXBYBYBYZ	HELATYNAA	26	26.H.C 26.E.V 26.L.C 26.A.V 26.T.C 26.Y.V 26.N.C 26.A.V 26.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	heladunaa	0
 4053	Urarina	to freeze	hel̪ad̺un̪ãã́ ; hel̪ad̺uan̪ãã́	hel̪ad̺uan̪ãã́	h e l a d u a n a a	None	Isolate	h e l a d u a n a a	2244	4031	Peña2023	3 7 5 7 1 7 7 4 7 7	AXBYBYYBYZ	HELATYANAA	26	26.H.C 26.E.V 26.L.C 26.A.V 26.T.C 26.Y.V 26.A.V 26.N.C 26.A.V 26.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.3 1.75 1.3 0.8	heladuanaa	0
-4550	Yanesha	to freeze	tʃeˀneɲets	tʃeˀneɲets	tʃ e ʔ n e ɲ e ts	None	Arawakan	tʃ e ʔ n e ɲ e ts	2245	4032	Peña2024	1 7 1 4 7 4 7 2	AXBCYBYN	TEHNENEC	34	34.T.C 34.E.V 34.H.C 34.N.C 34.E.V 34.N.C 34.E.V 34.C.c	2.0 1.5 1.75 1.5 1.3 1.75 1.3 0.8	tʃeʔneɲets	0
+4550	Yanesha	to freeze	tʃeˀneɲets	tʃeˀneɲets	tʃ eˀ n e + ɲ e + ts	None	Arawakan	tʃ eˀ n e + ɲ e + ts	2245	4032 2580 2581	Peña2024	1 7 4 7 9 4 7 9 2	AXBZ_AX_A	TENE_NE_C	34	34.T.C 34.E.V 34.N.C 34.E.V 34._._ 34.N.C 34.E.V 34._._ 34.C.C	2.0 1.5 1.75 0.8 0.0 2.0 1.5 0.0 2.0	tʃeˀne+ɲe+ts	0
 61	Iquito	to give	miitɨ́ɨni	miitɨ́ɨni	m iː t ɨː n i	give	Zaparoan	m iː ( - - ) t ɨː n i	2250	4037	Michael2022	4 7 1 7 4 7	AXBYBZ	MITINI	11	11.M.C 11.I.V 11.T.C 11.I.V 11.N.C 11.I.V	2.0 1.5 1.75 1.3 1.75 0.8	miːtɨːni	0
 490	Ocaina	to give	hɯɯʔ	hɯɯʔ	h ɯː ʔ	None	Huitotoan	h ɯː ʔ	2258	4046	Huber2021	3 7 1	AXN	HIH	16	16.H.C 16.I.V 16.H.c	2.0 1.5 0.8	hɯːʔ	0
 678	Resigaro	to give	aaʔní	aaʔní	aː ʔ n i	None	Arawakan	aː ʔ n i	2259	4047	Huber2021	7 1 4 7	XBCZ	AHNI	20	20.A.V 20.H.C 20.N.C 20.I.V	1.5 1.75 1.5 0.8	aːʔni	0
@@ -3686,7 +3686,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3903	Urarina	to hear	aun̪ãã́	aun̪ãã́	a u n a a	None	Isolate	a u n a a	2290	4081	Peña2023	7 7 4 7 7	XYBYZ	AYNAA	26	26.A.V 26.Y.V 26.N.C 26.A.V 26.A.V	1.5 1.3 1.75 1.3 0.8	aunaa	0
 4153	Wampis	to hear	antut	antut	a n t u + t	-t(a)	Chicham	a n t u + t	2275	4065 618	Peña2023	7 4 1 7 9 1	XMBZ_A	ANTY_T	27	27.A.V 27.N.c 27.T.C 27.Y.V 27._._ 27.T.C	1.5 1.1 1.75 0.8 0.0 2.0	antu+t	0
 4357	Yagua	to hear	yatuwa̠chu	yatuwa̠chu	j a + t u w a tʃ u	None	Peba-Yagua	j a + t u w a tʃ u	2292	4083 2079	Gonzales2023	6 7 9 1 7 6 7 1 7	AX_AXBYBZ	JA_TYWATY	32	32.J.C 32.A.V 32._._ 32.T.C 32.Y.V 32.W.C 32.A.V 32.T.C 32.Y.V	2.0 1.5 0.0 2.0 1.5 1.75 1.3 1.75 0.8	ja+tuwatʃu	0
-4569	Yanesha	to hear	eˀmʷeɲets	eˀmʷeɲets	e ʔ mʷ e ɲ e ts	None	Arawakan	e ʔ mʷ e ɲ e ts	2293	4084	Peña2024	7 1 4 7 4 7 2	XBCYBYN	EHMENEC	34	34.E.V 34.H.C 34.M.C 34.E.V 34.N.C 34.E.V 34.C.c	1.5 1.75 1.5 1.3 1.75 1.3 0.8	eʔmʷeɲets	0
+4569	Yanesha	to hear	eˀmʷeɲets	eˀmʷeɲets	eˀ mʷ e + ɲ e + ts	None	Arawakan	eˀ mʷ e + ɲ e + ts	2293	4084 2582 2583	Peña2024	7 4 7 9 4 7 9 2	XBZ_AX_A	EME_NE_C	34	34.E.V 34.M.C 34.E.V 34._._ 34.N.C 34.E.V 34._._ 34.C.C	1.5 1.75 0.8 0.0 2.0 1.5 0.0 2.0	eˀmʷe+ɲe+ts	1
 4702	Zaparo	to hear	tahwinyu	tahwinyu	t a hʷ i ɲ u	None	Zaparoan	t a hʷ i ɲ u	2276	4066	Beier2014	1 7 3 7 4 7	AXBYBZ	TAHINY	35	35.T.C 35.A.V 35.H.C 35.I.V 35.N.C 35.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	tahʷiɲu	0
 73	Iquito	to hit	aamúuni	aamúuni	aː m uː n i	hit or strike a living being	Zaparoan	aː m uː n i	2302	4102	Michael2022	7 4 7 4 7	XBYBZ	AMYNI	11	11.A.V 11.M.C 11.Y.V 11.N.C 11.I.V	1.5 1.75 1.3 1.75 0.8	aːmuːni	0
 1439	Aguaruna	to hit	awatut	awatut	a w a t ʊ + t	None	Chicham	a w - - a t ʊ - + t	2297	4098 644	Johansson2021	7 6 7 1 7 9 1	XBYBZ_A	AWATY_T	2	2.A.V 2.W.C 2.A.V 2.T.C 2.Y.V 2._._ 2.T.C	1.5 1.75 1.3 1.75 0.8 0.0 2.0	awatʊ+t	0
@@ -3803,7 +3803,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3933	Urarina	to laugh	en̪ũãn̪ãã́	en̪ũãn̪ãã́	e n u a n a a	None	Isolate	e n u a n a a	2388	4235	Peña2023	7 4 7 7 4 7 7	XBYYBYZ	ENYANAA	26	26.E.V 26.N.C 26.Y.V 26.A.V 26.N.C 26.A.V 26.A.V	1.5 1.75 1.3 1.3 1.75 1.3 0.8	enuanaa	0
 4151	Wampis	to laugh	wishikat	wishikat	w i ʃ i + k a + t	None	Chicham	w i ʃ i + k a + t	2375	4223 1138 648	Peña2023	6 7 3 7 9 1 7 9 1	AXBZ_AX_A	WISI_KA_T	27	27.W.C 27.I.V 27.S.C 27.I.V 27._._ 27.K.C 27.A.V 27._._ 27.T.C	2.0 1.5 1.75 0.8 0.0 2.0 1.5 0.0 2.0	wiʃi+ka+t	0
 4364	Yagua	to laugh	yatodi	yatodi	j a + t o d i	None	Peba-Yagua	j a + t o d i	862	2083 4238	Gonzales2023	6 7 9 1 7 1 7	AX_AXBZ	JA_TUTI	32	32.J.C 32.A.V 32._._ 32.T.C 32.U.V 32.T.C 32.I.V	2.0 1.5 0.0 2.0 1.5 1.75 0.8	ja+todi	0
-4576	Yanesha	to laugh	tʃeˀteɲets	tʃeˀteɲets	tʃ e ʔ t e + ɲ e + ts	None	Arawakan	tʃ e ʔ t e + ɲ e + ts	2384	4231 2404 2405	Peña2024	1 7 1 1 7 9 4 7 9 2	AXMBZ_AX_A	TEHTE_NE_C	34	34.T.C 34.E.V 34.H.c 34.T.C 34.E.V 34._._ 34.N.C 34.E.V 34._._ 34.C.C	2.0 1.5 1.1 1.75 0.8 0.0 2.0 1.5 0.0 2.0	tʃeʔte+ɲe+ts	0
+4576	Yanesha	to laugh	tʃeˀteɲets	tʃeˀteɲets	tʃ eˀ t e + ɲ e + ts	None	Arawakan	tʃ eˀ t e + ɲ e + ts	2384	4231 2584 2585	Peña2024	1 7 1 7 9 4 7 9 2	AXBZ_AX_A	TETE_NE_C	34	34.T.C 34.E.V 34.T.C 34.E.V 34._._ 34.N.C 34.E.V 34._._ 34.C.C	2.0 1.5 1.75 0.8 0.0 2.0 1.5 0.0 2.0	tʃeˀte+ɲe+ts	0
 4714	Zaparo	to laugh	tsutanu	tsutanu	ts u t a n u	None	Zaparoan	ts u t a n u	3485	79	Beier2014	2 7 1 7 4 7	AXBYBZ	CYTANY	35	35.C.C 35.Y.V 35.T.C 35.A.V 35.N.C 35.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	tsutanu	0
 4915	Shuar	to laugh	wishí-r	wishí-r	w i ʃ !í/i + r	None	Chicham	w i ʃ !í/i + r	2376	4223 1148	Pellizzaro2005	6 7 3 7 9 5	AXBZ_A	WISI_R	22	22.W.C 22.I.V 22.S.C 22.I.V 22._._ 22.R.C	2.0 1.5 1.75 0.8 0.0 2.0	wiʃ!í/i+r	0
 88	Iquito	to lie	iwɨɨtáani	iwɨɨtáani	i w ɨː t aː n i	be lying down	Zaparoan	i w ɨː t aː n i	2400	4246	Michael2022	7 6 7 1 7 4 7	XBYBYBZ	IWITANI	11	11.I.V 11.W.C 11.I.V 11.T.C 11.A.V 11.N.C 11.I.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	iwɨːtaːni	0
@@ -3852,7 +3852,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 4030	Urarina	to play	n̪ẽʰkuat̪ihján̪ãã	n̪ẽʰkuat̪ihján̪ãã	n e k u a t i h j a n a a	None	Isolate	n e k u a t i h j a n a a	2436	4290	Peña2023	4 7 1 7 7 1 7 3 6 7 4 7 7	AXBYYBYBCYBYZ	NEKYATIHJANAA	26	26.N.C 26.E.V 26.K.C 26.Y.V 26.A.V 26.T.C 26.I.V 26.H.C 26.J.C 26.A.V 26.N.C 26.A.V 26.A.V	2.0 1.5 1.75 1.3 1.3 1.75 1.3 1.75 1.5 1.3 1.75 1.3 0.8	nekuatihjanaa	0
 4191	Wampis	to play	nakurut	nakurut	n a k u r + u + t	None	Chicham	n a k u r + u + t	2429	4284 1167 651	Peña2023	4 7 1 7 5 9 7 9 1	AXBYN_X_A	NAKYR_Y_T	27	27.N.C 27.A.V 27.K.C 27.Y.V 27.R.c 27._._ 27.Y.V 27._._ 27.T.C	2.0 1.5 1.75 1.3 0.8 0.0 1.5 0.0 2.0	nakur+u+t	0
 4354	Yagua	to play	yatiyi̠sa	yatiyi̠sa	j a + t i j !ĩ/i s a	None	Peba-Yagua	j a + t i j !ĩ/i s a	2437	4291 2085	Gonzales2023	6 7 9 1 7 6 7 3 7	AX_AXBYBZ	JA_TIJISA	32	32.J.C 32.A.V 32._._ 32.T.C 32.I.V 32.J.C 32.I.V 32.S.C 32.A.V	2.0 1.5 0.0 2.0 1.5 1.75 1.3 1.75 0.8	ja+tij!ĩ/isa	0
-4565	Yanesha	to play	jeʎʃeɲeˀtʃeɲets	jeʎʃeɲeˀtʃeɲets	j e ʎ ʃ e ɲ e ʔ tʃ e ɲ e ts	None	Arawakan	j e ʎ ʃ e ɲ e ʔ tʃ e ɲ e ts	2438	4292	Peña2024	6 7 5 3 7 4 7 1 1 7 4 7 2	AXMBYBYMBYBYN	JELSENEHTENEC	34	34.J.C 34.E.V 34.L.c 34.S.C 34.E.V 34.N.C 34.E.V 34.H.c 34.T.C 34.E.V 34.N.C 34.E.V 34.C.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	jeʎʃeɲeʔtʃeɲets	0
+4565	Yanesha	to play	jeʎʃeɲeˀtʃeɲets	jeʎʃeɲeˀtʃeɲets	j e ʎ ʃ e ɲ eˀ tʃ e + ɲ e + ts	None	Arawakan	j e ʎ ʃ e ɲ eˀ tʃ e + ɲ e + ts	2438	4292 2586 2587	Peña2024	6 7 5 3 7 4 7 1 7 9 4 7 9 2	AXMBYBYBZ_AX_A	JELSENETE_NE_C	34	34.J.C 34.E.V 34.L.c 34.S.C 34.E.V 34.N.C 34.E.V 34.T.C 34.E.V 34._._ 34.N.C 34.E.V 34._._ 34.C.C	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 0.8 0.0 2.0 1.5 0.0 2.0	jeʎʃeɲeˀtʃe+ɲe+ts	0
 4733	Zaparo	to play	tawhwɨnu	tawhwɨnu	t au hʷ ɨ n u	None	Zaparoan	t au hʷ ɨ n u	2439	4293	Beier2014	1 7 3 7 4 7	AXBYBZ	TAHINY	35	35.T.C 35.A.V 35.H.C 35.I.V 35.N.C 35.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	tauhʷɨnu	0
 4918	Aguaruna	to play	wasúgkamat	wasúgkamat	w a s !ú/u ŋ + k a + m a + t	None	Chicham	w a s !ú/u ŋ + k a + m a + t	2428	4284 1156 1163 651	Paati2020	6 7 3 7 4 9 1 7 9 4 7 9 1	AXBYN_AX_AX_A	WASYN_KA_MA_T	2	2.W.C 2.A.V 2.S.C 2.Y.V 2.N.c 2._._ 2.K.C 2.A.V 2._._ 2.M.C 2.A.V 2._._ 2.T.C	2.0 1.5 1.75 1.3 0.8 0.0 2.0 1.5 0.0 2.0 1.5 0.0 2.0	was!ú/uŋ+ka+ma+t	0
 108	Iquito	to pull	jɨ́ɨni	jɨ́ɨni	h ɨː n i	pull	Zaparoan	h ɨː n i ( - - - - )	2448	4300	Michael2022	3 7 4 7	AXBZ	HINI	11	11.H.C 11.I.V 11.N.C 11.I.V	2.0 1.5 1.75 0.8	hɨːni	0
@@ -3902,7 +3902,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3641	Shuar	to rain	yut-uk	yut-uk	j u t + u k	None	Chicham	j u t - + u k	2479	4347 4348	Pellizzaro2005	6 7 1 9 7 1	AXN_XN	JYT_YK	22	22.J.C 22.Y.V 22.T.c 22._._ 22.Y.V 22.K.c	2.0 1.5 0.8 0.0 1.5 0.8	jut+uk	0
 4048	Urarina	to rain	ɨᶭá el̪ú	ɨᶭá el̪ú	ɨ a + e l u	None	Isolate	ɨ a + e l u	2481	4349 4350	Peña2023	7 7 9 7 5 7	XZ_XBZ	IA_ELY	26	26.I.V 26.A.V 26._._ 26.E.V 26.L.C 26.Y.V	1.5 0.8 0.0 1.5 1.75 0.8	ɨa+elu	0
 4196	Wampis	to rain	yumi	yutut	j u t u + t	None	Chicham	j u t u + t	2480	4347 671	Peña2023	6 7 1 7 9 1	AXBZ_A	JYTY_T	27	27.J.C 27.Y.V 27.T.C 27.Y.V 27._._ 27.T.C	2.0 1.5 1.75 0.8 0.0 2.0	jutu+t	0
-4526	Yanesha	to rain	oˀ	oˀ	o ʔ	None	Arawakan	o ʔ	2483	4351	Peña2024	7 1	XN	UH	34	34.U.V 34.H.c	1.5 0.8	oʔ	0
+4526	Yanesha	to rain	oˀ	oˀ	oˀ	None	Arawakan	oˀ	2483	4351	Peña2024	7	X	U	34	34.U.V	1.5	oˀ	0
 4922	AchuarShiwiar	to rain	jut-	jut-	j u t	None	Chicham	j u t -	2478	4347	Kohlberger2020	6 7 1	AXN	JYT	1	1.J.C 1.Y.V 1.T.c	2.0 1.5 0.8	jut	0
 4923	Aguaruna	to rain	yútut	yútut	j !ú/u t u + t	None	Chicham	j !ú/u t u + t	2480	4347 671	Paati2020	6 7 1 7 9 1	AXBZ_A	JYTY_T	2	2.J.C 2.Y.V 2.T.C 2.Y.V 2._._ 2.T.C	2.0 1.5 1.75 0.8 0.0 2.0	j!ú/utu+t	0
 119	Iquito	to rub	kaakuusíini	kaakuusíini	k aː k uː s iː n i	rub or massage a body part to alleviate pain	Zaparoan	k aː k uː s iː n i	2485	4356	Michael2022	1 7 1 7 3 7 4 7	AXBYBYBZ	KAKYSINI	11	11.K.C 11.A.V 11.K.C 11.Y.V 11.S.C 11.I.V 11.N.C 11.I.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	kaːkuːsiːni	0
@@ -4172,7 +4172,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 4012	Urarina	to think	kauɨn̪ã́	kauɨn̪ã́	k a u ɨ n a	None	Isolate	k a u ɨ n a	2710	4634	Peña2023	1 7 7 7 4 7	AXYYBZ	KAYINA	26	26.K.C 26.A.V 26.Y.V 26.I.V 26.N.C 26.A.V	2.0 1.5 1.3 1.3 1.75 0.8	kauɨna	0
 4155	Wampis	to think	anentaimat	anentaimat	a n ɨ n t a i + m a + t	None	Chicham	a n ɨ n t a.i + m a + t	2696	4619 1313 699	Peña2023	7 4 7 4 1 7 7 9 4 7 9 1	XBYMBYZ_AX_A	ANINTAI_MA_T	27	27.A.V 27.N.C 27.I.V 27.N.c 27.T.C 27.A.V 27.I.V 27._._ 27.M.C 27.A.V 27._._ 27.T.C	1.5 1.75 1.3 1.1 1.75 1.3 0.8 0.0 2.0 1.5 0.0 2.0	anɨntai+ma+t	0
 4359	Yagua	to think	yachipïya̠	yachipïya̠	j a tʃ i + p ï + j !ã/a	heart-VBLZ-DISTRIB	Peba-Yagua	j a tʃ i + p ï + j !ã/a	885	2108 2109 2110	Gonzales2023	6 7 1 7 9 1 7 9 6 7	AXBZ_AX_AX	JATI_PI_JA	32	32.J.C 32.A.V 32.T.C 32.I.V 32._._ 32.P.C 32.I.V 32._._ 32.J.C 32.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 0.0 2.0 1.5	jatʃi+pï+j!ã/a	0
-4571	Yanesha	to think	kotʲapeˀtʃeɲets	kotʲapeˀtʃeɲets	k o tʲ a p e ʔ tʃ e + ɲ e + ts	None	Arawakan	k o tʲ a p e ʔ tʃ e + ɲ e + ts	2715	4640 2501 2502	Peña2024	1 7 1 7 1 7 1 1 7 9 4 7 9 2	AXBYBYMBZ_AX_A	KUTAPEHTE_NE_C	34	34.K.C 34.U.V 34.T.C 34.A.V 34.P.C 34.E.V 34.H.c 34.T.C 34.E.V 34._._ 34.N.C 34.E.V 34._._ 34.C.C	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 0.8 0.0 2.0 1.5 0.0 2.0	kotʲapeʔtʃe+ɲe+ts	0
+4571	Yanesha	to think	kotʲapeˀtʃeɲets	kotʲapeˀtʃeɲets	k o tʲ a p eˀ tʃ e + ɲ e + ts	None	Arawakan	k o tʲ a p eˀ tʃ e + ɲ e + ts	2715	4640 2501 2502	Peña2024	1 7 1 7 1 7 1 7 9 4 7 9 2	AXBYBYBZ_AX_A	KUTAPETE_NE_C	34	34.K.C 34.U.V 34.T.C 34.A.V 34.P.C 34.E.V 34.T.C 34.E.V 34._._ 34.N.C 34.E.V 34._._ 34.C.C	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8 0.0 2.0 1.5 0.0 2.0	kotʲapeˀtʃe+ɲe+ts	0
 4769	Zaparo	to think	nishinyu	nishinyu	n i ʃ i + ɲ u	None	Zaparoan	n i ʃ i + ɲ u	2698	4620 175	Beier2014	4 7 3 7 9 4 7	AXBZ_AX	NISI_NY	35	35.N.C 35.I.V 35.S.C 35.I.V 35._._ 35.N.C 35.Y.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	niʃi+ɲu	0
 164	Iquito	to throw	simaajuutáani	simaajuutáani	s i m aː h uː t aː n i	throw	Zaparoan	s i m aː h uː t aː n i	2722	4658	Michael2022	3 7 4 7 3 7 1 7 4 7	AXBYBYBYBZ	SIMAHYTANI	11	11.S.C 11.I.V 11.M.C 11.A.V 11.H.C 11.Y.V 11.T.C 11.A.V 11.N.C 11.I.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	simaːhuːtaːni	0
 299	Ticuna	to throw	ñà	ñà	ɲ a	throw	Ticuna-Yuri	ɲ a	2725	4663	Bertet2020	4 7	AX	NA	25	25.N.C 25.A.V	2.0 1.5	ɲa	0
@@ -4378,7 +4378,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 4131	Wampis	tooth (front rather than molar)	nai	nai	n a i	None	Chicham	- n a.i	2856	4843	Peña2023	4 7 7	AXZ	NAI	27	27.N.C 27.A.V 27.I.V	2.0 1.5 0.8	nai	0
 4275	Yagua	tooth (front rather than molar)	janda	janda	h a n d a	None	Peba-Yagua	h - a n.d a	3549	873	Gonzales2023	3 7 4 1 7	AXMBZ	HANTA	32	32.H.C 32.A.V 32.N.c 32.T.C 32.A.V	2.0 1.5 1.1 1.75 0.8	handa	0
 4467	Yanesha	tooth (front rather than molar)	asot͡s / paˀs	asot͡s	a s o ts	None	Arawakan	a s o ts	2875	4862	Peña2024	7 3 7 2	XBYN	ASUC	34	34.A.V 34.S.C 34.U.V 34.C.c	1.5 1.75 1.3 0.8	asots	0
-4468	Yanesha	tooth (front rather than molar)	asot͡s / paˀs	paˀs	p a ʔ s	None	Arawakan	p a ʔ s	2877	4865	Peña2024	1 7 1 3	AXBC	PAHS	34	34.P.C 34.A.V 34.H.C 34.S.C	2.0 1.5 1.75 1.5	paʔs	0
+4468	Yanesha	tooth (front rather than molar)	asot͡s / paˀs	paˀs	p aˀ s	None	Arawakan	p aˀ s	2877	4865	Peña2024	1 7 3	AXN	PAS	34	34.P.C 34.A.V 34.S.c	2.0 1.5 0.8	paˀs	0
 4776	Zaparo	tooth (front rather than molar)	icharɨ	icharɨ	i tʃ a r ɨ	None	Zaparoan	i tʃ a r ɨ	835	205	Beier2014	7 1 7 5 7	XBYBZ	ITARI	35	35.I.V 35.T.C 35.A.V 35.R.C 35.I.V	1.5 1.75 1.3 1.75 0.8	itʃarɨ	0
 168	Iquito	tree	náana	náana	n aː n a	tree	Zaparoan	n aː - - n a	851	207	Michael2022	4 7 4 7	AXBZ	NANA	11	11.N.C 11.A.V 11.N.C 11.A.V	2.0 1.5 1.75 0.8	naːna	1
 304	Ticuna	tree	nâi	nâi	n aɪ	tree	Ticuna-Yuri	n aɪ	2887	4890	Bertet2020	4 7	AX	NA	25	25.N.C 25.A.V	2.0 1.5	naɪ	0
@@ -4560,7 +4560,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3936	Urarina	wet	s̪eʰt̪eẽ́t̪i	s̪eʰt̪eẽ́t̪i	s e̤ t e e t i	None	Isolate	s e̤ t e e t i	2983	5060	Peña2023	3 7 1 7 7 1 7	AXBYYBZ	SETEETI	26	26.S.C 26.E.V 26.T.C 26.E.V 26.E.V 26.T.C 26.I.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	se̤teeti	0
 4234	Wampis	wet	jinaru	chupiru	tʃ u p i + r + u	chupi 'get wet', -r 'distributive action, -u nominalizer	Chicham	tʃ u p i + r + u	2980	5058 1387 1388	Peña2023	1 7 1 7 9 5 9 7	AXBZ_A_X	TYPI_R_Y	27	27.T.C 27.Y.V 27.P.C 27.I.V 27._._ 27.R.C 27._._ 27.Y.V	2.0 1.5 1.75 0.8 0.0 2.0 0.0 1.5	tʃupi+r+u	0
 4397	Yagua	wet	apadi	apadi	a p a d i	None	Peba-Yagua	a p a d i	2987	5065	Gonzales2023	7 1 7 1 7	XBYBZ	APATI	32	32.A.V 32.P.C 32.A.V 32.T.C 32.I.V	1.5 1.75 1.3 1.75 0.8	apadi	0
-4613	Yanesha	wet	poreˀ	poreˀ	p o ɾ e ʔ	None	Arawakan	p o ɾ e ʔ	2988	5066	Peña2024	1 7 5 7 1	AXBYN	PUREH	34	34.P.C 34.U.V 34.R.C 34.E.V 34.H.c	2.0 1.5 1.75 1.3 0.8	poɾeʔ	0
+4613	Yanesha	wet	poreˀ	poreˀ	p o ɾ eˀ	None	Arawakan	p o ɾ eˀ	2988	5066	Peña2024	1 7 5 7	AXBZ	PURE	34	34.P.C 34.U.V 34.R.C 34.E.V	2.0 1.5 1.75 0.8	poɾeˀ	0
 4785	Zaparo	wet	tsutuka	tsutuka	ts u t u k a	None	Zaparoan	ts u t u k a	2989	5067	Beier2014	2 7 1 7 1 7	AXBYBZ	CYTYKA	35	35.C.C 35.Y.V 35.T.C 35.Y.V 35.K.C 35.A.V	2.0 1.5 1.75 1.3 1.75 0.8	tsutuka	0
 4968	Wampis	wet	jinaru	jinaru	h i n a + r + u	None	Chicham	h i n a + r + u	299	1386 1387 1388	Peña2023	3 7 4 7 9 5 9 7	AXBZ_A_X	HINA_R_Y	27	27.H.C 27.I.V 27.N.C 27.A.V 27._._ 27.R.C 27._._ 27.Y.V	2.0 1.5 1.75 0.8 0.0 2.0 0.0 1.5	hina+r+u	0
 180	Iquito	what?	saakaa	saakaa	!s/k aː !k/s aː	what	Zaparoan	!s/k aː !k/s aː	2993	5080	Michael2022	1 7 3 7	AXBZ	KASA	11	11.K.C 11.A.V 11.S.C 11.A.V	2.0 1.5 1.75 0.8	!s/kaː!k/saː	0
@@ -4588,7 +4588,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3925	Urarina	what?	dʒa; dʒahé	dʒahé	dʒ a h e	None	Isolate	dʒ a h e	905	213	Peña2023	1 7 3 7	AXBZ	TAHE	26	26.T.C 26.A.V 26.H.C 26.E.V	2.0 1.5 1.75 0.8	dʒahe	0
 4067	Wampis	what?	wari	wari	w a r i	None	Chicham	w a r i	2991	5079	Peña2023	6 7 5 7	AXBZ	WARI	27	27.W.C 27.A.V 27.R.C 27.I.V	2.0 1.5 1.75 0.8	wari	0
 4336	Yagua	what?	ta̠ra	ta̠ra	t !ã/a r a	None	Peba-Yagua	t !ã/a r a	3006	5093	Gonzales2023	1 7 5 7	AXBZ	TARA	32	32.T.C 32.A.V 32.R.C 32.A.V	2.0 1.5 1.75 0.8	t!ã/ara	0
-4545	Yanesha	what?	esoˀt	esoˀt	e s o ʔ t	None	Arawakan	e s o ʔ t	3007	5094	Peña2024	7 3 7 1 1	XBYLN	ESUHT	34	34.E.V 34.S.C 34.U.V 34.H.c 34.T.c	1.5 1.75 1.3 1.1 0.8	esoʔt	0
+4545	Yanesha	what?	esoˀt	esoˀt	e s oˀ t	None	Arawakan	e s oˀ t	3007	5094	Peña2024	7 3 7 1	XBYN	ESUT	34	34.E.V 34.S.C 34.U.V 34.T.c	1.5 1.75 1.3 0.8	esoˀt	0
 4786	Zaparo	what?	katsaka	katsaka	k a ts a k a	None	Zaparoan	k a ts a.k.a	2993	5080	Beier2014	1 7 2 7 1 7	AXBYBZ	KACAKA	35	35.K.C 35.A.V 35.C.C 35.A.V 35.K.C 35.A.V	2.0 1.5 1.75 1.3 1.75 0.8	katsaka	0
 181	Iquito	when?	jɨɨ́tikari	jɨɨ́tikari	h ɨː t i k a r i	when	Zaparoan	( h ɨː t i ) k a r i	3012	5108	Michael2022	3 7 1 7 1 7 5 7	AXBYBYBZ	HITIKARI	11	11.H.C 11.I.V 11.T.C 11.I.V 11.K.C 11.A.V 11.R.C 11.I.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	hɨːtikari	0
 313	Ticuna	when?	ñùʼgù	ñùʼgù	ɲ u ʔ g u	when?	Ticuna-Yuri	ɲ u ʔ g u	3016	5111	Bertet2020	4 7 1 1 7	AXMBZ	NYHKY	25	25.N.C 25.Y.V 25.H.c 25.K.C 25.Y.V	2.0 1.5 1.1 1.75 0.8	ɲuʔgu	0
@@ -4610,7 +4610,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3996	Urarina	when?	dʒa ban̪ã́	dʒa ban̪ã́	dʒ a + b a n a	None	Isolate	dʒ a + b a n a	3020	5115 5116	Peña2023	1 7 9 1 7 4 7	AX_AXBZ	TA_PANA	26	26.T.C 26.A.V 26._._ 26.P.C 26.A.V 26.N.C 26.A.V	2.0 1.5 0.0 2.0 1.5 1.75 0.8	dʒa+bana	0
 4069	Wampis	when?	urutma	urutma	u r u t m a	None	Chicham	- u r u t - - ( m a )	3011	5107	Peña2023	7 5 7 1 4 7	XBYBCZ	YRYTMA	27	27.Y.V 27.R.C 27.Y.V 27.T.C 27.M.C 27.A.V	1.5 1.75 1.3 1.75 1.5 0.8	urutma	0
 4430	Yagua	when?	nutyaju	nutyaju	n u tʲ a h u	None	Peba-Yagua	n u tʲ a h u	3024	5119	Gonzales2023	4 7 1 7 3 7	AXBYBZ	NYTAHY	32	32.N.C 32.Y.V 32.T.C 32.A.V 32.H.C 32.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	nutʲahu	0
-4649	Yanesha	when?	esempoˀt	esempoˀt	e s e m p o ʔ t	None	Arawakan	e s e m p o ʔ t	3026	5120	Peña2024	7 3 7 4 1 7 1 1	XBYMBYLN	ESEMPUHT	34	34.E.V 34.S.C 34.E.V 34.M.c 34.P.C 34.U.V 34.H.c 34.T.c	1.5 1.75 1.3 1.1 1.75 1.3 1.1 0.8	esempoʔt	0
+4649	Yanesha	when?	esempoˀt	esempoˀt	e s e m p oˀ t	None	Arawakan	e s e m p oˀ t	3026	5120	Peña2024	7 3 7 4 1 7 1	XBYMBYN	ESEMPUT	34	34.E.V 34.S.C 34.E.V 34.M.c 34.P.C 34.U.V 34.T.c	1.5 1.75 1.3 1.1 1.75 1.3 0.8	esempoˀt	0
 4787	Zaparo	when?	tiyakari	tiyakari	t i j a k a r i	None	Zaparoan	( t i j a ) k a r i	3012	5108	Beier2014	1 7 6 7 1 7 5 7	AXBYBYBZ	TIJAKARI	35	35.T.C 35.I.V 35.J.C 35.A.V 35.K.C 35.A.V 35.R.C 35.I.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	tijakari	0
 182	Iquito	where?	tɨɨti	tɨɨti	t ɨː t i	where	Zaparoan	t ɨː t i	3029	5132	Michael2022	1 7 1 7	AXBZ	TITI	11	11.T.C 11.I.V 11.T.C 11.I.V	2.0 1.5 1.75 0.8	tɨːti	0
 314	Ticuna	where?	g̃èʼta̋	g̃èʼta̋	ŋ e ʔ t a	where? (aloc)	Ticuna-Yuri	ŋ e ʔ t a	3039	5141	Bertet2020	4 7 1 1 7	AXMBZ	NEHTA	25	25.N.C 25.E.V 25.H.c 25.T.C 25.A.V	2.0 1.5 1.1 1.75 0.8	ŋeʔta	0
@@ -4676,7 +4676,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3889	Urarina	white	s̪umãhã́ĩ	s̪umãhã́ĩ	s u m a h a i	None	Isolate	s u m a h a i	3067	5179	Peña2023	3 7 4 7 3 7 7	AXBYBYZ	SYMAHAI	26	26.S.C 26.Y.V 26.M.C 26.A.V 26.H.C 26.A.V 26.I.V	2.0 1.5 1.75 1.3 1.75 1.3 0.8	sumahai	0
 4218	Wampis	white	puju	puju	p u h u	None	Chicham	p u h u	3044	5159	Peña2023	1 7 3 7	AXBZ	PYHY	27	27.P.C 27.Y.V 27.H.C 27.Y.V	2.0 1.5 1.75 0.8	puhu	0
 4400	Yagua	white	pupasi	pupasi	p u p a s i	None	Peba-Yagua	p u p a s i - -	3061	5173	Gonzales2023	1 7 1 7 3 7	AXBYBZ	PYPASI	32	32.P.C 32.Y.V 32.P.C 32.A.V 32.S.C 32.I.V	2.0 1.5 1.75 1.3 1.75 0.8	pupasi	0
-4617	Yanesha	white	waʎamaˀtʲ	waʎamaˀtʲ	w a ʎ a m a ʔ tʲ	None	Arawakan	w a ʎ a m a ʔ tʲ	3070	5183	Peña2024	6 7 5 7 4 7 1 1	AXBYBYLN	WALAMAHT	34	34.W.C 34.A.V 34.L.C 34.A.V 34.M.C 34.A.V 34.H.c 34.T.c	2.0 1.5 1.75 1.3 1.75 1.3 1.1 0.8	waʎamaʔtʲ	0
+4617	Yanesha	white	waʎamaˀtʲ	waʎamaˀtʲ	w a ʎ a m aˀ tʲ	None	Arawakan	w a ʎ a m aˀ tʲ	3070	5183	Peña2024	6 7 5 7 4 7 1	AXBYBYN	WALAMAT	34	34.W.C 34.A.V 34.L.C 34.A.V 34.M.C 34.A.V 34.T.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	waʎamaˀtʲ	0
 4789	Zaparo	white	ushicha	ushicha	u ʃ i tʃ a	None	Zaparoan	u ʃ i tʃ a	1008	225	Beier2014	7 3 7 1 7	XBYBZ	YSITA	35	35.Y.V 35.S.C 35.I.V 35.T.C 35.A.V	1.5 1.75 1.3 1.75 0.8	uʃitʃa	0
 184	Iquito	who?	kánɨɨka	kánɨɨka	k a n ɨː k a	who	Zaparoan	k a n ɨː k a - -	3073	5200	Michael2022	1 7 4 7 1 7	AXBYBZ	KANIKA	11	11.K.C 11.A.V 11.N.C 11.I.V 11.K.C 11.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kanɨːka	0
 446	Ocaina	who?	bṍ	bṍ	b o	None	Huitotoan	b o	3081	5206	Huber2021	1 7	AX	PU	16	16.P.C 16.U.V	2.0 1.5	bo	0
@@ -4705,7 +4705,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 3929	Urarina	who?	dʒá	dʒá	dʒ a	None	Isolate	dʒ a	3084	5209	Peña2023	1 7	AX	TA	26	26.T.C 26.A.V	2.0 1.5	dʒa	1
 4066	Wampis	who?	ya	ya	j a	None	Chicham	j a	3071	5199	Peña2023	6 7	AX	JA	27	27.J.C 27.A.V	2.0 1.5	ja	0
 4335	Yagua	who?	chira	chira	tʃ i r a	None	Peba-Yagua	tʃ i r a	3086	5211	Gonzales2023	1 7 5 7	AXBZ	TIRA	32	32.T.C 32.I.V 32.R.C 32.A.V	2.0 1.5 1.75 0.8	tʃira	0
-4544	Yanesha	who?	eseʃaˀt	eseʃaˀt	e s e ʃ a ʔ t	None	Arawakan	e s e ʃ a ʔ t	3087	5212	Peña2024	7 3 7 3 7 1 1	XBYBYLN	ESESAHT	34	34.E.V 34.S.C 34.E.V 34.S.C 34.A.V 34.H.c 34.T.c	1.5 1.75 1.3 1.75 1.3 1.1 0.8	eseʃaʔt	0
+4544	Yanesha	who?	eseʃaˀt	eseʃaˀt	e s e ʃ aˀ t	None	Arawakan	e s e ʃ aˀ t	3087	5212	Peña2024	7 3 7 3 7 1	XBYBYN	ESESAT	34	34.E.V 34.S.C 34.E.V 34.S.C 34.A.V 34.T.c	1.5 1.75 1.3 1.75 1.3 0.8	eseʃaˀt	0
 4790	Zaparo	who?	kanatɨ	kanatɨ	k a n a t ɨ	None	Zaparoan	k a n - - a t ɨ	3073	5200	Beier2014	1 7 4 7 1 7	AXBYBZ	KANATI	35	35.K.C 35.A.V 35.N.C 35.A.V 35.T.C 35.I.V	2.0 1.5 1.75 1.3 1.75 0.8	kanatɨ	0
 185	Iquito	wide	parina	parina	p a r i n a	wide or broad	Zaparoan	p a r i n a	3099	5235	Michael2022	1 7 5 7 4 7	AXBYBZ	PARINA	11	11.P.C 11.A.V 11.R.C 11.I.V 11.N.C 11.A.V	2.0 1.5 1.75 1.3 1.75 0.8	parina	0
 533	Ocaina	wide	aháára	aháára	a h aː r a	Similar to Boran forms?	Huitotoan	a h aː r a	3101	5237	Huber2021	7 3 7 5 7	XBYBZ	AHARA	16	16.A.V 16.H.C 16.A.V 16.R.C 16.A.V	1.5 1.75 1.3 1.75 0.8	ahaːra	0
