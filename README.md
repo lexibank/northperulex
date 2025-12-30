@@ -83,9 +83,9 @@ and `npl_patterns.tsv`.
 - **Cognacy:** 4,986 cognates in 3,660 cognate sets (2,905 singletons)
 - **Cognate Diversity:** 0.72
 - **Invalid lexemes:** 0
-- **Tokens:** 29,552
-- **Segments:** 178 (0 BIPA errors, 0 CLTS sound class errors, 178 CLTS modified)
-- **Inventory size (avg):** 29.83
+- **Tokens:** 29,488
+- **Segments:** 185 (0 BIPA errors, 0 CLTS sound class errors, 184 CLTS modified)
+- **Inventory size (avg):** 30.00
 
 # Contributors
 

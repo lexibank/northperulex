@@ -84,10 +84,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 1391	Aguaruna	belly	tantan	tantan	t a n t a n	None	Chicham	t a n t a n	1234	258	Johansson2021	1 7 4 1 7 4	AXMBYN	TANTAN	2	2.T.C 2.A.V 2.N.c 2.T.C 2.A.V 2.N.c	2.0 1.5 1.1 1.75 1.3 0.8	tantan	0	C V C C V C
 3549	Shuar	belly	tantán	tantán	t a n t a n	None	Chicham	t a n t a n	1234	258	Pellizzaro2005	1 7 4 1 7 4	AXMBYN	TANTAN	21	21.T.C 21.A.V 21.N.c 21.T.C 21.A.V 21.N.c	2.0 1.5 1.1 1.75 1.3 0.8	tantan	0	C V C C V C
 4137	Wampis	belly	tantan	tantan	t a n t a n	None	Chicham	t a n t a n	1234	258	Peña2023	1 7 4 1 7 4	AXMBYN	TANTAN	26	26.T.C 26.A.V 26.N.c 26.T.C 26.A.V 26.N.c	2.0 1.5 1.1 1.75 1.3 0.8	tantan	0	C V C C V C
-2740	AchuarShiwiar	belly	wáke	wáke	w a k ɨ	Seems that this word is better suited for 'stomach'.	Chicham	w a k ɨ	1225	257	Fast2008	6 7 1 7	AXBZ	WAKI	1	1.W.C 1.A.V 1.K.C 1.I.V	2.0 1.5 1.75 0.8	wakɨ	0	C V C V
-4844	Aguaruna	belly	wakɨ	wakɨ	w a k ɨ	None	Chicham	w a k ɨ	1225	257	Overall2007	6 7 1 7	AXBZ	WAKI	2	2.W.C 2.A.V 2.K.C 2.I.V	2.0 1.5 1.75 0.8	wakɨ	0	C V C V
-4843	Shuar	belly	wake	wake	w a k ɨ	'Belly'	Chicham	w a k ɨ	1225	257	Pellizzaro2005	6 7 1 7	AXBZ	WAKI	21	21.W.C 21.A.V 21.K.C 21.I.V	2.0 1.5 1.75 0.8	wakɨ	0	C V C V
-4845	Wampis	belly	wakɨ	wakɨ	w a k ɨ	'Stomach'	Chicham	w a k ɨ	1225	257	Peña2015	6 7 1 7	AXBZ	WAKI	26	26.W.C 26.A.V 26.K.C 26.I.V	2.0 1.5 1.75 0.8	wakɨ	0	C V C V
+2740	AchuarShiwiar	belly	wáke	wáke	w a k ɨ	Seems that this word is better suited for 'stomach'.	Chicham	w a k ɨ	1224	257	Fast2008	6 7 1 7	AXBZ	WAKI	1	1.W.C 1.A.V 1.K.C 1.I.V	2.0 1.5 1.75 0.8	wakɨ	0	C V C V
+4844	Aguaruna	belly	wakɨ	wakɨ	w a k ɨ	None	Chicham	w a k ɨ	1224	257	Overall2007	6 7 1 7	AXBZ	WAKI	2	2.W.C 2.A.V 2.K.C 2.I.V	2.0 1.5 1.75 0.8	wakɨ	0	C V C V
+4843	Shuar	belly	wake	wake	w a k ɨ	'Belly'	Chicham	w a k ɨ	1224	257	Pellizzaro2005	6 7 1 7	AXBZ	WAKI	21	21.W.C 21.A.V 21.K.C 21.I.V	2.0 1.5 1.75 0.8	wakɨ	0	C V C V
+4845	Wampis	belly	wakɨ	wakɨ	w a k ɨ	'Stomach'	Chicham	w a k ɨ	1224	257	Peña2015	6 7 1 7	AXBZ	WAKI	26	26.W.C 26.A.V 26.K.C 26.I.V	2.0 1.5 1.75 0.8	wakɨ	0	C V C V
 831	WitotoMinica	big	áiʤue	áiʤue	e	None	Huitotoan	e	1717	328 1421	Huber2021	7 1 7 7	XBYZ	ATYE	28	28.A.V 28.T.C 28.Y.V 28.E.V	1.5 1.75 1.3 0.8	aidʒue	0	V
 1048	WitotoMurui	big	aiʤue	aiʤue	e	big-CLF:G	Huitotoan	e	1717	328 1421	Huber2021	7 1 7 7	XBYZ	ATYE	29	29.A.V 29.T.C 29.Y.V 29.E.V	1.5 1.75 1.3 0.8	aidʒue	0	V
 1254	WitotoNipode	big	áiʤue	áiʤue	e	None	Huitotoan	e	1717	328 1421	Huber2021	7 1 7 7	XBYZ	ATYE	30	30.A.V 30.T.C 30.Y.V 30.E.V	1.5 1.75 1.3 0.8	aidʒue	0	V
@@ -638,40 +638,40 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 2574	Bora	other	ʦʰi-hpʰi	ʦʰi-hpʰi	h.pʰ i	None	Boran	h.pʰ i	1111	2408 2409	Seifart2024	2 7 3 1 7	AXMBZ	CIHPI	5	5.C.C 5.I.V 5.H.c 5.P.C 5.I.V	2.0 1.5 1.1 1.75 0.8	tsʰihpʰi	0	C V
 2575	Muinane	other	sí-ɸi	sí-ɸi	ɸ i	None	Boran	ɸ i	1111	2408 2409	Seifart2024	3 7 3 7	AXBZ	SIBI	13	13.S.C 13.I.V 13.B.C 13.I.V	2.0 1.5 1.75 0.8	siɸi	0	C V
 2573	Proto-Bora-Muinane	other	ʦi-ppi	ʦi-ppi	p.p i	None	Boran	p.p i	1111	2408 2409	Seifart2024	2 7 1 1 7	AXMBZ	CIPPI	18	18.C.C 18.I.V 18.P.c 18.P.C 18.I.V	2.0 1.5 1.1 1.75 0.8	tsippi	0	C V
-106	Iquito	person	kaaya	kaaya	k aː j a	person or human being	Zaparoan	k aː j a	1128	2443	Michael2022	1 7 6 7	AXBZ	KAJA	10	10.K.C 10.A.V 10.J.C 10.A.V	2.0 1.5 1.75 0.8	kaːja	0	C V C V
-3928	Urarina	person	kadʒá	kadʒá	k a dʒ a	None	Isolate	k a dʒ a	1128	2443	Peña2023	1 7 1 7	AXBZ	KATA	25	25.K.C 25.A.V 25.T.C 25.A.V	2.0 1.5 1.75 0.8	kadʒa	0	C V C V
-4731	Zaparo	person	kaya	kaya	k a j a	person (zaparo)	Zaparoan	k a j a	1128	2443	Beier2014	1 7 6 7	AXBZ	KAJA	34	34.K.C 34.A.V 34.J.C 34.A.V	2.0 1.5 1.75 0.8	kaja	0	C V C V
-2838	AchuarShiwiar	person	áints	áints	a.i n ts	None	Chicham	a.i n ts -	1124	2438	Fast2008	7 7 4 2	XYLN	AINC	1	1.A.V 1.I.V 1.N.c 1.C.c	1.5 1.3 1.1 0.8	aints	0	V C C
-1465	Aguaruna	person	aɨnts	aɨnts	ə.ɨ n ts	None	Chicham	ə.ɨ n ts -	1124	2438	Johansson2021	7 7 4 2	XYLN	EINC	2	2.E.V 2.I.V 2.N.c 2.C.c	1.5 1.3 1.1 0.8	əɨnts	0	V C C
-3637	Shuar	person	aéntsu	aéntsu	a.ɨ n ts u	None	Chicham	a.ɨ n ts u	1124	2438	Pellizzaro2005	7 7 4 2 7	XYMBZ	AINCY	21	21.A.V 21.I.V 21.N.c 21.C.C 21.Y.V	1.5 1.3 1.1 1.75 0.8	aɨntsu	0	V C C V
-878	WitotoMinica	red	híaɯrede	híaɯrede	d e	None	Huitotoan	d e	1161	2482 1679 1680	Huber2021	3 7 7 7 5 7 1 7	AXYYBYBZ	HIAIRETE	28	28.H.C 28.I.V 28.A.V 28.I.V 28.R.C 28.E.V 28.T.C 28.E.V	2.0 1.5 1.3 1.3 1.75 1.3 1.75 0.8	hiaɯɾede	0	C V
-1091	WitotoMurui	red	hiaɯrede	hiaɯrede	d e	None	Huitotoan	d e	1161	2482 1679 1680	Huber2021	3 7 7 7 5 7 1 7	AXYYBYBZ	HIAIRETE	29	29.H.C 29.I.V 29.A.V 29.I.V 29.R.C 29.E.V 29.T.C 29.E.V	2.0 1.5 1.3 1.3 1.75 1.3 1.75 0.8	hiaɯrede	0	C V
-1297	WitotoNipode	red	híaɯrede	híaɯrede	d e	None	Huitotoan	d e	1161	2482 1679 1680	Huber2021	3 7 7 7 5 7 1 7	AXYYBYBZ	HIAIRETE	30	30.H.C 30.I.V 30.A.V 30.I.V 30.R.C 30.E.V 30.T.C 30.E.V	2.0 1.5 1.3 1.3 1.75 1.3 1.75 0.8	hiaɯɾede	0	C V
-2843	AchuarShiwiar	red	kapántin	kapántin	k a p a n t i n	None	Chicham	k a p a n t i n	1138	2458	Fast2008	1 7 1 7 4 1 7 4	AXBYMBYN	KAPANTIN	1	1.K.C 1.A.V 1.P.C 1.A.V 1.N.c 1.T.C 1.I.V 1.N.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	kapantin	0	C V C V C C V C
-1466	Aguaruna	red	kapantu	kapantu	k a p a n t ʊ	None	Chicham	k a p a n t ʊ -	1138	2458	Johansson2021	1 7 1 7 4 1 7	AXBYMBZ	KAPANTY	2	2.K.C 2.A.V 2.P.C 2.A.V 2.N.c 2.T.C 2.Y.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	kapantʊ	0	C V C V C C V
-3642	Shuar	red	kapántin	kapántin	k a p a n t i n	None	Chicham	k a p a n t i n	1138	2458	Pellizzaro2005	1 7 1 7 4 1 7 4	AXBYMBYN	KAPANTIN	21	21.K.C 21.A.V 21.P.C 21.A.V 21.N.c 21.T.C 21.I.V 21.N.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	kapantin	0	C V C V C C V C
-4215	Wampis	red	kapantu	kapantu	k a p a n t u	None	Chicham	k a p a n t u -	1138	2458	Peña2023	1 7 1 7 4 1 7	AXBYMBZ	KAPANTY	26	26.K.C 26.A.V 26.P.C 26.A.V 26.N.c 26.T.C 26.Y.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	kapantu	0	C V C V C C V
-2550	Bora	red	tʰɯ́-hpʰa-ɲe	tʰɯ́-hpʰa-ɲe	ɲ ɛ	None	Boran	ɲ ɛ	1142	2461 2462 2463	Seifart2024	1 7 3 1 7 4 7	AXMBYBZ	TIHPANE	5	5.T.C 5.I.V 5.H.c 5.P.C 5.A.V 5.N.C 5.E.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	tʰɯhpʰaɲɛ	0	C V
-2551	Muinane	red	tɨ́-ɸai-ɲo	tɨ́-ɸai-ɲo	ɲ o	None	Boran	ɲ o	1142	2461 2462 2463	Seifart2024	1 7 3 7 7 4 7	AXBYYBZ	TIBAINU	13	13.T.C 13.I.V 13.B.C 13.A.V 13.I.V 13.N.C 13.U.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	tɨɸaiɲo	0	C V
-2549	Proto-Bora-Muinane	red	tɨ-ppai-no	tɨ-ppai-no	n o	None	Boran	n o	1142	2461 2462 2463	Seifart2024	1 7 1 1 7 7 4 7	AXMBYYBZ	TIPPAINU	18	18.T.C 18.I.V 18.P.c 18.P.C 18.A.V 18.I.V 18.N.C 18.U.V	2.0 1.5 1.1 1.75 1.3 1.3 1.75 0.8	tɨppaino	0	C V
-2844	AchuarShiwiar	right (correct)	métek	métek	m ɨ t ɨ k	None	Chicham	m ɨ t ɨ k	1168	2503	Fast2008	4 7 1 7 1	AXBYN	MITIK	1	1.M.C 1.I.V 1.T.C 1.I.V 1.K.c	2.0 1.5 1.75 1.3 0.8	mɨtɨk	0	C V C V C
-1403	Aguaruna	right (correct)	bɨtɨk	bɨtɨk	b ɨ t ɨ k	None	Chicham	b ɨ t ɨ k	1168	2503	Johansson2021	1 7 1 7 1	AXBYN	PITIK	2	2.P.C 2.I.V 2.T.C 2.I.V 2.K.c	2.0 1.5 1.75 1.3 0.8	bɨtɨk	0	C V C V C
-4652	Yanesha	right (correct)	atetʲ	atetʲ	a t e tʲ	None	Arawakan	- a t e tʲ	1168	2503	Peña2024	7 1 7 1	XBYN	ATET	33	33.A.V 33.T.C 33.E.V 33.T.c	1.5 1.75 1.3 0.8	atetʲ	0	V C V C
-1467	Aguaruna	right (hand)	untsug	untsug	ʊ n ts ʊ ŋ	None	Chicham	ʊ n ts ʊ ŋ	1183	2526	Johansson2021	7 4 2 7 4	XMBYN	YNCYN	2	2.Y.V 2.N.c 2.C.C 2.Y.V 2.N.c	1.5 1.1 1.75 1.3 0.8	ʊntsʊŋ	0	V C C V C
-3643	Shuar	right (hand)	untsur	untsur	u n ts u ɾ	None	Chicham	u n ts u ɾ	1183	2526	Pellizzaro2005	7 4 2 7 5	XMBYN	YNCYR	21	21.Y.V 21.N.c 21.C.C 21.Y.V 21.R.c	1.5 1.1 1.75 1.3 0.8	untsuɾ	0	V C C V C
-4239	Wampis	right (hand)	untsur	untsur	u n ts u r	None	Chicham	u n ts u r	1183	2526	Peña2023	7 4 2 7 5	XMBYN	YNCYR	26	26.Y.V 26.N.c 26.C.C 26.Y.V 26.R.c	1.5 1.1 1.75 1.3 0.8	untsur	0	V C C V C
-778	WitotoMinica	river	imáni	imáni	m a n i	None	Huitotoan	m a n i	1219	2565 1697	Huber2021	7 4 7 4 7	XBYBZ	IMANI	28	28.I.V 28.M.C 28.A.V 28.N.C 28.I.V	1.5 1.75 1.3 1.75 0.8	imani	0	C V C V
-995	WitotoMurui	river	imani	imani	m a n i	ANA.DEM-CLF:BIG.RIVER	Huitotoan	m a n i	1219	2565 1697	Huber2021	7 4 7 4 7	XBYBZ	IMANI	29	29.I.V 29.M.C 29.A.V 29.N.C 29.I.V	1.5 1.75 1.3 1.75 0.8	imani	0	C V C V
-1202	WitotoNipode	river	imáni	imáni	m a n i	None	Huitotoan	m a n i	1219	2565 1697	Huber2021	7 4 7 4 7	XBYBZ	IMANI	30	30.I.V 30.M.C 30.A.V 30.N.C 30.I.V	1.5 1.75 1.3 1.75 0.8	imani	0	C V C V
-2332	Bora	river	tʰeé-ʔi	tʰeé-ʔi	ʔ i	None	Boran	ʔ i	1211	2555 2556	Seifart2024	1 7 7 1 7	AXYBZ	TEEHI	5	5.T.C 5.E.V 5.E.V 5.H.C 5.I.V	2.0 1.5 1.3 1.75 0.8	tʰɛɛʔi	0	C V
-2333	Muinane	river	téé-ʔi	téé-ʔi	ʔ i	None	Boran	ʔ i	1211	2555 2556	Seifart2024	1 7 7 1 7	AXYBZ	TEEHI	13	13.T.C 13.E.V 13.E.V 13.H.C 13.I.V	2.0 1.5 1.3 1.75 0.8	teeʔi	0	C V
-2331	Proto-Bora-Muinane	river	too-ʔi	too-ʔi	ʔ i	None	Boran	ʔ i	1211	2555 2556	Seifart2024	1 7 7 1 7	AXYBZ	TUUHI	18	18.T.C 18.U.V 18.U.V 18.H.C 18.I.V	2.0 1.5 1.3 1.75 0.8	tooʔi	0	C V
+106	Iquito	person	kaaya	kaaya	k aː j a	person or human being	Zaparoan	k aː j a	1127	2443	Michael2022	1 7 6 7	AXBZ	KAJA	10	10.K.C 10.A.V 10.J.C 10.A.V	2.0 1.5 1.75 0.8	kaːja	0	C V C V
+3928	Urarina	person	kadʒá	kadʒá	k a dʒ a	None	Isolate	k a dʒ a	1127	2443	Peña2023	1 7 1 7	AXBZ	KATA	25	25.K.C 25.A.V 25.T.C 25.A.V	2.0 1.5 1.75 0.8	kadʒa	0	C V C V
+4731	Zaparo	person	kaya	kaya	k a j a	person (zaparo)	Zaparoan	k a j a	1127	2443	Beier2014	1 7 6 7	AXBZ	KAJA	34	34.K.C 34.A.V 34.J.C 34.A.V	2.0 1.5 1.75 0.8	kaja	0	C V C V
+2838	AchuarShiwiar	person	áints	áints	a.i n ts	None	Chicham	a.i n ts -	1123	2438	Fast2008	7 7 4 2	XYLN	AINC	1	1.A.V 1.I.V 1.N.c 1.C.c	1.5 1.3 1.1 0.8	aints	0	V C C
+1465	Aguaruna	person	aɨnts	aɨnts	ə.ɨ n ts	None	Chicham	ə.ɨ n ts -	1123	2438	Johansson2021	7 7 4 2	XYLN	EINC	2	2.E.V 2.I.V 2.N.c 2.C.c	1.5 1.3 1.1 0.8	əɨnts	0	V C C
+3637	Shuar	person	aéntsu	aéntsu	a.ɨ n ts u	None	Chicham	a.ɨ n ts u	1123	2438	Pellizzaro2005	7 7 4 2 7	XYMBZ	AINCY	21	21.A.V 21.I.V 21.N.c 21.C.C 21.Y.V	1.5 1.3 1.1 1.75 0.8	aɨntsu	0	V C C V
+878	WitotoMinica	red	híaɯrede	híaɯrede	d e	None	Huitotoan	d e	1160	2482 1679 1680	Huber2021	3 7 7 7 5 7 1 7	AXYYBYBZ	HIAIRETE	28	28.H.C 28.I.V 28.A.V 28.I.V 28.R.C 28.E.V 28.T.C 28.E.V	2.0 1.5 1.3 1.3 1.75 1.3 1.75 0.8	hiaɯɾede	0	C V
+1091	WitotoMurui	red	hiaɯrede	hiaɯrede	d e	None	Huitotoan	d e	1160	2482 1679 1680	Huber2021	3 7 7 7 5 7 1 7	AXYYBYBZ	HIAIRETE	29	29.H.C 29.I.V 29.A.V 29.I.V 29.R.C 29.E.V 29.T.C 29.E.V	2.0 1.5 1.3 1.3 1.75 1.3 1.75 0.8	hiaɯrede	0	C V
+1297	WitotoNipode	red	híaɯrede	híaɯrede	d e	None	Huitotoan	d e	1160	2482 1679 1680	Huber2021	3 7 7 7 5 7 1 7	AXYYBYBZ	HIAIRETE	30	30.H.C 30.I.V 30.A.V 30.I.V 30.R.C 30.E.V 30.T.C 30.E.V	2.0 1.5 1.3 1.3 1.75 1.3 1.75 0.8	hiaɯɾede	0	C V
+2843	AchuarShiwiar	red	kapántin	kapántin	k a p a n t i n	None	Chicham	k a p a n t i n	1137	2458	Fast2008	1 7 1 7 4 1 7 4	AXBYMBYN	KAPANTIN	1	1.K.C 1.A.V 1.P.C 1.A.V 1.N.c 1.T.C 1.I.V 1.N.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	kapantin	0	C V C V C C V C
+1466	Aguaruna	red	kapantu	kapantu	k a p a n t ʊ	None	Chicham	k a p a n t ʊ -	1137	2458	Johansson2021	1 7 1 7 4 1 7	AXBYMBZ	KAPANTY	2	2.K.C 2.A.V 2.P.C 2.A.V 2.N.c 2.T.C 2.Y.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	kapantʊ	0	C V C V C C V
+3642	Shuar	red	kapántin	kapántin	k a p a n t i n	None	Chicham	k a p a n t i n	1137	2458	Pellizzaro2005	1 7 1 7 4 1 7 4	AXBYMBYN	KAPANTIN	21	21.K.C 21.A.V 21.P.C 21.A.V 21.N.c 21.T.C 21.I.V 21.N.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	kapantin	0	C V C V C C V C
+4215	Wampis	red	kapantu	kapantu	k a p a n t u	None	Chicham	k a p a n t u -	1137	2458	Peña2023	1 7 1 7 4 1 7	AXBYMBZ	KAPANTY	26	26.K.C 26.A.V 26.P.C 26.A.V 26.N.c 26.T.C 26.Y.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	kapantu	0	C V C V C C V
+2550	Bora	red	tʰɯ́-hpʰa-ɲe	tʰɯ́-hpʰa-ɲe	ɲ ɛ	None	Boran	ɲ ɛ	1141	2461 2462 2463	Seifart2024	1 7 3 1 7 4 7	AXMBYBZ	TIHPANE	5	5.T.C 5.I.V 5.H.c 5.P.C 5.A.V 5.N.C 5.E.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	tʰɯhpʰaɲɛ	0	C V
+2551	Muinane	red	tɨ́-ɸai-ɲo	tɨ́-ɸai-ɲo	ɲ o	None	Boran	ɲ o	1141	2461 2462 2463	Seifart2024	1 7 3 7 7 4 7	AXBYYBZ	TIBAINU	13	13.T.C 13.I.V 13.B.C 13.A.V 13.I.V 13.N.C 13.U.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	tɨɸaiɲo	0	C V
+2549	Proto-Bora-Muinane	red	tɨ-ppai-no	tɨ-ppai-no	n o	None	Boran	n o	1141	2461 2462 2463	Seifart2024	1 7 1 1 7 7 4 7	AXMBYYBZ	TIPPAINU	18	18.T.C 18.I.V 18.P.c 18.P.C 18.A.V 18.I.V 18.N.C 18.U.V	2.0 1.5 1.1 1.75 1.3 1.3 1.75 0.8	tɨppaino	0	C V
+2844	AchuarShiwiar	right (correct)	métek	métek	m ɨ t ɨ k	None	Chicham	m ɨ t ɨ k	1167	2503	Fast2008	4 7 1 7 1	AXBYN	MITIK	1	1.M.C 1.I.V 1.T.C 1.I.V 1.K.c	2.0 1.5 1.75 1.3 0.8	mɨtɨk	0	C V C V C
+1403	Aguaruna	right (correct)	bɨtɨk	bɨtɨk	b ɨ t ɨ k	None	Chicham	b ɨ t ɨ k	1167	2503	Johansson2021	1 7 1 7 1	AXBYN	PITIK	2	2.P.C 2.I.V 2.T.C 2.I.V 2.K.c	2.0 1.5 1.75 1.3 0.8	bɨtɨk	0	C V C V C
+4652	Yanesha	right (correct)	atetʲ	atetʲ	a t e tʲ	None	Arawakan	- a t e tʲ	1167	2503	Peña2024	7 1 7 1	XBYN	ATET	33	33.A.V 33.T.C 33.E.V 33.T.c	1.5 1.75 1.3 0.8	atetʲ	0	V C V C
+1467	Aguaruna	right (hand)	untsug	untsug	ʊ n ts ʊ ŋ	None	Chicham	ʊ n ts ʊ ŋ	1182	2526	Johansson2021	7 4 2 7 4	XMBYN	YNCYN	2	2.Y.V 2.N.c 2.C.C 2.Y.V 2.N.c	1.5 1.1 1.75 1.3 0.8	ʊntsʊŋ	0	V C C V C
+3643	Shuar	right (hand)	untsur	untsur	u n ts u ɾ	None	Chicham	u n ts u ɾ	1182	2526	Pellizzaro2005	7 4 2 7 5	XMBYN	YNCYR	21	21.Y.V 21.N.c 21.C.C 21.Y.V 21.R.c	1.5 1.1 1.75 1.3 0.8	untsuɾ	0	V C C V C
+4239	Wampis	right (hand)	untsur	untsur	u n ts u r	None	Chicham	u n ts u r	1182	2526	Peña2023	7 4 2 7 5	XMBYN	YNCYR	26	26.Y.V 26.N.c 26.C.C 26.Y.V 26.R.c	1.5 1.1 1.75 1.3 0.8	untsur	0	V C C V C
+778	WitotoMinica	river	imáni	imáni	m a n i	None	Huitotoan	m a n i	1218	2565 1697	Huber2021	7 4 7 4 7	XBYBZ	IMANI	28	28.I.V 28.M.C 28.A.V 28.N.C 28.I.V	1.5 1.75 1.3 1.75 0.8	imani	0	C V C V
+995	WitotoMurui	river	imani	imani	m a n i	ANA.DEM-CLF:BIG.RIVER	Huitotoan	m a n i	1218	2565 1697	Huber2021	7 4 7 4 7	XBYBZ	IMANI	29	29.I.V 29.M.C 29.A.V 29.N.C 29.I.V	1.5 1.75 1.3 1.75 0.8	imani	0	C V C V
+1202	WitotoNipode	river	imáni	imáni	m a n i	None	Huitotoan	m a n i	1218	2565 1697	Huber2021	7 4 7 4 7	XBYBZ	IMANI	30	30.I.V 30.M.C 30.A.V 30.N.C 30.I.V	1.5 1.75 1.3 1.75 0.8	imani	0	C V C V
+2332	Bora	river	tʰeé-ʔi	tʰeé-ʔi	ʔ i	None	Boran	ʔ i	1210	2555 2556	Seifart2024	1 7 7 1 7	AXYBZ	TEEHI	5	5.T.C 5.E.V 5.E.V 5.H.C 5.I.V	2.0 1.5 1.3 1.75 0.8	tʰɛɛʔi	0	C V
+2333	Muinane	river	téé-ʔi	téé-ʔi	ʔ i	None	Boran	ʔ i	1210	2555 2556	Seifart2024	1 7 7 1 7	AXYBZ	TEEHI	13	13.T.C 13.E.V 13.E.V 13.H.C 13.I.V	2.0 1.5 1.3 1.75 0.8	teeʔi	0	C V
+2331	Proto-Bora-Muinane	river	too-ʔi	too-ʔi	ʔ i	None	Boran	ʔ i	1210	2555 2556	Seifart2024	1 7 7 1 7	AXYBZ	TUUHI	18	18.T.C 18.U.V 18.U.V 18.H.C 18.I.V	2.0 1.5 1.3 1.75 0.8	tooʔi	0	C V
 2720	Bora	river	moóa	moóa	m o.o a	None	Boran	m o.o a	1229	2574	Seifart2024	4 7 7 7	AXYZ	MUUA	5	5.M.C 5.U.V 5.U.V 5.A.V	2.0 1.5 1.3 0.8	mooa	1	C V V
 2721	Muinane	river	múúai	múúai	m u.u a.i	None	Boran	m u.u a.i	1229	2574	Seifart2024	4 7 7 7 7	AXYYZ	MYYAI	13	13.M.C 13.Y.V 13.Y.V 13.A.V 13.I.V	2.0 1.5 1.3 1.3 0.8	muuai	1	C V V
 2719	Proto-Bora-Muinane	river	muuai	muuai	m u.u a.i	None	Boran	m u.u a.i	1229	2574	Seifart2024	4 7 7 7 7	AXYYZ	MYYAI	18	18.M.C 18.Y.V 18.Y.V 18.A.V 18.I.V	2.0 1.5 1.3 1.3 0.8	muuai	1	C V V
-2846	AchuarShiwiar	river	éntsa	éntsa	ɨ n ts a	None	Chicham	ɨ n ts a	1208	2552	Fast2008	7 4 2 7	XMBZ	INCA	1	1.I.V 1.N.c 1.C.C 1.A.V	1.5 1.1 1.75 0.8	ɨntsa	1	V C C V
-3644	Shuar	river	entsa	entsa	ɨ n ts a	None	Chicham	ɨ n ts a	1208	2552	Pellizzaro2005	7 4 2 7	XMBZ	INCA	21	21.I.V 21.N.c 21.C.C 21.A.V	1.5 1.1 1.75 0.8	ɨntsa	1	V C C V
-4197	Wampis	river	entsa	entsa	ɨ n ts a	None	Chicham	ɨ n ts a	1208	2552	Peña2023	7 4 2 7	XMBZ	INCA	26	26.I.V 26.N.c 26.C.C 26.A.V	1.5 1.1 1.75 0.8	ɨntsa	1	V C C V
+2846	AchuarShiwiar	river	éntsa	éntsa	ɨ n ts a	None	Chicham	ɨ n ts a	1207	2552	Fast2008	7 4 2 7	XMBZ	INCA	1	1.I.V 1.N.c 1.C.C 1.A.V	1.5 1.1 1.75 0.8	ɨntsa	1	V C C V
+3644	Shuar	river	entsa	entsa	ɨ n ts a	None	Chicham	ɨ n ts a	1207	2552	Pellizzaro2005	7 4 2 7	XMBZ	INCA	21	21.I.V 21.N.c 21.C.C 21.A.V	1.5 1.1 1.75 0.8	ɨntsa	1	V C C V
+4197	Wampis	river	entsa	entsa	ɨ n ts a	None	Chicham	ɨ n ts a	1207	2552	Peña2023	7 4 2 7	XMBZ	INCA	26	26.I.V 26.N.c 26.C.C 26.A.V	1.5 1.1 1.75 0.8	ɨntsa	1	V C C V
 2847	AchuarShiwiar	road (or trail)	jínta	jínta	h i n t a	Phonological alternation: jíntia	Chicham	h i n t a	1235	2596	Fast2008	3 7 4 1 7	AXMBZ	HINTA	1	1.H.C 1.I.V 1.N.c 1.T.C 1.A.V	2.0 1.5 1.1 1.75 0.8	hinta	0	C V C C V
 4864	Aguaruna	road (or trail)	jínta	jínta	h i n t a	None	Chicham	h i n t a	1235	2596	Paati2020	3 7 4 1 7	AXMBZ	HINTA	2	2.H.C 2.I.V 2.N.c 2.T.C 2.A.V	2.0 1.5 1.1 1.75 0.8	h!í/inta	0	C V C C V
 3645	Shuar	road (or trail)	jíntia	jíntia	h i n tʲ a	None	Chicham	h i n tʲ a	1235	2596	Pellizzaro2005	3 7 4 1 7	AXMBZ	HINTA	21	21.H.C 21.I.V 21.N.c 21.T.C 21.A.V	2.0 1.5 1.1 1.75 0.8	hintʲa	0	C V C C V
@@ -732,9 +732,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SUBGROUP	ALIGNMENT	COGID	COGIDS	SOURC
 4868	AchuarShiwiar	sand	yaikim	yaikim	j a i k i m	None	Chicham	j a i k i m	1322	2720	Fast2008	6 7 7 1 7 4	AXYBYN	JAIKIM	1	1.J.C 1.A.V 1.I.V 1.K.C 1.I.V 1.M.c	2.0 1.5 1.3 1.75 1.3 0.8	jaikim	0	C V V C V C
 4867	Shuar	sand	jaikim	jaikim	j a i k i m	None	Chicham	j a i k i m	1322	2720	Pellizzaro2005	6 7 7 1 7 4	AXYBYN	JAIKIM	21	21.J.C 21.A.V 21.I.V 21.K.C 21.I.V 21.M.c	2.0 1.5 1.3 1.75 1.3 0.8	jaikim	0	C V V C V C
 4202	Wampis	sand	yaikim	yaikim	j a i k i m	None	Chicham	j a i k i m	1322	2720	Peña2023	6 7 7 1 7 4	AXYBYN	JAIKIM	26	26.J.C 26.A.V 26.I.V 26.K.C 26.I.V 26.M.c	2.0 1.5 1.3 1.75 1.3 0.8	jaikim	0	C V V C V C
-875	WitotoMinica	say	dáɯde	dáɯde	d e	None	Huitotoan	d e	1134	245 244	Huber2021	1 7 7 1 7	AXYBZ	TAITE	28	28.T.C 28.A.V 28.I.V 28.T.C 28.E.V	2.0 1.5 1.3 1.75 0.8	daɯde	0	C V
-1089	WitotoMurui	say	raite	raite	t e	None	Huitotoan	t e	1134	245 244	Huber2021	5 7 7 1 7	AXYBZ	RAITE	29	29.R.C 29.A.V 29.I.V 29.T.C 29.E.V	2.0 1.5 1.3 1.75 0.8	raite	0	C V
-1294	WitotoNipode	say	dáɯde	dáɯde	d e	None	Huitotoan	d e	1134	245 244	Huber2021	1 7 7 1 7	AXYBZ	TAITE	30	30.T.C 30.A.V 30.I.V 30.T.C 30.E.V	2.0 1.5 1.3 1.75 0.8	daɯde	0	C V
+875	WitotoMinica	say	dáɯde	dáɯde	d e	None	Huitotoan	d e	1133	245 244	Huber2021	1 7 7 1 7	AXYBZ	TAITE	28	28.T.C 28.A.V 28.I.V 28.T.C 28.E.V	2.0 1.5 1.3 1.75 0.8	daɯde	0	C V
+1089	WitotoMurui	say	raite	raite	t e	None	Huitotoan	t e	1133	245 244	Huber2021	5 7 7 1 7	AXYBZ	RAITE	29	29.R.C 29.A.V 29.I.V 29.T.C 29.E.V	2.0 1.5 1.3 1.75 0.8	raite	0	C V
+1294	WitotoNipode	say	dáɯde	dáɯde	d e	None	Huitotoan	d e	1133	245 244	Huber2021	1 7 7 1 7	AXYBZ	TAITE	30	30.T.C 30.A.V 30.I.V 30.T.C 30.E.V	2.0 1.5 1.3 1.75 0.8	daɯde	0	C V
 517	Ocaina	sea (ocean)	maan̥ɯ	maan̥ɯ	m aː n̥ ɯ	None	Huitotoan	m aː n̥ ɯ - -	1369	2790	Huber2021	4 7 4 7	AXBZ	MANI	15	15.M.C 15.A.V 15.N.C 15.I.V	2.0 1.5 1.75 0.8	maːn̥ɯ	0	C V C V
 1109	WitotoMurui	sea (ocean)	monaiʤai	monaiʤai	m o n a.i dʒ a.i	maybe dawn-CLF:CRAFT	Huitotoan	m o n a.i dʒ a.i	1369	2790	Huber2021	4 7 4 7 7 1 7 7	AXBYYBYZ	MUNAITAI	29	29.M.C 29.U.V 29.N.C 29.A.V 29.I.V 29.T.C 29.A.V 29.I.V	2.0 1.5 1.75 1.3 1.3 1.75 1.3 0.8	monaidʒai	0	C V C V C V
 1313	WitotoNipode	sea (ocean)	monáiʤai	monáiʤai	m o n a.i dʒ a.i	None	Huitotoan	m o n a.i dʒ a.i	1369	2790	Huber2021	4 7 4 7 7 1 7 7	AXBYYBYZ	MUNAITAI	30	30.M.C 30.U.V 30.N.C 30.A.V 30.I.V 30.T.C 30.A.V 30.I.V	2.0 1.5 1.75 1.3 1.3 1.75 1.3 0.8	monaidʒai	0	C V C V C V
