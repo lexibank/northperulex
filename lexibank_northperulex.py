@@ -100,19 +100,11 @@ class Dataset(BaseDataset):
         wl = Wordlist(str(self.raw_dir.joinpath("raw.tsv")))
 
         N = {}
-        for idx, cogids, morphemes in wl.iter_rows("cogids", "morphemes"):
-            new_cogids = []
-            if morphemes:
-                for cogid, morpheme in zip(cogids, morphemes):
-                    if not morpheme.startswith("_"):
-                        new_cogids += [cogid]
-            else:
-                new_cogids = [c for c in cogids if c]
-
-            if new_cogids == []:
-                new_cogids = [c for c in cogids if c]
+        for idx, cogids in wl.iter_rows("cogids"):
+            new_cogids = [c for c in cogids if c]
 
             N[idx] = " ".join([str(x) for x in new_cogids])
+
         wl.add_entries("cog", N, lambda x: x, override=True)
         wl.renumber("cog")  # creates numeric cogid
 
