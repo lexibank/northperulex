@@ -14,8 +14,8 @@ property | value
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:format](http://purl.org/dc/terms/format) | <ol><li>http://concepticon.clld.org/contributions/Swadesh-1952-200</li></ol>
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
-[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:lexibank/northperulex
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:lexibank/northperulex/tree/46bf2eac">git@github.com:lexibank/northperulex 46bf2eac</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2.1">Glottolog v5.2.1</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
+[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/northperulex
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/northperulex/tree/aaa3069">lexibank/northperulex v0.2-119-gaaa3069</a></li><li><a href="https://github.com/glottolog/glottolog/tree/9ab474b00c">Glottolog v5.0-21-g9ab474b00c</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/1d3b913a">Concepticon v3.2.0-23-g1d3b913a</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.9.6</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | northperulex
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution

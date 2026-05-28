@@ -1,5 +1,7 @@
 # CLDF dataset derived from Ugarte et al.'s "NorthPeruLex - A Lexical Dataset of Small Language Families and Isolates from Northern Peru (forthcoming).
 
+[![CLDF validation](https://github.com/lexibank/northperulex/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/northperulex/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -69,6 +71,7 @@ and `npl_patterns.tsv`.
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/northperulex/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/northperulex/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
