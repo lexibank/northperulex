@@ -1,4 +1,6 @@
 import pathlib
+import dataclasses
+from typing import Optional
 import attr
 from clldutils.misc import slug
 from edictor.wordlist import fetch_wordlist
@@ -14,20 +16,22 @@ def unmerge(sequence):
         out += tok.split('.')
     return out
 
-
-@attr.s
+    
+@dataclasses.dataclass
 class CustomLanguage(Language):
-    SubGroup = attr.ib(default=None)
+    LongName: Optional[str] = None
+    IsProto: Optional[str] = None
+    Island: Optional[str] = None
+    SubGroup: Optional[str] = None
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomLexeme(Lexeme):
-    """Adding new columns to Lexeme."""
-    Alignment = attr.ib(default=None)
-    Partial_Cognacy = attr.ib(default=None)
-    Borrowing = attr.ib(default=None)
-    Morphemes = attr.ib(default=None)
-    GroupedSounds = attr.ib(default=None)
+    Alignment: Optional[str] = None
+    Partial_Cognacy: Optional[str] = None
+    Borrowing: Optional[str] = None
+    Morphemes: Optional[str] = None
+    GroupedSounds: Optional[str] = None
 
 
 class Dataset(BaseDataset):

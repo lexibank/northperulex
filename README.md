@@ -18,7 +18,7 @@ This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
-- [Swadesh-1952-200](https://concepticon.clld.org/contributions/Swadesh-1952-200)
+- [Swadesh-1952-200](https://concepticon.clld.org/contributions/0)
 ## Notes
 
 ### Accessing the data
@@ -72,11 +72,11 @@ and `npl_patterns.tsv`.
 
 
 [![CLDF validation](https://github.com/lexibank/northperulex/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/northperulex/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![Glottolog: 100%](etc/badge_languages.svg)
+![Concepticon: 100%](etc/badge_concepts.svg)
+![Source: 100%](etc/badge_sources.svg)
+![BIPA: 100%](etc/badge_bipa.svg)
+![CLTS SoundClass: 100%](etc/badge_sc.svg)
 
 - **Varieties:** 35 (linked to 35 different Glottocodes)
 - **Concepts:** 200 (linked to 200 different Concepticon concept sets)
