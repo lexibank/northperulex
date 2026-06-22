@@ -1,7 +1,6 @@
 import pathlib
 import dataclasses
 from typing import Optional
-import attr
 from clldutils.misc import slug
 from edictor.wordlist import fetch_wordlist
 from pylexibank import Dataset as BaseDataset
@@ -19,9 +18,6 @@ def unmerge(sequence):
     
 @dataclasses.dataclass
 class CustomLanguage(Language):
-    LongName: Optional[str] = None
-    IsProto: Optional[str] = None
-    Island: Optional[str] = None
     SubGroup: Optional[str] = None
 
 

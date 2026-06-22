@@ -15,7 +15,7 @@ property | value
 [dc:format](http://purl.org/dc/terms/format) | <ol><li>https://concepticon.clld.org/contributions/Swadesh-1952-200</li></ol>
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/northperulex
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/northperulex/tree/556d4be">lexibank/northperulex  v0.2-121-g556d4be</a></li><li><a href="https://github.com/glottolog/glottolog/tree/866578d5ec">Glottolog  v5.3-28-g866578d5ec</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/ab17200e">Concepticon  v3.4.0-131-gab17200e</a></li><li><a href="https://github.com/cldf-clts/clts/tree/4da03b1">CLTS  v2.3.0-5-g4da03b1</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/northperulex/tree/b9a4206">lexibank/northperulex  v0.2-124-gb9a4206</a></li><li><a href="https://github.com/glottolog/glottolog/tree/866578d5ec">Glottolog  v5.3-28-g866578d5ec</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/ab17200e">Concepticon  v3.4.0-131-gab17200e</a></li><li><a href="https://github.com/cldf-clts/clts/tree/4da03b1">CLTS  v2.3.0-5-g4da03b1</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.9.6</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | northperulex
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -56,7 +56,7 @@ Name/Property | Datatype | Description
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
-CustomLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, LongName: Optional[str] = None, IsProto: Optional[str] = None, Island: Optional[str] = None, SubGroup: Optional[str] = None)
+CustomLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, SubGroup: Optional[str] = None)
 
 property | value
  --- | ---
@@ -77,9 +77,6 @@ Name/Property | Datatype | Description
 [Latitude](http://cldf.clld.org/v1.0/terms.rdf#latitude) | `decimal`<br>&ge; -90<br>&le; 90 | 
 [Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal`<br>&ge; -180<br>&le; 180 | 
 `Family` | `string` | 
-`LongName` | `string` | 
-`IsProto` | `string` | 
-`Island` | `string` | 
 `SubGroup` | `string` | 
 
 ## <a name="table-parameterscsv"></a>Table [parameters.csv](./parameters.csv)

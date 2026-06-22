@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/lexibank/northperulex",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-121-g556d4be",
+            "dc:created": "v0.2-124-gb9a4206",
             "dc:title": "Repository"
         },
         {
@@ -180,7 +180,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:description": "CustomLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, LongName: Optional[str] = None, IsProto: Optional[str] = None, Island: Optional[str] = None, SubGroup: Optional[str] = None)",
+            "dc:description": "CustomLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, SubGroup: Optional[str] = None)",
             "dc:extent": 35,
             "tableSchema": {
                 "columns": [
@@ -237,18 +237,6 @@
                     {
                         "datatype": "string",
                         "name": "Family"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "LongName"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "IsProto"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Island"
                     },
                     {
                         "datatype": "string",
