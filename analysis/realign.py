@@ -12,18 +12,18 @@ from lingpy.sequence.sound_classes import tokens2class
 from lingrex.util import prep_wordlist
 
 def clean_slash(x):
-    """
-    This function cleans slash annotation from EDICTOR.
-    """
-    cleaned = []
-    for segment in x:
-        if "/" in segment:
-            after_slash = re.split("/", segment)[1]
-            cleaned.append(after_slash)
-        else:
-            cleaned.append(segment)
+	"""
+	This function cleans slash annotation from EDICTOR.
+	"""
+	cleaned = []
+	for segment in x:
+		if "/" in segment:
+			after_slash = re.split("/", segment)[1]
+			cleaned.append(after_slash)
+		else:
+			cleaned.append(segment)
 
-    return cleaned
+	return cleaned
 
 
 def run(wordlist):
@@ -37,14 +37,12 @@ def run(wordlist):
 		
 	wl = Wordlist(D)
 	wl = prep_wordlist(wl)
-	lex = Partial(wl, segments='tokens', check=False)
 
-	alms = Alignments(lex, ref='cogids', transcriptions='tokens')
-	alms.align(ref='cogids')
+	alms = Alignments(wl, ref='cogid', transcription='tokens')
 	
 	# Perform multiple sequence alignment
 	dct = {}
-	for idx, msa in alms.msa["cogids"].items():
+	for idx, msa in alms.msa["cogid"].items():
 		msa_reduced = []
 		for site in msa["alignment"]:
 			reduced = reduce_alignment([site])[0]
@@ -61,10 +59,10 @@ def run(wordlist):
 					 override=True)
 	alms.add_entries("structure", "tokens",
 					 lambda x: tokens2class(x.split(" "), "cv"))
-	
-	
+	alms.output("tsv", filename="npl_msaligned")
+
 	# Perform sound correspondence pattern identification
-	cop = CoPaR(alms, transcription="form", ref="cogid", min_refs=3)
+	cop = CoPaR("npl_msaligned.tsv", transcription="form", ref="cogid", min_refs=3)
 	cop.get_sites()
 	cop.cluster_sites()
 	cop.sites_to_pattern()
