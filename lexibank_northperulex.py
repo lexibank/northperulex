@@ -1,5 +1,6 @@
 import pathlib
-import attr
+import dataclasses
+from typing import Optional
 from clldutils.misc import slug
 from edictor.wordlist import fetch_wordlist
 from pylexibank import Dataset as BaseDataset
@@ -14,20 +15,19 @@ def unmerge(sequence):
         out += tok.split('.')
     return out
 
-
-@attr.s
+    
+@dataclasses.dataclass
 class CustomLanguage(Language):
-    SubGroup = attr.ib(default=None)
+    SubGroup: Optional[str] = None
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomLexeme(Lexeme):
-    """Adding new columns to Lexeme."""
-    Alignment = attr.ib(default=None)
-    Partial_Cognacy = attr.ib(default=None)
-    Borrowing = attr.ib(default=None)
-    Morphemes = attr.ib(default=None)
-    GroupedSounds = attr.ib(default=None)
+    Alignment: Optional[str] = None
+    Partial_Cognacy: Optional[str] = None
+    Borrowing: Optional[str] = None
+    Morphemes: Optional[str] = None
+    GroupedSounds: Optional[str] = None
 
 
 class Dataset(BaseDataset):
@@ -100,19 +100,11 @@ class Dataset(BaseDataset):
         wl = Wordlist(str(self.raw_dir.joinpath("raw.tsv")))
 
         N = {}
-        for idx, cogids, morphemes in wl.iter_rows("cogids", "morphemes"):
-            new_cogids = []
-            if morphemes:
-                for cogid, morpheme in zip(cogids, morphemes):
-                    if not morpheme.startswith("_"):
-                        new_cogids += [cogid]
-            else:
-                new_cogids = [c for c in cogids if c]
-
-            if new_cogids == []:
-                new_cogids = [c for c in cogids if c]
+        for idx, cogids in wl.iter_rows("cogids"):
+            new_cogids = [c for c in cogids if c]
 
             N[idx] = " ".join([str(x) for x in new_cogids])
+
         wl.add_entries("cog", N, lambda x: x, override=True)
         wl.renumber("cog")  # creates numeric cogid
 

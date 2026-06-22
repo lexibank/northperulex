@@ -5,37 +5,35 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "This dataset brings together lexical data from isolates and small language families from northern Peru to investigate their historic relations.",
     "dc:format": [
-        "http://concepticon.clld.org/contributions/Swadesh-1952-200"
+        "https://concepticon.clld.org/contributions/Swadesh-1952-200"
     ],
-    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
-    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Ugarte et al.'s \"NorthPeruLex - A Lexical Dataset of Small Language Families and Isolates from Northern Peru (forthcoming).",
-    "dcat:accessURL": "git@github.com:lexibank/northperulex",
+    "dcat:accessURL": "https://github.com/lexibank/northperulex",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "git@github.com:lexibank/northperulex",
+            "rdf:about": "https://github.com/lexibank/northperulex",
             "rdf:type": "prov:Entity",
-            "dc:created": "46bf2eac",
+            "dc:created": "v0.2-124-gb9a4206",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2.1",
+            "dc:created": "v5.3-28-g866578d5ec",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.4.0",
+            "dc:created": "v3.4.0-131-gab17200e",
             "dc:title": "Concepticon"
         },
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.3.0",
+            "dc:created": "v2.3.0-5-g4da03b1",
             "dc:title": "CLTS"
         }
     ],
@@ -58,7 +56,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:description": "Adding new columns to Lexeme.",
+            "dc:description": "CustomLexeme(ID: str, Form: str, Value: str, Language_ID: str, Parameter_ID: str, Local_ID: Optional[str] = None, Segments: list = <factory>, Graphemes: Optional[list[str]] = None, Profile: Optional[str] = None, Source: list = <factory>, Comment: Optional[str] = None, Cognacy: Optional[str] = None, Loan: Optional[bool] = None, Alignment: Optional[str] = None, Partial_Cognacy: Optional[str] = None, Borrowing: Optional[str] = None, Morphemes: Optional[str] = None, GroupedSounds: Optional[str] = None)",
             "dc:extent": 4986,
             "tableSchema": {
                 "columns": [
@@ -182,6 +180,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:description": "CustomLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, SubGroup: Optional[str] = None)",
             "dc:extent": 35,
             "tableSchema": {
                 "columns": [
@@ -252,6 +251,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:description": "Essential data of a concept mapped to Concepticon.",
             "dc:extent": 200,
             "tableSchema": {
                 "columns": [
@@ -284,6 +284,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
+            "dc:description": "A cognate or rather a cognacy judgement.",
             "dc:extent": 4986,
             "tableSchema": {
                 "columns": [
